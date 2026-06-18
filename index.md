@@ -9,6 +9,12 @@ title: 孜山의 블로그
 
 고전 문헌, 역사언어학, 음운론, 번역 노트를 모으는 공간입니다.
 
+## 카테고리
+
+{% for category in site.categories %}
+- [{{ category[0] }}](/categories/#{{ category[0] }}) — {{ category[1].size }}편
+{% endfor %}
+
 ## 글 목록
 
 {% for post in site.posts %}
