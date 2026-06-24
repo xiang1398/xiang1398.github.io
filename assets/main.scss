@@ -31,6 +31,38 @@ body {
   font-size: 1.3rem;
 }
 
+.text-pair {
+  margin: 1.8em 0;
+  padding: 1.2em 1.4em;
+  border-left: 4px solid #999;
+  background: #fafafa;
+}
+
+.classical-block {
+  margin: 2em 0;
+  padding: 1.2em 1.5em;
+  border-left: 4px solid #8a8a8a;
+  background: #f8f8f8;
+}
+
+.classical-original {
+  margin: 0 0 0.9em 0;
+  font-family: "Noto Serif TC", "Noto Serif CJK KR", "Nanum Myeongjo", serif;
+  font-size: 1.15em;
+  line-height: 1.9;
+  color: #1f1f1f;
+}
+
+.classical-translation {
+  margin: 0;
+  padding-top: 0.9em;
+  border-top: 1px solid #d6d6d6;
+  font-family: "Noto Serif KR", "Nanum Myeongjo", serif;
+  font-size: 1em;
+  line-height: 1.85;
+  color: #444;
+}
+
 /* 코드 블록 */
 pre,
 code {
