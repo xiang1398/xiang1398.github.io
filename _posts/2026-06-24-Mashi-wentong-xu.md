@@ -2,9 +2,7 @@
 layout: post
 title: "《文通》序"
 date: 2026-06-24 11:30:00 +0900
-categories:
-  - translation-note
-  - Mashi-wentong
+categories: Mashi-wentong
 tags: [馬氏文通, Classical-Chinese, Chinese-grammar]
 ---
 
