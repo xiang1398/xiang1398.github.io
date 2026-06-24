@@ -6,6 +6,15 @@ categories: Mashi-wentong
 tags: [馬氏文通, Classical-Chinese, Chinese-grammar]
 ---
 
+<p class="citation-notice">
+  이 글을 인용하거나 재사용할 때에는 출처를 밝혀 주시기 바랍니다.
+  인용 정보:
+  「{{ page.title }}」,
+  『{{ site.title }}』,
+  {{ page.date | date: "%Y-%m-%d" }},
+  <a href="{{ page.url | absolute_url }}">{{ page.url | absolute_url }}</a>
+</p>
+
 ## 《文通》序
 
 昔古聖開物成務，廢結繩而造書契，於是文字興焉。
