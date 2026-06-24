@@ -17,7 +17,7 @@ tags: [訓蒙字會, 崔世珍, Classical-Chinese, Korean-Philology]
 
 <div class="classical-block">
   <p class="classical-original">
-    ## 《訓蒙字會》引
+    《訓蒙字會》引
   </p>
   <p class="classical-translation">
     《훈몽자회》 서문
