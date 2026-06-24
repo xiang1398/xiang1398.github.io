@@ -1,0 +1,39 @@
+---
+---
+
+@import "minima";
+
+/* 전체 기본 글씨체와 크기 */
+body {
+  font-family: "Noto Serif KR", "Nanum Myeongjo", serif;
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+/* 본문 글 */
+.post-content {
+  font-size: 16px;
+  line-height: 1.85;
+}
+
+/* 제목 */
+.post-title {
+  font-size: 2.2rem;
+  font-weight: 700;
+}
+
+/* 소제목 */
+.post-content h2 {
+  font-size: 1.6rem;
+}
+
+.post-content h3 {
+  font-size: 1.3rem;
+}
+
+/* 코드 블록 */
+pre,
+code {
+  font-family: "D2Coding", "Consolas", monospace;
+  font-size: 0.95em;
+}
