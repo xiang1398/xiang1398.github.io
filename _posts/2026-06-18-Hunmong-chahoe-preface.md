@@ -6,6 +6,15 @@ categories: Korean-Philology
 tags: [訓蒙字會, 崔世珍, Classical-Chinese, Korean-Philology]
 ---
 
+<p class="citation-notice">
+  이 글을 인용하거나 재사용할 때에는 출처를 밝혀 주시기 바랍니다.
+  인용 정보:
+  「{{ page.title }}」,
+  『{{ site.title }}』,
+  {{ page.date | date: "%Y-%m-%d" }},
+  <a href="{{ page.url | absolute_url }}">{{ page.url | absolute_url }}</a>
+</p>
+
 ## 《訓蒙字會》引
 《훈몽자회》 서문
 
