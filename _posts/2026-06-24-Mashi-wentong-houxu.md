@@ -1,6 +1,6 @@
 ---
   layout: post
-  title: "後序"
+  title: "《馬氏文通》 後序"
   date: 2026-06-25 12:50:00 +0900
   categories: Mashi-wentong
   tags: [馬氏文通, Classical-Chinese, Chinese-grammar]
