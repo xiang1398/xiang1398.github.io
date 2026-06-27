@@ -3,6 +3,97 @@
 
 @import "minima";
 
+/* gloss styles */
+
+.gloss-block {
+  margin: 1.5em 0;
+  line-height: 1.45;
+}
+
+.gloss-label {
+  margin-bottom: 0.45em;
+  font-weight: 600;
+}
+
+.gloss-title {
+  font-weight: 400;
+  color: #666;
+}
+
+.gloss-source {
+  margin-bottom: 0.55em;
+  padding: 0.75em 1em;
+  background: #fbf7ef;
+  border-left: 4px solid #c9a45c;
+  border-radius: 0.45em;
+  word-break: keep-all;
+  font-family:
+    "Noto Serif KR",
+    "Noto Serif SC",
+    "Noto Serif TC",
+    "Noto Serif JP",
+    "Noto Serif CJK KR",
+    "Noto Serif CJK SC",
+    "Noto Serif CJK TC",
+    "Noto Serif CJK JP",
+    serif;
+}
+
+.gloss-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55em 1.1em;
+  align-items: flex-start;
+
+  margin: 0.55em 0;
+  padding: 0.85em 1em;
+
+  background: #f5f7fa;
+  border-left: 4px solid #8aa0b8;
+  border-radius: 0.45em;
+
+  overflow-x: auto;
+}
+
+.gloss-cell {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.gloss-object {
+  font-style: italic;
+  white-space: nowrap;
+}
+
+.gloss-morpheme {
+  white-space: nowrap;
+}
+
+.gloss-smallcaps {
+  font-variant: small-caps;
+  font-size: 0.9em;
+  letter-spacing: 0.03em;
+}
+
+.gloss-translation {
+  margin-top: 0.55em;
+  padding: 0.75em 1em;
+
+  background: #f6f3fb;
+  border-left: 4px solid #9b86c7;
+  border-radius: 0.45em;
+}
+
+@media (max-width: 600px) {
+  .gloss-block {
+    font-size: 0.95em;
+  }
+
+  .gloss-grid {
+    gap: 0.45em 0.85em;
+  }
+}
+
 /* 전체 기본 글씨체와 크기 */
 body {
   font-family:
