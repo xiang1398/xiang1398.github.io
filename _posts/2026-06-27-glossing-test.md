@@ -8,6 +8,7 @@ tags: [glossing]
 
 {% gloss 1 "Classical Chinese" %}
 source: 民可使由之，不可使知之。
+trans: mín kě shǐ yóu zhī, bù kě shǐ zhī zhī.
 民 | 可 | 使 | 由 | 之
 gloss: people | can | cause | follow | it
 '백성은 그것을 따르게 할 수 있다.'
@@ -22,6 +23,7 @@ gloss: animal |move | this | TOP | head | 3SG | PRED | black | foot | all | 3SG 
 
 {% gloss 3 "Mandarin Chinese" %}
 source: 我把書放在桌子上。
+trans: wǒ bǎ shū fàng zài zhuōzi shàng.
 我 | 把 | 書 | 放 | 在 | 桌子 | 上
 gloss: 1SG | BA | book | put | at | table | on
 '나는 책을 책상 위에 놓았다.'
@@ -29,6 +31,7 @@ gloss: 1SG | BA | book | put | at | table | on
 
 {% gloss 4 "Korean" %}
 source: 철수가 밥을 먹었다.
+trans: Chelswu-ka pap-ul mek-ess-ta.
 철수-가 | 밥-을 | 먹-었-다
 gloss: Cheolsu-NOM | rice-ACC | eat-PST-DECL
 '철수가 밥을 먹었다.'
@@ -36,6 +39,7 @@ gloss: Cheolsu-NOM | rice-ACC | eat-PST-DECL
 
 {% gloss 5 "Japanese" %}
 source: 太郎が花子に本を渡した。
+trans: Tarō ga Hanako ni hon o watashita.
 太郎-が | 花子-に | 本-を | 渡し-た
 gloss: Taro-NOM | Hanako-DAT | book-ACC | hand.over-PST
 '타로가 하나코에게 책을 건넸다.'
