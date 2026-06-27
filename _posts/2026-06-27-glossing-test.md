@@ -2,7 +2,7 @@
 layout: post
 title: "글로싱 테스트"
 date: 2026-06-27 22:30:00 +0900 
-categories: Blog
+categories: blog
 tags: [glossing]
 ---
 
@@ -48,14 +48,14 @@ gloss: Gaul-NOM.SG | be.3SG | whole-NOM.SG.F | divide-PTCP.NOM.SG.F | into | par
 '갈리아 전체는 세 부분으로 나뉘어 있다.'
 {% endgloss %}
 
-{% gloss 12 "Koine Greek" %}
+{% gloss 7 "Koine Greek" %}
 source: ἐν ἀρχῇ ἦν ὁ λόγος.
 en | arch-ēi | ēn | ho | log-os
 gloss: in | beginning-DAT.SG | be.PST.3SG | ART.NOM.SG.M | word-NOM.SG
 '처음에 말씀이 있었다.'
 {% endgloss %}
 
-{% gloss 13 "Biblical Hebrew" %}
+{% gloss 8 "Biblical Hebrew" %}
 source: בְּרֵאשִׁית בָּרָא אֱלֹהִים
 bə-rēšīt | bārā | ʾĕlōhīm
 gloss: in-beginning | create.PFV.3SG.M | God
