@@ -5,6 +5,7 @@ date: 2026-06-27 22:30:00 +0900
 categories: Blog
 tags: [glossing]
 ---
+{% raw %}
 {% gloss 1 "Classical Chinese" %}
 source: 民可使由之，不可使知之。
 民 | 可 | 使 | 由 | 之
@@ -60,3 +61,4 @@ bə-rēšīt | bārā | ʾĕlōhīm
 gloss: in-beginning | create.PFV.3SG.M | God
 '태초에 하나님이 창조하셨다.'
 {% endgloss %}
+{% endraw %}
