@@ -27,16 +27,6 @@
   border-left: 4px solid #c9a45c;
   border-radius: 0.45em;
   word-break: keep-all;
-  font-family:
-    "Noto Serif KR",
-    "Noto Serif SC",
-    "Noto Serif TC",
-    "Noto Serif JP",
-    "Noto Serif CJK KR",
-    "Noto Serif CJK SC",
-    "Noto Serif CJK TC",
-    "Noto Serif CJK JP",
-    serif;
 }
 
 .gloss-grid {
@@ -44,14 +34,11 @@
   flex-wrap: wrap;
   gap: 0.55em 1.1em;
   align-items: flex-start;
-
   margin: 0.55em 0;
   padding: 0.85em 1em;
-
   background: #f5f7fa;
   border-left: 4px solid #8aa0b8;
   border-radius: 0.45em;
-
   overflow-x: auto;
 }
 
@@ -78,20 +65,9 @@
 .gloss-translation {
   margin-top: 0.55em;
   padding: 0.75em 1em;
-
   background: #f6f3fb;
   border-left: 4px solid #9b86c7;
   border-radius: 0.45em;
-}
-
-@media (max-width: 600px) {
-  .gloss-block {
-    font-size: 0.95em;
-  }
-
-  .gloss-grid {
-    gap: 0.45em 0.85em;
-  }
 }
 
 /* 전체 기본 글씨체와 크기 */
