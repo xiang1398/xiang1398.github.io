@@ -24,6 +24,7 @@ module Jekyll
       end
 
       source_line = nil
+      trans_line = nil
       object_line = nil
       gloss_line = nil
       translation = nil
@@ -31,6 +32,8 @@ module Jekyll
       lines.each do |line|
         if line.start_with?("source:")
           source_line = line.sub(/^source:\s*/, "")
+        elsif line.start_with?("trans:")
+          trans_line = line.sub(/^trans:\s*/, "")
         elsif line.start_with?("gloss:")
           gloss_line = line.sub(/^gloss:\s*/, "")
         elsif line.match?(/\A['"].*['"]\z/)
@@ -56,6 +59,10 @@ module Jekyll
 
       if source_line
         html << "<div class=\"gloss-source\">#{escape_html(source_line)}</div>"
+      end
+
+      if trans_line
+        html << "<div class=\"gloss-trans\">#{escape_html(trans_line)}</div>"
       end
 
       if object_cells.any? || gloss_cells.any?
