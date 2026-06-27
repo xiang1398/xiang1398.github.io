@@ -22,6 +22,21 @@
   word-break: keep-all;
 }
 
+.gloss-trans {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0.55em;
+  padding: 0.15em 1em 0.75em 1em;
+
+  background: #fbf7ef;
+  border-left: 4px solid #c9a45c;
+  border-radius: 0 0 0.45em 0.45em;
+
+  color: #555;
+  font-size: 0.95em;
+  font-style: italic;
+}
+
 .gloss-grid {
   display: flex;
   flex-wrap: wrap;
