@@ -5,15 +5,13 @@ date: 2026-06-28 12:10:00 +0900
 categories: blog
 ---
 
-</div>
-
 <div class="tree-example">
   <div class="tree-sentence">
     <span class="ex-no">(1)</span>
     <span class="ex-text">我把書放在桌子上。</span>
   </div>
 
- <pre class="ling-tree">
+  <pre class="ling-tree">
 [TP
   [NP#subj 我]
   [T'
@@ -48,4 +46,59 @@ categories: blog
   </pre>
 </div>
 
+<div class="tree-example">
+  <div class="tree-sentence">
+    <span class="ex-no">(2)</span>
+    <span class="ex-text">王冕死了父親。</span>
+  </div>
+
+  <pre class="ling-tree">
+[…TP
+  [DP#subj 王冕]
+  [T'
+    [vP
+      [DP#subjtrace t]
+      [v'
+        [v#vhead 死了]
+        [VP
+          [V#vtrace t]
+          [NP 父亲]
+        ]
+      ]
+    ]
+    [T Ø]
+  ]
+]
+@move subjtrace -> subj "DP raising"
+@move vtrace -> vhead "V-to-v"
+  </pre>
+</div>
+
+<div class="tree-example">
+  <div class="tree-sentence">
+    <span class="ex-no">(2)</span>
+    <span class="ex-text">你吃飯了嗎。</span>
+  </div>
+
+ <pre class="ling-tree">
+[CP
+  [TP
+    [NP 你]
+    [T'
+      [vP
+        [v'
+          [v 吃]
+          [VP
+            [V ~~吃~~]
+            [NP 飯]
+          ]
+        ]
+      ]
+      [T 了]
+    ]
+  ]
+  [C 嗎]
+]
+  </pre>
+</div>
 
