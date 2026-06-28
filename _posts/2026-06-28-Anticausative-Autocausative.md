@@ -32,34 +32,31 @@ tags: [linguistics, anticausative, autocausative]
 ## 반사동사
 
 {% gloss 1 "Lithuanian: Anticausative" %}
-source: Vežimėlis atsirišo nuo krūmo.
-tokens: Vežim-ėl-is | at-si-riš-o | nuo | krūm-o. |
-gloss: cart-DIM-NOM.SG | PVB-REFL-tie-PST.3 | from | bush-GEN.SG |
-translation: 'The cart got untied from the bush.'
+Vežim-ėl-is | at-si-riš-o | nuo | krūm-o. 
+cart-DIM-NOM.SG | PVB-REFL-tie-PST.3 | from | bush-GEN.SG 
+'The cart got untied from the bush.'
 {% endgloss %}
 
 {% gloss 2 "Lithuanian: Autocausative" %}
-source: Arklys atsirišo nuo krūmo.
-tokens: Arklys | at-si-riš-o | nuo | krūm-o. |
-gloss: horse.NOM.SG | PVB-REFL-tie-PST.3 | from | bush-GEN.SG |
-translation: 'The horse got itself untied from the bush.'
+Arklys | at-si-riš-o | nuo | krūm-o. 
+horse.NOM.SG | PVB-REFL-tie-PST.3 | from | bush-GEN.SG 
+'The horse got itself untied from the bush.'
 {% endgloss %}
 
 {% gloss 3 "Russian: Anticausative %}
-source: Чашка упала со стола и разбилась. 
-trans: Čaška upala so stola i razbilasʹ
-tokens: Чашк-а | у-па-л-а | со | стол-а | и | раз-би-л-а-сь. | 
-gloss: cup-NOM.SG | fall-PST-F.SG | from | table-GEN | and | PVB-break-PST-F.SG-REFL |
-translation: 'The cup fell from the table and crashed (itself).'
+
+Чашк-а | у-па-л-а | со | стол-а | и | раз-би-л-а-сь. |
+Čašk-a | u-pa-l-a | so | stol-a | i | raz-bi-l-a-sʹ 
+cup-NOM.SG | fall-PST-F.SG | from | table-GEN | and | PVB-break-PST-F.SG-REFL 
+'The cup fell from the table and crashed (itself).'
 {% endgloss %}
 
 
 {% gloss 3 "Russian: Autocausative" %}
-source: Водитель разбился на горной дороге. 
-trans: Voditelʹ razbilsja na gornoj doroge. 
-tokens: Водитель | раз-би-л-ся | на | горн-ой | дорог-е. | 
-gloss: driver.NOM | PVB-break-PST.M.SG-REFL | on | mountain-LOC.SG | road-LOC.SG |
-translation: 'The driver crashed (himself) on a mountain road.'
+Водитель | раз-би-л-ся | на | горн-ой | дорог-е.  
+Voditelʹ | raz-bi-l-sja | na | gorn-oj | dorog-e. 
+driver.NOM | PVB-break-PST.M.SG-REFL | on | mountain-LOC.SG | road-LOC.SG 
+'The driver crashed (himself) on a mountain road.'
 {% endgloss %}
 
 # 주석
