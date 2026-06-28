@@ -70,14 +70,12 @@
   border-radius: 0.45em;
 }
 
-/* ling-tree */
-
 .tree-example {
   margin: 2.2em 0;
-  padding: 1.2em 1.3em;
-  border: 1px solid #ddd;
+  padding: 1.4em 1.6em;
+  border: 1px solid #d8d8d8;
   border-radius: 0.8em;
-  background: #fffdf8;
+  background: #fffdf9;
   overflow-x: auto;
 }
 
@@ -85,8 +83,8 @@
   display: flex;
   gap: 0.7em;
   align-items: baseline;
-  margin-bottom: 1.2em;
-  font-size: 1.05em;
+  margin-bottom: 1.5em;
+  font-size: 1.12em;
   line-height: 1.7;
 }
 
@@ -100,115 +98,146 @@
     "Noto Serif KR",
     "Noto Serif TC",
     "Noto Serif SC",
+    "Times New Roman",
     serif;
 }
 
 pre.ling-tree {
-  display: none;
+  display: none !important;
 }
 
 .ling-tree-rendered {
   position: relative;
   display: inline-block;
   min-width: max-content;
-  padding: 1.4em 1.2em 2.4em;
+  padding: 0.8em 1.5em 5.2em;
   overflow: visible;
 }
 
-.tree-node {
+.ling-tree-inner {
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+}
+
+.tree-unit {
+  position: relative;
   display: inline-flex;
   flex-direction: column;
   align-items: center;
-  position: relative;
-  margin: 0 0.45em;
   vertical-align: top;
+  text-align: center;
+}
+
+.tree-item {
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+  white-space: nowrap;
+  line-height: 1.2;
+  background: #fffdf9;
 }
 
 .tree-label {
-  display: inline-block;
-  padding: 0.15em 0.45em;
-  border: 1px solid #999;
-  border-radius: 0.35em;
-  background: #ffffff;
-  font-weight: 600;
-  font-size: 0.92em;
-  line-height: 1.3;
-  white-space: nowrap;
-}
-
-.tree-terminal {
-  display: inline-block;
-  position: relative;
-  margin-top: 1.1em;
-  padding: 0.12em 0.25em;
+  padding: 0;
+  border: none;
+  border-radius: 0;
   font-family:
+    "Times New Roman",
     "Noto Serif KR",
     "Noto Serif TC",
     "Noto Serif SC",
     serif;
-  font-size: 1em;
-  white-space: nowrap;
+  font-size: 1.05em;
+  font-weight: 700;
 }
 
-.tree-deleted {
-  color: #777;
-  text-decoration: line-through;
-  text-decoration-thickness: 1.5px;
-  text-decoration-color: #b33;
+.tree-terminal {
+  padding: 0;
+  border: none;
+  font-family:
+    "Times New Roman",
+    "Noto Serif KR",
+    "Noto Serif TC",
+    "Noto Serif SC",
+    serif;
+  font-size: 1.05em;
+  font-weight: 400;
 }
 
 .tree-children {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  gap: 0.7em;
-  margin-top: 1.2em;
-  position: relative;
+  gap: 2.1em;
+  margin-top: 2.2em;
 }
 
-.tree-node.has-children > .tree-children::before {
-  content: "";
-  position: absolute;
-  top: -0.75em;
-  left: 50%;
-  width: 1px;
-  height: 0.75em;
-  background: #777;
+.tree-deleted {
+  color: #666;
+  text-decoration: line-through;
+  text-decoration-thickness: 1.4px;
+  text-decoration-color: #b33;
 }
 
-.tree-children > .tree-node::before,
-.tree-children > .tree-terminal::before {
-  content: "";
-  position: absolute;
-  top: -0.75em;
-  left: 50%;
-  width: 1px;
-  height: 0.75em;
-  background: #777;
-}
-
-.tree-arrows {
+.tree-svg {
   position: absolute;
   inset: 0;
   width: 100%;
   height: 100%;
   overflow: visible;
+  z-index: 1;
   pointer-events: none;
+  color: #444;
 }
 
-.tree-arrow-path {
+.tree-branch {
+  stroke: #555;
+  stroke-width: 1.2;
+  stroke-linecap: round;
+}
+
+.tree-move {
   fill: none;
   stroke: #555;
-  stroke-width: 1.6;
-  marker-end: url(#arrowhead);
+  stroke-width: 1.5;
+  stroke-linecap: round;
+  marker-end: url(#tree-arrowhead);
 }
 
-.tree-arrow-label {
-  font-size: 0.78em;
+.tree-move-label {
+  font-size: 0.82em;
   fill: #555;
-  font-family: sans-serif;
+  font-family:
+    "Times New Roman",
+    "Noto Serif KR",
+    "Noto Serif TC",
+    "Noto Serif SC",
+    serif;
 }
 
+.ling-tree-error {
+  margin: 1em 0;
+  padding: 0.8em 1em;
+  border-left: 4px solid #b33;
+  background: #fff0f0;
+  color: #7a1111;
+  font-size: 0.95em;
+}
+
+@media (max-width: 700px) {
+  .tree-example {
+    padding: 1em;
+  }
+
+  .tree-children {
+    gap: 1.4em;
+  }
+
+  .ling-tree-rendered {
+    padding-bottom: 4.6em;
+  }
+}
 /* 전체 기본 글씨체와 크기 */
 body {
   font-family:
