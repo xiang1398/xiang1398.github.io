@@ -298,8 +298,8 @@ function drawMoves(rendered, moves) {
 
     if (!fromUnit || !toUnit) return;
 
-    const fromItem = fromUnit.querySelector(":scope > .tree-item");
-    const toItem = toUnit.querySelector(":scope > .tree-item");
+    const fromItem = getMoveAnchorItem(fromUnit);
+    const toItem = getMoveAnchorItem(toUnit);
 
     if (!fromItem || !toItem) return;
 
@@ -331,6 +331,34 @@ function drawMoves(rendered, moves) {
       svg.appendChild(text);
     }
   });
+}
+
+function getMoveAnchorItem(unit) {
+  // 1순위: 해당 단위 아래의 최하단 단말(leaf terminal)
+  const terminal = getLowestTerminal(unit);
+  if (terminal) return terminal;
+
+  // 2순위: 최하단 단말이 없으면 자기 자신의 라벨 사용
+  return unit.querySelector(":scope > .tree-item");
+}
+
+function getLowestTerminal(unit) {
+  const children = unit.querySelectorAll(".tree-terminal");
+
+  if (!children.length) return null;
+
+  let best = null;
+  let bestTop = -Infinity;
+
+  children.forEach((el) => {
+    const rect = el.getBoundingClientRect();
+    if (rect.top > bestTop) {
+      bestTop = rect.top;
+      best = el;
+    }
+  });
+
+  return best;
 }
 
 function centerTop(el, containerBox) {
