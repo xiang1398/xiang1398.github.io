@@ -44,7 +44,6 @@ horse.NOM.SG | PVB-REFL-tie-PST.3 | from | bush-GEN.SG
 {% endgloss %}
 
 {% gloss 3 "Russian: Anticausative %}
-
 Чашк-а | у-па-л-а | со | стол-а | и | раз-би-л-а-сь. |
 Čašk-a | u-pa-l-a | so | stol-a | i | raz-bi-l-a-sʹ 
 cup-NOM.SG | fall-PST-F.SG | from | table-GEN | and | PVB-break-PST-F.SG-REFL 
@@ -52,7 +51,7 @@ cup-NOM.SG | fall-PST-F.SG | from | table-GEN | and | PVB-break-PST-F.SG-REFL
 {% endgloss %}
 
 
-{% gloss 3 "Russian: Autocausative" %}
+{% gloss 4 "Russian: Autocausative" %}
 Водитель | раз-би-л-ся | на | горн-ой | дорог-е.  
 Voditelʹ | raz-bi-l-sja | na | gorn-oj | dorog-e. 
 driver.NOM | PVB-break-PST.M.SG-REFL | on | mountain-LOC.SG | road-LOC.SG 
