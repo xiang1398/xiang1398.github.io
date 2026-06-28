@@ -76,7 +76,7 @@ categories: blog
 
 <div class="tree-example">
   <div class="tree-sentence">
-    <span class="ex-no">(2)</span>
+    <span class="ex-no">(3)</span>
     <span class="ex-text">你吃飯了嗎。</span>
   </div>
 
