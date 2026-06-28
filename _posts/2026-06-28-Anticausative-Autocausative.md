@@ -69,4 +69,4 @@ gloss: driver.NOM | PVB-break-PST.M.SG-REFL | on | mountain-LOC.SG | road-LOC.SG
 
 [^2]: Gaby, Alice (2023-06-13), "Reflexives and reciprocals", in Bowern, Claire (ed.), The Oxford Guide to Australian Languages (1 ed.), Oxford University PressOxford, pp. 360–377, doi:10.1093/oso/9780198824978.003.0031, ISBN 978-0-19-882497-8, retrieved 2023-12-05
 
-[^3]  Parry, Mair (1998). "The reinterpretation of the reflexive in Piedmontese: 'impersonal' SE constructions". Transactions of the Philological Society. 96 (1): 63–116. doi:10.1111/1467-968X.00024. ISSN 0079-1636.
+[^3]: Parry, Mair (1998). "The reinterpretation of the reflexive in Piedmontese: 'impersonal' SE constructions". Transactions of the Philological Society. 96 (1): 63–116. doi:10.1111/1467-968X.00024. ISSN 0079-1636.
