@@ -1,117 +1,105 @@
 # _plugins/gloss.rb
 
-require "cgi"
-
 module Jekyll
   class GlossBlock < Liquid::Block
     def initialize(tag_name, markup, tokens)
       super
 
-      if markup =~ /(\S+)\s+"([^"]+)"/
-        @number = Regexp.last_match(1)
-        @title = Regexp.last_match(2)
-      else
-        @number = markup.strip
-        @title = nil
+      args = markup.strip.split(/\s+/, 2)
+
+      @number = args[0]
+
+      @title = nil
+      if args[1]
+        @title = args[1].strip
+        @title = @title.gsub(/\A["']|["']\z/, "")
       end
     end
 
     def render(context)
-      raw = super.strip
-      lines = raw.lines.map(&:strip).reject(&:empty?)
+      raw = super(context)
 
-      source = nil
-      trans = nil
-      token_line = nil
-      gloss_line = nil
+      lines = raw
+        .lines
+        .map(&:strip)
+        .reject { |line| line.empty? }
+
+      return "" if lines.empty?
+
       translation = nil
 
-      lines.each do |line|
-        case line
-        when /^source:\s*(.+)$/i
-          source = Regexp.last_match(1).strip
-        when /^trans:\s*(.+)$/i
-          trans = Regexp.last_match(1).strip
-        when /^tokens?:\s*(.+)$/i
-          token_line = Regexp.last_match(1).strip
-        when /^gloss:\s*(.+)$/i
-          gloss_line = Regexp.last_match(1).strip
-        when /^translation:\s*(.+)$/i
-          translation = Regexp.last_match(1).strip
-        else
-          # 예전 방식 호환:
-          # 民 | 可 | 使 | 由 | 之
-          # '백성은 ...'
-          if line.include?("|") && token_line.nil?
-            token_line = line
-          elsif translation.nil?
-            translation = line
-          end
-        end
+      # 마지막 줄이 따옴표로 시작하면 번역문으로 처리
+      if lines.last =~ /\A['‘"]/
+        translation = lines.pop
       end
 
-      tokens = split_cells(token_line)
-      glosses = split_cells(gloss_line)
+      source_line = lines[0]
+      trans_line  = lines[1]
+      gloss_line  = lines[2]
 
-      html = []
-      html << %(<div class="gloss-block">)
+      source_tokens = split_tokens(source_line)
+      trans_tokens  = split_tokens(trans_line)
+      gloss_tokens  = split_tokens(gloss_line)
 
-      html << %(<div class="gloss-label">)
-      html << %(예문 #{@number})
-      html << %( <span class="gloss-title">#{escape_html(@title)}</span>) if @title
-      html << %(</div>)
+      token_count = [
+        source_tokens.length,
+        trans_tokens.length,
+        gloss_tokens.length
+      ].max
 
-      html << %(<div class="gloss-grid">)
+      html = +""
 
-      if source
-        html << %(<div class="gloss-source">#{escape_html(source)}</div>)
+      html << %(<div class="gloss-block">\n)
+
+      html << %(  <div class="gloss-label">\n)
+      html << %(    <span class="gloss-num">예문 #{h(@number)}</span>\n) if @number && !@number.empty?
+      html << %(    <span class="gloss-title">#{h(@title)}</span>\n) if @title && !@title.empty?
+      html << %(  </div>\n)
+
+      html << %(  <div class="gloss-table">\n)
+
+      token_count.times do |i|
+        src = source_tokens[i]
+        trn = trans_tokens[i]
+        gls = gloss_tokens[i]
+
+        html << %(    <div class="gloss-token">\n)
+        html << %(      <div class="gloss-source">#{h(src)}</div>\n) if present?(src)
+        html << %(      <div class="gloss-transcription">#{h(trn)}</div>\n) if present?(trn)
+        html << %(      <div class="gloss-meaning">#{h(gls)}</div>\n) if present?(gls)
+        html << %(    </div>\n)
       end
 
-      if trans
-        html << %(<div class="gloss-trans">#{escape_html(trans)}</div>)
+      html << %(  </div>\n)
+
+      if present?(translation)
+        html << %(  <div class="gloss-translation">#{h(translation)}</div>\n)
       end
 
-      max = [tokens.length, glosses.length].max
+      html << %(</div>\n)
 
-      max.times do |i|
-        token = tokens[i] || ""
-        gloss = glosses[i] || ""
-
-        html << %(<div class="gloss-cell">)
-        html << %(<div class="gloss-object">#{escape_html(token)}</div>)
-        html << %(<div class="gloss-morpheme">#{format_gloss(gloss)}</div>)
-        html << %(</div>)
-      end
-
-      html << %(</div>)
-
-      if translation
-        html << %(<div class="gloss-translation">#{escape_html(translation)}</div>)
-      end
-
-      html << %(</div>)
-      html.join("\n")
+      html
     end
 
     private
 
-    def split_cells(line)
-      return [] if line.nil?
+    def split_tokens(line)
+      return [] unless line
       line.split("|").map(&:strip)
     end
 
-    def escape_html(text)
-      CGI.escapeHTML(text.to_s)
+    def present?(value)
+      value && !value.empty?
     end
 
-    def format_gloss(text)
-      escaped = escape_html(text.to_s)
+    def h(value)
+      return "" unless value
 
-      # 대문자로 된 문법표지를 자동 small-caps 처리
-      # 예: 1SG, COP, PST, NEG, ACC, GEN
-      escaped.gsub(/\b([A-Z][A-Z0-9.-]*)\b/) do
-        %(<span class="gloss-smallcaps">#{Regexp.last_match(1).downcase}</span>)
-      end
+      value.to_s
+        .gsub("&", "&amp;")
+        .gsub("<", "&lt;")
+        .gsub(">", "&gt;")
+        .gsub('"', "&quot;")
     end
   end
 end
