@@ -1,119 +1,129 @@
-# _plugins/gloss.rb
+/* gloss.css */
 
-require "cgi"
+.gloss-block {
+  margin: 1.6em 0;
+  padding: 1.15em 1.35em 1.25em;
+  border-left: 6px solid #9aa8bd;
+  border-radius: 14px;
+  background: #f5f6fa;
+  overflow-x: auto;
+  box-sizing: border-box;
+}
 
-module Jekyll
-  class GlossBlock < Liquid::Block
-    def initialize(tag_name, markup, tokens)
-      super
+.gloss-label {
+  margin-bottom: 1.1em;
+  font-family:
+    "Noto Serif KR",
+    "Noto Serif TC",
+    "Noto Serif SC",
+    "Noto Serif",
+    serif;
+  font-size: 1.2em;
+  line-height: 1.35;
+}
 
-      args = markup.strip.split(/\s+/, 2)
-      @number = args[0]
+.gloss-num {
+  font-weight: 700;
+  color: #111;
+}
 
-      @title = nil
-      if args[1]
-        @title = args[1].strip
-        @title = @title.gsub(/\A["']|["']\z/, "")
-      end
-    end
+.gloss-title {
+  margin-left: 0.35em;
+  font-weight: 500;
+  color: #666;
+}
 
-    def render(context)
-      site = context.registers[:site]
-      converter = site.find_converter_instance(Jekyll::Converters::Markdown)
+.gloss-grid {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 1.55em;
+  row-gap: 1em;
+  align-items: flex-start;
+}
 
-      raw = super(context).strip
+.gloss-token {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  min-width: max-content;
+  line-height: 1.35;
+}
 
-      lines = raw.lines.map(&:strip).reject(&:empty?)
+.gloss-src {
+  font-family:
+    "Noto Serif TC",
+    "Noto Serif SC",
+    "Noto Serif KR",
+    "Noto Serif",
+    serif;
+  font-size: 1.45em;
+  line-height: 1.35;
+  color: #111;
+}
 
-      return "" if lines.empty?
+.gloss-trans {
+  margin-top: 0.12em;
+  font-family:
+    "Noto Serif",
+    "Noto Serif KR",
+    serif;
+  font-size: 1em;
+  font-style: italic;
+  line-height: 1.35;
+  color: #555;
+}
 
-      translation = nil
+.gloss-def {
+  margin-top: 0.08em;
+  font-family:
+    "Noto Serif",
+    "Noto Serif KR",
+    serif;
+  font-size: 1em;
+  line-height: 1.35;
+  color: #111;
+}
 
-      # 마지막 줄이 따옴표로 시작하면 번역문으로 처리
-      if lines.last =~ /\A['‘"]/
-        translation = lines.pop
-      end
+.gloss-translation {
+  margin-top: 1.15em;
+  padding-top: 0.85em;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  font-family:
+    "Noto Serif KR",
+    "Noto Serif TC",
+    "Noto Serif SC",
+    "Noto Serif",
+    serif;
+  font-size: 1.05em;
+  line-height: 1.65;
+  color: #111;
+}
 
-      # 기본 구조:
-      # 1줄: 원문 토큰
-      # 2줄: 전사 토큰, 선택 가능
-      # 3줄: 글로스 토큰
-      #
-      # 줄이 2개만 남으면:
-      # 1줄: 원문 토큰
-      # 2줄: 글로스 토큰
-      source_line = lines[0]
-      trans_line = nil
-      gloss_line = nil
+.gloss-translation p {
+  margin: 0;
+}
 
-      if lines.length >= 3
-        trans_line = lines[1]
-        gloss_line = lines[2]
-      elsif lines.length == 2
-        gloss_line = lines[1]
-      else
-        gloss_line = nil
-      end
+@media (max-width: 640px) {
+  .gloss-block {
+    padding: 1em 1.1em;
+    border-radius: 12px;
+  }
 
-      source_tokens = split_tokens(source_line)
-      trans_tokens = trans_line ? split_tokens(trans_line) : []
-      gloss_tokens = gloss_line ? split_tokens(gloss_line) : []
+  .gloss-label {
+    font-size: 1.1em;
+  }
 
-      max_len = [
-        source_tokens.length,
-        trans_tokens.length,
-        gloss_tokens.length
-      ].max || 0
+  .gloss-grid {
+    column-gap: 1.2em;
+    row-gap: 0.9em;
+  }
 
-      html = +""
-      html << %(<div class="gloss-block">\n)
+  .gloss-src {
+    font-size: 1.3em;
+  }
 
-      html << %(  <div class="gloss-label">)
-      html << %(<span class="gloss-num">예문 #{escape_html(@number)}</span>) if @number && !@number.empty?
-      html << %( <span class="gloss-title">#{escape_html(@title)}</span>) if @title && !@title.empty?
-      html << %(</div>\n)
-
-      html << %(  <div class="gloss-grid">\n)
-
-      max_len.times do |i|
-        src = source_tokens[i]
-        trn = trans_tokens[i]
-        gls = gloss_tokens[i]
-
-        html << %(    <div class="gloss-token">\n)
-        html << %(      <div class="gloss-src">#{escape_html(src)}</div>\n) if src && !src.empty?
-        html << %(      <div class="gloss-trans">#{escape_html(trn)}</div>\n) if trn && !trn.empty?
-        html << %(      <div class="gloss-def">#{escape_html(gls)}</div>\n) if gls && !gls.empty?
-        html << %(    </div>\n)
-      end
-
-      html << %(  </div>\n)
-
-      if translation && !translation.empty?
-        html << %(  <div class="gloss-translation">#{converter.convert(escape_html(translation)).strip}</div>\n)
-      end
-
-      html << %(</div>\n)
-
-      html
-    end
-
-    private
-
-    def split_tokens(line)
-      return [] unless line
-      line.split("|").map(&:strip)
-    end
-
-    def escape_html(text)
-      return "" unless text
-
-      text.to_s
-          .gsub("&", "&amp;")
-          .gsub("<", "&lt;")
-          .gsub(">", "&gt;")
-    end
-  end
-end
-
-Liquid::Template.register_tag("gloss", Jekyll::GlossBlock)
+  .gloss-trans,
+  .gloss-def {
+    font-size: 0.95em;
+  }
+}
