@@ -13,11 +13,10 @@ categories: blog
     <span class="ex-text">我把書放在桌子上。</span>
   </div>
 
-<pre class="ling-tree">
+ <pre class="ling-tree">
 [TP
   [NP#subj 我]
   [T'
-    [T ∅]
     [把P
       [NP#subjbase ~~我~~]
       [把'
@@ -25,10 +24,11 @@ categories: blog
         [vP
           [NP#obj 書]
           [v'
-            [v ∅]
+            [v#vhead 放]
             [VP
-              [V 放]
+              [V#vtrace ~~放~~]
               [XP
+                [NP#objbase ~~書~~]
                 [PP
                   [P 在]
                   [NP 桌子 上]
@@ -39,8 +39,13 @@ categories: blog
         ]
       ]
     ]
+    [T ∅]
   ]
 ]
 @move subjbase -> subj "subject raising"
+@move objbase -> obj "object raising"
+@move vtrace -> vhead "V-to-v"
   </pre>
 </div>
+
+
