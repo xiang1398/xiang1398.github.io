@@ -57,11 +57,11 @@ categories: blog
   [DP#subj 王冕]
   [T'
     [vP
-      [DP#subjtrace t]
+      [DP#subjtrace ~~王冕~~]
       [v'
         [v#vhead 死了]
         [VP
-          [V#vtrace t]
+          [V#vtrace ~~死了~~]
           [NP 父亲]
         ]
       ]
@@ -83,13 +83,14 @@ categories: blog
  <pre class="ling-tree">
 [CP
   [TP
-    [NP 你]
+    [DP#subj 你]
     [T'
       [vP
+        [DP#subjtrace ~~你~~]
         [v'
-          [v 吃]
+          [v#vhead 吃]
           [VP
-            [V ~~吃~~]
+            [V#vtrace ~~吃~~]
             [NP 飯]
           ]
         ]
@@ -99,6 +100,7 @@ categories: blog
   ]
   [C 嗎]
 ]
+@move subjtrace -> subj "subject raising"
+@move vtrace -> vhead "V-to-v"
   </pre>
 </div>
-
