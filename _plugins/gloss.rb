@@ -6,113 +6,111 @@ module Jekyll
   class GlossBlock < Liquid::Block
     def initialize(tag_name, markup, tokens)
       super
-      @markup = markup.strip
+
+      if markup =~ /(\S+)\s+"([^"]+)"/
+        @number = Regexp.last_match(1)
+        @title = Regexp.last_match(2)
+      else
+        @number = markup.strip
+        @title = nil
+      end
     end
 
     def render(context)
-      content = super.strip
-      lines = content.lines.map(&:strip).reject(&:empty?)
+      raw = super.strip
+      lines = raw.lines.map(&:strip).reject(&:empty?)
 
-      number = nil
-      title = nil
-
-      if @markup =~ /^(\d+)(?:\s+"([^"]+)")?/
-        number = Regexp.last_match(1)
-        title = Regexp.last_match(2)
-      elsif @markup =~ /^"([^"]+)"/
-        title = Regexp.last_match(1)
-      end
-
-      source_line = nil
-      trans_line = nil
-      object_line = nil
+      source = nil
+      trans = nil
+      token_line = nil
       gloss_line = nil
       translation = nil
 
       lines.each do |line|
-        if line.start_with?("source:")
-          source_line = line.sub(/^source:\s*/, "")
-        elsif line.start_with?("trans:")
-          trans_line = line.sub(/^trans:\s*/, "")
-        elsif line.start_with?("roman:")
-          trans_line = line.sub(/^roman:\s*/, "")
-        elsif line.start_with?("pinyin:")
-          trans_line = line.sub(/^pinyin:\s*/, "")
-        elsif line.start_with?("gloss:")
-          gloss_line = line.sub(/^gloss:\s*/, "")
-        elsif line.match?(/\A['"].*['"]\z/)
-          translation = line
-        elsif object_line.nil?
-          object_line = line
-        elsif gloss_line.nil?
-          gloss_line = line
+        case line
+        when /^source:\s*(.+)$/i
+          source = Regexp.last_match(1).strip
+        when /^trans:\s*(.+)$/i
+          trans = Regexp.last_match(1).strip
+        when /^tokens?:\s*(.+)$/i
+          token_line = Regexp.last_match(1).strip
+        when /^gloss:\s*(.+)$/i
+          gloss_line = Regexp.last_match(1).strip
+        when /^translation:\s*(.+)$/i
+          translation = Regexp.last_match(1).strip
+        else
+          # 예전 방식 호환:
+          # 民 | 可 | 使 | 由 | 之
+          # '백성은 ...'
+          if line.include?("|") && token_line.nil?
+            token_line = line
+          elsif translation.nil?
+            translation = line
+          end
         end
       end
 
-      object_cells = split_cells(object_line)
-      gloss_cells = split_cells(gloss_line)
+      tokens = split_cells(token_line)
+      glosses = split_cells(gloss_line)
 
-      html = +"<div class=\"gloss-block\">"
+      html = []
+      html << %(<div class="gloss-block">)
 
-      if number || title
-        html << "<div class=\"gloss-label\">"
-        html << "(#{number})" if number
-        html << " <span class=\"gloss-title\">#{escape_html(title)}</span>" if title
-        html << "</div>"
+      html << %(<div class="gloss-label">)
+      html << %(예문 #{@number})
+      html << %( <span class="gloss-title">#{escape_html(@title)}</span>) if @title
+      html << %(</div>)
+
+      html << %(<div class="gloss-grid">)
+
+      if source
+        html << %(<div class="gloss-source">#{escape_html(source)}</div>)
       end
 
-      if source_line
-        html << "<div class=\"gloss-source\">#{escape_html(source_line)}</div>"
+      if trans
+        html << %(<div class="gloss-trans">#{escape_html(trans)}</div>)
       end
 
-      if trans_line
-        html << "<div class=\"gloss-trans\">#{escape_html(trans_line)}</div>"
+      max = [tokens.length, glosses.length].max
+
+      max.times do |i|
+        token = tokens[i] || ""
+        gloss = glosses[i] || ""
+
+        html << %(<div class="gloss-cell">)
+        html << %(<div class="gloss-object">#{escape_html(token)}</div>)
+        html << %(<div class="gloss-morpheme">#{format_gloss(gloss)}</div>)
+        html << %(</div>)
       end
 
-      if object_cells.any? || gloss_cells.any?
-        html << "<div class=\"gloss-grid\">"
-
-        max = [object_cells.length, gloss_cells.length].max
-
-        max.times do |i|
-          obj = object_cells[i] || ""
-          glo = gloss_cells[i] || ""
-
-          html << "<div class=\"gloss-cell\">"
-          html << "<div class=\"gloss-object\">#{escape_html(obj)}</div>"
-          html << "<div class=\"gloss-morpheme\">#{smallcaps(escape_html(glo))}</div>"
-          html << "</div>"
-        end
-
-        html << "</div>"
-      end
+      html << %(</div>)
 
       if translation
-        html << "<div class=\"gloss-translation\">#{escape_html(translation)}</div>"
+        html << %(<div class="gloss-translation">#{escape_html(translation)}</div>)
       end
 
-      html << "</div>"
-
-      html
+      html << %(</div>)
+      html.join("\n")
     end
 
     private
 
     def split_cells(line)
       return [] if line.nil?
-
       line.split("|").map(&:strip)
     end
 
     def escape_html(text)
-      return "" if text.nil?
-
-      CGI.escapeHTML(text)
+      CGI.escapeHTML(text.to_s)
     end
 
-    def smallcaps(text)
-      text.gsub(/\b[A-Z][A-Z0-9.=-]*\b/) do |match|
-        "<span class=\"gloss-smallcaps\">#{match.downcase}</span>"
+    def format_gloss(text)
+      escaped = escape_html(text.to_s)
+
+      # 대문자로 된 문법표지를 자동 small-caps 처리
+      # 예: 1SG, COP, PST, NEG, ACC, GEN
+      escaped.gsub(/\b([A-Z][A-Z0-9.-]*)\b/) do
+        %(<span class="gloss-smallcaps">#{Regexp.last_match(1).downcase}</span>)
       end
     end
   end
