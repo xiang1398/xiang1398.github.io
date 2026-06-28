@@ -15,92 +15,67 @@
   color: #666;
 }
 
-.gloss-source {
-  margin-bottom: 0.55em;
-  padding: 0.75em 1em;
-
-  background: #fbf7ef;
-  border-left: 4px solid #c9a45c;
-  border-radius: 0.45em;
-
-  font-family:
-    "Noto Serif KR",
-    "Noto Serif SC",
-    "Noto Serif TC",
-    "Noto Serif JP",
-    "Noto Serif CJK KR",
-    "Noto Serif CJK SC",
-    "Noto Serif CJK TC",
-    "Noto Serif CJK JP",
-    serif;
-  word-break: keep-all;
-}
-
-.gloss-trans {
-  margin-top: -0.3em;
-  margin-bottom: 0.55em;
-  padding: 0 1em 0.75em 1em;
-
-  background: #fbf7ef;
-  border-left: 4px solid #c9a45c;
-  border-radius: 0 0 0.45em 0.45em;
-
-  color: #555;
-  font-size: 0.95em;
-  font-style: italic;
-}
-
+/* source, trans, tokens, gloss를 모두 담는 하나의 상자 */
 .gloss-grid {
   display: flex;
   flex-wrap: wrap;
   gap: 0.55em 1.1em;
   align-items: flex-start;
-
   margin: 0.55em 0;
   padding: 0.85em 1em;
-
   background: #f5f7fa;
   border-left: 4px solid #8aa0b8;
   border-radius: 0.45em;
-
   overflow-x: auto;
 }
 
+/* 원문 행 */
+.gloss-source {
+  flex-basis: 100%;
+  margin-bottom: 0.15em;
+  font-size: 1.05em;
+  word-break: keep-all;
+}
+
+/* 전사 행 */
+.gloss-trans {
+  flex-basis: 100%;
+  margin-bottom: 0.35em;
+  padding-bottom: 0.45em;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  color: #555;
+  font-style: italic;
+  word-break: keep-all;
+}
+
+/* 각 어절/형태소 단위 */
 .gloss-cell {
   display: inline-block;
   vertical-align: top;
 }
 
+/* 원문 토큰 */
 .gloss-object {
-  font-style: italic;
   white-space: nowrap;
 }
 
+/* 글로스 */
 .gloss-morpheme {
   white-space: nowrap;
 }
 
+/* 문법 표지 */
 .gloss-smallcaps {
   font-variant: small-caps;
   font-size: 0.9em;
   letter-spacing: 0.03em;
 }
 
+/* 번역 상자 */
 .gloss-translation {
   margin-top: 0.55em;
   padding: 0.75em 1em;
-
   background: #f6f3fb;
   border-left: 4px solid #9b86c7;
   border-radius: 0.45em;
-}
-
-@media (max-width: 600px) {
-  .gloss-block {
-    font-size: 0.95em;
-  }
-
-  .gloss-grid {
-    gap: 0.45em 0.85em;
-  }
 }
