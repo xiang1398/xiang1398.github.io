@@ -41,8 +41,8 @@ categories: blog
   ]
 ]
 @move subjbase -> subj "subject raising"
-@move objbase -> obj "object raising"
 @move vtrace -> vhead "V-to-v"
+@move objbase -> obj "object raising"
   </pre>
 </div>
 
@@ -69,7 +69,7 @@ categories: blog
     [T Ø]
   ]
 ]
-@move subjtrace -> subj "DP raising"
+@move subjtrace -> subj "subject raising"
 @move vtrace -> vhead "V-to-v"
   </pre>
 </div>
