@@ -1,81 +1,142 @@
-/* assets/css/gloss.css */
+/* gloss.css */
 
+/* 전체 글로싱 박스: 상자는 이것 하나만 사용 */
 .gloss-block {
-  margin: 1.5em 0;
-  line-height: 1.45;
+  margin: 1.6em 0;
+  padding: 1.15em 1.35em 1.25em;
+  border-left: 6px solid #9aa8bd;
+  border-radius: 14px;
+  background: #f5f6fa;
+  overflow-x: auto;
+  box-sizing: border-box;
 }
 
+/* 예문 번호 + 제목 */
 .gloss-label {
-  margin-bottom: 0.45em;
-  font-weight: 600;
+  margin-bottom: 1.1em;
+  font-family:
+    "Noto Serif KR",
+    "Noto Serif TC",
+    "Noto Serif SC",
+    "Noto Serif",
+    serif;
+  font-size: 1.2em;
+  line-height: 1.35;
+}
+
+.gloss-num {
+  font-weight: 700;
+  color: #111;
 }
 
 .gloss-title {
-  font-weight: 400;
+  margin-left: 0.35em;
+  font-weight: 500;
   color: #666;
 }
 
-/* source, trans, tokens, gloss를 모두 담는 하나의 상자 */
+/* 토큰들을 가로로 배열 */
 .gloss-grid {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.55em 1.1em;
+  column-gap: 1.55em;
+  row-gap: 1em;
   align-items: flex-start;
-  margin: 0.55em 0;
-  padding: 0.85em 1em;
-  background: #f5f7fa;
-  border-left: 4px solid #8aa0b8;
-  border-radius: 0.45em;
-  overflow-x: auto;
 }
 
-/* 원문 행 */
-.gloss-source {
-  flex-basis: 100%;
-  margin-bottom: 0.15em;
-  font-size: 1.05em;
-  word-break: keep-all;
+/* 한 토큰 묶음:
+   원문
+   전사
+   글로스
+   가 세로로 쌓임 */
+.gloss-token {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  min-width: max-content;
+  line-height: 1.35;
 }
 
-/* 전사 행 */
+/* 원문 */
+.gloss-src {
+  font-family:
+    "Noto Serif TC",
+    "Noto Serif SC",
+    "Noto Serif KR",
+    "Noto Serif",
+    serif;
+  font-size: 1.45em;
+  line-height: 1.35;
+  color: #111;
+}
+
+/* 전사 */
 .gloss-trans {
-  flex-basis: 100%;
-  margin-bottom: 0.35em;
-  padding-bottom: 0.45em;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
-  color: #555;
+  margin-top: 0.12em;
+  font-family:
+    "Noto Serif",
+    "Noto Serif KR",
+    serif;
+  font-size: 1em;
   font-style: italic;
-  word-break: keep-all;
+  line-height: 1.35;
+  color: #555;
 }
 
-/* 각 어절/형태소 단위 */
-.gloss-cell {
-  display: inline-block;
-  vertical-align: top;
+/* 형태소 분석 / 번역 글로스 */
+.gloss-def {
+  margin-top: 0.08em;
+  font-family:
+    "Noto Serif",
+    "Noto Serif KR",
+    serif;
+  font-size: 1em;
+  line-height: 1.35;
+  color: #111;
 }
 
-/* 원문 토큰 */
-.gloss-object {
-  white-space: nowrap;
-}
-
-/* 글로스 */
-.gloss-morpheme {
-  white-space: nowrap;
-}
-
-/* 문법 표지 */
-.gloss-smallcaps {
-  font-variant: small-caps;
-  font-size: 0.9em;
-  letter-spacing: 0.03em;
-}
-
-/* 번역 상자 */
+/* 전체 번역문 */
 .gloss-translation {
-  margin-top: 0.55em;
-  padding: 0.75em 1em;
-  background: #f6f3fb;
-  border-left: 4px solid #9b86c7;
-  border-radius: 0.45em;
+  margin-top: 1.15em;
+  padding-top: 0.85em;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  font-family:
+    "Noto Serif KR",
+    "Noto Serif TC",
+    "Noto Serif SC",
+    "Noto Serif",
+    serif;
+  font-size: 1.05em;
+  line-height: 1.65;
+  color: #111;
+}
+
+.gloss-translation p {
+  margin: 0;
+}
+
+/* 모바일 화면 대응 */
+@media (max-width: 640px) {
+  .gloss-block {
+    padding: 1em 1.1em;
+    border-radius: 12px;
+  }
+
+  .gloss-label {
+    font-size: 1.1em;
+  }
+
+  .gloss-grid {
+    column-gap: 1.2em;
+    row-gap: 0.9em;
+  }
+
+  .gloss-src {
+    font-size: 1.3em;
+  }
+
+  .gloss-trans,
+  .gloss-def {
+    font-size: 0.95em;
+  }
 }
