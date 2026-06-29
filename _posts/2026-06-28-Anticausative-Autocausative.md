@@ -42,8 +42,8 @@ horse.NOM.SG | PVB-REFL-tie-PST.3 | from | bush-GEN.SG
 {% endgloss %}
 
 {% gloss 3 "Russian: Anticausative %}
-Чашк-а | у-па-л-а | со | стол-а | и | раз-би-л-а-сь. |
-Čašk-a | u-pa-l-a | so | stol-a | i | raz-bi-l-a-sʹ 
+Чашк-а | упа-л-а | со | стол-а | и | раз-би-л-а-сь. |
+Čašk-a | upa-l-a | so | stol-a | i | raz-bi-l-a-sʹ 
 cup-NOM.SG | fall-PST-F.SG | from | table-GEN | and | PVB-break-PST-F.SG-REFL 
 'The cup fell from the table and crashed (itself).'
 {% endgloss %}
