@@ -31,7 +31,7 @@ tags: [Early-Chinese-Texts, Classical-Chinese, Chinese-texts]
 
 - *BSOAS* *Bulletin of the School of Oriental and African Studies*
 
-- *BSS* *Basic Sinological Series (《國學基本叢書》)*
+- *BSS* *Basic Sinological Series* (《國學基本叢書》)
 
 - *CTCC* 《諸子集成》
 
@@ -445,13 +445,13 @@ tags: [Early-Chinese-Texts, Classical-Chinese, Chinese-texts]
 
 - *Journal of the American Oriental Society*, New York: 1843–
 
-- *Journal of Asian Studies (formerly Far Eastern Quarterly)*, New York, 1941–
+- *Journal of Asian Studies* (formerly *Far Eastern Quarterly*), New York, 1941–
 
 - *Journal Asiatique*, Paris: 1822–
 
 - *Journal of the China Branch of the Royal Asiatic Society*, 1858–1905
 
-- *Journal of Chinese Religions (formerly Bulletin of the Society for the Study of Chinese Religions)*, 1981–
+- *Journal of Chinese Religions* (formerly *Bulletin of the Society for the Study of Chinese Religions*), 1981–
 
 - *Journal of the North China Branch of the Royal Asiatic Society* [*JNChBrAS*], Shanghai, 1858–1948
 
@@ -461,7 +461,7 @@ tags: [Early-Chinese-Texts, Classical-Chinese, Chinese-texts]
 
 - *Kambun gakkai kaihō* 漢文學會會報, Tokyo: 1933–
 
-- *Kaogu* 考古 (formerly K’ao ku t’ung hsün 考古通訊) [*KK*], Peking: 1955–
+- *Kaogu* 考古 (formerly *K’ao ku t’ung hsün* 考古通訊) [*KK*], Peking: 1955–
 
 - *Kao-hsiung shih fan hsüeh yüan hsüeh pao* 高雄師範學院學報
 
@@ -553,7 +553,7 @@ tags: [Early-Chinese-Texts, Classical-Chinese, Chinese-texts]
 
 - *Wen shih che hsüeh pao* 文史哲學報, Taipei: 1950–
 
-- *Wen wu* 文物 (formerly Wen wu ts’an k’ao tzu liao 文物參考資料) [*WW*], Peking: 1950–
+- *Wen wu* 文物 (formerly *Wen wu ts’an k’ao tzu liao* 文物參考資料) [*WW*], Peking: 1950–
 
 - *Yen ching hsüeh pao* 燕京學報, Peiping: 1927–51
 
