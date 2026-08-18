@@ -15,6 +15,8 @@ tags: [Early-Chinese-Texts, Classical-Chinese, Chinese-texts]
   <a href="{{ page.url | absolute_url }}">{{ page.url | absolute_url }}</a>
 </p>
 
+이 번역문은 GPT-5.6 모델로 기계번역한 뒤 편집·교정한 것입니다
+
 ## 《Early Chinese Texts》 서문
 
 이 공동 연구 프로젝트는 영국 Cambridge의 Mill Lane Lecture Rooms에서 강연이 시작되기를 기다리며 David Keightley와 나눈 대화에서 비롯되었다. 우리는 초기 중국 문헌을 연구하기 시작하는 학생들에게 권할 만한 참고서가 없다는 사실을 안타까워하고 있었다. 곧 그러한 연구에 착수하는 데 필요한 기본 정보와 도구를 제공하고, 연구 초입에서 명백히 그리고 불가피하게 마주치는 문제 가운데 일부를 해결하도록 도우며, 아직도 해결을 기다리는 주요 쟁점들에 익숙해지게 할 수 있는 참고서가 없었던 것이다. 우리가 구상한 책은 확립된 결론을 제시하고, 각 문헌의 내용을 설명하며, 성립 연대를 논하고, 저자와 진위 문제를 지적하는 것이었다.
