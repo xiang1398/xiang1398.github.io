@@ -15,7 +15,7 @@ tags: [Early-Chinese-Texts, Classical-Chinese, Chinese-texts, 戰國策]
   <a href="{{ page.url | absolute_url }}">{{ page.url | absolute_url }}</a>
 </p>
 
-## 《戰國策》
+## Chan kuo ts’e 《戰國策》
 
 이 번역문은 GPT-5.6 모델로 기계번역한 뒤 편집·교정한 것입니다
 
