@@ -123,7 +123,7 @@ tags: [Early-Chinese-Texts, Classical-Chinese, Chinese-texts, 戰國策]
 
   (c) 齊思和, 〈戰國策著作時代考〉, 《燕京學報》 34 (1948), 257-278쪽.
 
-  (d) Crump, J. I. Jr., ‘The *Chan-kuo ts’e* and its fiction’; T’oung Pao XLVIII (1960), 305-375쪽.
+  (d) Crump, J. I. Jr., The *Chan-kuo ts’e* and its fiction; *T’oung Pao* XLVIII (1960), 305-375쪽.
 
   (e) 鄭良樹, 《戰國策研究》; Singapore: 友聯出版社, 1972; Taipei: 臺灣學生書局, 1972.
 
