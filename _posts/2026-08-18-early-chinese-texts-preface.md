@@ -39,7 +39,7 @@ tags: [Early-Chinese-Texts, Classical-Chinese, Chinese-texts]
 
 여러 해 동안 더없이 귀중한 격려와 조언을 해준 많은 동료에게 감사드린다. 특히 이 작업의 초기에 공동 편집자의 부담을 떠맡아 준 William Boltz에게 감사한다. 한 항목에 귀중한 교정을 해준 Dr. Bertil Lundahl과, 일본 인명 및 서지의 복잡한 문제에 관해 지도해 준 Dr. P. Kornicki에게 감사한다. Chicago의 Joseph Regenstein Library 동아시아 자료실 직원들과 영국 Cambridge University Library 직원들이 베풀어 준 도움에도 깊이 감사한다. 무엇보다 마지막 단계에서 본문을 신속히 출판 준비할 수 있었던 것은 Professor Shaughnessy의 주도와 University of Chicago의 Fangpei Cai, Magnus Fiskesjö, Amy J. Mayer, Laura A. Skosey의 숙련된 지원 덕분이었다. David Goodrich의 전문적인 조언과 능숙한 도움이 없었다면 이 책은 결코 현재의 형태에 이르지 못했을 것이다.
 
-## 다음과 같은 원칙을 적용하였다.
+다음과 같은 원칙을 적용하였다.
 
 1. 중국과 일본 학자의 이름에는, 내용상 중요한 경우가 아니면 字나 號를 덧붙이지 않았다.
 
