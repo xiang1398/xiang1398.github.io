@@ -88,4 +88,3 @@ tags: [Early-Chinese-Texts, Classical-Chinese, Chinese-texts, 潛夫論]
 *— Ch’i-yün Ch’en*
 
 *— Margaret Pearson*
-
