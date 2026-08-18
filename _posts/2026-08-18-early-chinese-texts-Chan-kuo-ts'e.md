@@ -97,13 +97,13 @@ tags: [Early-Chinese-Texts, Classical-Chinese, Chinese-texts, 戰國策]
 
 전사와 비판적 연구에 대해서는 다음 문헌과 아래 6(d)를 참조하라.
 
-  (i) 馬王堆漢墓帛書整理小組 편, 《馬王堆漢墓帛書戰國縱橫家書》; 北京: 文物出版社, 1976. 27편의 본문을 簡化字로 전사한 뒤(앞서 《文物》 1975년 제4기, 14-26쪽에 발표), 唐蘭·楊寬·馬雍의 논문을 수록하였다. 뒤의 두 논문의 초기 판본은 《文物》 1975년 제2기, 26-34쪽과 1975년 제4기, 27-40쪽을 참조하라.
+  (i) 馬王堆漢墓帛書整理小組 편, 《馬王堆漢墓帛書戰國縱橫家書》; 北京: 文物出版社, 1976. 27편의 본문을 簡化字로 전사한 뒤(앞서 《文物》 1975년 제4기, pp. 14-26에 발표), 唐蘭·楊寬·馬雍의 논문을 수록하였다. 뒤의 두 논문의 초기 판본은 《文物》 1975년 제2기, pp. 26-34과 1975년 제4기, pp. 27-40을 참조하라.
 
   (ii) 馬王堆漢墓帛書整理小組 편, 《長沙馬王堆漢墓帛書》 3; 北京: 文物出版社, 1978. 影印과 주석이 달린 전사.
 
-  (iii) 曾鳴, 〈關於帛書《戰國策》中蘇秦書信若干年代問題的商榷〉, 《文物》 1975년 제8기, 23-30쪽.
+  (iii) 曾鳴, 〈關於帛書《戰國策》中蘇秦書信若干年代問題的商榷〉, 《文物》 1975년 제8기, pp. 23-30.
 
-  (iv) Kudō Motoo 工藤元男, 〈馬王堆出土 “戰國縱橫家書” と “史記”〉, 《中國正史の基礎的研究》; Tokyo: Waseda daigaku 早稲田大學, 1984, 1-26쪽.
+  (iv) Kudō Motoo 工藤元男, 〈馬王堆出土 “戰國縱橫家書” と “史記”〉, 《中國正史の基礎的研究》; Tokyo: Waseda daigaku 早稲田大學, 1984, pp. 1-26.
 
 ## 6. 주요 판본
 
@@ -121,9 +121,9 @@ tags: [Early-Chinese-Texts, Classical-Chinese, Chinese-texts, 戰國策]
 
   (b) 鍾鳳年, 《國策勘研》; 北平: Harvard-Yenching Institute, 1936.
 
-  (c) 齊思和, 〈戰國策著作時代考〉, 《燕京學報》 34 (1948), 257-278쪽.
+  (c) 齊思和, 〈戰國策著作時代考〉, 《燕京學報》 34 (1948), pp. 257-278.
 
-  (d) Crump, J. I. Jr., The *Chan-kuo ts’e* and its fiction; *T’oung Pao* XLVIII (1960), 305-375쪽.
+  (d) Crump, J. I. Jr., The *Chan-kuo ts’e* and its fiction; *T’oung Pao* XLVIII (1960), pp. 305-375.
 
   (e) 鄭良樹, 《戰國策研究》; Singapore: 友聯出版社, 1972; Taipei: 臺灣學生書局, 1972.
 
@@ -137,7 +137,7 @@ tags: [Early-Chinese-Texts, Classical-Chinese, Chinese-texts, 戰國策]
 
 ## 8. 번역
 
-  (a) Crump, J. I. Jr., *Intrigues: Studies of the Chan-kuo ts’e*; Ann Arbor, Michigan: University of Michigan Press, 1964. 본문에서 50편을 골라 허구로 취급하여 비판적으로 분석하였다. T. H. Tsien의 서평은 *Journal of Asian Studies* 24 (1965), 328-329쪽.
+  (a) Crump, J. I. Jr., *Intrigues: Studies of the Chan-kuo ts’e*; Ann Arbor, Michigan: University of Michigan Press, 1964. 본문에서 50편을 골라 허구로 취급하여 비판적으로 분석하였다. T. H. Tsien의 서평은 *Journal of Asian Studies* 24 (1965), pp. 328-329.
 
   (b) Crump, J. I. Jr., *Chan-kuo ts’e*; Oxford: Clarendon Press, 1970. 본문 전체 번역.
 
