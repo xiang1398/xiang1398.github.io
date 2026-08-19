@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "《Early Chinese Texts》 005: Chou li 周禮"
-date: 2026-08-19 00:00:00 +0900
+date: 2026-08-19 21:50:00 +0900
 categories: Early-Chinese-Texts
 tags: [Early-Chinese-Texts, Classical-Chinese, Chinese-texts, 周禮]
 ---
