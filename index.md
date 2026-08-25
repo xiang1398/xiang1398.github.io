@@ -1,30 +1,46 @@
 ---
-layout: home
-title: 孜山의 블로그
+layout: page
+title: 孜山의 서재
+permalink: /
 ---
 
-# 孜山의 서재
+중국어 역사언어학과 고전 문헌을 공부하고 있는 孜山의 개인 연구 서재입니다.
 
-저는 중국어 역사언어학을 전공하고 있는 孜山이라고 합니다. 
-
-고전 문헌, 역사언어학, 음운론, 번역 노트를 모으는 공간입니다.
+고전 문헌, 역사언어학, 음운론, 번역과 독서 노트를 기록합니다.
 
 ## 약력
 
-2019.3 성균관대학교 한문학과 입학
+- 2019.3 성균관대학교 한문학과 입학
+- 2025.2 성균관대학교 한문학과 학사
+- 2025.3 고려대학교 대학원 중일어문학과 석사과정 입학
 
-2025.2 성균관대학교 한문학과 학사
+## 분야
 
-2025.3 고려대학교 대학원 중일어문학과 석사과정 입학
+{% assign visible_posts = site.posts | where_exp: "post", "post.hidden != true" %}
 
-## 카테고리
+{% assign categories = visible_posts | map: "category" | compact | uniq | sort %}
 
-{% for category in site.categories %}
-- [{{ category[0] }}](/categories/#{{ category[0] }}) — {{ category[1].size }}편
+{% for category_name in categories %}
+{% assign category_posts = visible_posts | where: "category", category_name %}
+
+### {{ category_name }}
+
+{% for post in category_posts limit: 5 %}
+- {{ post.date | date: "%Y-%m-%d" }} — [{{ post.title }}]({{ post.url | relative_url }}){% if post.series %} <small>· {{ post.series }}</small>{% endif %}
 {% endfor %}
 
-## 글 목록
+{% if category_posts.size > 5 %}
+[전체 {{ category_posts.size }}편 보기]({{ "/categories/" | relative_url }}#{{ category_name | replace: " ", "-" | replace: "·", "-" }})
+{% endif %}
 
-{% for post in site.posts %}
-- {{ post.date | date: "%Y-%m-%d" }} — [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
+
+## 최근 글
+
+{% assign recent_posts = site.posts | where_exp: "post", "post.hidden != true" %}
+
+{% for post in recent_posts limit: 10 %}
+- **{{ post.date | date: "%Y-%m-%d" }}** — [{{ post.title }}]({{ post.url | relative_url }}){% if post.series %} · *{{ post.series }}*{% endif %}
+{% endfor %}
+
+[모든 글 보기 →]({{ "/categories/" | relative_url }})
