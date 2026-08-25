@@ -3,7 +3,7 @@ layout: post
 title: "반사동(Anticausative)과 자기사동(Autocausative)"
 date: 2026-06-28 21:20:00 +0900
 categories:
-  - 언어학
+  - Linguistics
 
 tags:
   - 형태론
