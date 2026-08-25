@@ -3,7 +3,7 @@ layout: post
 title: "수형도 테스트"
 date: 2026-06-28 12:10:00 +0900
 categories:
-  - 블로그 개발
+  - Blog
 
 tags:
   - syntax-tree
