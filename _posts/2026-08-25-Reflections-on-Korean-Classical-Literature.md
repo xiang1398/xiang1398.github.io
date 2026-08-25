@@ -2,8 +2,12 @@
 layout: post
 title: "한국 고전문학에 대한 단상"
 date: 2026-08-25 16:00:00 +0900
-categories: Essay
-tags: [Essay, Classic, Korean-Classic]
+categories:
+  - 고전문학
+
+tags:
+  - 고전문학
+  - 문학론
 ---
 
 <p class="citation-notice">
