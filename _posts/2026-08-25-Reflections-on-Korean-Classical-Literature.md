@@ -3,7 +3,7 @@ layout: post
 title: "한국 고전문학에 대한 단상"
 date: 2026-08-25 16:00:00 +0900
 categories:
-  - 에세이
+  - Essay
 tags:
   - 고전문학
   - 문학론
