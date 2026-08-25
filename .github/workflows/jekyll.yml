@@ -29,7 +29,12 @@ jobs:
           ruby-version: '3.2'
           bundler-cache: true
 
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
       - name: Build with Jekyll
+        env:
+          JEKYLL_ENV: production
         run: bundle exec jekyll build
 
       - name: Upload artifact
