@@ -1,4 +1,7 @@
 ---
+layout: post
+title: "첫 글"
+date: 2026-06-18 23:00:00 +0900
 categories:
   - 블로그 개발
 
