@@ -3,7 +3,7 @@ layout: post
 title: "훈몽자회 서문"
 date: 2026-06-18 23:00:00 +0900
 categories:
-  - 문헌학·언어학사
+  - Philology
 tags:
   - 訓蒙字會
   - 崔世珍
