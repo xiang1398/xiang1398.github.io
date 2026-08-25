@@ -2,13 +2,9 @@
   layout: post
   title: "上冊付印題記"
   date: 2026-06-25 13:10:00 +0900
-  categories:
+categories:
   - 문헌학·언어학사
-
 series: 馬氏文通
-
-series: 馬氏文通
-
 tags:
   - 馬氏文通
   - 馬建忠
