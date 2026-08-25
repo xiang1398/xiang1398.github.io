@@ -2,8 +2,17 @@
 layout: post
 title: "《Early Chinese Texts》 001: 서문"
 date: 2026-08-18 15:02:17 +0900
-categories: Early-Chinese-Texts
-tags: [Early-Chinese-Texts, Classical-Chinese, Chinese-texts]
+categories:
+  - 고전 번역
+
+series: Early Chinese Texts
+
+tags:
+  - Early Chinese Texts
+  - 고대중국문헌
+  - 중국문헌학
+  - 서지학
+  - 번역
 ---
 
 <p class="citation-notice">
