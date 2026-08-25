@@ -1,8 +1,10 @@
 ---
-layout: post
-title: "첫 글"
-date: 2026-06-18 22:50:00 +0900
-categories: blog
+categories:
+  - 블로그 개발
+
+tags:
+  - 블로그
+  - Jekyll
 ---
 깃헙 블로그 첫 글입니다.
 
