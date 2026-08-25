@@ -2,8 +2,17 @@
 layout: post
 title: "《Early Chinese Texts》 부록 I: 서지 자료와 약어"
 date: 2026-08-18 15:20:00 +0900
-categories: Early-Chinese-Texts
-tags: [Early-Chinese-Texts, Classical-Chinese, Chinese-texts]
+categories:
+  - 고전 번역
+
+series: Early Chinese Texts
+
+tags:
+  - Early Chinese Texts
+  - 참고문헌
+  - 서지학
+  - 약어
+  - 중국문헌학
 ---
 
 <p class="citation-notice">
