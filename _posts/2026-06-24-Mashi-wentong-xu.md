@@ -1,9 +1,16 @@
 ---
-layout: post
-title: "《文通》序"
-date: 2026-06-24 11:30:00 +0900
-categories: Mashi-wentong
-tags: [馬氏文通, Classical-Chinese, Chinese-grammar]
+categories:
+  - 문헌학·언어학사
+
+series: 馬氏文通
+
+tags:
+  - 馬氏文通
+  - 馬建忠
+  - 중국어문법사
+  - 중국어학사
+  - 문헌학
+  - 한문번역
 ---
 
 <p class="citation-notice">
