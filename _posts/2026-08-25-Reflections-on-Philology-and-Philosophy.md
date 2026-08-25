@@ -3,7 +3,7 @@ layout: post
 title: "문헌학과 철학에 대한 단상"
 date: 2026-08-25 20:15:00 +0900
 categories:
-  - 에세이
+  - Essay
 tags:
   - 문헌학
   - 언어학
