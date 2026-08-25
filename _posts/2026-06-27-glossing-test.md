@@ -3,7 +3,7 @@ layout: post
 title: "글로싱 테스트"
 date: 2026-06-27 22:30:00 +0900 
 categories:
-  - 블로그 개발
+  - Blog
 
 tags:
   - interlinear-gloss
