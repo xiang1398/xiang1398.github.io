@@ -2,8 +2,18 @@
 layout: post
 title: "반사동(Anticausative)과 자기사동(Autocausative)"
 date: 2026-06-28 21:20:00 +0900
-categories: linguistics
-tags: [linguistics, anticausative, autocausative]
+categories:
+  - 언어학
+
+tags:
+  - 형태론
+  - 통사론
+  - 사동성
+  - 반사동
+  - 자기사동
+  - anticausative
+  - autocausative
+  - valency
 ---
 
 <p class="citation-notice">
