@@ -3,7 +3,7 @@ layout: post
 title: "《Early Chinese Texts》 003: Ch’ien fu lun 潛夫論"
 date: 2026-08-18 23:30:00 +0900
 categories:
-  - 고전 번역
+  - Translations
 
 series: Early Chinese Texts
 
