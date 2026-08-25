@@ -2,7 +2,7 @@
 layout: post
 title: "GitHub Pages 배포 테스트"
 date: 2026-08-25 20:15:00 +0900
-categories: 블로그 개발
+categories: Blog
 tags: [jekyll, github-pages, gloss]
 ---
 
