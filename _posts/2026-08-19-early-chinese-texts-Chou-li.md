@@ -3,7 +3,7 @@ layout: post
 title: "《Early Chinese Texts》 005: Chou li 周禮"
 date: 2026-08-19 21:50:00 +0900
 categories:
-  - 고전 번역
+  - Translations
 
 series: Early Chinese Texts
 
