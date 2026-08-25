@@ -2,8 +2,19 @@
 layout: post
 title: "《Early Chinese Texts》 003: Ch’ien fu lun 潛夫論"
 date: 2026-08-18 23:30:00 +0900
-categories: Early-Chinese-Texts
-tags: [Early-Chinese-Texts, Classical-Chinese, Chinese-texts, 潛夫論]
+categories:
+  - 고전 번역
+
+series: Early Chinese Texts
+
+tags:
+  - Early Chinese Texts
+  - 潛夫論
+  - 王符
+  - 後漢
+  - 중국고전
+  - 문헌학
+  - 번역
 ---
 
 <p class="citation-notice">
