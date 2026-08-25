@@ -3,10 +3,11 @@ layout: post
 title: "문헌학과 철학에 대한 단상"
 date: 2026-08-25 20:15:00 +0900
 categories:
-  - 고전문학
+  - 에세이
 tags:
-  - 고전문학
-  - 문학론
+  - 문헌학
+  - 언어학
+  - 철학
 ---
 
 <p class="citation-notice">
