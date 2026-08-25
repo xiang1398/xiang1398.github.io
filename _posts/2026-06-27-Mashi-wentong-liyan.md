@@ -2,8 +2,18 @@
   layout: post
   title: "馬氏文通 例言"
   date: 2026-06-27 11:20:00 +0900
-  categories: Mashi-wentong
-  tags: [馬氏文通, Classical-Chinese, Chinese-grammar]
+  categories:
+  - 문헌학·언어학사
+
+series: 馬氏文通
+
+tags:
+  - 馬氏文通
+  - 馬建忠
+  - 중국어문법
+  - 중국어문법사
+  - 품사론
+  - 한문번역
 ---
 
 <p class="citation-notice">
