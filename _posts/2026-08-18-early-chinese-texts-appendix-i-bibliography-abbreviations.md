@@ -3,7 +3,7 @@ layout: post
 title: "《Early Chinese Texts》 부록 I: 서지 자료와 약어"
 date: 2026-08-18 15:20:00 +0900
 categories:
-  - 고전 번역
+  - Translations
 
 series: Early Chinese Texts
 
