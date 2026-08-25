@@ -2,11 +2,9 @@
   layout: post
   title: "《馬氏文通》 後序"
   date: 2026-06-25 12:50:00 +0900
-  categories:
+categories:
   - 문헌학·언어학사
-
 series: 馬氏文通
-
 tags:
   - 馬氏文通
   - 馬建忠
