@@ -3,7 +3,7 @@ layout: post
 title: "《Early Chinese Texts》 001: 서문"
 date: 2026-08-18 15:02:17 +0900
 categories:
-  - 고전 번역
+  - Translations
 
 series: Early Chinese Texts
 
