@@ -196,7 +196,63 @@ tags: [甲骨文, 甲骨學, 甲骨文合集, 原骨拓藏, 收藏]
 
 이 일본 계통은 특히 **기관 약호와 저록 약호가 동일한 경우**, **동일 약호가 여러 기관에 중복되는 경우**, **개인명 오기가 원표에 남아 있는 경우**가 동시에 나타난다. 따라서 `東大`, `京人`, `藤井`, `大原`, `小川`, `檜桓` 등은 著拓號와 原骨拓藏 어느 칸에 나타나는지 먼저 확인해야 한다.
 
-## 8. 반드시 교감할 항목
+## 8. 6차 상세 해설: 유럽·북미의 기관 소장 계통
+
+유럽·북미 계통은 《材料來源表》 편찬 당시의 번역명·음역명과 현재 기관명이 크게 달라진 경우가 많다. 따라서 이 글에서는 원표의 약호와 역사적 명칭을 먼저 보존하고, 현재 기관명을 별도로 병기한다. 또한 같은 도시 안에서도 박물관, 도서관, 대학 collection이 서로 다른 provenance를 가진다는 점을 유의한다.[2]
+
+**英蘇博**. 英國蘇格蘭博物院. 현소장. 원표의 역사적 명칭을 유지한다. 《英國所藏甲骨集》이 영국 내 여러 기관 collection을 합쳐 정리했기 때문에, 개별 갑골은 반드시 원 소장기관 단위로 다시 확인해야 한다. [2]
+
+**英亞會**. 英國皇家亞細亞學會. 현소장. Royal Asiatic Society 계통의 갑골을 가리킨다. 《英國所藏甲骨集》의 한 소장단위이며, British Library나 Cambridge collection과는 별개이다. [2]
+
+**英劍大**. 英國劍橋大學. 현소장. 실질적으로는 Cambridge University Library의 Hopkins Collection과 연결된다. Hopkins는 Frank H. Chalfant에게서 다수의 갑골을 구입했고, 그 collection은 대학에 유증되었다. 현재 Cambridge University Library에서 Hopkins Collection catalogue와 일부 디지털 자료를 제공한다. [2][N]
+
+**英不圖**. 英國不列顛圖書館. 현소장. 현재 British Library가 Couling-Chalfant collection의 `Or 7694/1506-2125` 갑골군을 보유한다. 따라서 `英不圖`는 단순한 영국 collection 총칭이 아니라 British Library의 특정 소장군으로 읽어야 한다. [2][O]
+
+**法巴大**. 法國巴黎大學中國學院. 현소장. Institut des Hautes Études Chinoises 계통으로 식별한다. 饒宗頤 《巴黎所見甲骨錄》이 이곳과 Musée Guimet, Musée Cernuschi의 갑골을 함께 다루므로 세 기관을 서로 구별해야 한다. [2][P]
+
+**歸默**. 法國巴黎歸默博物館. 교감 완료. 원표의 `歸默`은 **Musée Guimet**, 현재의 Musée national des arts asiatiques – Guimet를 가리킨다. 오늘날 중국어로는 흔히 吉美博物館이라 한다. 饒宗頤 《巴黎所見甲骨錄》의 세 기관 가운데 하나이다. [2][P][Q]
+
+**策努**. 法國巴黎策努斯奇博物館. 교감 완료. **Musée Cernuschi, musée des Arts de l’Asie de la Ville de Paris**를 가리킨다. 현재도 중국 고고·미술 collection을 보유하며, 饒宗頤 《巴黎所見甲骨錄》의 세 기관 가운데 하나이다. [2][P][R]
+
+**俄愛博**. 俄羅斯國立愛米塔什博物館. 현소장. 현재 State Hermitage Museum. 후대 저록 《俄羅斯國立愛米塔什博物館藏殷墟甲骨》의 저록 약호 `愛`와 《材料來源表》의 소장처 약호 `俄愛博`를 구별한다. [2]
+
+**瑞巴博**. 瑞士巴塞爾博物館. 현소장. Basel의 ethnographic museum 계통으로 이해해야 한다. 후대 해외저록 연구는 Basel collection에 70여片 규모의 갑골이 있었음을 지적한다. 정확한 현재 기관명과 inventory는 후속 개별 검증 대상으로 둔다. [2][P]
+
+**柏俗**. 德國柏林民俗博物館. 현소장. 원표의 역사적 기관명이다. 현재 독일 박물관 조직 개편을 거친 뒤의 기관명으로 단순 치환하지 않고, 《材料來源表》 당시의 collection 단위를 먼저 보존한다. [2]
+
+**加安博**. 加拿大皇家安大略博物館. 현소장. 현재 **Royal Ontario Museum (ROM)**. 明義士(James Menzies)와 Bishop White, George Crofts 등 여러 수장계통의 갑골을 보유한다. 許進雄은 ROM에서 Menzies collection과 White 등 기타 collection을 각각 정리하여 출판하였다. [2][S]
+
+**加多博**. 加拿大多倫多博物館. 교감 필요. 원표는 `加拿大多倫多博物館`이라고만 적어 `加安博`와 별도 약호로 두었다. 이를 곧바로 ROM과 동일시하지 않고, 원《材料來源表》과 해당 合集號의 備注를 통해 실제 역사적 기관을 다시 확인해야 한다. [2]
+
+**美卡博**. 美國卡內基博物院. 현소장. Carnegie Museum 계통. 李棪 《北美所見甲骨選粹》에 Carnegie 소장 32片이 포함된 것으로 확인된다. [2]
+
+**美哈大**. 美國哈佛大學. 현소장. Harvard University collection. 후대 북미 저록에서 Harvard 소장 갑골이 별도 기관군으로 다뤄진다. [2]
+
+**美哥大**. 美國哥倫比亞大學. 현소장. Columbia University collection. 후대 북미 저록에서 소량의 갑골이 별도 기관군으로 확인된다. [2]
+
+**美佛館**. 美國佛利爾美術館. 현소장. Freer Gallery of Art, Smithsonian 계통으로 식별한다. `美歷技`와 같은 Smithsonian 산하라도 서로 다른 기관 collection이므로 합치지 않는다. [2]
+
+**美國圖**. 美國國會圖書館. 현소장. Library of Congress. 박물관이 아니라 도서관 collection이므로, 도판·탁본과 원골 여부를 개별 合集號에서 확인한다. [2]
+
+**美大館**. 美國大城會美術館. 교감 완료. **The Metropolitan Museum of Art**를 가리킨다. 현재 Met online collection에는 Shang oracle bone와 oracle bone fragments가 실제로 확인된다. [2][T]
+
+**美歷技**. 美國歷史和技術博物館. 기관명 변천 확인. Smithsonian의 **Museum of History and Technology**로 1964년 개관했으며, 1980년 **National Museum of American History**로 개칭되었다. 따라서 현재 기관명은 National Museum of American History이지만, 《材料來源表》을 읽을 때는 당시 명칭 `歷史和技術博物館`을 먼저 보존한다. [2][U]
+
+**美自博**. 美國自然史博物館. 현소장. American Museum of Natural History로 식별한다. 자연사박물관 안의 아시아 고고자료 collection이라는 점에서 미술관·대학 collection과 다르다. [2]
+
+**美普大**. 美國普林斯頓大學. 현소장. Princeton University collection. 白瑞華 《殷虛甲骨相片》《殷虛甲骨拓片》의 핵심 자료원과 연결되며, 전자는 대부분 Princeton collection, 후자는 Princeton collection 22片의 拓本집으로 확인된다. [2]
+
+**美納館**. 美國納爾森美術館. 현소장. 현재 **The Nelson-Atkins Museum of Art** 계통으로 식별하는 것이 자연스럽다. 嚴一萍의 1973년 미국 소장 갑골 소개에서 이 기관의 12片이 다뤄졌다. [2]
+
+**美新館**. 美國M.H.的新紀念館. 교감 필요. 명칭상 San Francisco의 **M. H. de Young Memorial Museum**과 대응할 가능성이 높다. 다만 이번 단계에서는 직접적인 갑골 inventory와 《材料來源表》의 해당 合集號가 아직 대조되지 않았으므로 확정 표기는 보류한다. [2][V]
+
+**美芝大**. 美國芝加哥大學. 현소장. University of Chicago collection. 박물관이 아닌 대학 collection으로 구별한다. [2]
+
+**美費博**. 美國芝加哥費爾德博物院. 현소장. 현재 **Field Museum** 계통. `美芝大`와 같은 도시이지만 별도 기관 collection이다. [2]
+
+유럽·북미 계통은 이처럼 **현재 기관명으로 치환하는 작업 자체가 provenance 교감의 일부**이다. 특히 `歸默`, `策努`, `美歷技`, `美大館`은 현재 기관명이 확정되지만, `加多博`, `美新館`은 원표와 개별 合集號의 備注를 더 확인하기 전에는 섣불리 확정하지 않는 것이 안전하다.
+
+## 9. 반드시 교감할 항목
 
 우선 재검토가 필요한 항목은 다음과 같다.
 
@@ -211,7 +267,7 @@ tags: [甲骨文, 甲骨學, 甲骨文合集, 原骨拓藏, 收藏]
 - `上野博`, `東博`: 東京國立博物館의 기관사와 원표 약호 관계
 - `中島`, `飲島`, `谷蕩` 등 일본 개인명 표기
 
-## 9. 사용법
+## 10. 사용법
 
 실제 갑골 한 점의 provenance를 추적할 때는 `原骨拓藏` 하나만 보아서는 충분하지 않다.
 
@@ -224,11 +280,11 @@ tags: [甲骨文, 甲骨學, 甲骨文合集, 原骨拓藏, 收藏]
 
 `原骨拓藏`은 단순한 소장처 정보가 아니라, 《合集》 한 편이 어떤 실물, 탁본, 사진을 통해 편찬되었는지를 복원하는 **자료계보의 한 축**이다.
 
-## 10. 211개 전체 목록
+## 11. 211개 전체 목록
 
 아래 목록은 小學堂 〈附錄: 拓本和現藏簡稱〉의 211개 항목을 원표 순서대로 전재한 실용 색인이다.[2] 상세 provenance 검증은 위의 묶음별로 순차 보강한다.
 
-### 10.1 1–50
+### 11.1 1–50
 
 **八木**. 八木. [2]
 
@@ -330,7 +386,7 @@ tags: [甲骨文, 甲骨學, 甲骨文合集, 原骨拓藏, 收藏]
 
 **津博**. 天津歷史博物館. [2]
 
-### 10.2 51–100
+### 11.2 51–100
 
 **津藝博**. 天津藝術博物館. [2]
 
@@ -432,7 +488,7 @@ tags: [甲骨文, 甲骨學, 甲骨文合集, 原骨拓藏, 收藏]
 
 **西川**. 西川靜庵. [2]
 
-### 10.3 101–150
+### 11.3 101–150
 
 **揚博**. 揚州博物館. [2]
 
@@ -534,7 +590,7 @@ tags: [甲骨文, 甲骨學, 甲骨文合集, 原骨拓藏, 收藏]
 
 **南博**. 南京博物院. [2]
 
-### 10.4 151–211
+### 11.4 151–211
 
 **南博拓**. 南京博物院拓本. [2]
 
@@ -658,7 +714,6 @@ tags: [甲骨文, 甲骨學, 甲骨文合集, 原骨拓藏, 收藏]
 
 **簠拓**. 簠室甲骨拓本(王襄). [2]
 
-
 ## 출처 및 참고자료
 
 1. 中央研究院小學堂, 〈甲骨文合集材料來源表資料庫·凡例〉. https://xiaoxue.iis.sinica.edu.tw/obm/Home/Example
@@ -679,3 +734,12 @@ tags: [甲骨文, 甲骨學, 甲骨文合集, 原骨拓藏, 收藏]
 - **[K]** 京都大學學術情報リポジトリ, 《東方學報》42冊, 伊藤道治 〈藤井有鄰館所藏甲骨文字〉, 1971, pp.65–89. https://repository.kulib.kyoto-u.ac.jp/collections/40158cc1-bfec-48a8-bc6f-faa30c95f08a
 - **[L]** 貝塚茂樹 編 《京都大學人文科學研究所藏甲骨文字》 관련 서지. 京都大學人文科學研究所 collection 대조용. https://ah.lib.nccu.edu.tw/item?item_id=62499
 - **[M]** 東京國立博物館, 〈館の歴史〉. 上野 이전, 帝國博物館·帝室博物館·國立博物館·東京國立博物館으로의 기관명 변천 확인용. https://www.tnm.jp/modules/r_free_page/index.php?id=155&lang=ja
+- **[N]** University of Cambridge, Hopkins Collection of Chinese Inscribed Oracle Bones 및 Cambridge Chinese Studies 자료. https://www.ames.cam.ac.uk/files/summer_2021_cambridge_chinese_studies_newsletter_-_part_i_1.pdf
+- **[O]** British Library, `Or 7694/1506-2125: Oracle bone collection`, Couling-Chalfant collection. https://searcharchives.bl.uk/
+- **[P]** Edward L. Shaughnessy, *Chinese Annals in the Western Observatory* 관련 해외 갑골 소장사 정리. 프랑스 세 기관 및 Basel 등 해외 collection 수량 대조용.
+- **[Q]** Musée Guimet, China collection. https://www.guimet.fr/en/collections/china
+- **[R]** Paris Musées, Musée Cernuschi, musée des Arts de l’Asie de la Ville de Paris. https://www.parismusees.paris.fr/
+- **[S]** Royal Ontario Museum, James Menzies Chinese Research Fellowship 및 ROM oracle-bone collection 자료. https://www.rom.on.ca/collections-researches/rom-research/james-menzies-chinese-research-fellowship
+- **[T]** The Metropolitan Museum of Art, online collection의 Shang oracle bones. https://www.metmuseum.org/art/collection/search/60696
+- **[U]** Smithsonian, National Museum of American History, museum history: 1964 Museum of History and Technology 개관, 1980 현 명칭으로 개칭. https://americanhistory.si.edu/about/history
+- **[V]** M. H. de Young Memorial Museum 역사 자료. `美新館`의 명칭 식별 보조용이며 갑골 inventory와의 직접 대조는 미완료. https://www.sfmuseum.org/hist10/mhdeyoung.html
