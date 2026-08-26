@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Abbreviations for Classical Latin and Greek Authors and Texts"
+title: "라틴 그리스 주요 저자와 고전문헌 약호"
 date: 2026-08-26
 categories:
   - Philology
@@ -11,7 +11,6 @@ series: Western
 
 고전 문헌에서 자주 쓰이는 저자·작품 약호를 저자별로 정리한다.
 그리스 문헌은 주로 **LSJ**, 라틴 문헌은 **OLD**와 **TLL**의 관행을 기준으로 한다.
-한국어 작품명과 약호의 변형은 생략하고, 실제 인용에 바로 쓸 수 있도록 `저자 약호 + 작품 약호 + 작품 원명`만 제시한다.
 
 # 라틴 문헌
 
