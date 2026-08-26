@@ -1,0 +1,17 @@
+name: Temporary Oracle 3 Audit
+
+on:
+  push:
+    paths:
+      - '.oracle3-audit-trigger'
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Audit draft
+        run: python .github/oracle3_audit.py
