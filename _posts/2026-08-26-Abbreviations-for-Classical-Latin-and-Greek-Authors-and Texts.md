@@ -472,77 +472,89 @@ series: Western
 - Gal. *Galenus*
 - Galen. De usu part. *De usu partium*
 
-# 총서·단편집·비문집·코퍼스
+# 비문·파피루스 자료
 
-Corpus Inscriptionum Latinarum(CIL) 라틴 비문 총서
+## 라틴어 비문
 
-Inscriptiones Latinae Selectae(ILS) 라틴 비문 선집
+Corpus Inscriptionum Latinarum(CIL) 로마 세계의 라틴 비문을 체계적으로 수집·비평 편집하는 표준 비문 총서
 
-L'Année épigraphique(AE) 연간 라틴 비문집
+Inscriptiones Latinae Selectae(ILS) 주요 라틴 비문을 선별한 비문 선집
 
-Inscriptiones Latinae Liberae Rei Publicae(ILLRP) 공화정 라틴 비문
+L’Année épigraphique(AE) 매년 새로 출판되거나 재검토된 로마 세계의 비문을 수록하는 비문 연보
 
-Epigraphik-Datenbank Clauss-Slaby(EDCS) 라틴 비문 DB
+Inscriptiones Latinae Liberae Rei Publicae(ILLRP) 로마 공화정기 라틴 비문 선집
 
-Epigraphic Database Heidelberg(EDH) 비문 DB
+Epigraphik-Datenbank Clauss-Slaby(EDCS) 라틴 비문 검색 데이터베이스
 
-Inscriptiones Graecae(IG) 그리스 비문 총서
+Epigraphic Database Heidelberg(EDH) 고대 비문과 관련 메타데이터·이미지를 제공하는 디지털 비문 데이터베이스
 
-Supplementum Epigraphicum Graecum(SEG) 그리스 비문 연감
+## 그리스어 비문
 
-Sylloge Inscriptionum Graecarum, 3rd ed.(Syll.³) 그리스 비문 선집
+Inscriptiones Graecae(IG) 고대 그리스 세계의 비문을 지역별로 수집·비평 편집하는 표준 비문 총서
 
-Orientis Graeci Inscriptiones Selectae(OGIS) 동방 그리스 비문 선집
+Supplementum Epigraphicum Graecum(SEG) 새로 출판된 그리스 비문과 기존 비문에 대한 새로운 연구를 매년 수집·정리하는 비문 연보
 
-Die Fragmente der griechischen Historiker(FGrHist) 야코비 그리스 역사가 단편
+Sylloge Inscriptionum Graecarum, 3rd ed.(Syll.³) 역사적으로 중요한 그리스 비문을 선별한 비문 선집
 
-Brill's New Jacoby(BNJ) FGrHist의 현대 온라인 계승
+Orientis Graeci Inscriptiones Selectae(OGIS) 헬레니즘·로마 시대 동방 그리스어 비문 선집
 
-Fragmenta Historicorum Graecorum(FHG) 뮐러 역사가 단편집
+# 단편·자료집
 
-Diels–Kranz, Die Fragmente der Vorsokratiker(DK) 소크라테스 이전 철학자 단편
+Die Fragmente der griechischen Historiker(FGrHist) 전승이 불완전한 고대 그리스 역사가들의 단편과 증언을 편집한 자료집
 
-Laks–Most, Early Greek Philosophy(LM) 초기 그리스 철학 신편집
+Brill’s New Jacoby(BNJ) FGrHist를 현대적으로 재편집하여 번역·주석·참고문헌을 제공하는 온라인 자료집
 
-Stoicorum Veterum Fragmenta(SVF) 초기 스토아 단편
+Fragmenta Historicorum Graecorum(FHG) 뮐러가 편집한 고대 그리스 역사가 단편집
 
-Tragicorum Graecorum Fragmenta(TrGF) 그리스 비극 단편
+Diels–Kranz, Die Fragmente der Vorsokratiker(DK) 소크라테스 이전 철학자들의 증언(A), 단편(B), 관련 자료(C)를 수록한 자료집
 
-Poetae Comici Graeci(PCG) 그리스 희극 단편
+Laks–Most, Early Greek Philosophy(LM) 초기 그리스 철학의 인물·학설·전승 자료를 새 체계로 편집·번역한 자료집
 
-Poetae Melici Graeci(PMG) 그리스 서정시 단편
+Stoicorum Veterum Fragmenta(SVF) 초기 스토아 철학자들의 증언과 단편 자료집
 
-Poetarum Lesbiorum Fragmenta(PLF) 레스보스 시인 단편
+Tragicorum Graecorum Fragmenta(TrGF) 전승이 불완전한 그리스 비극 작품과 작가의 단편을 비평 편집한 총서
 
-Supplementum Hellenisticum(SH) 헬레니즘 시 단편
+Poetae Comici Graeci(PCG) 고대 그리스 희극 작가들의 단편을 비평 편집한 총서
 
-Fragmenta Poetarum Latinorum / The Fragmentary Latin Poets(FPL / FLP) 라틴 시인 단편
+Poetae Melici Graeci(PMG) 그리스 서정시인의 단편을 수록한 자료집
 
-Oratorum Romanorum Fragmenta(ORF) 로마 웅변가 단편
+Poetarum Lesbiorum Fragmenta(PLF) 사포와 알카이오스를 중심으로 레스보스 시인들의 단편을 편집한 자료집
 
-Grammatici Latini(GL) 라틴 문법가 총서
+Supplementum Hellenisticum(SH) 기존 주요 판본에 충분히 수록되지 않은 헬레니즘 시 단편을 보충한 자료집
 
-Grammatici Graeci(GGL) 그리스 문법가 총서
+Fragmenta Poetarum Latinorum / The Fragmentary Latin Poets(FPL / FLP) 단편으로 전하는 라틴 시인들의 작품을 편집한 자료집
 
-Corpus Christianorum Series Latina(CCSL) 기독교 라틴 교부 문헌
+Oratorum Romanorum Fragmenta(ORF) 단편으로 전하는 로마 웅변가들의 연설 자료집
 
-Corpus Scriptorum Ecclesiasticorum Latinorum(CSEL) 라틴 교부 비평판
+# 문법가·교부 문헌 총서
 
-Die griechischen christlichen Schriftsteller(GCS) 그리스 교부 비평판
+Grammatici Latini(GL) 고대 후기 라틴 문법가들의 저술을 모은 판본 총서
 
-Patrologia Graeca(PG) 미뉴 그리스 교부 총서
+Grammatici Graeci(GGL) 고대 그리스 문법가들의 저술을 모은 판본 총서
 
-Patrologia Latina(PL) 미뉴 라틴 교부 총서
+Corpus Christianorum Series Latina(CCSL) 라틴 기독교·교부 문헌의 현대 비평판 총서
 
-Oxford Classical Texts(OCT) 옥스퍼드 고전 비평판
+Corpus Scriptorum Ecclesiasticorum Latinorum(CSEL) 라틴 교부 및 초기 기독교 저술가의 현대 비평판 총서
 
-Bibliotheca Teubneriana(BT / Teubner) 토이브너 비평판
+Die griechischen christlichen Schriftsteller(GCS) 초기 그리스 기독교 저술가들의 현대 비평판 총서
 
-Loeb Classical Library(LCL / Loeb) 로브 대역판
+Patrologia Graeca(PG) 미뉴가 편집한 그리스 교부·기독교 문헌 대총서
 
-Thesaurus Linguae Graecae(TLG) 그리스어 전자 코퍼스
+Patrologia Latina(PL) 미뉴가 편집한 라틴 교부·기독교 문헌 대총서
 
-Packard Humanities Institute Latin Texts(PHI) 라틴어 전자 코퍼스
+# 비평판·대역판 총서
+
+Oxford Classical Texts(OCT) 그리스·라틴 고전 저작의 옥스퍼드 비평판 총서
+
+Bibliotheca Teubneriana(BT / Teubner) 그리스·라틴 고전 및 후기 고대 문헌의 비평판 총서
+
+Loeb Classical Library(LCL / Loeb) 그리스·라틴 원문과 영어 번역을 대면 수록하는 대역판 총서
+
+# 전자 텍스트 코퍼스
+
+Thesaurus Linguae Graecae(TLG) 고대부터 비잔틴 이후까지의 그리스어 문헌을 수록하는 전자 텍스트 코퍼스
+
+Packard Humanities Institute Latin Texts(PHI) 고전 라틴어 문헌을 중심으로 제공하는 전자 텍스트 데이터베이스
 
 # 실제 인용 예시
 
