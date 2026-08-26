@@ -335,17 +335,30 @@ BnF Pelliot chinois의 표준 인쇄 목록이다.
 
 *Catalogue des manuscrits chinois de Touen-Houang, Fonds Pelliot chinois I: Nos 2001–2500*, sous la direction de Marie-Roberte Guignard, Paris: Bibliothèque nationale, 1970.
 
+### II
+
+`Pelliot chinois 2501–3000`을 담당할 제II권은 정식 인쇄본으로 간행되지 않았다. 그러나 해당 번호대의 문서 자체는 BnF **Archives et manuscrits**와 IDP의 개별 온라인 레코드에서 검색·확인할 수 있다. 따라서 이를 정식 간행된 “Catalogue II 전자판”으로 부르기보다는 **미간행 II 범위의 온라인 catalogue records**라고 구분하는 편이 정확하다.
+
+- BnF Archives et manuscrits: <https://archivesetmanuscrits.bnf.fr/>
+- International Dunhuang Programme: <https://idp.bl.uk/>
+
 ### III
 
 *Fonds Pelliot chinois III: Nos 3001–3500*, sous la direction de Michel Soymié, Paris, 1983.
+
+전자판(Gallica): <https://gallica.bnf.fr/ark:/12148/bpt6k2138982>
 
 ### IV
 
 *Fonds Pelliot chinois IV: Nos 3501–4000*, sous la direction de Michel Soymié, Paris: École française d'Extrême-Orient, 1991.
 
+전자판(Gallica): <https://gallica.bnf.fr/ark:/12148/bpt6k213899f>
+
 ### V
 
 *Fonds Pelliot chinois V*, sous la direction de Michel Soymié, Paris, 1995. 제4001번 이후 컬렉션의 마지막 번호들까지 기술한다.
+
+전자판(Gallica): <https://gallica.bnf.fr/ark:/12148/bpt6k2139007>
 
 ### VI
 
@@ -357,7 +370,7 @@ Françoise Wang-Toutain, *Catalogue des manuscrits chinois de Touen-Houang, Fond
 
 ### 제II권 문제
 
-Pelliot chinois 2501–3000을 다루어야 할 제II권은 정식 인쇄본으로 간행되지 않았다. BnF의 공식 인쇄목록 안내는 Pelliot chinois에 대해 **“t. 1 & 3 à 5”**만을 열거한다. 1995년 제V권 출판 소개에서도 “제II권은 여전히 나오지 않았다”고 명시한다. 현재는 BnF Archives et manuscrits, Gallica, IDP 등의 개별 레코드와 이미지를 직접 확인하는 것이 안전하다.
+Pelliot chinois 2501–3000을 다루어야 할 제II권은 정식 인쇄본으로 간행되지 않았다. BnF의 공식 인쇄목록 안내는 Pelliot chinois에 대해 **“t. 1 & 3 à 5”**만을 열거한다. 1995년 제V권 출판 소개에서도 “제II권은 여전히 나오지 않았다”고 명시한다. 다만 이 번호대의 문서들은 BnF Archives et manuscrits와 IDP에서 개별 레코드로 온라인 확인할 수 있으므로, 실제 자료 접근 자체가 불가능한 것은 아니다.
 
 ## Pelliot tibétain의 기본 목록
 
@@ -426,7 +439,13 @@ Gallica에서는 다음 고전 목록의 디지털판을 직접 볼 수 있다.
 - *Catalogue des manuscrits chinois de Touen-Houang* I, III, IV, V, VI
 - Marcelle Lalou, *Inventaire des manuscrits tibétains de Touen-Houang* I–III
 
-BnF Archives et manuscrits는 개별 사본의 최신 기관 메타데이터를 확인하는 데 중요하다. 특히 출판된 Catalogue II가 없는 P.2501–3000 구간에서는 BnF의 온라인 레코드와 IDP를 우선 확인하는 것이 좋다.
+Pelliot chinois 중 정식 인쇄본이 있는 III–V의 Gallica 전자판은 다음과 같다.
+
+- III (P.3001–3500): <https://gallica.bnf.fr/ark:/12148/bpt6k2138982>
+- IV (P.3501–4000): <https://gallica.bnf.fr/ark:/12148/bpt6k213899f>
+- V (P.4001–6040): <https://gallica.bnf.fr/ark:/12148/bpt6k2139007>
+
+BnF Archives et manuscrits는 개별 사본의 최신 기관 메타데이터를 확인하는 데 중요하다. 특히 정식 인쇄 Catalogue II가 없는 P.2501–3000 구간에서도 개별 문서 레코드를 온라인으로 확인할 수 있으며, IDP와 함께 이용하는 것이 좋다.
 
 ### Old Tibetan Documents Online (OTDO)
 
@@ -495,8 +514,20 @@ Pelliot 문서도 마찬가지로:
 - BnF, *Catalogues imprimés des Manuscrits du Monde*  
   <https://www.bnf.fr/fr/catalogues-imprimes-des-manuscrits-du-monde>
 
+- BnF Archives et manuscrits  
+  <https://archivesetmanuscrits.bnf.fr/>
+
 - BnF Éditions, *Catalogue des manuscrits chinois de Touen-Houang I*  
   <https://editions.bnf.fr/catalogue-des-manuscrits-chinois-de-touen-houang-fonds-pelliot-chinois-i>
+
+- *Catalogue des manuscrits chinois de Touen-Houang III* — Gallica  
+  <https://gallica.bnf.fr/ark:/12148/bpt6k2138982>
+
+- *Catalogue des manuscrits chinois de Touen-Houang IV* — Gallica  
+  <https://gallica.bnf.fr/ark:/12148/bpt6k213899f>
+
+- *Catalogue des manuscrits chinois de Touen-Houang V* — Gallica  
+  <https://gallica.bnf.fr/ark:/12148/bpt6k2139007>
 
 - BnF Éditions, *Catalogue des manuscrits chinois de Touen-Houang V*  
   <https://editions.bnf.fr/catalogue-des-manuscrits-chinois-de-touen-houang-fonds-pelliot-chinois-v>
