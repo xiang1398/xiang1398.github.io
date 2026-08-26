@@ -439,12 +439,6 @@ Gallica에서는 다음 고전 목록의 디지털판을 직접 볼 수 있다.
 - *Catalogue des manuscrits chinois de Touen-Houang* I, III, IV, V, VI
 - Marcelle Lalou, *Inventaire des manuscrits tibétains de Touen-Houang* I–III
 
-Pelliot chinois 중 정식 인쇄본이 있는 III–V의 Gallica 전자판은 다음과 같다.
-
-- III (P.3001–3500): <https://gallica.bnf.fr/ark:/12148/bpt6k2138982>
-- IV (P.3501–4000): <https://gallica.bnf.fr/ark:/12148/bpt6k213899f>
-- V (P.4001–6040): <https://gallica.bnf.fr/ark:/12148/bpt6k2139007>
-
 BnF Archives et manuscrits는 개별 사본의 최신 기관 메타데이터를 확인하는 데 중요하다. 특히 정식 인쇄 Catalogue II가 없는 P.2501–3000 구간에서도 개별 문서 레코드를 온라인으로 확인할 수 있으며, IDP와 함께 이용하는 것이 좋다.
 
 ### Old Tibetan Documents Online (OTDO)
