@@ -19,46 +19,16 @@ document.addEventListener("DOMContentLoaded", () => {
     return element;
   }
 
-  function addBacklinks(referenceMap, backlinks, labelForKey) {
-    backlinks.forEach((ids, key) => {
-      const item = referenceMap.get(key);
-      if (!item || !ids.length) return;
-
-      const wrapper = document.createElement("span");
-      wrapper.className = "citation-backlinks";
-      wrapper.setAttribute("aria-label", "본문 인용 위치로 돌아가기");
-
-      ids.forEach((id, index) => {
-        const back = document.createElement("a");
-        back.href = `#${id}`;
-        back.className = "citation-backlink";
-        back.setAttribute(
-          "aria-label",
-          `${labelForKey(key)}의 ${index + 1}번째 인용 위치로 돌아가기`
-        );
-        back.textContent = ids.length === 1 ? "↩" : `↩${index + 1}`;
-        wrapper.appendChild(back);
-      });
-
-      item.appendChild(document.createTextNode(" "));
-      item.appendChild(wrapper);
-    });
-  }
-
   function linkTextCitations({
     boundaryHeading,
     matchRegex,
     keyFromMatch,
     referenceMap,
     targetId,
-    citationId,
     ariaLabel,
     linkClass = "citation-link",
   }) {
-    if (!boundaryHeading || !referenceMap.size) return new Map();
-
-    const occurrenceCount = new Map();
-    const backlinks = new Map();
+    if (!boundaryHeading || !referenceMap.size) return;
 
     const walker = document.createTreeWalker(post, NodeFilter.SHOW_TEXT, {
       acceptNode(node) {
@@ -103,19 +73,13 @@ document.addEventListener("DOMContentLoaded", () => {
           document.createTextNode(text.slice(lastIndex, match.index))
         );
 
-        const count = (occurrenceCount.get(key) || 0) + 1;
-        occurrenceCount.set(key, count);
-
         const anchor = document.createElement("a");
         anchor.href = `#${targetId(key)}`;
-        anchor.id = citationId(key, count);
         anchor.className = linkClass;
         anchor.setAttribute("aria-label", ariaLabel(key));
         anchor.textContent = match[0];
         fragment.appendChild(anchor);
 
-        if (!backlinks.has(key)) backlinks.set(key, []);
-        backlinks.get(key).push(anchor.id);
         lastIndex = regex.lastIndex;
       }
 
@@ -123,11 +87,9 @@ document.addEventListener("DOMContentLoaded", () => {
       fragment.appendChild(document.createTextNode(text.slice(lastIndex)));
       node.parentNode.replaceChild(fragment, node);
     });
-
-    return backlinks;
   }
 
-  // 1. 숫자 주석: [1], [2] ... ↔ 「출처 및 참고자료」
+  // 1. 숫자 주석: [1], [2] ... → 「출처 및 참고자료」
   const referencesHeading = findHeading(/출처\s*및\s*참고자료/);
   const referenceList = findFollowingList(referencesHeading);
 
@@ -144,20 +106,17 @@ document.addEventListener("DOMContentLoaded", () => {
       referenceMap.set(number, item);
     });
 
-    const backlinks = linkTextCitations({
+    linkTextCitations({
       boundaryHeading: referencesHeading,
       matchRegex: /\[(\d+)\]/g,
       keyFromMatch: (match) => Number(match[1]),
       referenceMap,
       targetId: (number) => `ref-${number}`,
-      citationId: (number, count) => `cite-${number}-${count}`,
       ariaLabel: (number) => `참고자료 ${number}로 이동`,
     });
-
-    addBacklinks(referenceMap, backlinks, (number) => `참고자료 ${number}`);
   }
 
-  // 2. 알파벳 출처 주석: [T], [N], [G] ... ↔ 「자료 내원 조사에 사용한 주요 출처」
+  // 2. 알파벳 출처 주석: [T], [N], [G] ... → 「자료 내원 조사에 사용한 주요 출처」
   const sourceHeading = findHeading(/자료\s*내원\s*조사에\s*사용한\s*주요\s*출처/);
   const sourceList = findFollowingList(sourceHeading);
 
@@ -177,17 +136,14 @@ document.addEventListener("DOMContentLoaded", () => {
       sourceMap.set(key, item);
     });
 
-    const backlinks = linkTextCitations({
+    linkTextCitations({
       boundaryHeading: sourceHeading,
       matchRegex: /\[([A-Z]+)\]/g,
       keyFromMatch: (match) => match[1],
       referenceMap: sourceMap,
       targetId: (key) => `source-${key.toLowerCase()}`,
-      citationId: (key, count) => `source-cite-${key.toLowerCase()}-${count}`,
       ariaLabel: (key) => `자료 내원 출처 ${key}로 이동`,
       linkClass: "citation-link citation-source-link",
     });
-
-    addBacklinks(sourceMap, backlinks, (key) => `자료 내원 출처 ${key}`);
   }
 });
