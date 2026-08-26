@@ -497,37 +497,38 @@ Pelliot 문서도 마찬가지로:
 
 등 원 소장번호를 그대로 유지하는 것이 좋을 듯하다.
 
-## 레퍼런스들
+## 레퍼런스
+
+### 원문·카탈로그 직접 열람
+
+- International Dunhuang Programme (IDP)  
+  <https://idp.bl.uk/>
+
+- BnF Archives et manuscrits — Pelliot chinois·Pelliot tibétain 개별 문서 검색  
+  <https://archivesetmanuscrits.bnf.fr/>
+
+- *Catalogue des manuscrits chinois de Touen-Houang I: Nos 2001–2500* — Gallica 전자판  
+  <https://gallica.bnf.fr/ark:/12148/bpt6k213897p>
+
+- *Catalogue des manuscrits chinois de Touen-Houang III: Nos 3001–3500* — Gallica 전자판  
+  <https://gallica.bnf.fr/ark:/12148/bpt6k2138982>
+
+- *Catalogue des manuscrits chinois de Touen-Houang IV: Nos 3501–4000* — Gallica 전자판  
+  <https://gallica.bnf.fr/ark:/12148/bpt6k213899f>
+
+- *Catalogue des manuscrits chinois de Touen-Houang V: Nos 4001–6040* — Gallica 전자판  
+  <https://gallica.bnf.fr/ark:/12148/bpt6k2139007>
+
+- *Catalogue des manuscrits chinois de Touen-Houang VI: Fragments* — Gallica 전자판  
+  <https://gallica.bnf.fr/ark:/12148/bpt6k213901m>
+
+### 출판·서지 확인
 
 - International Dunhuang Programme — About  
   <https://idp.bl.uk/about/>
 
-- International Dunhuang Programme  
-  <https://idp.bl.uk/>
-
 - BnF, *Catalogues imprimés des Manuscrits du Monde*  
   <https://www.bnf.fr/fr/catalogues-imprimes-des-manuscrits-du-monde>
-
-- BnF Archives et manuscrits  
-  <https://archivesetmanuscrits.bnf.fr/>
-
-- BnF Éditions, *Catalogue des manuscrits chinois de Touen-Houang I*  
-  <https://editions.bnf.fr/catalogue-des-manuscrits-chinois-de-touen-houang-fonds-pelliot-chinois-i>
-
-- *Catalogue des manuscrits chinois de Touen-Houang III* — Gallica  
-  <https://gallica.bnf.fr/ark:/12148/bpt6k2138982>
-
-- *Catalogue des manuscrits chinois de Touen-Houang IV* — Gallica  
-  <https://gallica.bnf.fr/ark:/12148/bpt6k213899f>
-
-- *Catalogue des manuscrits chinois de Touen-Houang V* — Gallica  
-  <https://gallica.bnf.fr/ark:/12148/bpt6k2139007>
-
-- BnF Éditions, *Catalogue des manuscrits chinois de Touen-Houang V*  
-  <https://editions.bnf.fr/catalogue-des-manuscrits-chinois-de-touen-houang-fonds-pelliot-chinois-v>
-
-- BnF Éditions, *Catalogue des manuscrits chinois de Touen-Houang VI*  
-  <https://editions.bnf.fr/catalogue-des-manuscrits-chinois-de-touen-houang-fonds-pelliot-chinois-vi>
 
 - BnF catalogue, Marcelle Lalou, *Inventaire des manuscrits tibétains de Touen-Houang*  
   <https://catalogue.bnf.fr/ark:/12148/cb370657194>
