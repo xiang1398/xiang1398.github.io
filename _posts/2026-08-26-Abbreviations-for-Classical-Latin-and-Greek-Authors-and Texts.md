@@ -7,23 +7,23 @@ categories:
 series: Western
 ---
 
-# 주요 라틴·그리스 고전 문헌 약호
+## 주요 라틴·그리스 고전 문헌 약호
 
 고전 문헌에서 자주 쓰이는 저자·작품 약호를 저자별로 정리한다.
 그리스 문헌은 주로 **LSJ**, 라틴 문헌은 **OLD**와 **TLL**의 관행을 기준으로 한다.
 
-# 라틴 문헌
+## 라틴 문헌
 
-## Caesar
+### Caesar
 - Caes. Gal. *De bello Gallico*
 - Caes. Civ. *De bello civili*
 
-## Corpus Caesarianum
+### Corpus Caesarianum
 - B. Alex. *De bello Alexandrino*
 - B. Afr. *De bello Africo*
 - B. Hisp. *De bello Hispaniensi*
 
-## Cicero
+### Cicero
 - Cic. Ac. *Academica*
 - Cic. Amic. *De amicitia / Laelius*
 - Cic. Att. *Epistulae ad Atticum*
@@ -48,21 +48,21 @@ series: Western
 - Cic. Tusc. *Tusculanae disputationes*
 - Cic. Verr. *In Verrem*
 
-## Sallustius
+### Sallustius
 - Sall. Cat. *Bellum Catilinae*
 - Sall. Iug. *Bellum Iugurthinum*
 
-## Cornelius Nepos
+### Cornelius Nepos
 - Nep. *Vitae*
 
-## Varro
+### Varro
 - Varr. L. *De lingua Latina*
 - Varr. R. *Rerum rusticarum libri*
 
-## Cato
+### Cato
 - Cato Agr. *De agri cultura*
 
-## Plautus
+### Plautus
 - Plaut. Amph. *Amphitruo*
 - Plaut. Asin. *Asinaria*
 - Plaut. Aul. *Aulularia*
@@ -77,7 +77,7 @@ series: Western
 - Plaut. Trin. *Trinummus*
 - Plaut. Truc. *Truculentus*
 
-## Terentius
+### Terentius
 - Ter. Ad. *Adelphoe*
 - Ter. An. *Andria*
 - Ter. Eun. *Eunuchus*
@@ -85,25 +85,25 @@ series: Western
 - Ter. Hec. *Hecyra*
 - Ter. Phorm. *Phormio*
 
-## Lucretius
+### Lucretius
 - Lucr. *De rerum natura*
 
-## Catullus
+### Catullus
 - Catull. *Carmina*
 
-## Vergilius
+### Vergilius
 - Verg. A. *Aeneis*
 - Verg. Ecl. *Eclogae / Bucolica*
 - Verg. G. *Georgica*
 
-## Horatius
+### Horatius
 - Hor. Carm. *Carmina*
 - Hor. Epod. *Epodi*
 - Hor. S. *Sermones*
 - Hor. Ep. *Epistulae*
 - Hor. Ars *Ars poetica*
 
-## Ovidius
+### Ovidius
 - Ov. Am. *Amores*
 - Ov. Ars *Ars amatoria*
 - Ov. Fast. *Fasti*
@@ -112,45 +112,45 @@ series: Western
 - Ov. Pont. *Epistulae ex Ponto*
 - Ov. Tr. *Tristia*
 
-## Propertius
+### Propertius
 - Prop. *Elegiae*
 
-## Tibullus
+### Tibullus
 - Tib. *Elegiae*
 
-## Martialis
+### Martialis
 - Mart. *Epigrammata*
 
-## Iuvenalis
+### Iuvenalis
 - Iuv. *Saturae*
 
-## Lucanus
+### Lucanus
 - Luc. *Bellum civile*
 
-## Statius
+### Statius
 - Stat. Theb. *Thebais*
 - Stat. Ach. *Achilleis*
 - Stat. Silv. *Silvae*
 
-## Silius Italicus
+### Silius Italicus
 - Sil. *Punica*
 
-## Valerius Flaccus
+### Valerius Flaccus
 - Val. Fl. *Argonautica*
 
-## Livius
+### Livius
 - Liv. *Ab urbe condita*
 
-## Velleius Paterculus
+### Velleius Paterculus
 - Vell. *Historia Romana*
 
-## Valerius Maximus
+### Valerius Maximus
 - Val. Max. *Facta et dicta memorabilia*
 
-## Curtius Rufus
+### Curtius Rufus
 - Curt. *Historiae Alexandri Magni*
 
-## Seneca
+### Seneca
 - Sen. Ben. *De beneficiis*
 - Sen. Brev. *De brevitate vitae*
 - Sen. Clem. *De clementia*
@@ -161,27 +161,27 @@ series: Western
 - Sen. Tranq. *De tranquillitate animi*
 - Sen. Vit. *De vita beata*
 
-## Petronius
+### Petronius
 - Petron. *Satyrica*
 
-## Plinius Maior
+### Plinius Maior
 - Plin. Nat. *Naturalis historia*
 
-## Plinius Minor
+### Plinius Minor
 - Plin. Ep. *Epistulae*
 - Plin. Pan. *Panegyricus*
 
-## Quintilianus
+### Quintilianus
 - Quint. Inst. *Institutio oratoria*
 
-## Tacitus
+### Tacitus
 - Tac. Ag. *Agricola*
 - Tac. Ann. *Annales*
 - Tac. Dial. *Dialogus de oratoribus*
 - Tac. Germ. *Germania*
 - Tac. Hist. *Historiae*
 
-## Suetonius
+### Suetonius
 - Suet. Aug. *Divus Augustus*
 - Suet. Iul. *Divus Iulius*
 - Suet. Tib. *Tiberius*
@@ -189,76 +189,76 @@ series: Western
 - Suet. Claud. *Claudius*
 - Suet. Ner. *Nero*
 
-## Aulus Gellius
+### Aulus Gellius
 - Gell. *Noctes Atticae*
 
-## Apuleius
+### Apuleius
 - Apul. Apol. *Apologia*
 - Apul. Met. *Metamorphoses*
 - Apul. Soc. *De deo Socratis*
 
-## Fronto
+### Fronto
 - Front. *Epistulae*
 
-## Vitruvius
+### Vitruvius
 - Vitruv. *De architectura*
 
-## Ammianus Marcellinus
+### Ammianus Marcellinus
 - Amm. *Res gestae*
 
-## Augustinus
+### Augustinus
 - Aug. Conf. *Confessiones*
 - Aug. Civ. *De civitate Dei*
 - Aug. Doctr. chr. *De doctrina christiana*
 - Aug. Trin. *De Trinitate*
 
-## Hieronymus
+### Hieronymus
 - Hier. Ep. *Epistulae*
 - Hier. Vulg. *Hieronymus / Vulgata*
 
-## Tertullianus
+### Tertullianus
 - Tert. Apol. *Apologeticum*
 - Tert. Marc. *Adversus Marcionem*
 
-## Lactantius
+### Lactantius
 - Lact. Inst. *Divinae institutiones*
 
-## Boethius
+### Boethius
 - Boeth. Consol. *De consolatione philosophiae*
 
-## Cassiodorus
+### Cassiodorus
 - Cassiod. Var. *Variae*
 
-## Isidorus
+### Isidorus
 - Isid. Etym. *Etymologiae*
 
-# 그리스 문헌
+## 그리스 문헌
 
-## Homerus
+### Homerus
 - Hom. Il. *Ilias*
 - Hom. Od. *Odyssea*
 
-## Hesiodus
+### Hesiodus
 - Hes. Th. *Theogonia*
 - Hes. Op. *Opera et Dies*
 - Hes. Sc. *Scutum*
 
-## Pindarus
+### Pindarus
 - Pind. O. *Olympian Odes*
 - Pind. P. *Pythian Odes*
 - Pind. N. *Nemean Odes*
 - Pind. I. *Isthmian Odes*
 
-## Sappho
+### Sappho
 - Sapph. *Sappho*
 
-## Alcaeus
+### Alcaeus
 - Alc. *Alcaeus*
 
-## Archilochus
+### Archilochus
 - Archil. *Archilochus*
 
-## Aeschylus
+### Aeschylus
 - A. Ag. *Agamemnon*
 - A. Ch. *Choephori*
 - A. Eum. *Eumenides*
@@ -266,7 +266,7 @@ series: Western
 - A. Pr. *Prometheus Vinctus*
 - A. Sept. *Septem contra Thebas*
 
-## Sophocles
+### Sophocles
 - S. Aj. *Ajax*
 - S. Ant. *Antigone*
 - S. El. *Electra*
@@ -275,7 +275,7 @@ series: Western
 - S. Ph. *Philoctetes*
 - S. Tr. *Trachiniae*
 
-## Euripides
+### Euripides
 - E. Alc. *Alcestis*
 - E. Andr. *Andromache*
 - E. Ba. *Bacchae*
@@ -290,7 +290,7 @@ series: Western
 - E. Or. *Orestes*
 - E. Ph. *Phoenissae*
 
-## Aristophanes
+### Aristophanes
 - Ar. Ach. *Acharnians*
 - Ar. Av. *Aves*
 - Ar. Eq. *Equites*
@@ -302,27 +302,27 @@ series: Western
 - Ar. Th. *Thesmophoriazusae*
 - Ar. V. *Vespae*
 
-## Apollonius Rhodius
+### Apollonius Rhodius
 - Ap. Rh. *Argonautica*
 
-## Callimachus
+### Callimachus
 - Call. Aet. *Aetia*
 - Call. H. *Hymni*
 - Call. Epigr. *Epigrammata*
 
-## Theocritus
+### Theocritus
 - Theoc. *Idyllia*
 
-## Anthologia Palatina
+### Anthologia Palatina
 - Anth. Pal. / AP *Anthologia Palatina*
 
-## Herodotus
+### Herodotus
 - Hdt. *Historiae*
 
-## Thucydides
+### Thucydides
 - Th. *Historia belli Peloponnesiaci*
 
-## Xenophon
+### Xenophon
 - X. An. *Anabasis*
 - X. Cyr. *Cyropaedia*
 - X. HG *Hellenica*
@@ -331,33 +331,33 @@ series: Western
 - X. Smp. *Symposium*
 - X. Lac. *Respublica Lacedaemoniorum*
 
-## Polybius
+### Polybius
 - Plb. *Historiae*
 
-## Diodorus Siculus
+### Diodorus Siculus
 - D.S. *Bibliotheca historica*
 
-## Dionysius Halicarnassensis
+### Dionysius Halicarnassensis
 - D.H. Ant. Rom. *Antiquitates Romanae*
 
-## Strabo
+### Strabo
 - Str. *Geographica*
 
-## Pausanias
+### Pausanias
 - Paus. *Graeciae descriptio*
 
-## Arrianus
+### Arrianus
 - Arr. An. *Anabasis Alexandri*
 - Arr. Ind. *Indica*
 
-## Appianus
+### Appianus
 - App. BC *Bella civilia*
 - App. Mith. *Mithridatica*
 
-## Cassius Dio
+### Cassius Dio
 - D.C. *Historia Romana*
 
-## Plutarchus
+### Plutarchus
 - Plu. Alex. *Alexander*
 - Plu. Caes. *Caesar*
 - Plu. Cic. *Cicero*
@@ -367,7 +367,7 @@ series: Western
 - Plu. Sol. *Solon*
 - Plu. Mor. *Moralia*
 
-## Plato
+### Plato
 - Pl. Ap. *Apologia*
 - Pl. Chrm. *Charmides*
 - Pl. Cra. *Cratylus*
@@ -385,7 +385,7 @@ series: Western
 - Pl. Tht. *Theaetetus*
 - Pl. Ti. *Timaeus*
 
-## Aristoteles
+### Aristoteles
 - Arist. APr. *Analytica Priora*
 - Arist. APo. *Analytica Posteriora*
 - Arist. Cat. *Categoriae*
@@ -403,78 +403,78 @@ series: Western
 - Arist. Top. *Topica*
 - Arist. Po. *Poetica*
 
-## Theophrastus
+### Theophrastus
 - Thphr. CP *De causis plantarum*
 - Thphr. HP *Historia plantarum*
 - Thphr. Char. *Characteres*
 
-## Antiphon
+### Antiphon
 - Antipho *Orationes*
 
-## Andocides
+### Andocides
 - And. *Orationes*
 
-## Lysias
+### Lysias
 - Lys. *Orationes*
 
-## Isocrates
+### Isocrates
 - Isoc. *Orationes*
 
-## Aeschines
+### Aeschines
 - Aeschin. *Orationes*
 
-## Demosthenes
+### Demosthenes
 - D. *Orationes*
 - D. Olynth. *Olynthiacae*
 - D. Phil. *Philippicae*
 - D. Cor. *De corona*
 
-## Diogenes Laertius
+### Diogenes Laertius
 - D.L. *Vitae philosophorum*
 
-## Epictetus
+### Epictetus
 - Epict. Ench. *Enchiridion*
 - Epict. Diss. *Dissertationes*
 
-## Marcus Aurelius
+### Marcus Aurelius
 - M. Ant. *Ad se ipsum*
 
-## Plotinus
+### Plotinus
 - Plot. Enn. *Enneades*
 
-## Lucianus
+### Lucianus
 - Luc. Dial. mort. *Dialogi mortuorum*
 - Luc. Hist. conscr. *Quomodo historia conscribenda sit*
 - Luc. Verae hist. *Verae historiae*
 
-## Athenaeus
+### Athenaeus
 - Ath. *Deipnosophistae*
 
-## Aelianus
+### Aelianus
 - Ael. NA *De natura animalium*
 - Ael. VH *Varia historia*
 
-## Flavius Josephus
+### Flavius Josephus
 - Jos. AJ *Antiquitates Judaicae*
 - Jos. BJ *Bellum Judaicum*
 - Jos. Ap. *Contra Apionem*
 
-## Eusebius
+### Eusebius
 - Eus. HE *Historia ecclesiastica*
 - Eus. PE *Praeparatio evangelica*
 
-## Hippocrates
+### Hippocrates
 - Hippoc. Aph. *Aphorismi*
 - Hippoc. Aer. *De aere aquis locis*
 - Hippoc. Epid. *Epidemiae*
 
-## Galenus
+### Galenus
 - Gal. *Galenus*
 - Galen. De usu part. *De usu partium*
 
-# 비문·파피루스 자료
+## 비문·파피루스 자료
 
-## 라틴어 비문
+### 라틴어 비문
 
 Corpus Inscriptionum Latinarum(CIL) 로마 세계의 라틴 비문을 체계적으로 수집·비평 편집하는 표준 비문 총서
 
@@ -488,7 +488,7 @@ Epigraphik-Datenbank Clauss-Slaby(EDCS) 라틴 비문 검색 데이터베이스
 
 Epigraphic Database Heidelberg(EDH) 고대 비문과 관련 메타데이터·이미지를 제공하는 디지털 비문 데이터베이스
 
-## 그리스어 비문
+### 그리스어 비문
 
 Inscriptiones Graecae(IG) 고대 그리스 세계의 비문을 지역별로 수집·비평 편집하는 표준 비문 총서
 
@@ -498,7 +498,7 @@ Sylloge Inscriptionum Graecarum, 3rd ed.(Syll.³) 역사적으로 중요한 그�
 
 Orientis Graeci Inscriptiones Selectae(OGIS) 헬레니즘·로마 시대 동방 그리스어 비문 선집
 
-# 단편·자료집
+## 단편·자료집
 
 Die Fragmente der griechischen Historiker(FGrHist) 전승이 불완전한 고대 그리스 역사가들의 단편과 증언을 편집한 자료집
 
@@ -526,7 +526,7 @@ Fragmenta Poetarum Latinorum / The Fragmentary Latin Poets(FPL / FLP) 단편으�
 
 Oratorum Romanorum Fragmenta(ORF) 단편으로 전하는 로마 웅변가들의 연설 자료집
 
-# 문법가·교부 문헌 총서
+## 문법가·교부 문헌 총서
 
 Grammatici Latini(GL) 고대 후기 라틴 문법가들의 저술을 모은 판본 총서
 
@@ -542,7 +542,7 @@ Patrologia Graeca(PG) 미뉴가 편집한 그리스 교부·기독교 문헌 대
 
 Patrologia Latina(PL) 미뉴가 편집한 라틴 교부·기독교 문헌 대총서
 
-# 비평판·대역판 총서
+## 비평판·대역판 총서
 
 Oxford Classical Texts(OCT) 그리스·라틴 고전 저작의 옥스퍼드 비평판 총서
 
@@ -550,48 +550,48 @@ Bibliotheca Teubneriana(BT / Teubner) 그리스·라틴 고전 및 후기 고대
 
 Loeb Classical Library(LCL / Loeb) 그리스·라틴 원문과 영어 번역을 대면 수록하는 대역판 총서
 
-# 전자 텍스트 코퍼스
+## 전자 텍스트 코퍼스
 
 Thesaurus Linguae Graecae(TLG) 고대부터 비잔틴 이후까지의 그리스어 문헌을 수록하는 전자 텍스트 코퍼스
 
 Packard Humanities Institute Latin Texts(PHI) 고전 라틴어 문헌을 중심으로 제공하는 전자 텍스트 데이터베이스
 
-# 실제 인용 예시
+## 실제 인용 예시
 
 대표적인 사례만 원문과 함께 제시한다. 시와 극은 대체로 행 번호, 역사·산문은 권·장·절, Plato는 Stephanus 쪽수, Aristotle은 Bekker 쪽수를 사용한다.
 
-## Caesar
+### Caesar
 > Gallia est omnis divisa in partes tres.  
 > — Caes. Gal. 1.1.1
 
-## Cicero
+### Cicero
 > Salus populi suprema lex esto.  
 > — Cic. Leg. 3.8
 
-## Vergilius
+### Vergilius
 > Arma virumque cano, Troiae qui primus ab oris  
 > Italiam, fato profugus, Laviniaque venit  
 > litora.  
 > — Verg. A. 1.1–3
 
-## Augustinus
+### Augustinus
 > Tolle lege, tolle lege.  
 > — Aug. Conf. 8.12.29
 
-## Homerus
+### Homerus
 > μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος  
 > οὐλομένην, ἣ μυρί᾽ Ἀχαιοῖς ἄλγε᾽ ἔθηκε.  
 > — Hom. Il. 1.1–2
 
-## Plato
+### Plato
 > ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ.  
 > — Pl. Ap. 38a
 
-## Aristotle
+### Aristotle
 > πᾶσα τέχνη καὶ πᾶσα μέθοδος, ὁμοίως δὲ πρᾶξίς τε καὶ προαίρεσις, ἀγαθοῦ τινὸς ἐφίεσθαι δοκεῖ.  
 > — Arist. EN 1094a1–2
 
-# 기준 자료
+## 기준 자료
 
 - **LSJ**: *A Greek-English Lexicon*, "Authors and Works" — 그리스 저자·작품 약호의 기본 기준.
 - **TLL**: *Thesaurus Linguae Latinae*, *Index librorum scriptorum inscriptionum ex quibus exempla afferuntur* — 라틴 저자·작품 및 인용 약호의 기본 기준.
