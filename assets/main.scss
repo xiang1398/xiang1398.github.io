@@ -358,3 +358,49 @@ code {
   font-family: "D2Coding", "Consolas", monospace;
   font-size: 0.95em;
 }
+
+/* =========================
+   Citation navigation
+   ========================= */
+
+.citation-link {
+  white-space: nowrap;
+  text-decoration: none;
+  font-size: 0.85em;
+  vertical-align: super;
+  line-height: 1;
+}
+
+.citation-link:hover,
+.citation-link:focus {
+  text-decoration: underline;
+}
+
+.citation-reference,
+.citation-link {
+  scroll-margin-top: 5rem;
+}
+
+.citation-reference:target,
+.citation-link:target {
+  background: rgba(255, 225, 120, 0.28);
+  border-radius: 0.2em;
+}
+
+.citation-backlinks {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.3em;
+  margin-left: 0.35em;
+}
+
+.citation-backlink {
+  text-decoration: none;
+  font-size: 0.85em;
+  white-space: nowrap;
+}
+
+.citation-backlink:hover,
+.citation-backlink:focus {
+  text-decoration: underline;
+}
