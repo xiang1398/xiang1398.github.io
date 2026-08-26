@@ -282,6 +282,12 @@ body {
   line-height: 1.85;
 }
 
+/* 긴 URL/링크가 본문 폭을 넘지 않도록 줄바꿈 */
+.post-content a:not(.citation-link) {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
 /* 제목 */
 .post-title {
   font-size: 2.2rem;
