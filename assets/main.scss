@@ -254,7 +254,7 @@ pre.ling-tree {
     padding-bottom: 4.6em;
   }
 }
-/* 전체 기본 글씨체와 크기 */
+
 body {
   font-family:
     "Noto Serif",
@@ -276,25 +276,33 @@ body {
   line-height: 1.8;
 }
 
-/* 본문 글 */
 .post-content {
   font-size: 16px;
   line-height: 1.85;
 }
 
-/* 긴 URL/링크가 본문 폭을 넘지 않도록 줄바꿈 */
-.post-content a:not(.citation-link) {
+/* 긴 URL과 참고자료 항목이 본문 폭을 넘지 않도록 강제 줄바꿈 */
+.post-content p,
+.post-content li,
+.post-content td,
+.post-content th {
+  min-width: 0;
   overflow-wrap: anywhere;
   word-break: break-word;
 }
 
-/* 제목 */
+.post-content a:not(.citation-link) {
+  max-width: 100%;
+  white-space: normal !important;
+  overflow-wrap: anywhere !important;
+  word-break: break-all;
+}
+
 .post-title {
   font-size: 2.2rem;
   font-weight: 700;
 }
 
-/* 소제목 */
 .post-content h2 {
   font-size: 1.6rem;
 }
@@ -358,7 +366,6 @@ body {
   color: #444;
 }
 
-/* 코드 블록 */
 pre,
 code {
   font-family: "D2Coding", "Consolas", monospace;
@@ -387,26 +394,12 @@ code {
   scroll-margin-top: 5rem;
 }
 
-.citation-reference:target,
+/* 주석으로 이동해도 참고자료 항목 배경색은 바꾸지 않음 */
+.citation-reference:target {
+  background: transparent !important;
+  border-radius: 0;
+}
+
 .citation-link:target {
-  background: rgba(255, 225, 120, 0.28);
-  border-radius: 0.2em;
-}
-
-.citation-backlinks {
-  display: inline-flex;
-  flex-wrap: wrap;
-  gap: 0.3em;
-  margin-left: 0.35em;
-}
-
-.citation-backlink {
-  text-decoration: none;
-  font-size: 0.85em;
-  white-space: nowrap;
-}
-
-.citation-backlink:hover,
-.citation-backlink:focus {
-  text-decoration: underline;
+  background: transparent;
 }
