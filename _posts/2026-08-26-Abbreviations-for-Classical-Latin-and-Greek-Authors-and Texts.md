@@ -7,6 +7,8 @@ categories:
 series: Western
 ---
 
+이 글을 인용하거나 재사용할 때에는 출처를 밝혀 주시기 바랍니다. 인용 정보: 「{{ page.title }}」, 『{{ site.title }}』, {{ page.date | date: "%Y-%m-%d" }}, {{ page.url | absolute_url }}
+
 ## 주요 라틴·그리스 고전 문헌 약호
 
 고전 문헌에서 자주 쓰이는 저자·작품 약호를 저자별로 정리한다.
