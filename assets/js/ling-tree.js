@@ -17,19 +17,19 @@ document.addEventListener("DOMContentLoaded", () => {
       inner.appendChild(treeDom);
       rendered.appendChild(inner);
 
-      applyAdaptiveSizing(rendered, ast);
-
       const svg = createSvg();
       rendered.appendChild(svg);
 
       pre.insertAdjacentElement("afterend", rendered);
 
       requestAnimationFrame(() => {
+        fitTreeToContainer(rendered, ast);
         drawBranches(rendered);
         drawMoves(rendered, moves);
       });
 
       window.addEventListener("resize", debounce(() => {
+        fitTreeToContainer(rendered, ast);
         clearSvg(rendered);
         drawBranches(rendered);
         drawMoves(rendered, moves);
@@ -251,54 +251,117 @@ function getTreeMetrics(root) {
   return metrics;
 }
 
-function applyAdaptiveSizing(rendered, ast) {
-  const { terminals, depth, maxChildren } = getTreeMetrics(ast);
+function fitTreeToContainer(rendered, ast) {
+  const base = {
+    childGap: 2.1,
+    levelGap: 2.2,
+    fontSize: 1.05,
+    sidePadding: 1.5
+  };
 
-  // 가로 길이를 가장 크게 좌우하는 단말 수를 중심으로 단계별 밀도를 정한다.
-  // 깊이와 분기 수도 보정값으로 더해, 작지만 복잡한 트리도 너무 성기지 않게 한다.
-  const complexity = terminals + Math.max(0, depth - 4) * 0.7 + Math.max(0, maxChildren - 2) * 0.8;
+  const minimum = {
+    childGap: 0.45,
+    levelGap: 1.55,
+    fontSize: 0.82,
+    sidePadding: 0.55
+  };
 
-  let childGap = 2.4;
-  let levelGap = 2.25;
-  let fontSize = 1.05;
-  let sidePadding = 1.5;
+  const metrics = getTreeMetrics(ast);
+  const container = rendered.closest(".tree-example") || rendered.parentElement;
 
-  if (complexity > 14) {
-    childGap = 0.95;
-    levelGap = 1.8;
-    fontSize = 0.94;
-    sidePadding = 0.9;
-  } else if (complexity > 10) {
-    childGap = 1.25;
-    levelGap = 1.95;
-    fontSize = 0.98;
-    sidePadding = 1.0;
-  } else if (complexity > 7) {
-    childGap = 1.65;
-    levelGap = 2.05;
-    fontSize = 1.0;
-    sidePadding = 1.15;
-  } else if (complexity > 4) {
-    childGap = 2.05;
-    levelGap = 2.15;
-    fontSize = 1.03;
-    sidePadding = 1.3;
+  resetTreeSizing(rendered);
+
+  // DOM에 실제로 배치된 뒤의 자연폭과, 현재 브라우저에서 쓸 수 있는 본문 폭을 잰다.
+  const naturalWidth = rendered.getBoundingClientRect().width;
+  const availableWidth = getAvailableWidth(container);
+  const initialRatio = naturalWidth > 0
+    ? Math.min(1, availableWidth / naturalWidth)
+    : 1;
+
+  let childGap = Math.max(minimum.childGap, base.childGap * initialRatio);
+  let levelGap = Math.max(minimum.levelGap, base.levelGap * initialRatio);
+  let fontSize = Math.max(minimum.fontSize, base.fontSize * initialRatio);
+  let sidePadding = Math.max(minimum.sidePadding, base.sidePadding * initialRatio);
+
+  applyTreeSizing(rendered, { childGap, levelGap, fontSize, sidePadding });
+
+  // em 단위와 실제 글자 폭 때문에 단순 비례만으로는 약간의 오차가 생길 수 있다.
+  // 최대 3번 실제 폭을 다시 재서 남은 오차를 연속적으로 보정한다.
+  for (let i = 0; i < 3; i++) {
+    const currentWidth = rendered.getBoundingClientRect().width;
+    if (!currentWidth || currentWidth <= availableWidth + 1) break;
+
+    const correction = availableWidth / currentWidth;
+
+    const nextChildGap = Math.max(minimum.childGap, childGap * correction);
+    const nextLevelGap = Math.max(minimum.levelGap, levelGap * correction);
+    const nextFontSize = Math.max(minimum.fontSize, fontSize * correction);
+    const nextSidePadding = Math.max(minimum.sidePadding, sidePadding * correction);
+
+    const unchanged =
+      nextChildGap === childGap &&
+      nextLevelGap === levelGap &&
+      nextFontSize === fontSize &&
+      nextSidePadding === sidePadding;
+
+    childGap = nextChildGap;
+    levelGap = nextLevelGap;
+    fontSize = nextFontSize;
+    sidePadding = nextSidePadding;
+
+    applyTreeSizing(rendered, { childGap, levelGap, fontSize, sidePadding });
+
+    if (unchanged) break;
   }
 
-  rendered.dataset.treeTerminals = String(terminals);
-  rendered.dataset.treeDepth = String(depth);
-  rendered.dataset.treeMaxChildren = String(maxChildren);
+  const finalWidth = rendered.getBoundingClientRect().width;
+  const finalScale = naturalWidth > 0 ? finalWidth / naturalWidth : 1;
 
-  rendered.style.paddingLeft = `${sidePadding}em`;
-  rendered.style.paddingRight = `${sidePadding}em`;
+  rendered.dataset.treeNodes = String(metrics.nodes);
+  rendered.dataset.treeTerminals = String(metrics.terminals);
+  rendered.dataset.treeDepth = String(metrics.depth);
+  rendered.dataset.treeMaxChildren = String(metrics.maxChildren);
+  rendered.dataset.treeNaturalWidth = naturalWidth.toFixed(1);
+  rendered.dataset.treeAvailableWidth = availableWidth.toFixed(1);
+  rendered.dataset.treeFinalWidth = finalWidth.toFixed(1);
+  rendered.dataset.treeScale = finalScale.toFixed(3);
+}
+
+function getAvailableWidth(container) {
+  if (!container) return window.innerWidth;
+
+  const style = getComputedStyle(container);
+  const paddingLeft = parseFloat(style.paddingLeft) || 0;
+  const paddingRight = parseFloat(style.paddingRight) || 0;
+
+  return Math.max(0, container.clientWidth - paddingLeft - paddingRight);
+}
+
+function resetTreeSizing(rendered) {
+  rendered.style.paddingLeft = "";
+  rendered.style.paddingRight = "";
 
   rendered.querySelectorAll(".tree-children").forEach((children) => {
-    children.style.gap = `${childGap}em`;
-    children.style.marginTop = `${levelGap}em`;
+    children.style.gap = "";
+    children.style.marginTop = "";
   });
 
   rendered.querySelectorAll(".tree-label, .tree-terminal").forEach((item) => {
-    item.style.fontSize = `${fontSize}em`;
+    item.style.fontSize = "";
+  });
+}
+
+function applyTreeSizing(rendered, sizing) {
+  rendered.style.paddingLeft = `${sizing.sidePadding}em`;
+  rendered.style.paddingRight = `${sizing.sidePadding}em`;
+
+  rendered.querySelectorAll(".tree-children").forEach((children) => {
+    children.style.gap = `${sizing.childGap}em`;
+    children.style.marginTop = `${sizing.levelGap}em`;
+  });
+
+  rendered.querySelectorAll(".tree-label, .tree-terminal").forEach((item) => {
+    item.style.fontSize = `${sizing.fontSize}em`;
   });
 }
 
