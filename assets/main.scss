@@ -83,6 +83,10 @@
 }
 
 .tree-example {
+  display: block;
+  width: fit-content;
+  max-width: 100%;
+  box-sizing: border-box;
   margin: 2.2em 0;
   padding: 1.4em 1.6em;
   border: 1px solid #d8d8d8;
@@ -93,6 +97,8 @@
 
 .tree-sentence {
   display: flex;
+  width: max-content;
+  max-width: 100%;
   gap: 0.7em;
   align-items: baseline;
   margin-bottom: 1.5em;
@@ -123,7 +129,7 @@ pre.ling-tree {
   position: relative;
   display: inline-block;
   min-width: max-content;
-  padding: 0.8em 1.5em 5.2em;
+  padding: 0.8em 1.5em 1em;
   overflow: visible;
 }
 
@@ -251,7 +257,7 @@ pre.ling-tree {
   }
 
   .ling-tree-rendered {
-    padding-bottom: 4.6em;
+    padding-bottom: 1em;
   }
 }
 
