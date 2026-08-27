@@ -17,6 +17,8 @@ document.addEventListener("DOMContentLoaded", () => {
       inner.appendChild(treeDom);
       rendered.appendChild(inner);
 
+      applyAdaptiveSizing(rendered, ast);
+
       const svg = createSvg();
       rendered.appendChild(svg);
 
@@ -221,6 +223,83 @@ function renderNode(node) {
   }
 
   return wrap;
+}
+
+function getTreeMetrics(root) {
+  const metrics = {
+    nodes: 0,
+    terminals: 0,
+    depth: 0,
+    maxChildren: 0
+  };
+
+  function walk(node, depth) {
+    metrics.depth = Math.max(metrics.depth, depth);
+
+    if (node.type === "terminal") {
+      metrics.terminals++;
+      return;
+    }
+
+    metrics.nodes++;
+    metrics.maxChildren = Math.max(metrics.maxChildren, node.children.length);
+
+    node.children.forEach((child) => walk(child, depth + 1));
+  }
+
+  walk(root, 1);
+  return metrics;
+}
+
+function applyAdaptiveSizing(rendered, ast) {
+  const { terminals, depth, maxChildren } = getTreeMetrics(ast);
+
+  // 가로 길이를 가장 크게 좌우하는 단말 수를 중심으로 단계별 밀도를 정한다.
+  // 깊이와 분기 수도 보정값으로 더해, 작지만 복잡한 트리도 너무 성기지 않게 한다.
+  const complexity = terminals + Math.max(0, depth - 4) * 0.7 + Math.max(0, maxChildren - 2) * 0.8;
+
+  let childGap = 2.4;
+  let levelGap = 2.25;
+  let fontSize = 1.05;
+  let sidePadding = 1.5;
+
+  if (complexity > 14) {
+    childGap = 0.95;
+    levelGap = 1.8;
+    fontSize = 0.94;
+    sidePadding = 0.9;
+  } else if (complexity > 10) {
+    childGap = 1.25;
+    levelGap = 1.95;
+    fontSize = 0.98;
+    sidePadding = 1.0;
+  } else if (complexity > 7) {
+    childGap = 1.65;
+    levelGap = 2.05;
+    fontSize = 1.0;
+    sidePadding = 1.15;
+  } else if (complexity > 4) {
+    childGap = 2.05;
+    levelGap = 2.15;
+    fontSize = 1.03;
+    sidePadding = 1.3;
+  }
+
+  rendered.dataset.treeTerminals = String(terminals);
+  rendered.dataset.treeDepth = String(depth);
+  rendered.dataset.treeMaxChildren = String(maxChildren);
+
+  rendered.style.paddingLeft = `${sidePadding}em`;
+  rendered.style.paddingRight = `${sidePadding}em`;
+
+  rendered.querySelectorAll(".tree-children").forEach((children) => {
+    children.style.gap = `${childGap}em`;
+    children.style.marginTop = `${levelGap}em`;
+  });
+
+  rendered.querySelectorAll(".tree-label, .tree-terminal").forEach((item) => {
+    item.style.fontSize = `${fontSize}em`;
+  });
 }
 
 function createSvg() {
