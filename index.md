@@ -8,6 +8,10 @@ permalink: /
 
 고전 문헌, 역사언어학, 음운론, 번역과 독서 노트를 기록합니다.
 
+### Contact
+
+블로그 내용에 관한 의견·질문·오류 제보는 [zasanblog@gmail.com](mailto:zasanblog@gmail.com)으로 보내실 수 있습니다.
+
 ## 약력
 
 - 2019.3 성균관대학교 한문학과 입학
