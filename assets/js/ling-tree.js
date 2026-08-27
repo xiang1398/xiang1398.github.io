@@ -22,6 +22,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
       pre.insertAdjacentElement("afterend", rendered);
 
+      setMovePadding(rendered, moves);
+
       requestAnimationFrame(() => {
         fitTreeToContainer(rendered, ast);
         drawBranches(rendered);
@@ -29,6 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
       });
 
       window.addEventListener("resize", debounce(() => {
+        setMovePadding(rendered, moves);
         fitTreeToContainer(rendered, ast);
         clearSvg(rendered);
         drawBranches(rendered);
@@ -251,6 +254,16 @@ function getTreeMetrics(root) {
   return metrics;
 }
 
+function setMovePadding(rendered, moves) {
+  const count = moves.length;
+  const bottomPadding = count === 0
+    ? 1
+    : 5 + (count - 1) * 1.5;
+
+  rendered.style.paddingBottom = `${bottomPadding}em`;
+  rendered.dataset.treeMoves = String(count);
+}
+
 function fitTreeToContainer(rendered, ast) {
   const base = {
     childGap: 2.1,
@@ -271,7 +284,6 @@ function fitTreeToContainer(rendered, ast) {
 
   resetTreeSizing(rendered);
 
-  // DOM에 실제로 배치된 뒤의 자연폭과, 현재 브라우저에서 쓸 수 있는 본문 폭을 잰다.
   const naturalWidth = rendered.getBoundingClientRect().width;
   const availableWidth = getAvailableWidth(container);
   const initialRatio = naturalWidth > 0
@@ -285,8 +297,6 @@ function fitTreeToContainer(rendered, ast) {
 
   applyTreeSizing(rendered, { childGap, levelGap, fontSize, sidePadding });
 
-  // em 단위와 실제 글자 폭 때문에 단순 비례만으로는 약간의 오차가 생길 수 있다.
-  // 최대 3번 실제 폭을 다시 재서 남은 오차를 연속적으로 보정한다.
   for (let i = 0; i < 3; i++) {
     const currentWidth = rendered.getBoundingClientRect().width;
     if (!currentWidth || currentWidth <= availableWidth + 1) break;
@@ -476,11 +486,9 @@ function drawMoves(rendered, moves) {
 }
 
 function getMoveAnchorItem(unit) {
-  // 1순위: 해당 단위 아래의 최하단 단말(leaf terminal)
   const terminal = getLowestTerminal(unit);
   if (terminal) return terminal;
 
-  // 2순위: 최하단 단말이 없으면 자기 자신의 라벨 사용
   return unit.querySelector(":scope > .tree-item");
 }
 
