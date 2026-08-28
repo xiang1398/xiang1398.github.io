@@ -2,7 +2,8 @@
 layout: post
 title: "출토 전국시대 죽간 총목: 2026년 현재의 전국초간 자료군"
 date: 2026-08-28 13:59:00 +0900
-categories: [문헌학]
+categories: Philology 
+series: Warring-Chu-Scripts
 tags: [출토문헌, 전국시대, 초간, 죽간, 고문자, 초문자]
 ---
 
