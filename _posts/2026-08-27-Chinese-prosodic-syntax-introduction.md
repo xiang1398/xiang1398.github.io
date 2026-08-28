@@ -225,3 +225,7 @@ tags:
 - Selkirk, Elisabeth O. *Phonology and Syntax: The Relation between Sound and Structure*. MIT Press, 1984. MIT Press는 이 책을 통사론과 음운론의 관계를 체계적으로 다룬 최초의 저작 가운데 하나로 소개한다. 운율 구조를 통사 구조의 단순한 복사본으로 보지 않고, 강세·억양·초점·기능어 등의 현상을 통해 두 층위의 인터페이스를 독립적으로 모델링하려는 고전적 출발점이다. [MIT Press 소개](https://mitpress.mit.edu/9780262690980/phonology-and-syntax/)
 
 馮勝利의 영어판 *Prosodic Syntax in Chinese* (2019)은 두 권으로 나뉘어 각각 *Theory and Facts*와 *History and Changes*를 다룬다. Routledge의 소개처럼, 운율이 통사를 단순히 제약할 뿐 아니라 통사적 작용을 활성화할 수도 있다는 양방향적 모델을 명시적으로 내세운다는 점에서 중국어 연구의 전개를 영어로 확인하기에 편리하다. [Routledge 소개](https://www.routledge.com/Prosodic-Syntax-in-Chinese/Shengli/p/book/9780367730314)
+
+## 개정 이력
+
+- **2026-08-27** — 통사와 운율을 독립된 층위로 보는 문제의식을 보강하고, 《孟子·滕文公上》의 然友之鄒問於孟子 / 然友復之鄒問孟子 대립을 추가하여 σ–ω–φ–ι에 따른 운율계층 분석을 도입하였다. 問於子貢의 운율구조도 [ω 問於] [ω 子貢]으로 수정하였다.
