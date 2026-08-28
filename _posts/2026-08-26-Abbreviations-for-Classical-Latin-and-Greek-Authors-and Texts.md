@@ -600,3 +600,7 @@ Packard Humanities Institute Latin Texts(PHI) 고전 라틴어 문헌을 중심�
 - **OLD**: *Oxford Latin Dictionary* — 라틴 문헌 약호의 주요 기준.
 - **OCD**: *Oxford Classical Dictionary* — 현대 고전학 문헌에서 널리 쓰이는 약호 관행을 대조하는 보조 기준.
 - **Perseus Digital Library** — 원문 및 실제 인용 위치를 확인하는 보조 자료.
+
+## 개정 이력
+
+- **2026-08-26** — 라틴·그리스 저자와 작품 약호의 수록 범위를 크게 확대하고, 실제 인용에 사용할 표준 약호 중심으로 목록을 재정비하였다.
