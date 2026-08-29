@@ -52,7 +52,7 @@ tags:
 
 ## 2. 기원과 진위
 
-《周禮》은 前漢 이전에는 알려져 있지 않았다. 처음에는 원래 이름인 《周官》으로 《史記》 〈封禪書〉(卷28, 1357쪽)에 언급되며, 이어 《漢書》 卷30, 1709쪽(역자 주: 〈藝文志〉)에는 《周官經》이라는 이름으로 6篇의 저작으로 기재된다. 《漢書》 卷99下, 4187쪽(역자 주: 〈王莽列傳〉)에서는 《周禮》이라고 부른다. 《周官》에서 《周禮》로의 개칭은 荀悅(148–209)에 따르면 劉歆(기원전 46–서기 23)이 한 일이다(《前漢紀》, 《四部叢刊》本 25.2b). 陸德明(556–627)도 《經典釋文》 서문에서 이 말을 되풀이한다. 荀悅은 劉歆이 이 텍스트를 《禮經》이라 부르자고 제안하기도 했다고 말한다. 이 명칭은 때때로 《周禮》을 가리키는 데 사용된다. 劉歆은 《周禮》을 담당하는 관방 학자(역자 주: 博士) 직위를 설치하려 하였다. 《漢書》 卷30(역자 주: 〈藝文志〉)에서 이 책이 《周官經》으로 기재된 것을 보면, 劉歆의 시대부터 《周禮》가 경전으로 여겨졌다고 말할 수 있다.
+《周禮》은 前漢 이전에는 알려져 있지 않았다. 처음에는 원래 이름인 《周官》으로 《史記》 卷28, 1357쪽(역자 주: 〈封禪書〉)에 언급되며, 이어 《漢書》 卷30, 1709쪽(역자 주: 〈藝文志〉)에는 《周官經》이라는 이름으로 6篇의 저작으로 기재된다. 《漢書》 卷99下, 4187쪽(역자 주: 〈王莽列傳〉)에서는 《周禮》이라고 부른다. 《周官》에서 《周禮》로의 개칭은 荀悅(148–209)에 따르면 劉歆(기원전 46–서기 23)이 한 일이다(《前漢紀》, 《四部叢刊》本 25.2b). 陸德明(556–627)도 《經典釋文》 서문에서 이 말을 되풀이한다. 荀悅은 劉歆이 이 텍스트를 《禮經》이라 부르자고 제안하기도 했다고 말한다. 이 명칭은 때때로 《周禮》을 가리키는 데 사용된다. 劉歆은 《周禮》을 담당하는 관방 학자(역자 주: 博士) 직위를 설치하려 하였다. 《漢書》 卷30(역자 주: 〈藝文志〉)에서 이 책이 《周官經》으로 기재된 것을 보면, 劉歆의 시대부터 《周禮》가 경전으로 여겨졌다고 말할 수 있다.
 
 기원전 2세기 중엽 《周禮》가 세상에 나타난 전통적 이야기는 《漢書》 卷30, 1710쪽(역자 주: 〈藝文志〉), 卷53, 2410쪽(역자 주: 〈河間獻王列傳〉), 《隋書》 卷32, 925쪽(역자 주: 〈經籍志〉), 그리고 賈公彥(650년경 활동)의 〈周禮廢興〉에 일부 보존된 馬融(79–166)의 개요에 정도의 차이는 있으나 기록되어 있다. 〈周禮廢興〉은 보통 그의 《周禮疏》 서문으로 본다. 이 텍스트에 따르면 李氏라는 사람이 《周禮》를 河間獻王(재위 기원전 155–129)에게 바쳤다. 이 왕은 곧 漢 景帝의 아들이자 武帝의 아우 劉德으로, 고문헌을 열정적으로 수집하고 애호한 인물로 유명했다. 그가 《周禮》를 얻었을 때 여섯째 부분 冬官은 이미 빠져 있었다. 그래서 이를 제공하는 자에게 1000金을 상으로 주겠다고 했으나 끝내 구하지 못하자 《考工記》로 대신했다고 한다. 이어 河間獻王은 《周禮》를 형 武帝의 조정에 있는 황실 문고에 바쳤다고 전한다.
 
@@ -108,20 +108,20 @@ tags:
 
 20세기의 주요 《周禮》 연구는 다음과 같다.
 
-- (a) 중국어: 郭沫若, 〈周官質疑〉, 《金文叢考》 수정판(北京: 人民出版社, 1954), pp. 49a–81b; 顧頡剛, 〈周公制禮的傳說和周官一書的出現〉, 《文史》 6(1979), pp. 1–4.
+- (a) 중국어: 郭沫若, 〈周官質疑〉, 《金文叢考》 수정판 (北京: 人民出版社, 1954), pp. 49a–81b; 顧頡剛, 〈周公制禮的傳說和周官一書的出現〉, 《文史》 6 (1979), pp. 1–4.
 
-- (b) 일본어: Hayashi Taisuke 林泰輔(1854–1922), 《周公の周官儀禮周易との關係》. 이 글은 그의 《周公と其時代》(東京: 大倉書店, 1915) 제3부로 실렸으며, 〈周官制作時代考〉가 부록으로 붙어 있다. 林泰輔의 추가 연구 두 편 〈周官に見えたる人倫の關係〉과 〈周官に見えたる衛生制度〉는 《支那上代の研究》(東京: 弘文館, 1927; 岡崎: 新光社, 1944 재간), pp. 335–345와 pp. 347–354에 각각 실려 있다. 또한 Tanaka Toshiaki 田中利明, 〈周禮の成立についての一考察〉, 《東方學》 42(1971년 8월), pp. 16–31도 주목할 만하다. Honda Jirō 本田二郎, 《周禮通釋》(東京: 秀英, 1977–1979)은 훈점이 붙은 본문, 일본어 번역과 주석을 제시한다. 이 책은 주요 漢文 총서에는 포함되지 않았다.
+- (b) 일본어: Hayashi Taisuke 林泰輔(1854–1922), 《周公の周官儀禮周易との關係》. 이 글은 그의 《周公と其時代》 (東京: 大倉書店, 1915) 제3부로 실렸으며, 〈周官制作時代考〉가 부록으로 붙어 있다. 林泰輔의 추가 연구 두 편 〈周官に見えたる人倫の關係〉과 〈周官に見えたる衛生制度〉는 《支那上代の研究》 (東京: 弘文館, 1927; 岡崎: 新光社, 1944 재간), pp. 335–345와 pp. 347–354에 각각 실려 있다. 또한 Tanaka Toshiaki 田中利明, 〈周禮の成立についての一考察〉, 《東方學》 42 (1971년 8월), pp. 16–31도 주목할 만하다. Honda Jirō 本田二郎, 《周禮通釋》 (東京: 秀英, 1977–1979)은 훈점이 붙은 본문, 일본어 번역과 주석을 제시한다. 이 책은 주요 漢文 총서에는 포함되지 않았다.
 
-- (c) 서양어: Charles De Harlez, *Le Tcheou-li et le Shan-hai-king, leur origine et leur valeur historique* (《周禮》와 《山海經》, 그 기원과 역사적 가치)(《通報》 5, 1894, pp. 11–42, pp. 107–122); Bruno Schindler, *Das Priestertum im alten China* (고대 중국의 사제직), Leipzig: Spaniersche Buchdruckerei, 1919, pp. 55–77; Bernhard Karlgren, *The Early History of the Chou li and Tso chuan Texts* (*Bulletin of the Museum of Far Eastern Antiquities* 3, 1931, pp. 1–59); Sven Broman, *Studies on the Chou li* (*Bulletin of the Museum of Far Eastern Antiquities* 33, 1961, pp. 1–89; Stockholm, 1961 재간)를 보라.
+- (c) 서양어: Charles De Harlez, “Le Tcheou-li et le Shan-hai-king, leur origine et leur valeur historique,” *T’oung Pao* 5 (1894), pp. 11–42, 107–122; Bruno Schindler, *Das Priestertum im alten China* (Leipzig: Spaniersche Buchdruckerei, 1919), pp. 55–77; Bernhard Karlgren, “The Early History of the Chou li and Tso chuan Texts,” *Bulletin of the Museum of Far Eastern Antiquities* 3 (1931), pp. 1–59; Sven Broman, “Studies on the Chou li,” *Bulletin of the Museum of Far Eastern Antiquities* 33 (1961), pp. 1–89; Stockholm, 1961 재간.
 
-《周禮》의 서양어 완역은 한 종이 있다. Édouard Biot, *Le Tcheou-li ou Rites des Tcheou* (《周禮》 또는 周의 예), 3권; Paris: Imprimerie Nationale, 1851; Taipei: 成文出版社, 1975 재간.
+《周禮》의 서양어 완역은 한 종이 있다. Édouard Biot, *Le Tcheou-li ou Rites des Tcheou* (《周禮》 또는 周의 예), 3권 (Paris: Imprimerie Nationale, 1851; Taipei: 成文出版社, 1975 재간).
 
 ## 5. 색인
 
-- (a) 《周禮引得附注疏引書引得》(*Index to Chou li and to the titles quoted in the commentaries*), Harvard-Yenching Institute Sinological Index Series no. 37, 北京, 1940; 臺北: 成文出版社, 1966 재간.
+- (a) 《周禮引得附注疏引書引得》 (*Index to Chou li and to the titles quoted in the commentaries*), Harvard-Yenching Institute Sinological Index Series no. 37 (北京, 1940; 臺北: 成文出版社, 1966 재간).
 
-- (b) 野間文史, 《周禮索引》; 福岡: 中國書店, 1989. 阮元 十三經注疏本의 본문을 바탕으로 한다.
+- (b) 野間文史, 《周禮索引》 (福岡: 中國書店, 1989). 阮元 十三經注疏本의 본문을 바탕으로 한다.
 
-- (c) D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Zhouli* 周禮逐字索引, *ICS* series, Hong Kong: Commercial Press, 1993년 출간 예정.
+- (c) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Zhouli* 周禮逐字索引 (*ICS* series; Hong Kong: Commercial Press, 1993년 출간 예정).
 
 *—William G. Boltz*
