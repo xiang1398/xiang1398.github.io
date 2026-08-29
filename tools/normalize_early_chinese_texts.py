@@ -6,10 +6,7 @@ for path in Path('_posts').glob('*early-chinese-texts-*.md'):
     # 역자 주에서 역사서 내부의 편·지·전 등 부분명은 〈〉로 표기한다.
     text = re.sub(r'(역자 주:\s*)《([^》]+)》', r'\1〈\2〉', text)
 
-    # 열전명 표기 원칙:
-    # 《史記》는 원래의 〈某列傳〉을 유지하고,
-    # 그 밖의 역사서는 역자 주에서 〈某傳〉으로 축약한다.
-    # 기존 정규화 과정에서 이미 축약된 《史記》의 주요 열전명도 복원한다.
+    # 《史記》의 열전은 〈某列傳〉, 그 밖의 정사는 〈某傳〉.
     shiji_liezhuan = {
         '商君傳': '商君列傳',
         '張丞相傳': '張丞相列傳',
@@ -17,10 +14,13 @@ for path in Path('_posts').glob('*early-chinese-texts-*.md'):
         '屈原賈生傳': '屈原賈生列傳',
     }
     for short, full in shiji_liezhuan.items():
-        text = re.sub(
-            rf'(《史記》[^\n]*?역자 주:\s*〈){re.escape(short)}(〉)',
-            rf'\1{full}\2',
-            text,
-        )
+        text = re.sub(rf'(《史記》[^\n]*?역자 주:\s*〈){re.escape(short)}(〉)', rf'\1{full}\2', text)
+
+    # 사망 연대는 '사망 312'가 아니라 '312 사망'으로 통일한다.
+    text = re.sub(r'\(사망\s+(기원전\s+)?([0-9]+)\)', lambda m: f'({m.group(1) or ""}{m.group(2)} 사망)', text)
+
+    # 영문 논문명은 따옴표를 쓰지 않는다. 저널/논문집 제목의 이탤릭은 유지한다.
+    text = re.sub(r'[“"]([^”"\n]+)[”"](?=,\s*\*[^*\n]+\*)', r'\1', text)
+    text = re.sub(r'[“"]([^”"\n]+)[”"](?=,\s*in\s+\*[^*\n]+\*)', r'\1', text)
 
     path.write_text(text, encoding='utf-8')
