@@ -5,7 +5,9 @@ document.addEventListener('DOMContentLoaded', () => {
     { match: ["early-chinese-texts-Chan-kuo-ts'e", "Chan-kuo ts'e", '戰國策'], entries: ['2026-08-29: 번역 용어와 표기를 교정하고, 1차 문헌·현대 연구서·논문·색인의 서지 인용 형식을 시리즈 전체 기준에 맞추어 통일.'] },
     { match: ['early-chinese-texts-Ch’ien-fu-lun', 'early-chinese-texts-Ch-ien-fu-lun', 'Ch’ien-fu lun', '潛夫論'], entries: ['2026-08-29: 번역 용어와 표기를 교정하고, 1차 문헌·현대 연구서·논문·색인의 서지 인용 형식을 시리즈 전체 기준에 맞추어 통일.'] },
     { match: ['early-chinese-texts-Chiu-chang-suan-shu', 'Chiu chang suan shu', '九章算術'], entries: ['2026-08-29: 번역 용어와 오탈자를 교정하고, 1차 문헌·현대 연구서·논문·색인의 서지 인용 형식을 시리즈 전체 기준에 맞추어 통일.'] },
-    { match: ['early-chinese-texts-Chou-li', 'Chou li', '周禮'], entries: ['2026-08-29: 번역 용어와 오탈자를 교정하고, 1차 문헌·현대 연구서·논문·색인의 서지 인용 형식을 시리즈 전체 기준에 맞추어 통일.'] }
+    { match: ['early-chinese-texts-Chou-li', 'Chou li', '周禮'], entries: ['2026-08-29: 번역 용어와 오탈자를 교정하고, 1차 문헌·현대 연구서·논문·색인의 서지 인용 형식을 시리즈 전체 기준에 맞추어 통일.'] },
+    { match: ['early-chinese-texts-Chou-pi-suan-ching', 'Chou pi suan ching', '周髀算經'], entries: ['2026-08-29: 원문 대조를 거쳐 번역 누락을 점검하고, 번역 용어·정사 인용·현대 서지 형식을 시리즈 공통 기준에 맞추어 통일.'] },
+    { match: ['early-chinese-texts-Chu-shu-chi-nien', 'Chu shu chi nien', '竹書紀年'], entries: ['2026-08-29: 원문 대조를 거쳐 번역 누락을 점검하고, 번역 용어·정사 인용·현대 서지 형식을 시리즈 공통 기준에 맞추어 통일.'] }
   ];
 
   const decodedPath = decodeURIComponent(window.location.pathname);
