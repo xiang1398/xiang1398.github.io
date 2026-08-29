@@ -92,11 +92,11 @@ tags:
 
 ## 5. 연구와 번역
 
-《九章算術》에 관한 완전한 서지 자료는 丁福保·周雲青, 《四部總錄算法編》 (上海: 商務印書館, 1957)에 수록되어 있다. 李潢의 상세 연구 《九章算術細草圖說》(1790경)은 지금도 유용하다. 중요한 현대 연구로는 白尚恕, 《九章算術注釋》 (北京: 科學出版社, 1983)을 보라. 위에서 언급한 郭書春의 저술은 여러 점에서 白尚恕의 견해를 비판한다. 편리한 서론적 논의는 Joseph Needham 외, *Science and Civilisation in China*, vol. 3 (Cambridge: Cambridge University Press, 1959), pp. 24–29와, 예제 문제를 함께 제시한 Yoshio Mikami 三上義夫, *The Development of Mathematics in China and Japan* (Leipzig: *Abhandlungen zur Geschichte der Mathematische Wissenschaften* [수학 과학사 논총] 30, 1913), pp. 8–25에 있다. 더 최근에 서양 언어로 쓰인 중국 수학 통사 두 종도 《九章算術》을 다룬다. Li Yan 李儼·Du Shiran 杜石然, *Chinese Mathematics: A Concise History* (Oxford: Clarendon Press, 1987), pp. 33–59와 J. C. Martzloff, *Histoire des Mathématiques Chinoises* [중국 수학사] (Paris: Masson, 1988), pp. 115–126을 보라.
+《九章算術》에 관한 완전한 서지 자료는 丁福保·周雲青, 《四部總錄算法編》 (上海: 商務印書館, 1957)에 수록되어 있다. 李潢의 상세 연구 《九章算術細草圖說》(1790경)은 지금도 유용하다. 중요한 현대 연구로는 白尚恕, 《九章算術注釋》 (北京: 科學出版社, 1983)을 보라. 위에서 언급한 郭書春의 저술은 여러 점에서 白尚恕의 견해를 비판한다. 편리한 서론적 논의는 Joseph Needham 외, *Science and Civilisation in China*, vol. 3 (Cambridge: Cambridge University Press, 1959), pp. 24–29와, 예제 문제를 함께 제시한 Yoshio Mikami 三上義夫, *The Development of Mathematics in China and Japan* (Leipzig: *Abhandlungen zur Geschichte der Mathematische Wissenschaften* [수학사 논총] 30, 1913), pp. 8–25에 있다. 더 최근에 서양 언어로 쓰인 중국 수학 통사 두 종도 《九章算術》을 다룬다. Li Yan 李儼·Du Shiran 杜石然, *Chinese Mathematics: A Concise History* (Oxford: Clarendon Press, 1987), pp. 33–59와 J. C. Martzloff, *Histoire des Mathématiques Chinoises* [중국 수학사] (Paris: Masson, 1988), pp. 115–126을 보라.
 
 다음과 같은 서양 언어 번역이 출판되었다.
 
-- (a) E. I. Berezkina, “*Drevnekitajskij Traktat *Matematika v devjati Knigach** [고대 중국의 논서 《九章算術》],” *Istoriko-matematiceskie issledovaniya* [수학사 연구] 10 (1957), pp. 423–584.
+- (a) E. I. Berezkina, “*Drevnekitajskij Traktat *Matematika v devjati Knigach** [고대 중국의 수학서 《九章算術》],” *Istoriko-matematiceskie issledovaniya* [수학사 연구] 10 (1957), pp. 423–584.
 
 - (b) Kurt Vogel, *Neun Bücher arithmetischer Technik* [산술 기법 아홉 편], Ostwalds Klassiker der exakten Wissenschaften, n.s., vol. IV (Braunschweig, 1968).
 
