@@ -23,4 +23,11 @@ for path in Path('_posts').glob('*early-chinese-texts-*.md'):
     text = re.sub(r'[“"]([^”"\n]+)[”"](?=,\s*\*[^*\n]+\*)', r'\1', text)
     text = re.sub(r'[“"]([^”"\n]+)[”"](?=,\s*in\s+\*[^*\n]+\*)', r'\1', text)
 
+    # 008·009는 최초 커밋 때 작성 시각보다 앞서 Pages 빌드가 시작되어
+    # Jekyll이 미래 글로 제외했다. 이미 지난 시각으로 고정한다.
+    if path.name == '2026-08-29-early-chinese-texts-Ch’u-tz’u.md':
+        text = text.replace('date: 2026-08-29 14:20:00 +0900', 'date: 2026-08-29 14:15:00 +0900')
+    elif path.name == '2026-08-29-early-chinese-texts-Chuang-tzu.md':
+        text = text.replace('date: 2026-08-29 14:21:00 +0900', 'date: 2026-08-29 14:16:00 +0900')
+
     path.write_text(text, encoding='utf-8')
