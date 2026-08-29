@@ -18,10 +18,10 @@ foreign_titles = {
     'Wang Fu: propos d’un ermite (Qianfu lun); introduction et traduction du chinois': '왕부: 은자의 말(《潛夫論》)—서론과 중국어 원문의 번역',
     'Index du Ts’ien Fou Louen': '《潛夫論》 색인',
     'Histoire des Mathématiques Chinoises': '중국 수학사',
-    'Drevnekitajskij Traktat *Matematika v devjati Knigach*': '고대 중국의 논서 《九章算術》',
+    'Drevnekitajskij Traktat *Matematika v devjati Knigach*': '고대 중국의 수학서 《九章算術》',
     'Istoriko-matematiceskie issledovaniya': '수학사 연구',
     'Neun Bücher arithmetischer Technik': '산술 기법 아홉 편',
-    'Abhandlungen zur Geschichte der Mathematische Wissenschaften': '수학 과학사 논총',
+    'Abhandlungen zur Geschichte der Mathematische Wissenschaften': '수학사 논총',
     'Le Tcheou-li et le Shan-hai-king, leur origine et leur valeur historique': '《周禮》와 《山海經》—그 기원과 역사적 가치',
     'Das Priestertum im alten China': '고대 중국의 사제직',
     'Le Tcheou-li ou Rites des Tcheou': '《周禮》 또는 周의 예',
@@ -71,14 +71,15 @@ for path in Path('_posts').glob('*early-chinese-texts-*.md'):
     # 독일어·프랑스어·러시아어 등의 문헌에 한국어 번역을 덧붙인다.
     # 이미 번역이 있으면 중복하지 않고, 번역문은 이탤릭 바깥에 둔다.
     for title, ko in foreign_titles.items():
-        # 이미 원제 전체가 이탤릭인 경우
         pat = rf'\*{re.escape(title)}\*(?!\s*\[)'
         text = re.sub(pat, f'*{title}* [{ko}]', text)
-        # 원제가 이탤릭이 아닌 경우에는 서지 제목을 이탤릭으로 만든다.
         pat_plain = rf'(?<![\*\w]){re.escape(title)}(?![\w\*])(?!\s*\[)'
         text = re.sub(pat_plain, f'*{title}* [{ko}]', text)
-        # 기존에 번역까지 이탤릭 안에 들어간 경우를 바로잡는다.
         text = text.replace(f'*{title} [{ko}]*', f'*{title}* [{ko}]')
+
+    # 앞선 번역안이 이미 적용된 경우 개선된 번역으로 갱신한다.
+    text = text.replace('[고대 중국의 논서 《九章算術》]', '[고대 중국의 수학서 《九章算術》]')
+    text = text.replace('[수학 과학사 논총]', '[수학사 논총]')
 
     # 《楚辭》: 일본어 서명은 음역하지 않고, 저자명은 저본의 로마자 표기를 따른다.
     if path.name == '2026-08-29-early-chinese-texts-Ch’u-tz’u.md':
