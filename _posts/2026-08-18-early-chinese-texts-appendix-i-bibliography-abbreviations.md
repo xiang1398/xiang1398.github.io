@@ -108,13 +108,13 @@ tags:
 
 - *Cheng t’ung tao tsang* 正統道藏 1445
 
-- *Chi fu ts’ung shu* 畿輔叢書 Wang Hao 王灝 1879; 재간, Taipei 1966
+- *Chi fu ts’ung shu* 畿輔叢書 Wang Hao 王灝 1879; 臺北에서 1966년 재간
 
 - *Ch’i lu* 七錄 Juan Hsiao-hsü 阮孝緒 (479–536)
 
 - *Ch’i sheng chai ts’ung shu* 起聖齋叢書 1918
 
-- *Ch’i shu chiang i* 七書講義 Shih Tzu-mei 施子美 (12–13세기); 재간 1863
+- *Ch’i shu chiang i* 七書講義 Shih Tzu-mei 施子美 (12–13세기); 1863년 재간
 
 - *Chiao ching shan fang ts’ung shu* 校經山房叢書 Chu Chi-jung 朱記榮 1904
 
@@ -126,7 +126,7 @@ tags:
 
 - *Chih pu tsu chai ts’ung shu* 知不足齋叢書 Pao T’ing-po 鮑廷博 1776–1823
 
-- *Chin tai pi shu* 津逮祕書 Mao Chin 毛晉 1630–42; 영인, Taipei 1966
+- *Chin tai pi shu* 津逮祕書 Mao Chin 毛晉 1630–42; 臺北에서 1966년 영인
 
 - *Ching i k’ao* 經義考 Chu I-tsun 朱彝尊 1755
 
@@ -136,7 +136,7 @@ tags:
 
 - *Chou Ch’in chu tzu chiao chu shih chung* 周秦諸子斠注十種 Ch’en Nai-ch’ien 陳乃乾
 
-- *Chu tzu chi ch’eng* 諸子集成 [*CTCC*] 1935; 재간 1958
+- *Chu tzu chi ch’eng* 諸子集成 [*CTCC*] 1935; 1958년 재간
 
 - *Chu tzu hui han* 諸子彙函 Kuei Yu-kuang 歸有光 1626
 
@@ -158,7 +158,7 @@ tags:
 
 - *Chung hsing (kuan ko) shu mu* 中興 (館閣) 書目 12세기 후반
 
-- *Chung kuo hsüeh shu chu tso chiang chu wei yüan hui ts’ung shu* 中國學術 著作獎助委員會叢書
+- *Chung kuo hsüeh shu chu tso chiang chu wei yüan hui ts’ung shu* 中國學術著作獎助委員會叢書
 
 - *Ch’ung wen shu chü hui k’o shu* 崇文書局彙刻書 — 참조: *San shih san chung ts’ung shu* 三十三種叢書
 
@@ -172,9 +172,9 @@ tags:
 
 - *Han hsüeh t’ang ts’ung shu* 漢學堂叢書 Huang Shih 黃奭 1893
 
-- *Han shu ‘I wen chih’* 漢書藝文志 Pan Ku 班固 (32–92) et al.
+- *Han shu ‘I wen chih’* 漢書藝文志 Pan Ku 班固 (32–92) 외
 
-- *Han Wei i shu ch’ao* 漢魏遣書鈔 Wang Mo 王謨 1798
+- *Han Wei i shu ch’ao* 漢魏遺書鈔 Wang Mo 王謨 1798
 
 - *Han Wei ts’ung shu* 漢魏叢書 Ch’eng Jung 程榮 1592
 
@@ -182,11 +182,11 @@ tags:
 
 - *Ho chung t’u shu kuan ts’ung shu* 合眾圖書館叢書 1940–48
 
-- *Hsi yin hsüan ts’ung shu* 惜陰軒叢書 Li Hsi-ling 李錫齡 1846–58; 영인 Taipei,1967
+- *Hsi yin hsüan ts’ung shu* 惜陰軒叢書 Li Hsi-ling 李錫齡 1846–58; 臺北에서 1967년 영인
 
 - *Hsi yüan tu shu chih* 郋園讀書志 Yeh Te-hui 葉德輝 1928
 
-- *Hsiao wan chüan lou ts’ung shu* 小萬卷樓叢書 Ch’ien P’ei-ming 錢培名 1854; 영인 Taipei,1968
+- *Hsiao wan chüan lou ts’ung shu* 小萬卷樓叢書 Ch’ien P’ei-ming 錢培名 1854; 臺北에서 1968년 영인
 
 - *Hsien Ch’in chu tzu ho pien* 先秦諸子合編 Feng Meng-chen 馮夢禎 1602
 
@@ -194,13 +194,13 @@ tags:
 
 - *Hsü ku i ts’ung shu* 續古逸叢書 Chang Yüan-chi 張元濟 1922
 
-- *Hsüeh chin t’ao yüan* 學津討原 Chang Hai-p’eng 張海鵬 1805; 재간 1922
+- *Hsüeh chin t’ao yüan* 學津討原 Chang Hai-p’eng 張海鵬 1805; 1922년 재간
 
 - *Hsüeh sheng kuo hsüeh ts’ung shu* 學生國學叢書
 
-- *Hu hai lou ts’ung shu* 湖海樓叢書 Ch’en Ch’un 陳春 1809–19; 영인 Taipei,1966
+- *Hu hai lou ts’ung shu* 湖海樓叢書 Ch’en Ch’un 陳春 1809–19; 臺北에서 1966년 영인
 
-- *Hu-pei hsien sheng i shu* 湖北先生遣書 Lu Ching 盧靖 1923
+- *Hu-pei hsien sheng i shu* 湖北先生遺書 Lu Ching 盧靖 1923
 
 - *Hu-pei ts’ung shu* 湖北叢書 Chao Shang-fu 趙尚輔 1891
 
@@ -208,7 +208,7 @@ tags:
 
 - *Huang Ch’ing ching chieh hsü pien* 皇清經解續編 Wang Hsien-ch’ien 王先謙 1888
 
-- *I chia t’ang ts’ung shu* 宜稼堂叢書 Yu 郁 family (Shanghai) 1840–42
+- *I chia t’ang ts’ung shu* 宜稼堂叢書 郁氏(上海) 1840–42
 
 - *I ch’ieh ching yin i* 一切經音義 (a) Hsüan Ying 玄應 (627–49) (b) [P’ei] Hui-lin [裴]慧琳 810
 
@@ -222,7 +222,7 @@ tags:
 
 - *Ku ching chieh hui han* 古經解彙函 Ch’en Li 陳澧 1872–74
 
-- *Ku i ts’ung shu* 古逸叢書 Li Shu-ch’ang 黎庶昌 1882–84; 영인, Taipei, 1965
+- *Ku i ts’ung shu* 古逸叢書 Li Shu-ch’ang 黎庶昌 1882–84; 臺北에서 1965년 영인
 
 - *Ku shu ts’ung k’an* 古書叢刊 Ch’en Yen 陳琰 1922
 
@@ -236,13 +236,13 @@ tags:
 
 - *Kuang ya shu chü ts’ung shu* 廣雅書局叢書 Hsü Shao-ch’i 徐紹棨 1875–1908
 
-- *Kuang yün* 廣韻 Ch’en P’eng-nien 陳彭年 and others 1011
+- *Kuang yün* 廣韻 Ch’en P’eng-nien 陳彭年 외 1011
 
 - *Kuo hsüeh chi pen ts’ung shu* 國學基本叢書 1929–41
 
 - *Kuo hsüeh hsiao ts’ung shu* 國學小叢書 1940
 
-- *Liang ching i pien* 兩京遣編 Hu Wei-hsin 胡維新 1573–1619
+- *Liang ching i pien* 兩京遺編 Hu Wei-hsin 胡維新 1573–1619
 
 - *Liu Shen-shu hsien sheng i shu* 劉申叔先生遺書 Liu Shih-p’ei 劉師培 1936
 
@@ -256,9 +256,9 @@ tags:
 
 - *Nan Sung kuan ko shu mu* 南宋館閣書目 — 참조: *Chung hsing (kuan ko) shu mu* 中興(館閣)書目
 
-- *Nien erh tzu ch’uan shu* 廿二子全書 1833 Wang Jang-t’ang 王纕堂
+- *Nien erh tzu ch’uan shu* 廿二子全書 Wang Jang-t’ang 王纕堂 1833
 
-- *Nihon koku genzai sho mokuroku* 日本國見在書目錄 Fujiwara Sukeyo 藤原佐世 889–98 (reproduced from a copy in the imperial collection, postface by Yamada Yoshio 山田孝雄, 1925)
+- *Nihon koku genzai sho mokuroku* 日本國見在書目錄 Fujiwara Sukeyo 藤原佐世 889–98 (황실 소장 사본을 저본으로 영인, Yamada Yoshio 山田孝雄 발문, 1925)
 
 - *Pai pu ts’ung shu* 百部叢書
 
@@ -266,7 +266,7 @@ tags:
 
 - *Pai tzu ch’üan shu* 百子全書 1919
 
-- *Pao ching t’ang ts’ung shu* 抱經堂叢書 Lu Wen-ch’ao 盧文弨 1782–97; 재간 1923
+- *Pao ching t’ang ts’ung shu* 抱經堂叢書 Lu Wen-ch’ao 盧文弨 1782–97; 1923년 재간
 
 - *Pei t’ang shu ch’ao* 北堂書鈔 Yü Shih-nan 虞世南 (558–638)
 
@@ -274,11 +274,11 @@ tags:
 
 - *Pi sung lou ts’ang shu chih* 皕宋樓藏書志 Lu Hsin-yüan 陸心源 1882
 
-- *Pi ts’e hui han* 祕冊彙函 Shen Shih-lung 沈士龍 and Hu Chen-heng 胡震亨 Wan-li period; 영인, Taipei, 1966
+- *Pi ts’e hui han* 祕冊彙函 Shen Shih-lung 沈士龍·Hu Chen-heng 胡震亨, 萬曆 연간; 臺北에서 1966년 영인
 
 - *P’ing chin kuan ts’ung shu* 平津館叢書 Sun Hsing-yen 孫星衍 (1753–1818)
 
-- *San shih san chung ts’ung shu* 三十三種叢書 also known as Ch’ung wen shu chü hui k’o shu 崇文書局彙刻書 1875
+- *San shih san chung ts’ung shu* 三十三種叢書, 일명 *Ch’ung wen shu chü hui k’o shu* 崇文書局彙刻書, 1875
 
 - *Shan pen shu shih tsang shu chih* 善本書室藏書志 Ting Ping 丁丙 1901
 
@@ -286,7 +286,7 @@ tags:
 
 - *Shih erh tzu* 十二子 Fang I 方疑 c. 1625
 
-- *Shih li chü Huang shih ts’ung shu* 士禮居黃氏叢書 Huang P’ei-lieh 黃丕烈 유고 간행; 수록 자료의 연대는 1800–1823년; 영인 재간 1887, 1922
+- *Shih li chü Huang shih ts’ung shu* 士禮居黃氏叢書 Huang P’ei-lieh 黃丕烈 유고 간행; 수록 자료의 연대는 1800–1823년; 1887년과 1922년 영인 재간
 
 - *Shih liu tzu* 十六子 Fang I 方疑 c. 1625
 
@@ -296,23 +296,23 @@ tags:
 
 - *Shin Kan shisō kenkyū bunken mokuroku* 秦漢思想研究文獻目錄 Sakade Yoshinobu 坂出祥伸 1978
 
-- *Shou shan ko ts’ung shu* 守山閣叢書 Ch’ien Hsi-tso 錢錫祚 1844 (*mo hai chin hu* 墨海金壺 개정본)
+- *Shou shan ko ts’ung shu* 守山閣叢書 Ch’ien Hsi-tso 錢熙祚 1844 (*Mo hai chin hu* 墨海金壺 개정본)
 
-- *Shuo fu* 說郛 T’ao Tsung-i 陶宗儀 (b. 1316); 보유 by T’ao T’ing 陶珽 (cs 1610); 재간 Shanghai: Shang wu, 1927
+- *Shuo fu* 說郛 T’ao Tsung-i 陶宗儀 (b. 1316); T’ao T’ing 陶珽 보유(c. 1610); 上海: 商務印書館, 1927 재간
 
 - *Ssu hsien shu chü k’an shu* 思賢書局刊書 19세기 후반
 
-- *Ssu k’u ch’üan shu chen pen* 四庫全書珍本 eighteenth century
+- *Ssu k’u ch’üan shu chen pen* 四庫全書珍本 18세기
 
 - *Ssu k’u ch’üan shu chien ming mu lu* 四庫全書簡明目錄 1782
 
-- *Ssu k’u ch’üan shu tsung mu t’i yao* 四庫全書總目提要 1782; 보유 by Juan Yüan 阮元; 재간 Shanghai: Shang wu 1933
+- *Ssu k’u ch’üan shu tsung mu t’i yao* 四庫全書總目提要 1782; Juan Yüan 阮元 보유; 上海: 商務印書館, 1933 재간
 
 - *Ssu k’u t’i yao pien cheng* 四庫提要辨證 Yü Chia-hsi 余嘉錫 1958
 
-- *Ssu pu pei yao* 四部備要 [*SPPY*] Chung hua shu chu 中華書局 1936
+- *Ssu pu pei yao* 四部備要 [*SPPY*] 中華書局 1936
 
-- *Ssu pu ts’ung k’an* 四部叢刊 [*SPTK*] Chang Yüan-chi 張元濟 1919; 보유s 1934–36
+- *Ssu pu ts’ung k’an* 四部叢刊 [*SPTK*] Chang Yüan-chi 張元濟 1919; 보유 1934–36
 
 - *Sui an Hsü shih ts’ung shu hsü pien* 隨盦徐氏叢書續編 Hsü Nai-ch’ang 徐乃昌 1916
 
@@ -324,9 +324,9 @@ tags:
 
 - *T’ai p’ing yu lan* 太平御覽 Li Fang 李昉 983
 
-- *T’ang Sung ts’ung shu* 唐宋叢書 Chung Jen-chieh 鍾人傑 (Ming period) and Chang Sui-ch’en 張遂辰 (Ming period); 영인 Taipei, 1965
+- *T’ang Sung ts’ung shu* 唐宋叢書 Chung Jen-chieh 鍾人傑(明代)·Chang Sui-ch’en 張遂辰(明代); 臺北에서 1965년 영인
 
-- *Tao tsang* 道藏 1436–49; 1573–1619; and 1923–26
+- *Tao tsang* 道藏 1436–49; 1573–1619; 1923–26
 
 - *Tao tsang chi yao* 道藏輯要 1906
 
@@ -334,7 +334,7 @@ tags:
 
 - *T’ieh hua kuan ts’ung shu* 鐵華館叢書 Chiang Feng-tsao 蔣鳳藻 19세기 후반
 
-- *T’ien lu lin lang shu mu* 天祿琳琅書目 1775; 보유 1797; printed 1884
+- *T’ien lu lin lang shu mu* 天祿琳琅書目 1775; 보유 1797; 1884년 간행
 
 - *T’ien lu lin lang shu mu hou pien* 天祿琳琅書目後編 P’eng Yüan-jui 彭元瑞 1798
 
@@ -342,7 +342,7 @@ tags:
 
 - *Tseng ting Han Wei ts’ung shu* 增訂漢魏叢書 Wang Mo 王謨 1791
 
-- *Ts’ung shu chi ch’eng* 叢書集成 [*TSCC*] Shang wu press 1935–37
+- *Ts’ung shu chi ch’eng* 叢書集成 [*TSCC*] 商務印書館 1935–37
 
 - *Tu chu tzu cha chi* 讀諸子扎記 T’ao Hung-ch’ing 陶鴻慶 1959
 
@@ -352,21 +352,21 @@ tags:
 
 - *T’ung chih* 通志 Cheng Ch’iao 鄭樵 (1104–62)
 
-- *T’ung chih t’ang ching chieh* 通志堂經解 Hsü Ch’ien-hsüeh 徐乾學, Na-lan Ch’eng-te 納蘭成德 (Singde) 1677
+- *T’ung chih t’ang ching chieh* 通志堂經解 Hsü Ch’ien-hsüeh 徐乾學·Na-lan Ch’eng-te 納蘭成德(Singde) 1677
 
 - *T’ung tien* 通典 Tu Yu 杜佑 (735–812)
 
 - *Tzu ch’ao* 子鈔 Yü Chung-jung 庾仲容 (476–549)
 
-- *Tzu hui* 子彙 Chou Tzu-i 周子義 and others 1576–77
+- *Tzu hui* 子彙 Chou Tzu-i 周子義 외 1576–77
 
 - *Tzu lüeh* 子略 Kao Ssu-sun 高似孫 (c. 1160–c. 1230)
 
-- *Tzu shu erh shih erh chung* 子書二十二種 Che-chiang shu chü 1897
+- *Tzu shu erh shih erh chung* 子書二十二種 浙江書局 1897
 
-- *Tzu shu pai chia* 子書百家 Ch’ung wen shu chü 1875
+- *Tzu shu pai chia* 子書百家 崇文書局 1875
 
-- *Wei shu t’ung k’ao* 偽書通考 Chang Hsin-ch’eng 張心澂 1939; rev. ed. Shanghai; Shang wu 1957
+- *Wei shu t’ung k’ao* 偽書通考 Chang Hsin-ch’eng 張心澂 1939; 개정판, 上海: 商務印書館, 1957
 
 - *Wen chi hsien ts’ung shu* 聞雞軒叢書 1915
 
@@ -374,15 +374,15 @@ tags:
 
 - *Wen hsien t’ung k’ao* 文獻通考 Ma Tuan-lin 馬端臨 c. 1308
 
-- *Wen yüan lou ts’ung shu* 文淵樓叢書 Sung Hsing-wu 宋星五 and Chou Ai-ju 周藹如 1928
+- *Wen yüan lou ts’ung shu* 文淵樓叢書 Sung Hsing-wu 宋星五·Chou Ai-ju 周藹如 1928
 
 - *Wen yüan ying hua* 文苑英華 Li Fang 李昉 987
 
 - *Wu ying tien chü chen pan ts’ung shu* 武英殿聚珍版叢書 1794
 
-- *Ya yü t’ang ts’ung shu* 雅雨堂叢書 Lu Chien-tseng 盧見曾 1756; 영인 Taipei, 1966
+- *Ya yü t’ang ts’ung shu* 雅雨堂叢書 Lu Chien-tseng 盧見曾 1756; 臺北에서 1966년 영인
 
-- *Yü hai* 玉海 Wang Ying-lin 王應麟 (1223–96); published 1343–51
+- *Yü hai* 玉海 Wang Ying-lin 王應麟 (1223–96); 1343–51년 간행
 
 - *Yü hai t’ang ying Sung ts’ung shu* 玉海堂景宋叢書
 
@@ -390,7 +390,7 @@ tags:
 
 - *Yü p’ien* 玉篇 Ku Yeh-wang 顧野王 543
 
-- *Yüeh ya t’ang ts’ung shu* 粵雅堂叢書 Wu Ch’ung-yüeh 伍崇曜 (mid 19세기; 보유 1875)
+- *Yüeh ya t’ang ts’ung shu* 粵雅堂叢書 Wu Ch’ung-yüeh 伍崇曜 (19세기 중엽; 보유 1875)
 
 - *Yung lo ta tien* 永樂大典 1403–07
 
@@ -408,7 +408,7 @@ tags:
 
 - *Bibliography Quarterly* — 참조: *Shu mu chi kan*
 
-- *Bulletin of the Institute of History and Philology* [*BIHP*], Peiping, Shang- hai: 1928; Taipei: 1950–
+- *Bulletin of the Institute of History and Philology* [*BIHP*], Peiping, Shanghai: 1928; Taipei: 1950–
 
 - *Bulletin of the Museum of Far Eastern Antiquities* [*BMFEA*], Stockholm: 1929–
 
@@ -422,7 +422,7 @@ tags:
 
 - *Chinese Studies in Philosophy*, White Plains: 1969–
 
-- *Chūgoku kankei ronsetsu shiryō* 中國關係論說資料,Tokyo: 1964–
+- *Chūgoku kankei ronsetsu shiryō* 中國關係論說資料, Tokyo: 1964–
 
 - *Chung kuo che hsüeh* 中國哲學, Peking: 1979–
 
@@ -454,7 +454,7 @@ tags:
 
 - *Journal of the American Oriental Society*, New York: 1843–
 
-- *Journal of Asian Studies* (formerly *Far Eastern Quarterly*), New York, 1941–
+- *Journal of Asian Studies* (formerly *Far Eastern Quarterly*), New York: 1941–
 
 - *Journal Asiatique*, Paris: 1822–
 
@@ -462,7 +462,7 @@ tags:
 
 - *Journal of Chinese Religions* (formerly *Bulletin of the Society for the Study of Chinese Religions*), 1981–
 
-- *Journal of the North China Branch of the Royal Asiatic Society* [*JNChBrAS*], Shanghai, 1858–1948
+- *Journal of the North China Branch of the Royal Asiatic Society* [*JNChBrAS*], Shanghai: 1858–1948
 
 - *Journal of Oriental Studies*, Hong Kong: 1954–
 
@@ -490,33 +490,33 @@ tags:
 
 - *Mitteilungen des Seminars für Orientalistische Sprachen* [*MSOS*], Berlin: 1898–1935
 
-- *Monumenta Serica* [*MS*], Peiping; Tokyo; Los Angeles, 1935–
+- *Monumenta Serica* [*MS*], Peiping; Tokyo; Los Angeles: 1935–
 
 - *Nan yang ta hsüeh hsüeh pao* 南洋大學學報, Singapore: 1967–
 
 - *Nihon joshi daigaku kiyō* 日本女子大學紀要, Tokyo: 1951–
 
-- *Okayama shigaku* 岡山史學, Okayama:1955–
+- *Okayama shigaku* 岡山史學, Okayama: 1955–
 
-- *Oriens*, Leiden 1948–
+- *Oriens*, Leiden: 1948–
 
 - *Pei p’ing t’u shu kuan yüeh k’an* 北平圖書館月刊, Peiping: 1928–37
 
 - *Revue bibliographique de sinologie* [*RBS*], Paris: 1955–
 
-- *Ritsumeikan bungaku* 立命館文學, Kyoto 1947–
+- *Ritsumeikan bungaku* 立命館文學, Kyoto: 1947–
 
-- *Shigaku* 史學, Tokyo 1921–
+- *Shigaku* 史學, Tokyo: 1921–
 
 - *Shigaku zasshi* 史學雜志, Tokyo: 1889–
 
-- *Shih hsüeh lun ts’ung* 史學論叢, Peiping 1934–35
+- *Shih hsüeh lun ts’ung* 史學論叢, Peiping: 1934–35
 
-- *Shih hsüeh nien pao* 史學年報, Peiping 1929–40
+- *Shih hsüeh nien pao* 史學年報, Peiping: 1929–40
 
 - *Shinagaku* 支那學, Kyoto: 1920–42
 
-- *Shinagaku kenkyū* 支那學研究, Tokyo: 1929–45; Hiroshima 1950–65
+- *Shinagaku kenkyū* 支那學研究, Tokyo: 1929–45; Hiroshima: 1950–65
 
 - *Shina rekishi chiri kenkyū (zokushū)* 支那歷史地理研究(續集)
 
@@ -536,7 +536,7 @@ tags:
 
 - *Tōhō gaku* 東方學, Tokyo: 1951–
 
-- *Tōhō gakuhō* 東方學報 [*THG*], (a) Kyoto: 1931– ; (b) Tokyo: 1931–44
+- *Tōhō gakuhō* 東方學報 [*THG*], (a) Kyoto: 1931–; (b) Tokyo: 1931–44
 
 - *Tōhō shūkyō* 東方宗教, Tokyo: 1951–
 
@@ -548,7 +548,7 @@ tags:
 
 - *Tōyōshi kenkyū* 東洋史研究 [*TSK*], Kyoto: 1935–
 
-- *T’u shu kuan hsüeh chi k’an* 圖書館學季刊, Peiping:1926–37
+- *T’u shu kuan hsüeh chi k’an* 圖書館學季刊, Peiping: 1926–37
 
 - *T’u shu kuan hsüeh pao* 圖書館學報, Taichung: 1959–71
 
@@ -558,7 +558,7 @@ tags:
 
 - *Wen shih* 文史, Peking: 1962–
 
-- *Wen shih che* 文史哲, Shan-tung, 1951–66
+- *Wen shih che* 文史哲, Shan-tung: 1951–66
 
 - *Wen shih che hsüeh pao* 文史哲學報, Taipei: 1950–
 
@@ -568,7 +568,7 @@ tags:
 
 - *Yü kung* 禹貢, Peiping: 1934–37
 
-- *Zeitschrift der Deutschen Mörgenlandischen Gesellschaft* [*ZDMG*], Leipzig, 1847–
+- *Zeitschrift der Deutschen Morgenländischen Gesellschaft* [*ZDMG*], Leipzig: 1847–
 
 ## 일본 漢文 판본에 관한 설명
 
