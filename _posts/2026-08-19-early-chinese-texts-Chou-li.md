@@ -112,9 +112,9 @@ tags:
 
 - (b) 일본어: Hayashi Taisuke 林泰輔(1854–1922), 《周公の周官儀禮周易との關係》. 이 글은 그의 《周公と其時代》 (東京: 大倉書店, 1915) 제3부로 실렸으며, 〈周官制作時代考〉가 부록으로 붙어 있다. 林泰輔의 추가 연구 두 편 〈周官に見えたる人倫の關係〉과 〈周官に見えたる衛生制度〉는 《支那上代の研究》 (東京: 弘文館, 1927; 岡崎: 新光社, 1944 재간), pp. 335–345와 pp. 347–354에 각각 실려 있다. 또한 Tanaka Toshiaki 田中利明, 〈周禮の成立についての一考察〉, 《東方學》 42 (1971년 8월), pp. 16–31도 주목할 만하다. Honda Jirō 本田二郎, 《周禮通釋》 (東京: 秀英, 1977–1979)은 훈점이 붙은 본문, 일본어 번역과 주석을 제시한다. 이 책은 주요 漢文 총서에는 포함되지 않았다.
 
-- (c) 서양어: Charles De Harlez, “Le Tcheou-li et le Shan-hai-king, leur origine et leur valeur historique,” *T’oung Pao* 5 (1894), pp. 11–42, 107–122; Bruno Schindler, *Das Priestertum im alten China* (Leipzig: Spaniersche Buchdruckerei, 1919), pp. 55–77; Bernhard Karlgren, “The Early History of the Chou li and Tso chuan Texts,” *Bulletin of the Museum of Far Eastern Antiquities* 3 (1931), pp. 1–59; Sven Broman, “Studies on the Chou li,” *Bulletin of the Museum of Far Eastern Antiquities* 33 (1961), pp. 1–89; Stockholm, 1961 재간.
+- (c) 서양어: Charles De Harlez, “*Le Tcheou-li et le Shan-hai-king, leur origine et leur valeur historique* [《周禮》와 《山海經》—그 기원과 역사적 가치],” *T’oung Pao* 5 (1894), pp. 11–42, 107–122; Bruno Schindler, *Das Priestertum im alten China* [고대 중국의 사제직] (Leipzig: Spaniersche Buchdruckerei, 1919), pp. 55–77; Bernhard Karlgren, “The Early History of the Chou li and Tso chuan Texts,” *Bulletin of the Museum of Far Eastern Antiquities* 3 (1931), pp. 1–59; Sven Broman, “Studies on the Chou li,” *Bulletin of the Museum of Far Eastern Antiquities* 33 (1961), pp. 1–89; Stockholm, 1961 재간.
 
-《周禮》의 서양어 완역은 한 종이 있다. Édouard Biot, *Le Tcheou-li ou Rites des Tcheou* (《周禮》 또는 周의 예), 3권 (Paris: Imprimerie Nationale, 1851; Taipei: 成文出版社, 1975 재간).
+《周禮》의 서양어 완역은 한 종이 있다. Édouard Biot, *Le Tcheou-li ou Rites des Tcheou* [《周禮》 또는 周의 예] (《周禮》 또는 周의 예), 3권 (Paris: Imprimerie Nationale, 1851; Taipei: 成文出版社, 1975 재간).
 
 ## 5. 색인
 

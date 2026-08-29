@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "《Early Chinese Texts》 011: Ch’un ch’iu fan lu 春秋繁露"
-date: 2026-08-29 12:21:00 +0900
+date: 2026-08-29 14:15:00 +0900
 categories:
   - Translations
 series: Early Chinese Texts
@@ -170,6 +170,6 @@ L. 《中國古典新書》(1977), Hihara Toshikuni 日原利國 편.
 
 (p) 俞樾. 《諸子平議》의 주석 참조.
 
-—Steve Davidson
+*—Steve Davidson*
 
-—Michael Loewe
+*—Michael Loewe*

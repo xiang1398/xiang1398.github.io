@@ -88,14 +88,14 @@ tags:
 
 - (a) Margaret J. Pearson, *Wang Fu and the Comments of a Recluse* (Tempe, Arizona: Center for Asian Studies, Arizona State University, 1989). 王符의 생애와 시대, 정치사상을 다룬 서론에 이어 14편을 번역하였다.
 
-- (b) Ivan P. Kamenarović, *Wang Fu: propos d’un ermite (Qianfu lun); introduction et traduction du chinois* (Paris: Éditions du Cerf, 1992). 36편 전체의 번역에 주석을 붙였으며, 주석은 (i) 교감된 본문에 의거한 곳을 밝히고 (ii) 비전문 독자에게 필요한 기초 정보를 제공한다.
+- (b) Ivan P. Kamenarović, *Wang Fu: propos d’un ermite (Qianfu lun); introduction et traduction du chinois* [왕부: 은자의 말(《潛夫論》)—서론과 중국어 원문의 번역] (Paris: Éditions du Cerf, 1992). 36편 전체의 번역에 주석을 붙였으며, 주석은 (i) 교감된 본문에 의거한 곳을 밝히고 (ii) 비전문 독자에게 필요한 기초 정보를 제공한다.
 
 ## 8. 색인
 
-- (a) 《潛夫論通檢》 (*Index du Ts’ien Fou Louen*), Centre franco-chinois d’études sinologiques, no. 6 (北京, 1945). 《四部備要》본을 저본으로 하며, 책의 내용 요약도 수록한다.
+- (a) 《潛夫論通檢》 (*Index du Ts’ien Fou Louen* [《潛夫論》 색인]), Centre franco-chinois d’études sinologiques, no. 6 (北京, 1945). 《四部備要》본을 저본으로 하며, 책의 내용 요약도 수록한다.
 
 - (b) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Qianfu lun* 潛夫論逐字索引, *ICS* series (Hong Kong: Commercial Press, 1995년 출간 예정).
 
-*— Ch’i-yün Ch’en*
+*—Ch’i-yün Ch’en*
 
-*— Margaret Pearson*
+*—Margaret Pearson*

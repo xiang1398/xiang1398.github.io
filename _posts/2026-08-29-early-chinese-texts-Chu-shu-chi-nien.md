@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "《Early Chinese Texts》 007: Chu shu chi nien 竹書紀年"
-date: 2026-08-29 10:03:00 +0900
+date: 2026-08-29 14:11:00 +0900
 categories:
   - Translations
 

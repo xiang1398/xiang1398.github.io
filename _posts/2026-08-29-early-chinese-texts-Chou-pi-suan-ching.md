@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "《Early Chinese Texts》 006: Chou pi suan ching 周髀算經"
-date: 2026-08-29 10:02:00 +0900
+date: 2026-08-29 14:10:00 +0900
 categories:
   - Translations
 
@@ -103,4 +103,4 @@ E. Biot가 *Journal Asiatique*, 3e série, 11 (1841), pp. 593–638에 게재한
 
 D. C. Lau·Chen Fong Ching 편, *A Concordance to the Zhou bi suanjing and Jiu zhang suanshu* 《周髀算經、九章算術逐字索引》 (*ICS* series; Hong Kong: Commercial Press, 1996년 출간 예정).
 
-— _Christopher Cullen_
+*—_Christopher Cullen_*

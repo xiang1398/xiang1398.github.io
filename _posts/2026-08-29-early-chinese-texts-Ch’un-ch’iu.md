@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "《Early Chinese Texts》 010: Ch’un ch’iu 春秋·公羊傳·穀梁傳·左傳"
-date: 2026-08-29 12:20:00 +0900
+date: 2026-08-29 14:14:00 +0900
 categories:
   - Translations
 series: Early Chinese Texts
@@ -185,4 +185,4 @@ L. 《中國古典新書》(1937), Kamata Tadashi 鎌田正 편.
 
 (i) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Chunqiu Guliang zhuan* 《春秋穀梁傳逐字索引》 (*ICS* series; Hong Kong: Commercial Press, 1994년 출간 예정).
 
-—Anne Cheng
+*—Anne Cheng*

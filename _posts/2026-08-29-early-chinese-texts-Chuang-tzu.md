@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "《Early Chinese Texts》 009: Chuang tzu 莊子"
-date: 2026-08-29 14:16:00 +0900
+date: 2026-08-29 14:13:00 +0900
 categories:
   - Translations
 

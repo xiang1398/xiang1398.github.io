@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "《Early Chinese Texts》 012: Chung lun 中論"
-date: 2026-08-29 12:22:00 +0900
+date: 2026-08-29 14:16:00 +0900
 categories:
   - Translations
 series: Early Chinese Texts
@@ -116,4 +116,4 @@ tags:
 
 D. C. Lau·Chen Fong Ching 편, *A Concordance to the Shen jian, Zhong lun and Xin yu* 《申鑑·中論·新語逐字索引》 (*ICS* series; Hong Kong: Commercial Press, 1995년 출간 예정).
 
-—John Makeham
+*—John Makeham*
