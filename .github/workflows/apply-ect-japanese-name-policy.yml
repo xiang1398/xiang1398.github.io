@@ -1,0 +1,24 @@
+name: Apply ECT Japanese name policy
+on:
+  push:
+    paths:
+      - '.github/workflows/apply-ect-japanese-name-policy.yml'
+permissions:
+  contents: write
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - run: python tools/apply_ect_japanese_name_policy.py
+      - run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add _posts/2026-08-30-early-chinese-texts-Hsiao-ching.md _posts/2026-08-30-early-chinese-texts-Huang-ti-nei-ching.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Apply Japanese name policy to ECT 021-030"
+            git push
+          fi
