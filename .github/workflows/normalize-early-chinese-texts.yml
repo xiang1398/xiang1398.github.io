@@ -14,26 +14,40 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+
+      - name: Preserve user-edited ETC 014
+        run: cp _posts/2026-08-30-early-chinese-texts-Fa-yen.md /tmp/early-chinese-texts-Fa-yen.md
+
       - run: python tools/normalize_early_chinese_texts.py
-      - name: Normalize parenthesized translator notes in ETC 013-018
+
+      - name: Restore user-edited ETC 014
+        run: cp /tmp/early-chinese-texts-Fa-yen.md _posts/2026-08-30-early-chinese-texts-Fa-yen.md
+
+      - name: Match ETC 015-018 to ETC 014 citation style
         run: |
           python - <<'PY'
           from pathlib import Path
           import re
 
           files = [
-              '_posts/2026-08-30-early-chinese-texts-Erh-ya.md',
-              '_posts/2026-08-30-early-chinese-texts-Fa-yen.md',
               '_posts/2026-08-30-early-chinese-texts-Feng-su-tung-i.md',
               '_posts/2026-08-30-early-chinese-texts-Han-chi.md',
               '_posts/2026-08-30-early-chinese-texts-Han-fei-tzu.md',
               '_posts/2026-08-30-early-chinese-texts-Han-shih-wai-chuan.md',
           ]
+
           for filename in files:
               p = Path(filename)
               text = p.read_text(encoding='utf-8')
 
-              # 바깥 괄호가 이미 인용 전체를 감싸면 역자 주에 괄호를 한 번 더 쓰지 않는다.
+              # 동일한 역자 주가 연속 중복된 경우 하나만 남긴다.
+              text = re.sub(
+                  r'(\(역자 주: ([^)]+)\))(?:\1)+',
+                  r'\1',
+                  text,
+              )
+
+              # 바깥 괄호가 이미 인용 전체를 감싸는 경우 014처럼 마침표 뒤에 역자 주를 둔다.
               # (《漢書》 卷30, 1558쪽(역자 주: 〈藝文志〉))
               # → (《漢書》 卷30, 1558쪽. 역자 주: 〈藝文志〉)
               text = re.sub(
@@ -42,10 +56,7 @@ jobs:
                   text,
               )
 
-              # 독립 인용은 기존 형식을 유지한다:
-              # 《漢書》 卷30, 1558쪽(역자 주: 〈藝文志〉)
-
-              # 《日本國見在書目錄》 역자 주가 중복된 경우 하나로 합친다.
+              # 《日本國見在書目錄》은 책 제목이므로 《》를 유지한다.
               text = re.sub(
                   r'\(역자 주: [《〈]日本國見在書目錄[》〉]\)(?:\(역자 주: [《〈]日本國見在書目錄[》〉]\))+',
                   '(역자 주: 《日本國見在書目錄》)',
@@ -53,8 +64,28 @@ jobs:
               )
               text = text.replace('(역자 주: 〈日本國見在書目錄〉)', '(역자 주: 《日本國見在書目錄》)')
 
+              if filename.endswith('Feng-su-tung-i.md'):
+                  text = text.replace(
+                      '《三國志》 卷1(〈魏書〉 권1) 11쪽 주1',
+                      '《三國志》 卷1, 11쪽 주1(역자 주: 〈魏書·武帝紀〉)'
+                  )
+
+              if filename.endswith('Han-chi.md'):
+                  text = re.sub(
+                      r'전혀 다르다\s*\(?《後漢書》 卷62, 2062쪽(?:\(역자 주: 〈荀悅傳〉\))*\)?\.',
+                      '전혀 다르다(《後漢書》 卷62, 2062쪽. 역자 주: 〈荀悅傳〉).',
+                      text,
+                  )
+
+              if filename.endswith('Han-shih-wai-chuan.md'):
+                  text = text.replace(
+                      '그의 전기(《史記》 卷121, 3124쪽(역자 주: 〈儒林列傳〉), 《漢書》 卷88, 3613쪽(역자 주: 〈儒林傳〉))',
+                      '그의 전기(《史記》 卷121, 3124쪽, 《漢書》 卷88, 3613쪽. 역자 주: 〈儒林列傳〉, 〈儒林傳〉)'
+                  )
+
               p.write_text(text, encoding='utf-8')
           PY
+
       - name: Commit normalized citations
         run: |
           if git diff --quiet -- _posts; then exit 0; fi
