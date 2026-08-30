@@ -100,7 +100,7 @@ tags:
 
 ## 9. 일본어 판본
 
-L. 《中國古典新書》, 1973, Hirotsune Jinsei 편.
+L. 《中國古典新書》, 1973, Hirotsune Jinsei 廣常人世 편.
 
 ## 10. 색인
 
