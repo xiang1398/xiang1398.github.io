@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "《Early Chinese Texts》 029: I ching 易經 (Chou I 周易)"
-date: 2026-08-30 13:20:00 +0900
+date: 2026-08-30 12:50:00 +0900
 categories:
   - Translations
 series: Early Chinese Texts
