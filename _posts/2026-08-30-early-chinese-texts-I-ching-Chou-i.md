@@ -35,7 +35,7 @@ tags:
 
 ## 2. 《周易》의 내용: 卦辭와 爻辭
 
-《周易》는 끊어진 획과 이어진 획 여섯 개의 64가지 배열, 곧 일반적으로 六十四卦라 부르는 도형을 중심으로 구성되어 있다. 전통적으로는 여덟 개의 기본 卦—☰, ☷, ☳, ☴, ☵, ☲, ☱, ☶—가 두 개씩 결합하여 이루어졌다고 여겼다. 그러나 주로 西周 청동기와 일부 商末 갑골에서 발견된 八卦 수자 부호에 관한 근래 연구는 세 획의 부호에서 여섯 획의 부호로 발전했다는 전승에 역사적 근거가 없을 수 있음을 시사한다. 이어진 획·끊어진 획으로 이루어진 三劃掛와 六劃掛의 가장 이른 실증 사례보다 훨씬 오래된 이 수자 부호는 규칙적으로 여섯 개씩 한 조를 이루며, 세 개씩 한 조인 사례는 언제나 여섯 개씩 한 조인 것보다 후대이다. 張政烺, 〈試釋周初青銅器銘文中的易卦〉, 《考古學報》 1980:4, 403–415쪽—Early China VI(1980–1981), 80–96쪽 번역—과 張亞初·劉雨, 〈從商周八卦數字符號談筮法的幾個問題〉, 《考古》 1981:2, 155–163, 154쪽—Early China VII(1981–1982), 46–54쪽 번역—을 참조할 것.
+《周易》는 끊어진 획과 이어진 획 여섯 개의 64가지 배열, 곧 일반적으로 六十四卦라 부르는 도형을 중심으로 구성되어 있다. 전통적으로는 여덟 개의 기본 卦—☰, ☷, ☳, ☴, ☵, ☲, ☱, ☶—가 두 개씩 결합하여 이루어졌다고 여겼다. 그러나 주로 西周 청동기와 일부 商末 갑골에서 발견된 八卦 수자 부호에 관한 근래 연구는 세 획의 부호에서 여섯 획의 부호로 발전했다는 전승에 역사적 근거가 없을 수 있음을 시사한다. 이어진 획·끊어진 획으로 이루어진 三劃掛와 六劃掛의 가장 이른 실증 사례보다 훨씬 오래된 이 수자 부호는 규칙적으로 여섯 개씩 한 조를 이루며, 세 개씩 한 조인 사례는 언제나 여섯 개씩 한 조인 것보다 후대이다. 張政烺, 〈試釋周初青銅器銘文中的易卦〉, 《考古學報》 1980:4, 403–415쪽—*Early China* VI(1980–1981), 80–96쪽 번역—과 張亞初·劉雨, 〈從商周八卦數字符號談筮法的幾個問題〉, 《考古》 1981:2, 155–163, 154쪽—*Early China* VII(1981–1982), 46–54쪽 번역—을 참조할 것.
 
 64괘에는 각각 이름이 붙어 있다. 대체로 괘 바로 뒤, 卦辭 앞머리에 오는 본문에서 가장 두드러진 이미지에서 이름을 가져온다. 卦辭는 보통 정형화된 점복 판단문으로 이루어지며, 가장 유명한 것은 元亨利貞 네 글자이다. 春秋·戰國時代에는 이를 ‘크고’, ‘형통하고’, ‘이롭고’, ‘곧다’라는 네 덕목의 도덕적 뜻으로 해석하였다(《左傳》 襄公 9년, Legge, The Chinese Classics V, 440쪽 참조). 그러나 현대 비평은 그러한 해석이 시대착오적임을 밝혔다. 정확한 뜻에는 합의가 없지만, “큰 받음, 점치기에 이롭다”와 “큰 제사를 지냄, 길한 점”이라는 두 번역을 비교하면 이 용어가 명백히 점복 행위와 관련된다는 점에는 의견이 일치함을 알 수 있다. Edward L. Shaughnessy, The Composition of the Zhouyi, Stanford University 박사학위논문, 1983, 124–133쪽; 高亨, 《周易大傳今注》, 濟南: 齊魯書社, 1973, 53쪽 참조. 특히 貞은 《說文解字》에서 “卜問”, 곧 균열을 내어 묻는 것으로 풀이하며, 商代 갑골문에서 점복 일반을 뜻하는 말로 자주 나타나므로 점복 행위와 관련됨을 시사한다.
 
@@ -59,19 +59,19 @@ tags:
 
 《易經》에는 위에서 설명한 괘상·괘명·卦辭·爻辭 외에 서로 다른 일곱 주석이 포함된다. 그 가운데 아래 (a), (b), (d)는 통상 상·하로 둘로 나뉘므로 전체 주석 단위가 열 개가 되어 ‘十翼’이라는 이름이 생겼다. 일곱 주석은 다음과 같다.
 
-(a) 〈彖〉. 卦辭의 해설. 대체로 성운 풀이, 三卦 상징, 爻位 이론을 결합한다.
+- (a) 〈彖〉. 卦辭의 해설. 대체로 성운 풀이, 三卦 상징, 爻位 이론을 결합한다.
 
-(b) 〈象〉. 大象과 小象으로 구분된다. 大象은 卦辭를 설명하고, 小象은 여섯 爻辭 각각에 대응한다. 大象은 거의 언제나 三卦 상징을 풀이한 뒤 괘 본문과 관련된 도덕적 격언을 덧붙인다. 小象은 爻位와 爻德을 주요 해석 도구로 삼는다.
+- (b) 〈象〉. 大象과 小象으로 구분된다. 大象은 卦辭를 설명하고, 小象은 여섯 爻辭 각각에 대응한다. 大象은 거의 언제나 三卦 상징을 풀이한 뒤 괘 본문과 관련된 도덕적 격언을 덧붙인다. 小象은 爻位와 爻德을 주요 해석 도구로 삼는다.
 
-(c) 〈文言〉. 첫 두 괘 乾·坤에 관한 완전하고 다면적인 주석.
+- (c) 〈文言〉. 첫 두 괘 乾·坤에 관한 완전하고 다면적인 주석.
 
-(d) 〈繫辭〉. 흔히 大傳이라 한다. 본문, 그 구성·기능·의미를 종합적으로 설명한다. 宋代 성리학의 형이상학 사상에서 이 주석의 중요성이 절정에 이르렀다.
+- (d) 〈繫辭〉. 흔히 大傳이라 한다. 본문, 그 구성·기능·의미를 종합적으로 설명한다. 宋代 성리학의 형이상학 사상에서 이 주석의 중요성이 절정에 이르렀다.
 
-(e) 〈說卦〉. 두 부분으로 이루어진다. 첫 부분은 괘의 생성에 관한 철학적 설명이고, 둘째 부분은 여덟 三卦에 성격 유형·동물·신체 부위·사회적 지위 등의 속성을 대응시킨다. 馬王堆본에서는 첫 부분이 형식상 유사한 〈繫辭〉 안에 삽입되어 있다.
+- (e) 〈說卦〉. 두 부분으로 이루어진다. 첫 부분은 괘의 생성에 관한 철학적 설명이고, 둘째 부분은 여덟 三卦에 성격 유형·동물·신체 부위·사회적 지위 등의 속성을 대응시킨다. 馬王堆본에서는 첫 부분이 형식상 유사한 〈繫辭〉 안에 삽입되어 있다.
 
-(f) 〈序卦〉. 괘의 배열 순서를 도덕적으로 설명하려는 시도.
+- (f) 〈序卦〉. 괘의 배열 순서를 도덕적으로 설명하려는 시도.
 
-(g) 〈雜卦〉. 32개 괘쌍의 각 절반을 한 단어 또는 한 구절로 자유롭게 특징짓는다.
+- (g) 〈雜卦〉. 32개 괘쌍의 각 절반을 한 단어 또는 한 구절로 자유롭게 특징짓는다.
 
 이 주석을 본문 안에 배치하는 방식에는 두 전통이 있다. 대부분의 판본은 〈彖〉·〈象〉·〈文言〉의 풀이를 대응하는 卦辭 또는 爻辭 바로 뒤에 놓고, 나머지 네 주석은 본문 끝에 붙인다. 宋代 경학자 呂祖謙(1137–1181)과 朱熹(1130–1200)은 세 주석을 본문에서 분리하여 기본 본문 끝에 함께 놓는 별도의 배열을 제안하였다. 기원후 175년 漢石經본과 기원전 168년 馬王堆 사본의 증거는 후자가 원래 《易經》 형식이었고, 주석을 본문 사이에 끼우는 일반적인 형태는 費直(약 기원전 50–기원후 10)·鄭玄(127–200) 계통에서 나왔음을 시사한다.
 
@@ -85,11 +85,11 @@ tags:
 
 ## 6. 본문의 전승
 
-본문 전승 과정은 처음에는 점복을 위하여, 나중에는 지혜의 고전으로 서로 다르게 사용된 이유를 보여 준다. 《周易》 본문은 아마 西周 궁정의 史官들이 만들었다. 그러나 《左傳》 昭公 2년—Legge, The Chinese Classics V, 583쪽—에는 기원전 6세기 중엽까지도 유통 범위가 비교적 제한되었다는 암시가 있다. 《左傳》의 증거가 역사적으로 신뢰할 만하다면, 그 세기부터 귀족 외의 사람도 이용할 수 있는 점서로, 또 수사적으로 인용할 수 있는 지혜의 책으로 사용 범위가 넓어졌다. 元亨利貞을 ‘네 덕’으로 풀이한 것처럼 본문을 도덕적으로 재해석한 최초 사례도 이때 나타났다.
+본문 전승 과정은 처음에는 점복을 위하여, 나중에는 지혜의 고전으로 서로 다르게 사용된 이유를 보여 준다. 《周易》 본문은 아마 西周 궁정의 史官들이 만들었다. 그러나 《左傳》 昭公 2년—Legge, *The Chinese Classics* V, 583쪽—에는 기원전 6세기 중엽까지도 유통 범위가 비교적 제한되었다는 암시가 있다. 《左傳》의 증거가 역사적으로 신뢰할 만하다면, 그 세기부터 귀족 외의 사람도 이용할 수 있는 점서로, 또 수사적으로 인용할 수 있는 지혜의 책으로 사용 범위가 넓어졌다. 元亨利貞을 ‘네 덕’으로 풀이한 것처럼 본문을 도덕적으로 재해석한 최초 사례도 이때 나타났다.
 
-이 시기가 孔子의 생애와 겹치는 것은 우연일 수도 있고 아닐 수도 있다. 전통적으로 孔子는 기본 본문의 전승자·편집자이자 十翼의 저자라고 여겨졌다. 뒤의 관계는 후대 성인전에서 나온 것임을 이미 보았지만, 《論語》 XIII.22—Legge, The Chinese Classics I, 272쪽—에는 孔子가 본문을 알고 당시의 도덕적 재해석에 동의했다는 증거가 일부 있다. 孔子 개인이 전승에 얼마나 관여했든 그의 학파 구성원들은 직접 관계했다고 전해진다.
+이 시기가 孔子의 생애와 겹치는 것은 우연일 수도 있고 아닐 수도 있다. 전통적으로 孔子는 기본 본문의 전승자·편집자이자 十翼의 저자라고 여겨졌다. 뒤의 관계는 후대 성인전에서 나온 것임을 이미 보았지만, 《論語》 XIII.22—Legge, *The Chinese Classics* I, 272쪽—에는 孔子가 본문을 알고 당시의 도덕적 재해석에 동의했다는 증거가 일부 있다. 孔子 개인이 전승에 얼마나 관여했든 그의 학파 구성원들은 직접 관계했다고 전해진다.
 
-《漢書》 卷88 〈儒林傳〉, 3597쪽은 孔子의 제1세대 제자 商瞿(기원전 523년 출생)에서 다섯 세대를 거쳐 漢初 田何(약 기원전 202–143)에 이르는 전승을 기록한다. 점서라는 실용적 성격 덕분에 秦의 분서에서 살아남은 본문은 田何에게서 네 제자에게 전해졌고, 그 가운데 丁寬(약 기원전 180–140)이 가장 중요하였다. 丁寬본은 다시 田王孫(약 기원전 140–90)에게, 거기서 施讎·孟喜·梁丘賀(모두 약 기원전 90–40)에게 전해졌다. 太學 소속이던 세 학자의 본문은 정통으로 인정되었다. 孟喜의 재전제자 京房(기원전 77–37)본도 뒤에 정통으로 인정되었다.
+《漢書》 卷88, 3597쪽(역자 주: 〈儒林傳〉)은 孔子의 제1세대 제자 商瞿(기원전 523년 출생)에서 다섯 세대를 거쳐 漢初 田何(약 기원전 202–143)에 이르는 전승을 기록한다. 점서라는 실용적 성격 덕분에 秦의 분서에서 살아남은 본문은 田何에게서 네 제자에게 전해졌고, 그 가운데 丁寬(약 기원전 180–140)이 가장 중요하였다. 丁寬본은 다시 田王孫(약 기원전 140–90)에게, 거기서 施讎·孟喜·梁丘賀(모두 약 기원전 90–40)에게 전해졌다. 太學 소속이던 세 학자의 본문은 정통으로 인정되었다. 孟喜의 재전제자 京房(기원전 77–37)본도 뒤에 정통으로 인정되었다.
 
 後漢 말에는 이 전통들이 영향력을 잃은 듯하다. 施讎·梁丘賀 계통은 3세기에 단절되었다. 孟喜·京房본은 隋代까지 남았지만 영향은 거의 없었다. 한편 前漢 말에는 費直(약 기원전 50–기원후 10)에게서 나온 古文 계통이 나타났다. 공식 승인을 받지는 못했지만 後漢 두 세기 동안 馬融(79–166), 鄭玄(127–200), 荀爽(128–190), 陸績(188–219) 같은 저명한 학자의 지지를 받아 우세해졌다. 현전 최고 완전 주석의 저자 王弼(226–249)도 이 계통의 본문을 사용하였다. 孔穎達(574–648) 때에는 王弼 주석과 본문이 정통으로 인정되었고, 이후 현전하는 수백 종의 주석과 연구는 거의 모두 王弼본에 기초하였다.
 
@@ -115,7 +115,7 @@ tags:
 
 ## 10. 번역
 
-서양어로 출판된 최초의 완역은 예수회 신부 Jean-Baptiste Regis(1663–1738)의 라틴어 번역으로 1834년과 1839년에 두 권으로 간행되었다. 영어권 학생은 대체로 두 번역 가운데 하나를 접한다. (a) Legge, Sacred Books of the East 16권. 여러 차례 재간되었다. (b) Richard Wilhelm, The I Ching or Book of Changes, Cary F. Baynes 번역, 2책, Bollingen Series 19, New York, 1950. Wilhelm 번역은 둘 가운데 훨씬 읽기 쉽다. 본문의 역사 연구에는 사용할 수 없지만 淸代 말 전통 중국 유학자가 이해한 본문을 충실히 제시한다는 장점이 있다. 《周易》의 여러 부분, ‘十翼’, Wilhelm 자신의 설명을 구별하도록 주의해야 한다.
+서양어로 출판된 최초의 완역은 예수회 신부 Jean-Baptiste Regis(1663–1738)의 라틴어 번역으로 1834년과 1839년에 두 권으로 간행되었다. 영어권 학생은 대체로 두 번역 가운데 하나를 접한다. (a) Legge, *Sacred Books of the East* 16권. 여러 차례 재간되었다. (b) Richard Wilhelm, *The I Ching or Book of Changes*, Cary F. Baynes 번역, 2책, Bollingen Series 19, New York, 1950. Wilhelm 번역은 둘 가운데 훨씬 읽기 쉽다. 본문의 역사 연구에는 사용할 수 없지만 淸代 말 전통 중국 유학자가 이해한 본문을 충실히 제시한다는 장점이 있다. 《周易》의 여러 부분, ‘十翼’, Wilhelm 자신의 설명을 구별하도록 주의해야 한다.
 
 근래 간행된 많은 번역의 상세한 목록은 Hellmut Wilhelm, The Book of Changes in the Western Tradition, Parerga 2(1975)를 참조할 것.
 
@@ -143,9 +143,9 @@ M. 《新訂中國古典選》 1, Honda Wataru 本田濟 편.
 
 ## 12. 최근 연구와 연구 도구
 
-(a) 근래 《易經》 역사 연구의 목록은 반드시 顧頡剛(1893–1980)이 편집하여 1931년에 간행한 《古史辨》 제3책에서 시작한다. 顧頡剛, 錢穆, 胡適(1891–1962), 李鏡池, 余永梁 등의 연구를 수록한 이 책은 본문의 맥락비평을 근대 《易經》 연구의 가장 중요한 분야로 확립하였다. 그 뒤 50년 동안 나온 같은 유형의 많은 연구 가운데 근래의 중요 저술은 다음과 같다.
+- (a) 근래 《易經》 역사 연구의 목록은 반드시 顧頡剛(1893–1980)이 편집하여 1931년에 간행한 《古史辨》 제3책에서 시작한다. 顧頡剛, 錢穆, 胡適(1891–1962), 李鏡池, 余永梁 등의 연구를 수록한 이 책은 본문의 맥락비평을 근대 《易經》 연구의 가장 중요한 분야로 확립하였다. 그 뒤 50년 동안 나온 같은 유형의 많은 연구 가운데 근래의 중요 저술은 다음과 같다.
 
-(i) 高亨, 《周易大傳今注》, 濟南: 齊魯書社, 1979. 1947년 《周易古經今注》를 수정하고 ‘十翼’ 논의를 추가한 판본.
+- (i) 高亨, 《周易大傳今注》, 濟南: 齊魯書社, 1979. 1947년 《周易古經今注》를 수정하고 ‘十翼’ 논의를 추가한 판본.
 
 (ii) 李鏡池, 《周易探源》, 北京: 中華, 1978. 《易經》 맥락비평의 선구적 논문 모음.
 
@@ -153,25 +153,25 @@ M. 《新訂中國古典選》 1, Honda Wataru 本田濟 편.
 
 (iv) 高懷民, 《兩漢易學史》, 臺北: 中國學術著作獎助委員會叢書 54, 1970. 漢代 易學에 관한 최초이자 여전히 가장 중요한 연구.
 
-(b) 주목할 서양어 연구는 다음과 같다.
+- (b) 주목할 서양어 연구는 다음과 같다.
 
-(i) Waley, Arthur, The Book of Changes, BMFEA 5(1933), 121–142쪽.
+- (i) Waley, Arthur, The Book of Changes, BMFEA 5(1933), 121–142쪽.
 
-(ii) Wilhelm, Hellmut, Change: Eight Lectures on the I Ching, Cary F. Baynes 번역, London: Routledge and Kegan Paul, 1961.
+(ii) Wilhelm, Hellmut, *Change: Eight Lectures on the I Ching*, Cary F. Baynes 번역, London: Routledge and Kegan Paul, 1961.
 
-(iii) Wilhelm, Hellmut, Heaven, Earth and Man in the Book of Changes, Seattle·London: University of Washington Press, 1977.
+(iii) Wilhelm, Hellmut, *Heaven, Earth and Man in the Book of Changes*, Seattle·London: University of Washington Press, 1977.
 
-(iv) Shchutskii, Iulian K., Researches on the I Ching, William L. MacDonald·Tsuyoshi Hasegawa·Hellmut Wilhelm 번역, London·Henley: Routledge and Kegan Paul, 1980.
+(iv) Shchutskii, Iulian K., *Researches on the I Ching*, William L. MacDonald·Tsuyoshi Hasegawa·Hellmut Wilhelm 번역, London·Henley: Routledge and Kegan Paul, 1980.
 
-(v) Schmitt, Gerhard, Sprüche der Wandlungen auf ihrem geistesgeschichtlichen Hintergrund (사상사적 배경에서 본 《易》의 괘효사), Berlin: Deutsche Akademie der Wissenschaften zu Berlin, Institut für Orientforschung 76, 1970.
+- (v) Schmitt, Gerhard, *Sprüche der Wandlungen auf ihrem geistesgeschichtlichen Hintergrund* (사상사적 배경에서 본 《易》의 괘효사), Berlin: Deutsche Akademie der Wissenschaften zu Berlin, Institut für Orientforschung 76, 1970.
 
 (vi) Ch’en Ch’i-yün, A Confucian Magnate’s Idea of Political Violence: Hsün Shuang’s (A.D. 128–190) Interpretation of the Book of Changes, TP 54(1968), 73–115쪽.
 
 (vii) Peterson, Willard J., Making Connections: “Commentary on the Attached Verbalizations” of the Book of Changes, HJAS 42:1(1982년 6월), 67–116쪽.
 
-(c) 근래 본문의 초기 역사를 다룬 박사학위논문은 다음과 같다.
+- (c) 근래 본문의 초기 역사를 다룬 박사학위논문은 다음과 같다.
 
-(i) Swanson, Gerald W., The Great Treatise: Commentatory Tradition to the Book of Changes, University of Washington, 1974.
+- (i) Swanson, Gerald W., The Great Treatise: Commentatory Tradition to the Book of Changes, University of Washington, 1974.
 
 (ii) Shaughnessy, Edward L., The Composition of the Zhouyi, Stanford University, 1983.
 
@@ -179,11 +179,11 @@ M. 《新訂中國古典選》 1, Honda Wataru 本田濟 편.
 
 (iv) Goodman, Howard L., Exegetes and Exegeses of the Book of Changes in the Third Century A.D.: Historical and Scholastic Contexts for Wang Pi, Princeton University, 1985.
 
-(v) Fendos, Paul George Jr., Fei Chih’s Place in the Development of I-ching Studies, University of Wisconsin, 1988.
+- (v) Fendos, Paul George Jr., Fei Chih’s Place in the Development of I-ching Studies, University of Wisconsin, 1988.
 
-(d) 가장 가치 있는 연구 도구는 다음과 같다.
+- (d) 가장 가치 있는 연구 도구는 다음과 같다.
 
-(i) A Concordance to Yi Ching, Harvard-Yenching Index 10. 北平, 1935 초판; 臺北: 成文, 1966 재판.
+- (i) *A Concordance to Yi Ching*, Harvard-Yenching Index 10. 北平, 1935 초판; 臺北: 成文, 1966 재판.
 
 (ii) 《易學論叢》, 臺北, 1971. 가장 완전한 서지 연구를 포함한다.
 
@@ -193,8 +193,8 @@ M. 《新訂中國古典選》 1, Honda Wataru 本田濟 편.
 
 ## 13. 색인
 
-(a) 위 12(d) 참조.
+- (a) 위 12(d) 참조.
 
-(b) D.C. Lau와 Chen Fong Ching 편, A Concordance to the Zhou yi 《周易逐字索引》, ICS series, Hong Kong: Commercial Press, 1994 간행 예정.
+- (b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Zhou yi* 《周易逐字索引》, ICS series, Hong Kong: Commercial Press, 1994 간행 예정.
 
-— Edward L. Shaughnessy
+—Edward L. Shaughnessy
