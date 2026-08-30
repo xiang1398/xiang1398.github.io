@@ -5,7 +5,15 @@ date: 2026-08-30 09:15:00 +0900
 categories:
   - Translations
 series: Early Chinese Texts
-tags: [韓詩外傳, 韓嬰, 詩經, 三家詩]
+tags:
+  - Early Chinese Texts
+  - 韓詩外傳
+  - 韓嬰
+  - 詩經
+  - 三家詩
+  - 중국고전
+  - 문헌학
+  - 번역
 ---
 
 # 《韓詩外傳》
