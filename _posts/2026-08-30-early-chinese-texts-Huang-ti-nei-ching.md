@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "《Early Chinese Texts》 028: Huang ti nei ching"
-date: 2026-08-30 13:10:00 +0900
+date: 2026-08-30 12:45:00 +0900
 categories:
   - Translations
 series: Early Chinese Texts
