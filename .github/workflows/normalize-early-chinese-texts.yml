@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: '3.x'
       - run: python tools/normalize_early_chinese_texts.py
-      - name: Remove nested translator-note parentheses in ETC 013-015
+      - name: Normalize parenthesized translator notes in ETC 013-018
         run: |
           python - <<'PY'
           from pathlib import Path
@@ -25,19 +25,27 @@ jobs:
               '_posts/2026-08-30-early-chinese-texts-Erh-ya.md',
               '_posts/2026-08-30-early-chinese-texts-Fa-yen.md',
               '_posts/2026-08-30-early-chinese-texts-Feng-su-tung-i.md',
+              '_posts/2026-08-30-early-chinese-texts-Han-chi.md',
+              '_posts/2026-08-30-early-chinese-texts-Han-fei-tzu.md',
+              '_posts/2026-08-30-early-chinese-texts-Han-shih-wai-chuan.md',
           ]
           for filename in files:
               p = Path(filename)
               text = p.read_text(encoding='utf-8')
 
-              # 인용 전체를 감싼 괄호 안에 역자 주 괄호가 다시 들어간 경우 바깥 괄호를 제거한다.
+              # 바깥 괄호가 이미 인용 전체를 감싸면 역자 주에 괄호를 한 번 더 쓰지 않는다.
+              # (《漢書》 卷30, 1558쪽(역자 주: 〈藝文志〉))
+              # → (《漢書》 卷30, 1558쪽. 역자 주: 〈藝文志〉)
               text = re.sub(
                   r'\((《(?:史記|漢書|後漢書|三國志|隋書|舊唐書|新唐書|宋史)》[^()\n]*?)\(역자 주: ([^)]+)\)\)',
-                  r'\1(역자 주: \2)',
+                  r'(\1. 역자 주: \2)',
                   text,
               )
 
-              # 《日本國見在書目錄》 역자 주가 정규화 과정에서 이중으로 붙은 경우 하나로 합친다.
+              # 독립 인용은 기존 형식을 유지한다:
+              # 《漢書》 卷30, 1558쪽(역자 주: 〈藝文志〉)
+
+              # 《日本國見在書目錄》 역자 주가 중복된 경우 하나로 합친다.
               text = re.sub(
                   r'\(역자 주: [《〈]日本國見在書目錄[》〉]\)(?:\(역자 주: [《〈]日本國見在書目錄[》〉]\))+',
                   '(역자 주: 《日本國見在書目錄》)',
