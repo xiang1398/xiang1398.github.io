@@ -25,6 +25,34 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+
+    {%- assign translator_notes = nil -%}
+    {%- if page.title contains 'Early Chinese Texts' -%}
+      {%- if page.title contains '013' -%}
+        {%- assign translator_notes = site.data.early_chinese_texts_notes.n013 -%}
+      {%- elsif page.title contains '014' -%}
+        {%- assign translator_notes = site.data.early_chinese_texts_notes.n014 -%}
+      {%- elsif page.title contains '015' -%}
+        {%- assign translator_notes = site.data.early_chinese_texts_notes.n015 -%}
+      {%- elsif page.title contains '016' -%}
+        {%- assign translator_notes = site.data.early_chinese_texts_notes.n016 -%}
+      {%- elsif page.title contains '017' -%}
+        {%- assign translator_notes = site.data.early_chinese_texts_notes.n017 -%}
+      {%- elsif page.title contains '018' -%}
+        {%- assign translator_notes = site.data.early_chinese_texts_notes.n018 -%}
+      {%- endif -%}
+    {%- endif -%}
+
+    {%- if translator_notes -%}
+      <section class="translator-notes" aria-labelledby="translator-notes-heading">
+        <h2 id="translator-notes-heading">역자 주</h2>
+        <ol>
+          {%- for note in translator_notes -%}
+            <li>{{ note | markdownify }}</li>
+          {%- endfor -%}
+        </ol>
+      </section>
+    {%- endif -%}
   </div>
 
   {%- if site.disqus.shortname -%}
