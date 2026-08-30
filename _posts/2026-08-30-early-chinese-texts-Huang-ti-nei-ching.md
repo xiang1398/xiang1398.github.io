@@ -34,11 +34,11 @@ tags:
 
 앞서 든 책들의 서명에서 ‘黃帝’라는 말은 이 문헌들을 인류 최초의 통치자 가운데 하나로 신화화된 黃帝와 연결한다. 王莽은 자신이 黃帝의 후손이라고 주장하였다. ‘內經’에 관해서는 《漢書》 卷30, 1776쪽(역자 주: 〈藝文志〉)이 黃帝, 전설적 의사 扁鵲(활동 시기는 대략 기원전 501년으로 잡힌다), 白氏라는 인물과 결부된 학통의 의학 경전을 열거한다. 각각의 경우에 內經과 外經이 한 쌍을 이룬다. 이 여섯 책 가운데 前漢 이후까지 전해진 것은 《黃帝內經》뿐이다.
 
-漢代 서명에서 ‘內’와 ‘外’가 지닌 여러 뜻 가운데 어느 것을 택해야 하는지 판단할 만한 증거는 아직 발견되지 않았다. 이 서명은 근거가 부족한 번역인 The Yellow Emperor’s classic of internal medicine와, 모호한 증거를 바탕으로 상당히 추론을 가한 번역인 The Yellow Emperor’s manual of corporeal [medicine](黃帝의 신체[의학] 지침서)—내용을 전혀 알 수 없는 外經을 ‘비신체적[또는 신체 외부의 의학]’ 문헌으로 대비한 번역—을 낳았다. 대부분의 전문가는 ‘內經’을 무난하게 ‘내부의 경전(inner canon)’이라고 번역하면서, 여기서 ‘內’가 본래 무엇을 뜻했는지는 알 수 없다고 솔직히 인정한다. 《素問》이라는 서명은 220년 이전에 성립한 《傷寒雜病論》 서문에서 처음 확인된다. 현존하는 가장 이른 주석들은 《素問》을 ‘기본적인 질문’으로 풀이하거나(全元起, 약 503년, 주석은 망실), ‘소박한 또는 본래 그대로의 질문’으로 풀이하였다(王冰, 672년; 두 주석은 아래 5절 참조). 王冰의 주석이 널리 유통되었기 때문에 그의 해석은 좀처럼 의문시되지 않았다. 그러나 이 책의 대화와 질문을 소박하다거나 본래 그대로라고 하기는 어렵다. 다만 그것들이 기본적인 문제를 다룬다는 점은 부인할 수 없다.
+漢代 서명에서 ‘內’와 ‘外’가 지닌 여러 뜻 가운데 어느 것을 택해야 하는지 판단할 만한 증거는 아직 발견되지 않았다. 이 서명은 근거가 부족한 번역인 *The Yellow Emperor’s classic of internal medicine*와, 모호한 증거를 바탕으로 상당히 추론을 가한 번역인 The Yellow Emperor’s manual of corporeal [medicine](黃帝의 신체[의학] 지침서)—내용을 전혀 알 수 없는 外經을 ‘비신체적[또는 신체 외부의 의학]’ 문헌으로 대비한 번역—을 낳았다. 대부분의 전문가는 ‘內經’을 무난하게 ‘내부의 경전(inner canon)’이라고 번역하면서, 여기서 ‘內’가 본래 무엇을 뜻했는지는 알 수 없다고 솔직히 인정한다. 《素問》이라는 서명은 220년 이전에 성립한 《傷寒雜病論》 서문에서 처음 확인된다. 현존하는 가장 이른 주석들은 《素問》을 ‘기본적인 질문’으로 풀이하거나(全元起, 약 503년, 주석은 망실), ‘소박한 또는 본래 그대로의 질문’으로 풀이하였다(王冰, 672년; 두 주석은 아래 5절 참조). 王冰의 주석이 널리 유통되었기 때문에 그의 해석은 좀처럼 의문시되지 않았다. 그러나 이 책의 대화와 질문을 소박하다거나 본래 그대로라고 하기는 어렵다. 다만 그것들이 기본적인 문제를 다룬다는 점은 부인할 수 없다.
 
-《靈樞》라는 서명은 唐代에 이르러서야 나타난다. 皇甫謐(215–282)은 《甲乙經》 서문에서 당시에 각각 9권으로 유통되던 《素問》과 ‘침술의 경전’인 《鍼經》을, 〈七略藝文志〉—아마 《漢書》 卷30에 보존된 목록을 가리킨다—에 실린 18권본 《黃帝內經》과 동일시하였다. 그는 분명 《九卷》, 곧 ‘아홉 권’을 《鍼經》의 이명으로 사용하였다. 《甲乙經》 본문에서 현존 《靈樞》와 평행하는 구절은 단순히 ‘黃帝’라고 표시되어 있다. 宋代 이후 전해지는 《靈樞》가 高麗에서 다시 들여온 《黃帝鍼經》을 바탕으로 하였기 때문에, 의학사가들은 대체로 원래의 《黃帝內經》이 현존 《素問》과 《靈樞》에 남아 있다고 믿는다. 그러나 아래에서 본문 전승사를 살펴보면, 이 견해는 근거가 없는 것도 아니지만 논박의 여지가 없는 것도 아니다.
+《靈樞》라는 서명은 唐代에 이르러서야 나타난다. 皇甫謐(215–282)은 《甲乙經》 서문에서 당시에 각각 9권으로 유통되던 《素問》과 ‘침술의 경전’인 《鍼經》을, 〈七略藝文志〉—아마 《漢書》 卷30(역자 주: 〈藝文志〉)에 보존된 목록을 가리킨다—에 실린 18권본 《黃帝內經》과 동일시하였다. 그는 분명 《九卷》, 곧 ‘아홉 권’을 《鍼經》의 이명으로 사용하였다. 《甲乙經》 본문에서 현존 《靈樞》와 평행하는 구절은 단순히 ‘黃帝’라고 표시되어 있다. 宋代 이후 전해지는 《靈樞》가 高麗에서 다시 들여온 《黃帝鍼經》을 바탕으로 하였기 때문에, 의학사가들은 대체로 원래의 《黃帝內經》이 현존 《素問》과 《靈樞》에 남아 있다고 믿는다. 그러나 아래에서 본문 전승사를 살펴보면, 이 견해는 근거가 없는 것도 아니지만 논박의 여지가 없는 것도 아니다.
 
-《太素》라는 서명의 뜻 역시 논란이 많다. Lu와 Needham은 이를 The Great Clarity로 번역했으나(1970, 270쪽), 素에 ‘명료함’이라는 뜻이 있었다는 문헌상 근거는 없다. 이 책을 대상으로 한 유일한 서양어 단행 연구는 The Grand Basis를 택하였으며, 최근의 다른 간행물도 이 번역을 사용한다(Chiu 1986; Morohashi 27300(5) 참조). 《明堂》은 사실상 연구되지 않았지만, 그 서명은 Soothill이 the Hall of Light라고 부른 우주론적 군주제 이론을 분명히 가리킨다(1951). 이 책은 서문과 1권을 제외하면 인용문으로만 알려져 있다. 현존 판본의 楊上善 서문은 자신이 잔편을 재배열하여 책을 구성했음을 밝힌다.
+《太素》라는 서명의 뜻 역시 논란이 많다. Lu와 Needham은 이를 *The Great Clarity*로 번역했으나(1970, 270쪽), 素에 ‘명료함’이라는 뜻이 있었다는 문헌상 근거는 없다. 이 책을 대상으로 한 유일한 서양어 단행 연구는 *The Grand Basis*를 택하였으며, 최근의 다른 간행물도 이 번역을 사용한다(Chiu 1986; Morohashi 27300(5) 참조). 《明堂》은 사실상 연구되지 않았지만, 그 서명은 Soothill이 *the Hall of Light*라고 부른 우주론적 군주제 이론을 분명히 가리킨다(1951). 이 책은 서문과 1권을 제외하면 인용문으로만 알려져 있다. 현존 판본의 楊上善 서문은 자신이 잔편을 재배열하여 책을 구성했음을 밝힌다.
 
 이하에서는 漢代 《黃帝內經》의 모습을 반영한다고 신뢰할 수 있고 일반적으로 인정되는 앞의 세 문헌을 중심으로 논의한다. 《太素》는 《素問》과 《靈樞》 양쪽의 내용을 아우르는 이본 계통으로 다룬다.
 
@@ -76,17 +76,17 @@ tags:
 
 ## 5. 본문 전승과 주요 판본 계통
 
-많은 학자가 前漢 말 황실 도서관에 20편의 《黃帝太素》가 있었다고 지적하였다. 그러나 《七略》이 이를 의학류가 아니라 陰陽家類에 배치했다는 사실 외에는 알려진 것이 없으므로(《漢書》 卷30, 1732쪽. 역자 주: 〈藝文志〉), 이 기록을 漢代 《太素》의 증거로 삼기는 어렵다. 일부 의학사가는 여전히 《黃帝內經太素》를 약 600년의 저술로 보지만, 楊守敬(1839–1915)은 1901년에 이 견해를 반박하였고(권9, 1a–3b), 최근 연구는 666–683년 사이의 성립을 시사한다(Sivin, 출간 예정). 《舊唐書》 卷47, 2047쪽(역자 주: 〈經籍志〉)과 《新唐書》 卷59, 1566쪽(역자 주: 〈藝文志〉)에는 30권으로 기록되어 있다. 藤原佐世의 목록에는 보이지 않으며, 《宋史》 卷207, 5303쪽(역자 주: 〈藝文志〉)에는 3권만 남은 것으로 기록된다. 宋代 이후 이 책은 매우 드물게 인용된다. 중국에서 《太素》가 망실된 뒤에는 8세기 전반 일본에 전래된 판본을 1167–1168년에 베낀 京都 仁和寺 소장본만 남아 모든 20세기 판본의 저본이 되었다. 이 사본은 원래 30卷 가운데 25卷, 편수 미상의 전체 가운데 180편만 보존한다.
+많은 학자가 前漢 말 황실 도서관에 20편의 《黃帝太素》가 있었다고 지적하였다. 그러나 《七略》이 이를 의학류가 아니라 陰陽家類에 배치했다는 사실 외에는 알려진 것이 없으므로(《漢書》 卷30, 1732쪽. 역자 주: 〈藝文志〉), 이 기록을 漢代 《太素》의 증거로 삼기는 어렵다. 일부 의학사가는 여전히 《黃帝內經太素》를 약 600년의 저술로 보지만, 楊守敬(1839–1915)은 1901년에 이 견해를 반박하였고(卷9, 1a–3b), 최근 연구는 666–683년 사이의 성립을 시사한다(Sivin, 출간 예정). 《舊唐書》 卷47, 2047쪽(역자 주: 〈經籍志〉)과 《新唐書》 卷59, 1566쪽(역자 주: 〈藝文志〉)에는 30권으로 기록되어 있다. 藤原佐世의 목록에는 보이지 않으며, 《宋史》 卷207, 5303쪽(역자 주: 〈藝文志〉)에는 3권만 남은 것으로 기록된다. 宋代 이후 이 책은 매우 드물게 인용된다. 중국에서 《太素》가 망실된 뒤에는 8세기 전반 일본에 전래된 판본을 1167–1168년에 베낀 京都 仁和寺 소장본만 남아 모든 20세기 판본의 저본이 되었다. 이 사본은 원래 30권 가운데 25권, 편수 미상의 전체 가운데 180편만 보존한다.
 
 《素問》과 《靈樞》는 시대에 따라 권수 기록이 달라졌지만, 중복되는 내용이 많음에도 각각 일관되게 81편을 수록하였다. 앞서 말했듯 《素問》에는 두 편이 빠져 있고, 일곱 편 전체와 다른 한 편의 일부가 위작이다. 현존 內經 152편 가운데 111편은 불완전한 《太素》에 완전하거나 거의 완전하게—반드시 같은 문구로는 아니지만—수록되고, 23편은 일부가 수록되며, 대응 부분이 전혀 없는 것은 28편뿐이다. 반대로 현존 《太素》의 모든 편은 《素問》이나 《靈樞》 또는 양쪽 모두에 대응한다.
 
-內經의 전승사를 깊이 연구한 학자들은 여러 유보를 달면서도, 皇甫謐이 《漢書》 卷30, 1776쪽(역자 주: 〈藝文志〉)의 《黃帝內經》을 자신이 본 《素問》과 《鍼經》에 대응시킨 것을 받아들인다(Okanishi 1958, 1–48쪽; 1974, 1–11쪽; 馬繼興 1990, 70–85쪽). 皇甫謐은 두 책이 더 이상 완전하지 않고 일부가 뒤섞였다고 불평하였다. 약 503년 全元起가 《素問》을 주석할 때에는 제7권이 이미 망실되어, 그의 《黃帝素問》은 8卷 68편으로 이루어졌다. 이 판본은 隋代부터 宋代까지 정사 예문지에 기록되지만 元代까지 전해지지는 못하였다.
+內經의 전승사를 깊이 연구한 학자들은 여러 유보를 달면서도, 皇甫謐이 《漢書》 卷30, 1776쪽(역자 주: 〈藝文志〉)의 《黃帝內經》을 자신이 본 《素問》과 《鍼經》에 대응시킨 것을 받아들인다(Okanishi 1958, 1–48쪽; 1974, 1–11쪽; 馬繼興 1990, 70–85쪽). 皇甫謐은 두 책이 더 이상 완전하지 않고 일부가 뒤섞였다고 불평하였다. 약 503년 全元起가 《素問》을 주석할 때에는 제7권이 이미 망실되어, 그의 《黃帝素問》은 8권 68편으로 이루어졌다. 이 판본은 隋代부터 宋代까지 정사 예문지에 기록되지만 元代까지 전해지지는 못하였다.
 
 王冰의 주석은 크게 재배열된 24권본에 붙어 있다. 그는 자신의 판단에 따라 본문을 추가하거나 삭제했고, 불완전한 全元起본을 다른 자료로 보완했다고 스스로 밝힌다. 그의 추가 부분은 본래 붉은 글씨로 새겨졌으나 알려진 어떤 인쇄본도 이 특징을 재현하지 않았다. 정부 위원회가 王冰 본문과 주석을 선택하여 1026/1027년과 1067년에 다시 교정·인쇄하고 공식 반포한 것은 그 판본의 생존을 보장했으며, 아마 全元起본의 소멸을 초래했을 것이다. 두 판본을 편별로 비교한 것은 Okanishi 1958, 11–14쪽 또는 馬繼興 1990, 71–74쪽 참조. 또한 760년 이전 唐代 의학 시험에는 內經의 어느 부분도 포함되지 않았고, 760년부터는 《素問》만 학습하도록 하였다. 이것은 아마 王冰이 762년에 조정에 올린 판본의 초기 형태였을 것이다. 이 상황은 692년 이후 高麗에서 《素問》과 《鍼經》을 필수로 삼은 경우, 757년 일본에서 《太素》를 교육 과정에 포함한 경우와 비교할 수 있다(Miyashita 1963; Kosoto 등 1981, VIII, 344–345쪽).
 
 1067년 이후 《素問》의 중요한 새 판본은 나오지 않았다. 초기 문헌의 인용과 《太素》·《靈樞》의 평행 구절을 王冰 본문과 체계적으로 비교한 새 판본이 절실하다.
 
-오늘날 《黃帝內經靈樞》 또는 간단히 《靈樞經》이라 불리는 문헌의 漢代에서 宋代 사이 전승은 더 불분명하다. 《甲乙經》에서 ‘黃帝’로 표시된 인용은 일관되게 현행 《靈樞》 및 《太素》의 평행 구절과 대응한다. 《隋書》 卷34, 1040쪽(역자 주: 〈經籍志〉)은 9권의 《黃帝鍼經》을 기록하고, 梁代 황실 도서관에 12권의 《黃帝鍼灸經》이 있었다고 주기한다. 앞의 서명은 10卷, 뒤의 서명은 12권으로 《舊唐書》 卷47, 2046·2047쪽(역자 주: 〈經籍志〉)과 《新唐書》 卷59, 1565쪽(역자 주: 〈藝文志〉)에 보인다. 비슷하지만 모호한 여러 서명이 함께 기록되어 있어 Okanishi는 隋·唐代에 다양한 판본이 유통되었다고 보았다(1974, 9쪽).
+오늘날 《黃帝內經靈樞》 또는 간단히 《靈樞經》이라 불리는 문헌의 漢代에서 宋代 사이 전승은 더 अस्पष्ट하다. 《甲乙經》에서 ‘黃帝’로 표시된 인용은 일관되게 현행 《靈樞》 및 《太素》의 평행 구절과 대응한다. 《隋書》 卷34, 1040쪽(역자 주: 〈經籍志〉)은 9권의 《黃帝鍼經》을 기록하고, 梁代 황실 도서관에 12권의 《黃帝鍼灸經》이 있었다고 주기한다. 앞의 서명은 10권, 뒤의 서명은 12권으로 《舊唐書》 卷47, 2046·2047쪽(역자 주: 〈經籍志〉)과 《新唐書》 卷59, 1565쪽(역자 주: 〈藝文志〉)에 보인다. 비슷하지만 모호한 여러 서명이 함께 기록되어 있어 Okanishi는 隋·唐代에 다양한 판본이 유통되었다고 보았다(1974, 9쪽).
 
 王冰의 《素問》 서문은 內經을 구성하는 두 번째 문헌을 ‘靈樞’라고 부른다. 주석에서는 이 이름을 쓰기도 하고 ‘鍼經’ 또는 ‘經’이라고 하기도 한다. 예컨대 같은 구절을 인용한 권6 제20편 118쪽 9열과 권17 제62편 306쪽 12열을 비교할 수 있다. 《靈樞》에 楊上善의 서문이 있었다는 주장(《玉海》 卷63, 9b–10a)이나 王冰이 이 책을 위조했다는 주장(《道古堂文集》 卷26, 6a–6b)은 설득력 있는 증거가 뒷받침하지 않으므로 일반적으로 무시된다. 그러나 王冰의 《素問》 주석은 《靈樞》의 한 판본을 대량으로 인용하며, 이 서명을 사용한 최초의 인물도 王冰이다.
 
@@ -98,21 +98,21 @@ tags:
 
 현존하는 가장 이른 《素問》 주석인 王冰 주석은 唐代 이후 의학교육에서 공식적으로 채택되었다. 그 권위 때문에 본문은 주석 없이 읽힌 경우가 거의 없다. 이 주석은 설명하는 동시에 해석한다. 王冰은 본문 문제에 많은 노력을 기울였지만 본문을 고치는 데에도 거리낌이 없었다. 그는 서문에서 “君臣이 문답하면서 예법에 어긋나는 곳은 上下 관계를 숙고하여 그 뜻을 밝혀 주는 말을 보탰다”고 하였다. 校正醫書局의 林億과 동료들은 더 신중하여, 이문을 결정하면서 그 차이를 기록하였다. 그러나 그들이 남긴 본문도 여전히 만족스럽지 못하였다. 任應秋의 말처럼 “애석하게도 內經 주석가 가운데 뛰어난 교감학자는 드물었다.” 그는 높이 평가할 만한 열 명을 열거하지만, 그 어느 누구도 《素問》이나 《靈樞》의 일부를 넘어서는 범위에서 교감안을 발표하지 않았다. 任은 주석서 열두 종도 평가한다(1984, 354–361쪽). 傅景華와 傅景春은 주로 明·淸代의 주석서 39종을 기술하고 평가하였다(1985, 30–61쪽). 다음 저술들이 특히 주목할 만하다.
 
-(a) 馬蒔의 《黃帝內經靈樞注證發微》와 《黃帝內經素問注證發微》(아마 1586년)는 각각 9권이며 종종 신뢰하기 어렵다. 전자는 현존하는 가장 이른 《靈樞》 주석이고, 馬蒔가 침술에 정통했기 때문에 후자보다 낫다고 평가된다.
+- (a) 馬蒔의 《黃帝內經靈樞注證發微》와 《黃帝內經素問注證發微》(아마 1586년)는 각각 9권이며 종종 신뢰하기 어렵다. 전자는 현존하는 가장 이른 《靈樞》 주석이고, 馬蒔가 침술에 정통했기 때문에 후자보다 낫다고 평가된다.
 
-(b) 吳崑의 《內經素問吳注》(1594)는 설명이 유난히 명료하며 풍부한 임상 경험에 근거한다.
+- (b) 吳崑의 《內經素問吳注》(1594)는 설명이 유난히 명료하며 풍부한 임상 경험에 근거한다.
 
-(c) 張介賓의 《類經》(1624)은 《素問》과 《靈樞》를 주제별로 신중하게 재배열하고, 여러 면에서 두 책에 대한 가장 해박하고 유용한 주석을 수록하였다. 張介賓은 당대의 대표적 의사이자 다작가였다.
+- (c) 張介賓의 《類經》(1624)은 《素問》과 《靈樞》를 주제별로 신중하게 재배열하고, 여러 면에서 두 책에 대한 가장 해박하고 유용한 주석을 수록하였다. 張介賓은 당대의 대표적 의사이자 다작가였다.
 
-(d) 姚紹虞의 《素問經注節解》(1667)는 이전 주석가들에 대한 비판적 태도, 본문 재배열, 중복되고 손상된 부분의 삭제를 통한 복원 시도라는 점에서 淸代 문헌학의 흥미로운 사례이다. 그는 《靈樞》에 대해서도 비슷한 저술을 편찬했으나 전하지 않는다.
+- (d) 姚紹虞의 《素問經注節解》(1667)는 이전 주석가들에 대한 비판적 태도, 본문 재배열, 중복되고 손상된 부분의 삭제를 통한 복원 시도라는 점에서 淸代 문헌학의 흥미로운 사례이다. 그는 《靈樞》에 대해서도 비슷한 저술을 편찬했으나 전하지 않는다.
 
-(e) 張志聰의 《黃帝內經素問集注》(1670)와 《黃帝內經靈樞集注》(1672)는 張志聰과 제자들이 함께 작업했기 때문에 ‘集注’라고 불린다. 이 책들은 앞선 주석가들이 무시했던 난제를 자주 다룬다.
+- (e) 張志聰의 《黃帝內經素問集注》(1670)와 《黃帝內經靈樞集注》(1672)는 張志聰과 제자들이 함께 작업했기 때문에 ‘集注’라고 불린다. 이 책들은 앞선 주석가들이 무시했던 난제를 자주 다룬다.
 
-(f) 高世栻의 《素問直解》(1695)는 주로 스승 張志聰을 포함한 이전 주석을 명료하고 이해하기 쉽게 요약한 점에서 가치가 있다. 高世栻은 현전 본문뿐 아니라 ‘遺篇’ 두 편에도 주석하였다(아래 7(b) 참조).
+- (f) 高世栻의 《素問直解》(1695)는 주로 스승 張志聰을 포함한 이전 주석을 명료하고 이해하기 쉽게 요약한 점에서 가치가 있다. 高世栻은 현전 본문뿐 아니라 ‘遺篇’ 두 편에도 주석하였다(아래 7(b) 참조).
 
-(g) 丹波元簡의 《素問識》(1806)와 《靈樞識》(1808년까지)은 중국과 일본 주석을 탁월하게 선별하고 편찬자의 신중한 평가를 덧붙였다. 중국과 일본 모두에서 널리 이용된다.
+- (g) 丹波元簡의 《素問識》(1806)와 《靈樞識》(1808년까지)은 중국과 일본 주석을 탁월하게 선별하고 편찬자의 신중한 평가를 덧붙였다. 중국과 일본 모두에서 널리 이용된다.
 
-(h) 程士德 등의 《素問注釋匯粹》(1982)는 현대의 수많은 《素問》 주석 집성 가운데 가장 뛰어나다. 다른 현대본 대부분과 마찬가지로 간체자로 인쇄되었다. 설명뿐 아니라 각 절에 대한 짧은 논평도 제공한다.
+- (h) 程士德 등의 《素問注釋匯粹》(1982)는 현대의 수많은 《素問》 주석 집성 가운데 가장 뛰어나다. 다른 현대본 대부분과 마찬가지로 간체자로 인쇄되었다. 설명뿐 아니라 각 절에 대한 짧은 논평도 제공한다.
 
 楊上善의 《太素》 주석은 유일하게 남은 주석이다. 蕭廷平은 1924년에 중국에서 이용할 수 있던 본문을 다른 책의 평행 구절과 비교한 주석을 보충하였다. 이 주석은 1965년 北京 판본에 재수록되었다(아래 10(a)의 《黃帝內經太素》 참조).
 
@@ -122,23 +122,23 @@ tags:
 
 南宋 이후 《素問》과 《靈樞》가 의학교육의 기초가 되었으므로 수백 종의 판본과 주석이 남아 있다(中國中醫研究院 1991의 항목 1–213도 불완전한 목록이다). 王冰의 주석본 《素問》(672)과 史崧의 《靈樞》(1155) 뒤에 나온 중요한 판본은 다음과 같다.
 
-(a) 1027년·1035년·1067년에 궁중 校正醫書局이 마련한 《素問》 교정본. 첫 번째와 세 번째 판본이 인쇄되었으나, 12권의 《重廣補注黃帝內經素問》이라는 제목을 지닌 마지막 판본만 살아남아 현존 후대 판본의 토대가 되었다.
+- (a) 1027년·1035년·1067년에 궁중 校正醫書局이 마련한 《素問》 교정본. 첫 번째와 세 번째 판본이 인쇄되었으나, 12권의 《重廣補注黃帝內經素問》이라는 제목을 지닌 마지막 판본만 살아남아 현존 후대 판본의 토대가 되었다.
 
-(b) 古林書堂의 1339년판 《新刊補注釋文黃帝內經素問》과 1339–1340년판 《靈樞經》은 현존하는 가장 이른 합각본이다. 앞의 1067년판과 史崧의 《靈樞》를 다시 새기면서 《靈樞》의 24권을 12권으로 재편하였다. 부록으로 1권의 《素問遺篇》과 3권의 《素問入式運氣論奧》(1099)를 붙였다.
+- (b) 古林書堂의 1339년판 《新刊補注釋文黃帝內經素問》과 1339–1340년판 《靈樞經》은 현존하는 가장 이른 합각본이다. 앞의 1067년판과 史崧의 《靈樞》를 다시 새기면서 《靈樞》의 24권을 12권으로 재편하였다. 부록으로 1권의 《素問遺篇》과 3권의 《素問入式運氣論奧》(1099)를 붙였다.
 
-(c) 《正統道藏》에 두 판본이 있다. (i) 50권의 《黃帝內經素問補註釋文》(Schipper 번호 1018, 권649–660)은 1067년판의 권차를 임의로 다시 나눈 것이다. (ii) 23권의 《黃帝素問靈樞集註》(번호 1020, 권661–663)은 서명과 달리 주석 없는 史崧 《靈樞》의 권차만 바꾼 것이다.
+- (c) 《正統道藏》에 두 판본이 있다. (i) 50권의 《黃帝內經素問補註釋文》(Schipper 번호 1018, 권649–660)은 1067년판의 권차를 임의로 다시 나눈 것이다. (ii) 23권의 《黃帝素問靈樞集註》(번호 1020, 권661–663)은 서명과 달리 주석 없는 史崧 《靈樞》의 권차만 바꾼 것이다.
 
-(d) 福建의 의서 출판업자 熊均, 더 잘 알려진 이름으로 熊宗立이 (b)를 1474년에 중간하였다. 그는 1권의 《素問運氣圖括定局立成》(1465)을 덧붙였다.
+- (d) 福建의 의서 출판업자 熊均, 더 잘 알려진 이름으로 熊宗立이 (b)를 1474년에 중간하였다. 그는 1권의 《素問運氣圖括定局立成》(1465)을 덧붙였다.
 
-(e) 康王의 후원 아래 간행된 16세기 중엽 趙府本. 《黃帝素問》은 (b)를, 《黃帝靈樞經》은 12권의 田經本을 바탕으로 하였다. 田經本은 宋本으로 알려졌으나 최근 嘉靖 초(1522–1566)에 인쇄된 것으로 밝혀졌다(毛春翔 1962, 104쪽).
+- (e) 康王의 후원 아래 간행된 16세기 중엽 趙府本. 《黃帝素問》은 (b)를, 《黃帝靈樞經》은 12권의 田經本을 바탕으로 하였다. 田經本은 宋本으로 알려졌으나 최근 嘉靖 초(1522–1566)에 인쇄된 것으로 밝혀졌다(毛春翔 1962, 104쪽).
 
-(f) 24卷 《素問》만 수록한 익명의 明代 중간본으로, 아마 1067년판의 1228–1233년 판본에서 나왔다. 顧從德의 1550년판은 이를 바탕으로 하면서 1067년판의 서명을 재현했고, 이후 모든 24권본의 토대가 되었다. 《四部叢刊》본은 이 계통을 바탕으로 하고 《靈樞》는 (e)를 따랐다. 《四部備要》는 이 계통의 1876년 판본과 (h)의 《靈樞》를 재현한다.
+- (f) 24권 《素問》만 수록한 익명의 明代 중간본으로, 아마 1067년판의 1228–1233년 판본에서 나왔다. 顧從德의 1550년판은 이를 바탕으로 하면서 1067년판의 서명을 재현했고, 이후 모든 24권본의 토대가 되었다. 《四部叢刊》본은 이 계통을 바탕으로 하고 《靈樞》는 (e)를 따랐다. 《四部備要》는 이 계통의 1876년 판본과 (h)의 《靈樞》를 재현한다.
 
-(g) 周曰의 1584년판. 《素問》은 (f)에 기초하고, 24卷 《靈樞》는 다른 明代 판본보다 크게 열등하다(Okanishi 1974, 66쪽의 비교표 참조).
+- (g) 周曰의 1584년판. 《素問》은 (f)에 기초하고, 24권 《靈樞》는 다른 明代 판본보다 크게 열등하다(Okanishi 1974, 66쪽의 비교표 참조).
 
-(h) 吳勉學의 《黃帝素問靈樞合集》. 王肯堂(1549–1613)의 영향력 있는 《醫統正脈全書》(1601)에 수록되었으나, 1923년의 위조 ‘중간본’에는 포함되지 않았다.
+- (h) 吳勉學의 《黃帝素問靈樞合集》. 王肯堂(1549–1613)의 영향력 있는 《醫統正脈全書》(1601)에 수록되었으나, 1923년의 위조 ‘중간본’에는 포함되지 않았다.
 
-(i) 가장 널리 쓰이는 판본은 (f)·(h)와 다른 한 판본을 교감한 표점 활자본 《黃帝內經素問·附靈樞經》(上海: 商務印書館, 1955)이다. 중국과 대만에서 여러 차례 중간되었다. 王冰 주석을 뺀 같은 본문은 任應秋의 색인(1986)의 저본이며, 이 색인 덕분에 절 번호를 이용한 인용이 가능해졌다.
+- (i) 가장 널리 쓰이는 판본은 (f)·(h)와 다른 한 판본을 교감한 표점 활자본 《黃帝內經素問·附靈樞經》(上海: 商務印書館, 1955)이다. 중국과 대만에서 여러 차례 중간되었다. 王冰 주석을 뺀 같은 본문은 任應秋의 색인(1986)의 저본이며, 이 색인 덕분에 절 번호를 이용한 인용이 가능해졌다.
 
 요컨대 淸代 고증학의 막대한 역량이 《素問》과 《靈樞》 주석에 효과적으로 투입되었지만, 본문의 상태를 크게 개선하지는 못하였다. 판본에 관한 포괄적 논의는 Okanishi 1958, 19–32·38–44쪽과 1974, 40–46·57–66쪽 참조.
 
@@ -160,7 +160,7 @@ tags:
 
 ## 10. 참고문헌
 
-(a) 1차 자료
+- (a) 1차 자료
 
 《甲乙經》. 《黃帝甲乙經》 참조.
 
@@ -176,7 +176,7 @@ tags:
 
 《黃帝內經素問注證發微》. 馬蒔, 1586, 9卷. 《醫部全書》 수록.
 
-《黃帝內經太素》. 楊上善, 666–683, 30卷. 본문은 Kosoto 1981, 제1–3卷. 蕭延平이 1924년에 여러 초기 문헌과 대조하여 만든 이문 주석은 北京: 人民衛生出版社, 1965년판 참조. 다만 이 판본의 본문은 불완전하고 일반적인 교감 원칙에 따라 편집되지 않았다.
+《黃帝內經太素》. 楊上善, 666–683, 30卷. 본문은 Kosoto 1981, 제1–3권. 蕭延平이 1924년에 여러 초기 문헌과 대조하여 만든 이문 주석은 北京: 人民衛生出版社, 1965년판 참조. 다만 이 판본의 본문은 불완전하고 일반적인 교감 원칙에 따라 편집되지 않았다.
 
 《黃帝八十一難經》. 저자 미상, 아마 2세기, 81편. 1361년의 《難經本義》 수록. 臺北: 旋風出版社, 1976. 보통 《難經》이라고 부른다.
 
@@ -188,7 +188,7 @@ tags:
 
 《難經》. 《黃帝八十一難經》 참조.
 
-《難經經釋》. 徐大椿, 1727, 2卷. 《徐靈胎醫書全集》 제1卷. 전4卷 영인본. 臺北: 成文出版社, 1972.
+《難經經釋》. 徐大椿, 1727, 2卷. 《徐靈胎醫書全集》 제1권. 전4卷 영인본. 臺北: 成文出版社, 1972.
 
 《內經素問吳注》. 吳崑, 1594, 24卷. 1609년판과 다른 판본을 토대로 한 교정본. 濟南: 山東科學技術出版社, 1984.
 
@@ -212,19 +212,19 @@ tags:
 
 《玉海》. 王應麟, 1296년 이전, 240卷. 1352년판 영인본. 臺北: 大化書局, 1977.
 
-(b) 2차 자료
+- (b) 2차 자료
 
-Akahori Akira 赤堀昭, 1978. 〈新出土資料による中國醫藥古典の見直し〉. Kampō no rinsō 25, 11–12:1–16.
+Akahori Akira 赤堀昭, 1978. 〈新出土資料による中國醫藥古典の見直し〉. *Kampō no rinsō* 25, 11–12:1–16.
 
-Akahori Akira, 1979a. 〈陰陽十一脈灸經と素問——素問の成立についての一考察〉. Nihon ishigaku zasshi 25.3:277–290.
+Akahori Akira 赤堀昭, 1979a. 〈陰陽十一脈灸經と素問——素問の成立についての一考察〉. Nihon ishigaku zasshi 25.3:277–290.
 
-Akahori Akira, 1979b. 〈Kleiner Beitrag: Medical Manuscripts Found in Han Tomb No. 3 at Ma-wang-tui〉. Sudhoffs Archiv 63:297–301.
+Akahori Akira 赤堀昭, 1979b. Kleiner Beitrag: Medical Manuscripts Found in Han Tomb No. 3 at Ma-wang-tui. Sudhoffs Archiv 63:297–301.
 
-Akahori Akira, 1981. 〈陰陽十一脈灸經の研究〉. Tōhō Gakuhō (Kyoto) 53:299–339.
+Akahori Akira 赤堀昭, 1981. 〈陰陽十一脈灸經の研究〉. Tōhō Gakuhō (Kyoto) 53:299–339.
 
 趙洪鈞, 1985. 《內經時代》. 石家莊: 河北中醫學院. 시험판.
 
-Chiu, Martha Li, 1986. Mind, Body, and Illness in a Chinese Medical Tradition. Ph.D. dissertation, History and East Asian Languages, Harvard University.
+Chiu, Martha Li, 1986. *Mind, Body, and Illness in a Chinese Medical Tradition*. Ph.D. dissertation, History and East Asian Languages, Harvard University.
 
 中國中醫研究院, 1991. 《全國中醫圖書聯合目錄》. 北京: 中醫古籍出版社. 의학 장서가 가장 많은 중국 도서관 113곳에 소장된 12,000종 이상의 모든 알려진 판본을 열거하며, 서명과 저자의 획수순·拼音 색인을 갖추었다.
 
@@ -236,9 +236,9 @@ Chiu, Martha Li, 1986. Mind, Body, and Illness in a Chinese Medical Tradition. P
 
 Fujiki Toshirō 藤木俊郎, 1976. 《素問醫學の世界——古代中國醫學の展開》. Tokyo: Sekibundo.
 
-Fujiki Toshirō, 1979. 《鍼灸醫學源流考·素問醫學の世界 II》. Tokyo: Sekibundo.
+Fujiki Toshirō 藤木俊郎, 1979. 《鍼灸醫學源流考·素問醫學の世界 II》. Tokyo: Sekibundo.
 
-Graham, A. C., 1986. Yin-Yang and the Nature of Correlative Thinking. Occasional Paper and Monograph Series 6. Singapore: Institute of East Asian Philosophies.
+Graham, A. C., 1986. *Yin-Yang and the Nature of Correlative Thinking*. Occasional Paper and Monograph Series 6. Singapore: Institute of East Asian Philosophies.
 
 任應秋, 1984. 〈內經十講〉. 《任應秋論醫集》, 335–387쪽. 北京: 人民衛生出版社. 임상·학설·의학사에 관한 논문. 이 논고는 1978년 내부 배포용으로 처음 간행되었고, 유용한 부록을 빼고 任應秋·劉長林 1982에 재수록되었다.
 
@@ -246,13 +246,13 @@ Graham, A. C., 1986. Yin-Yang and the Nature of Correlative Thinking. Occasional
 
 任應秋·劉長林, 1982. 《內經研究論叢》. 武昌: 湖北人民出版社. 의학과 역사 연구.
 
-Jeon, Sang-woon, 1974. Science and Technology in Korea: Traditional Instruments and Techniques. The MIT East Asian Science Series 4. Cambridge, Mass.: MIT Press.
+Jeon, Sang-woon, 1974. *Science and Technology in Korea: Traditional Instruments and Techniques*. The MIT East Asian Science Series 4. Cambridge, Mass.: MIT Press.
 
-Keegan, David, 1988. Huang-ti nei-ching: The Structure of the Compilation, the Significance of the Structure. Ph.D. dissertation, History, University of California, Berkeley.
+Keegan, David, 1988. *Huang-ti nei-ching: The Structure of the Compilation, the Significance of the Structure*. Ph.D. dissertation, History, University of California, Berkeley.
 
 北里研究所附屬東洋醫學總合研究所臨床古典研究班 편, 1979. 《素問臨床索引集》. Tokyo: Kokusho.
 
-Kosoto Hiroshi 小曾戶洋 총편집, 1981. 《東洋醫學善本叢書》. 전8卷. Osaka: 東洋醫學研究會.
+Kosoto Hiroshi 小曾戶洋 총편집, 1981. 《東洋醫學善本叢書》. 전8권. Osaka: 東洋醫學研究會.
 
 顧植山, 1988. 《中醫經典索引》. 合肥: 安徽科學技術出版社.
 
@@ -260,23 +260,23 @@ Kosoto Hiroshi 小曾戶洋 총편집, 1981. 《東洋醫學善本叢書》. 전
 
 郭靄春, 1982. 《靈樞經校釋》. 北京: 人民衛生出版社. 간체자본.
 
-Larre, Claude 번역, 1987. La voie du ciel. Huangdi, l’Empereur Jaune, disait… La médecine chinoise traditionnelle (천도의 길: 黃帝, 황제는 말했다… 전통 중국 의학). Paris: Desclée de Brouwer. 《黃帝內經》 제1–2편에 특히 주목한 고전 의학론에 대한 일련의 명상.
+Larre, Claude 번역, 1987. *La voie du ciel. Huangdi, l’Empereur Jaune, disait… La médecine chinoise traditionnelle* (천도의 길: 黃帝, 황제는 말했다… 전통 중국 의학). Paris: Desclée de Brouwer. 《黃帝內經》 제1–2편에 특히 주목한 고전 의학론에 대한 일련의 명상.
 
-Larre, Claude·Elisabeth Rochat de la Vallée 번역, 1983. 〈Plein ciel. Les authentiqués de haute antiquité. Texte, présentation, traduction et commentaire du “Su Wen”, chap. I〉(가득한 하늘: 지고한 옛 시대의 진인들—《素問》 제1편 본문·해설·번역·주석). Méridiens 61–62:13–67. 제1편 번역.
+Larre, Claude·Elisabeth Rochat de la Vallée 번역, 1983. Plein ciel. Les authentiqués de haute antiquité. Texte, présentation, traduction et commentaire du “Su Wen”, chap. I(가득한 하늘: 지고한 옛 시대의 진인들—《素問》 제1편 본문·해설·번역·주석). Méridiens 61–62:13–67. 제1편 번역.
 
-Larre, Claude·Elisabeth Rochat de la Vallée 번역, 1983–1986. 〈Vif. Texte, présentation, traduction et commentaire du “Su Wen”, chap. III〉(생동함—《素問》 제3편 본문·해설·번역·주석). Méridiens 1983, 69–70:39–90; 1985, 71–72:15–71; 1986, 73–74:13–78.
+Larre, Claude·Elisabeth Rochat de la Vallée 번역, 1983–1986. Vif. Texte, présentation, traduction et commentaire du “Su Wen”, chap. III(생동함—《素問》 제3편 본문·해설·번역·주석). Méridiens 1983, 69–70:39–90; 1985, 71–72:15–71; 1986, 73–74:13–78.
 
-Larre, Claude·Elisabeth Rochat de la Vallée 번역, 1984. 〈Assaisonner les esprits. Texte, présentation, traduction et commentaire du Su Wen, chap. II. Part 2〉(정신을 조화시키기—《素問》 제2편 본문·해설·번역·주석, 제2부). Méridiens 67–68:13–54.
+Larre, Claude·Elisabeth Rochat de la Vallée 번역, 1984. Assaisonner les esprits. Texte, présentation, traduction et commentaire du Su Wen, chap. II. Part 2(정신을 조화시키기—《素問》 제2편 본문·해설·번역·주석, 제2부). Méridiens 67–68:13–54.
 
-Larre, Claude·Elisabeth Rochat de la Vallée 번역, 1985. Par cinq. Discours méthodique sur les phénomènes et comment ils répondent au yin/yang. Texte, présentation, traduction et commentaire du Suwen chapitre 5 (다섯으로: 현상과 陰陽의 감응에 관한 체계적 논설—《素問》 제5편 본문·해설·번역·주석). Paris: Institut Ricci.
+Larre, Claude·Elisabeth Rochat de la Vallée 번역, 1985. *Par cinq. Discours méthodique sur les phénomènes et comment ils répondent au yin/yang. Texte, présentation, traduction et commentaire du Suwen chapitre 5* (다섯으로: 현상과 陰陽의 감응에 관한 체계적 논설—《素問》 제5편 본문·해설·번역·주석). Paris: Institut Ricci.
 
-Larre, Claude·Elisabeth Rochat de la Vallée 번역, 1986–1987. 〈Fil. Texte, présentation, traduction et commentaire du “Suwen”, chap. VIII〉(실—《素問》 제8편 본문·해설·번역·주석). Méridiens 1986, 75–76:13–44; 1987, 77:13–44.
+Larre, Claude·Elisabeth Rochat de la Vallée 번역, 1986–1987. Fil. Texte, présentation, traduction et commentaire du “Suwen”, chap. VIII(실—《素問》 제8편 본문·해설·번역·주석). Méridiens 1986, 75–76:13–44; 1987, 77:13–44.
 
-Larre, Claude·Elisabeth Rochat de la Vallée 번역, 1988–1989. 〈Cascade. Texte, présentation, traduction et commentaire du Lingshu, chap. 8〉(폭포—《靈樞》 제8편 본문·해설·번역·주석). Méridiens 1988, 81:25–44; 83:13–43; 1989, 85:17–41; 87:17–37.
+Larre, Claude·Elisabeth Rochat de la Vallée 번역, 1988–1989. Cascade. Texte, présentation, traduction et commentaire du Lingshu, chap. 8(폭포—《靈樞》 제8편 본문·해설·번역·주석). Méridiens 1988, 81:25–44; 83:13–43; 1989, 85:17–41; 87:17–37.
 
-Lu Gwei-Djen·Joseph Needham, 1966/1970. 〈Medicine and Chinese Culture〉. Needham, Clerks and Craftsmen in China and the West, 263–293쪽. Cambridge: Cambridge University Press.
+Lu Gwei-Djen·Joseph Needham, 1966/1970. Medicine and Chinese Culture. Needham, Clerks and Craftsmen in China and the West, 263–293쪽. Cambridge: Cambridge University Press.
 
-Lu Gwei-Djen·Joseph Needham, 1980. Celestial Lancets: A History and Rationale of Acupuncture and Moxa. Cambridge: Cambridge University Press.
+Lu Gwei-Djen·Joseph Needham, 1980. *Celestial Lancets: A History and Rationale of Acupuncture and Moxa*. Cambridge: Cambridge University Press.
 
 龍伯堅, 1957. 〈黃帝內經的著作時代〉. 《中華醫史雜誌》 2:106–113.
 
@@ -296,31 +296,31 @@ Lu Gwei-Djen·Joseph Needham, 1980. Celestial Lancets: A History and Rationale o
 
 Okanishi Tameto 岡西為人, 1958. 《宋以前醫籍考》. 北京: 人民衛生出版社. 신중히 고른 자료를 중국어로 이어 붙인 저술. 원래 1936–1944년 奉天 滿洲醫科大學에서 4책으로 일부 간행.
 
-Okanishi Tameto, 1974. 《中國醫書本草考》. Osaka: 南大阪印刷センター.
+Okanishi Tameto 岡西為人, 1974. 《中國醫書本草考》. Osaka: 南大阪印刷センター.
 
 小栗英一·藪內清 번역, 1975. 《黃帝內經素問》. 藪內清 편 《中國の科學》 수록. Tokyo: 中央公論社.
 
-Porkert, Manfred, 1974. The Theoretical Foundations of Chinese Medicine: Systems of Correspondence. Cambridge: MIT Press.
+Porkert, Manfred, 1974. *The Theoretical Foundations of Chinese Medicine: Systems of Correspondence*. Cambridge: MIT Press.
 
-Rochat de la Vallée, Elisabeth 번역, 연도 미상. Toux. Texte, présentation, traduction et commentaire du Suwen, chapitre 38 (Kelun) et autres textes se rapportant au sujet (기침: 《素問》 제38편 〈咳論〉 및 관련 본문의 해설·번역·주석). Paris: Institut Ricci.
+Rochat de la Vallée, Elisabeth 번역, 연도 미상. *Toux. Texte, présentation, traduction et commentaire du Suwen, chapitre 38 (Kelun) et autres textes se rapportant au sujet* (기침: 《素問》 제38편 〈咳論〉 및 관련 본문의 해설·번역·주석). Paris: Institut Ricci.
 
 櫻井謙介, 1985. 〈新出土醫藥關係文物について〉. Yamada 편 1985, II, 347–368쪽.
 
 上海中醫學院, 1984–. 《中醫年鑒》. 北京: 人民衛生出版社. 연간.
 
-Sivin, N., 1988. Traditional Medicine in Contemporary China. Science, Medicine and Technology in East Asia 2. Ann Arbor: Center for Chinese Studies, University of Michigan.
+Sivin, N., 1988. *Traditional Medicine in Contemporary China*. Science, Medicine and Technology in East Asia 2. Ann Arbor: Center for Chinese Studies, University of Michigan.
 
-Sivin, N., 1989. 〈A Cornucopia of Reference Works for the History of Chinese Medicine〉. Chinese Science 9:29–52.
+Sivin, N., 1989. A Cornucopia of Reference Works for the History of Chinese Medicine. Chinese Science 9:29–52.
 
-Sivin, N., 출간 예정. 〈On the Dates of Yang Shang-shan and the Huang ti nei ching t’ai su〉. Chinese Science.
+Sivin, N., 출간 예정. On the Dates of Yang Shang-shan and the Huang ti nei ching t’ai su. Chinese Science.
 
-Sohn, Pow-key, 1959. 〈Early Korean Printing〉. Journal of the American Oriental Society 79.2:99–103.
+Sohn, Pow-key, 1959. Early Korean Printing. Journal of the American Oriental Society 79.2:99–103.
 
-Soothill, William Edward, 1951. The Hall of Light: A Study of Early Chinese Kingship. Missionary Research Series 18. London: Lutterworth.
+Soothill, William Edward, 1951. *The Hall of Light: A Study of Early Chinese Kingship*. Missionary Research Series 18. London: Lutterworth.
 
 孫曼之, 1988. 〈黃帝內經成書年代〉. 《中華醫史雜誌》 18.1:54–55.
 
-Unschuld, Paul U. 편, 1988. Approaches to Traditional Chinese Medical Literature: Proceedings of an International Symposium on Translation Methodologies and Terminologies. Boston: Kluwer. 1986년 학술회의 논문집.
+Unschuld, Paul U. 편, 1988. *Approaches to Traditional Chinese Medical Literature: Proceedings of an International Symposium on Translation Methodologies and Terminologies*. Boston: Kluwer. 1986년 학술회의 논문집.
 
 王琦 편, 1985. 《黃帝內經專題研究》. 濟南: 山東科學技術出版社. 사상과 배경에 관한 논문 20편으로, 대부분 王琦와 공동 연구자들의 글이다.
 
@@ -330,16 +330,16 @@ Unschuld, Paul U. 편, 1988. Approaches to Traditional Chinese Medical Literatur
 
 吳考槃, 1983. 〈黃帝內經素問靈樞考〉. 《中華醫史雜誌》 13.2:85–87. 현존 《素問》과 《靈樞》를 원래의 內經과 동일시하는 데 반대한다.
 
-Yamada Keiji 山田慶兒, 1979a. 〈黃帝內經の成立〉. Shisō 662:94–108.
+Yamada Keiji 山田慶兒, 1979a. 〈黃帝內經の成立〉. *Shisō* 662:94–108.
 
-Yamada Keiji, 1979b. 〈The Formation of the Huang-ti nei-ching〉. Acta Asiatica 36:67–89. 1979a의 번역.
+Yamada Keiji 山田慶兒, 1979b. The Formation of the Huang-ti nei-ching. Acta Asiatica 36:67–89. 1979a의 번역.
 
-Yamada Keiji, 1980. 〈九宮八風說と少師派の立場〉. Tōhō Gakuhō (Kyoto) 52:199–242.
+Yamada Keiji 山田慶兒, 1980. 〈九宮八風說と少師派の立場〉. Tōhō Gakuhō (Kyoto) 52:199–242.
 
-Yamada Keiji 편, 1985. 《新發現中國科學史資料の研究》. 전2卷. I: 주석 번역, II: 논문. Kyoto: 人文科學研究所.
+Yamada Keiji 편, 1985. 《新發現中國科學史資料の研究》. 전2권. I: 주석 번역, II: 논문. Kyoto: 人文科學研究所.
 
-楊守敬, 1901. 《日本訪書志》. 《書目叢編》 제17卷 영인.
+楊守敬, 1901. 《日本訪書志》. 《書目叢編》 제17권 영인.
 
 姚純發, 1982. 〈馬王堆帛書足臂十一脈灸經初探〉. 《中華醫史雜誌》 12.3:171–174.
 
-— Nathan Sivin
+—Nathan Sivin
