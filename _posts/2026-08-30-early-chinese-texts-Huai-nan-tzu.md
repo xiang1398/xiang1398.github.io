@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "《Early Chinese Texts》 027: Huai nan tzu"
-date: 2026-08-30 13:40:00 +0900
+date: 2026-08-30 12:40:00 +0900
 categories:
   - Translations
 series: Early Chinese Texts
