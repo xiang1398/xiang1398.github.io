@@ -83,7 +83,7 @@ tags:
 ## 5. 근래의 연구와 연구 도구
 
 - (a) Kurata Junnosuke 倉田淳之助, 〈漢書板本考〉, 《東方學報》 27 (Kyoto, 1957), 255–284쪽.
-- (b) M. A. N. Loewe, 〈Some recent editions of the Ch’ien Han shu〉, *Asia Major* X (1963), 162–172쪽.
+- (b) M. A. N. Loewe, Some recent editions of the Ch’ien Han shu, *Asia Major* X (1963), 162–172쪽.
 
 ## 6. 《漢書》 연구 서지
 
@@ -94,10 +94,10 @@ tags:
 
 - (a) Lo Tchen-ying, *Une famille d’historiens et son oeuvre; les formes et les méthodes historiques en Chine*〔한 역사가 집안과 그 저술: 중국 역사학의 형식과 방법〕 (Paris: Paul Guethner, 1938), Université de Lyon, Bibliotheca Franco-sinica lugdunensis. Études et documents publiés par l’Institut franco-chinois de Lyon IX.
 - (b) Nancy Lee Swann, *Pan Chao, Foremost Woman Scholar of China, 1st Century A.D.* (New York: Century, 1932).
-- (c) A. F. P. Hulsewé, 〈Notes on the historiography of the Han period〉, W. G. Beasley·E. G. Pulleyblank 편, *Historians of China and Japan* (London: Oxford University Press, 1961), 31–43쪽.
+- (c) A. F. P. Hulsewé, Notes on the historiography of the Han period, W. G. Beasley·E. G. Pulleyblank 편, *Historians of China and Japan* (London: Oxford University Press, 1961), 31–43쪽.
 - (d) O. B. van der Sprenkel, *Pan Piao, Pan Ku and the Han History*, Occasional Paper 3, The Australian University Centre of Oriental Studies (Canberra, 1964).
 - (e) Yves Hervouet, 〈La valeur relative des textes du Che-ki et du Han chou〔《史記》와 《漢書》 본문의 상대적 가치〕〉, *Mélanges de Sinologie offerts à Monsieur Paul Demiéville*, Études chinoises XX (Paris: Bibliothèque de l’Institut des Hautes Études Chinoises, 1974), 제2책 55–76쪽.
-- (f) A. F. P. Hulsewé, 〈The problem of the authenticity of Shih chi ch. 123, the memoir on Ta Yüan〉, *T’oung Pao* 61:1–3 (1975), 83–147쪽.
+- (f) A. F. P. Hulsewé, The problem of the authenticity of Shih chi ch. 123, the memoir on Ta Yüan, *T’oung Pao* 61:1–3 (1975), 83–147쪽.
 - (g) E. P. Sinicyn, *Ban’ Gu—istorik drevnego Kitaya*〔班固—고대 중국의 역사가〕 (Moscow: Nauka, 1975).
 - (h) 《二十五史補編》에 수록된 《漢書》 개별 권 연구 (Shanghai: 開明書店, 1936; Peking: 中華書局, 1956 재간), 제1책 135–1385쪽, 제2책 1387–1774쪽.
 
