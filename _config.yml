@@ -1,5 +1,6 @@
 title: 孜山의 서재
 description: 고전 문헌 · 역사언어학 · 번역 노트
+url: "https://xiang1398.github.io"
 theme: minima
 markdown: kramdown
 highlighter: rouge
@@ -11,3 +12,4 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
