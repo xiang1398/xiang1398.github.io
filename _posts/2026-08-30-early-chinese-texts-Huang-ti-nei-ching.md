@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 028: Huang ti nei ching"
+title: "《Early Chinese Texts》 028: Huang ti nei ching 黃帝內經"
 date: 2026-08-30 12:45:00 +0900
 categories:
   - Translations
@@ -276,7 +276,7 @@ Larre, Claude·Elisabeth Rochat de la Vallée 번역, 1988–1989. Cascade. Text
 
 Lu Gwei-Djen·Joseph Needham, 1966/1970. Medicine and Chinese Culture. Needham, Clerks and Craftsmen in China and the West, 263–293쪽. Cambridge: Cambridge University Press.
 
-Lu Gwei-Djen·Joseph Needham, 1980. *Celestial Lancets: A History and Rationale of Acupuncture and Moxa*. Cambridge: Cambridge University Press.
+Lu Gwei-Djen·Joseph Needham, 1980. *Celestial Lancets: A History and Rationale of Acupuncture and Moxa*. Cambridge: MIT Press.
 
 龍伯堅, 1957. 〈黃帝內經的著作時代〉. 《中華醫史雜誌》 2:106–113.
 
