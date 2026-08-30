@@ -68,11 +68,11 @@ tags:
 - (c) 陳克明, 〈試論鶡冠子與黃老思想的關係〉, 《哲學史論叢》 (Changchun: 吉林人民出版社, 1980), 224–244쪽.
 - (d) Ōgata Toru 大形徹, 〈鶡冠子―不朽の國家を幻想した隱者の書〉, 《東方宗教》 59 (1982), 43–65쪽.
 - (e) 吳光, 《黃老之學通論》 (Hangzhou: 浙江人民出版社, 1985).
-- (f) R. P. Peerenboom, 〈Heguanzi and Huang-Lao Thought〉, *Early China* 16 (1991), 169–186쪽.
+- (f) R. P. Peerenboom, Heguanzi and Huang-Lao Thought, *Early China* 16 (1991), 169–186쪽.
 
 ## 7. 번역
 
-- (a) Christopher C. Rand, 〈Chinese Military Thought and Philosophical Taoism〉, *Monumenta Serica* 34 (1979–1980), 206–210쪽. 짧은 발췌 번역.
+- (a) Christopher C. Rand, Chinese Military Thought and Philosophical Taoism, *Monumenta Serica* 34 (1979–1980), 206–210쪽. 짧은 발췌 번역.
 - (b) K. K. Neuberger, *Hoh-kuan tsï* (Frankfurt, 1986). 제7–9·14–16·19편의 주석 독일어 번역.
 
 ## 8. 색인
@@ -81,4 +81,4 @@ D. C. Lau·Chen Fong Ching 편, *A Concordance to the Heguanzi, Wenshi zhenjing 
 
 —David R. Knechtges
 
-(편자는 위 내용에 포함된 정보를 생전에 개인적으로 전해 준 A. C. Graham에게 감사한다. 그의 논문 〈A neglected pre-Han philosophical text: Ho-kuan-tzu〉, *Bulletin of the School of Oriental and African Studies* 52:3 (1989), 497–509쪽도 보라.)
+(편자는 위 내용에 포함된 정보를 생전에 개인적으로 전해 준 A. C. Graham에게 감사한다. 그의 논문 A neglected pre-Han philosophical text: Ho-kuan-tzu, *Bulletin of the School of Oriental and African Studies* 52:3 (1989), 497–509쪽도 보라.)
