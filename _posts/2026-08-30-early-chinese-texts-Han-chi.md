@@ -33,7 +33,7 @@ tags:
 
 《漢紀》는 때때로 《前漢紀》라고도 불리며 荀悅(148–209)이 저술하였다. 이 책은 班固(32–92)의 《漢書》를 요약한 것으로, 저자는 30권에 걸쳐 《漢書》 100권의 내용을 압축하였다. 따라서 《漢紀》가 다루는 시기는 《漢書》와 같아 대략 기원전 210년부터 기원후 23년까지이다. 荀悅은 유서 깊은 《春秋》의 형식에서 착상하여 《漢書》의 자료를 엄격한 연대순으로 재배열하고, 축약한 제왕 본기의 틀 안에 《漢書》의 志와 列傳에서 관련되는 구절을 삽입하였다. 《漢紀》 본문의 약 3분의 1은 본기에서 가져왔고 나머지 3분의 2는 《漢書》의 다른 부분에서 취하였다. 荀悅은 서른아홉 곳에서 자신의 견해를 서술 속에 삽입하였다. 이러한 견해는 〈論〉이라 불리며 분량은 서로 다르다. 荀悅은 숙부 荀爽이 편찬한, 현재 전하지 않는 《漢語》의 구절을 포함했을 가능성도 있다. 이 책 또한 《漢書》를 바탕으로 했다고 전한다.
 
-《後漢書》의 荀悅 전기에는 《漢紀》의 서문이라고 하는 글이 실려 있으나, 통상 본문 앞에 붙는 서문과는 전혀 다르다(《後漢書》 卷62, 2062쪽. 역자 주: 〈荀悅傳〉). 두 서문의 관계에 대해서는 Ch’en Ch’i-yün, *Hsün Yüeh and the Mind of Late Han China* (Princeton: Princeton University Press, 1980), 75쪽 이하를 보라.
+《後漢書》의 荀悅 전기에는 《漢紀》의 서문이라고 하는 글이 실려 있으나, 통상 본문 앞에 붙는 서문과는 전혀 다르다(《後漢書》 卷62, p. 2062. 역자 주: 〈荀悅傳〉). 역자 주: 〈荀悅傳〉). 두 서문의 관계에 대해서는 Ch’en Ch’i-yün, *Hsün Yüeh and the Mind of Late Han China* (Princeton: Princeton University Press, 1980), p. 75 이하를 보라.
 
 ## 2. 성립 연대와 진위
 
@@ -59,8 +59,8 @@ tags:
 ## 5. 근래의 연구와 연구 도구
 
 - (a) 鈕永建(淸代), 《前漢紀校釋》. 《南菁札記》에 수록. 鈕永建은 《漢紀》의 구절을 《漢書》 및 《史記》의 대응 구절과 비교하고 《漢紀》 독법의 타당성을 평가하였다.
-- (b) Ch’en Ch’i-yün, “Textual problems of Hsün Yüeh’s (A.D. 148–209) writings: the Han-chi and the Shen-chien 申鑑,” *Monumenta Serica* 24 (1968), 208–232쪽.
-- (c) Chi-yun Chen, *Hsün Yüeh A.D. 148–209: The Life and Reflections of an Early Medieval Confucian* (Cambridge: Cambridge University Press, 1975), 84–126쪽.
+- (b) Ch’en Ch’i-yün, “Textual problems of Hsün Yüeh’s (A.D. 148–209) writings: the Han-chi and the Shen-chien 申鑑,” *Monumenta Serica* 24 (1968), pp. 208–232.
+- (c) Chi-yun Chen, *Hsün Yüeh A.D. 148–209: The Life and Reflections of an Early Medieval Confucian* (Cambridge: Cambridge University Press, 1975), pp. 84–126.
 
 ## 6. 색인
 
