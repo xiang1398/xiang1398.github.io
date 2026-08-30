@@ -148,5 +148,5 @@ jobs:
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add _posts/*early-chinese-texts-*.md
-          git commit -m 'Normalize historical source titles in Early Chinese Texts'
+          git commit -m 'Normalize Early Chinese Texts page references'
           git push
