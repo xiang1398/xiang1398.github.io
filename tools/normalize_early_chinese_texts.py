@@ -70,14 +70,12 @@ for path in Path('_posts').glob('*early-chinese-texts-*.md'):
         text = re.sub(r'(《(?:史記|漢書|後漢書|三國志|隋書|舊唐書|新唐書|宋史)》)\s*권(?=\d)', r'\1 卷', text)
         text = text.replace('역자 주: 〈老子韓非列傳〉','역자 주: 〈韓非列傳〉').replace('역자 주: 〈老子韓非傳〉','역자 주: 〈韓非列傳〉')
 
-    # 013: 사용자가 지정한 서지 표기와 일본인 인명 음역.
     if path.name == '2026-08-30-early-chinese-texts-Erh-ya.md':
         text = re.sub(r'《漢書》\s*卷30(?:\(역자 주: 〈藝文志〉\))?\s*1718쪽(?:\(역자 주: 〈藝文志〉\))?', '《漢書》 卷30 1718쪽', text)
         text = text.replace('《皇淸經解》 667갑, 1a–2a', '《皇淸經解》 667甲, 1a–2a')
         text = re.sub(r'(?<!Eiji )加賀榮治', 'Kaga Eiji 加賀榮治', text)
         text = re.sub(r'(?<!Naitō Torajirō )內藤虎次郎', 'Naitō Torajirō 內藤虎次郎', text)
 
-    # 014: 卷의 上下는 권수에 붙이고, 역자 주는 페이지 뒤에 두어 괄호 중첩을 피한다.
     if path.name == '2026-08-30-early-chinese-texts-Fa-yen.md':
         text = re.sub(r'《漢書》\s*卷87(?:\(역자 주: 〈揚雄傳〉\))?하\s*(\d+쪽)(?:\(역자 주: 〈揚雄傳〉\))?', r'《漢書》 卷87下 \1(역자 주: 〈揚雄傳〉)', text)
         text = re.sub(r'《漢書》\s*卷30(?:\(역자 주: 〈藝文志〉\))?\s*(1727쪽)(?:\(역자 주: 〈藝文志〉\))?', r'《漢書》 卷30 \1(역자 주: 〈藝文志〉)', text)
@@ -86,10 +84,10 @@ for path in Path('_posts').glob('*early-chinese-texts-*.md'):
         text = re.sub(r'《新唐書》\s*卷59\s*(1510쪽)(?!\(역자 주:)', r'《新唐書》 卷59 \1(역자 주: 〈藝文志〉)', text)
         text = re.sub(r'《舊唐書》\s*卷47\s*(2024쪽)(?!\(역자 주:)', r'《舊唐書》 卷47 \1(역자 주: 〈經籍志〉)', text)
         text = re.sub(r'(?<!Fujiwara Sukeyo )藤原佐世', 'Fujiwara Sukeyo 藤原佐世', text)
+        text = re.sub(r'Fujiwara Sukeyo 藤原佐世의 목록(?!\(역자 주: 《日本國見在書目錄》\))', 'Fujiwara Sukeyo 藤原佐世의 목록(역자 주: 《日本國見在書目錄》)', text)
         text = re.sub(r'(?<!Naitō Torajirō )內藤虎次郎', 'Naitō Torajirō 內藤虎次郎', text)
         text = re.sub(r'(?<!Kaga Eiji )加賀榮治', 'Kaga Eiji 加賀榮治', text)
 
-    # 015: 정사 권수는 卷으로, 해당 인용은 편명을 역자 주로 보충한다.
     if path.name == '2026-08-30-early-chinese-texts-Feng-su-tung-i.md':
         text = re.sub(r'《後漢書》\s*卷48\s*(1609–1615쪽)(?!\(역자 주:)', r'《後漢書》 卷48 \1(역자 주: 〈應奉列傳〉)', text)
         text = re.sub(r'《三國志》\s*卷1\(〈魏書〉\s*卷1\)\s*(11쪽 주1)(?!\(역자 주:)', r'《三國志》 卷1 \1(역자 주: 〈魏書·武帝紀〉)', text)
@@ -100,6 +98,7 @@ for path in Path('_posts').glob('*early-chinese-texts-*.md'):
         text = re.sub(r'《新唐書》\s*卷59\s*(1534쪽)(?!\(역자 주:)', r'《新唐書》 卷59 \1(역자 주: 〈藝文志〉)', text)
         text = re.sub(r'《宋史》\s*卷454\s*(13345쪽)(?!\(역자 주:)', r'《宋史》 卷454 \1(역자 주: 〈丁黼傳〉)', text)
         text = re.sub(r'(?<!Fujiwara Sukeyo )藤原佐世', 'Fujiwara Sukeyo 藤原佐世', text)
+        text = re.sub(r'Fujiwara Sukeyo 藤原佐世의 목록(?!\(역자 주: 《日本國見在書目錄》\))', 'Fujiwara Sukeyo 藤原佐世의 목록(역자 주: 《日本國見在書目錄》)', text)
         text = re.sub(r'(?<!Kaga Eiji )加賀榮治', 'Kaga Eiji 加賀榮治', text)
         text = re.sub(r'(?<!Naitō Torajirō )內藤虎次郎', 'Naitō Torajirō 內藤虎次郎', text)
 
