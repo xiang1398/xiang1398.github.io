@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Early Chinese Texts 018. Han shih wai chuan 《韓詩外傳》"
-date: 2026-08-30
-categories: [Early Chinese Texts]
+title: "《Early Chinese Texts》 018: Han shih wai chuan 韓詩外傳"
+date: 2026-08-30 09:15:00 +0900
+categories:
+  - Translations
+series: Early Chinese Texts
 tags: [韓詩外傳, 韓嬰, 詩經, 三家詩]
 ---
 
@@ -57,4 +59,4 @@ James R. Hightower, *Han-shih wai-chuan, Han Ying’s Illustrations of the Didac
 - (a) 豐島睦, *Kanshi gaiden sakuin* 《韓詩外傳索引》 (Hiroshima: 比治山女子短期大學, 1972). 위 7의 鳥山 판본을 바탕으로 전체 본문을 재현하고 단락 번호를 붙였다. 사실상 색인이지만 종결 어조사 항목은 없다.
 - (b) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Hanshi waizhuan* 《韓詩外傳逐字索引》, ICS series (Hong Kong: Commercial Press, 1992).
 
-—James R. Hightower
+*—James R. Hightower*

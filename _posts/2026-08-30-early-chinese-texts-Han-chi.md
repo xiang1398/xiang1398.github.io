@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Early Chinese Texts 016. Han chi 《漢紀》"
-date: 2026-08-30
-categories: [Early Chinese Texts]
+title: "《Early Chinese Texts》 016: Han chi 漢紀"
+date: 2026-08-30 09:13:00 +0900
+categories:
+  - Translations
+series: Early Chinese Texts
 tags: [漢紀, 荀悅, 漢書, 前漢紀]
 ---
 
@@ -47,4 +49,4 @@ tags: [漢紀, 荀悅, 漢書, 前漢紀]
 
 D. C. Lau·Chen Fong Ching 편, *A Concordance to the Qian Han ji* 《前漢紀逐字索引》, ICS series (Hong Kong: Commercial Press, 1995년 출간 예정).
 
-—A. F. P. Hulsewé
+*—A. F. P. Hulsewé*
