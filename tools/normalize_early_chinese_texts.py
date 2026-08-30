@@ -71,7 +71,7 @@ for path in Path('_posts').glob('*early-chinese-texts-*.md'):
         text = text.replace('역자 주: 〈老子韓非列傳〉','역자 주: 〈韓非列傳〉').replace('역자 주: 〈老子韓非傳〉','역자 주: 〈韓非列傳〉')
 
     if path.name == '2026-08-30-early-chinese-texts-Erh-ya.md':
-        text = re.sub(r'《漢書》\s*卷30(?:\(역자 주: 〈藝文志〉\))?\s*1718쪽(?:\(역자 주: 〈藝文志〉\))?', '《漢書》 卷30 1718쪽', text)
+        text = re.sub(r'《漢書》\s*卷30(?:\(역자 주: 〈藝文志〉\))?\s*1718쪽(?:\(역자 주: 〈藝文志〉\))?', '《漢書》 卷30 1718쪽(역자 주: 〈藝文志〉)', text)
         text = text.replace('《皇淸經解》 667갑, 1a–2a', '《皇淸經解》 667甲, 1a–2a')
         text = re.sub(r'(?<!Eiji )加賀榮治', 'Kaga Eiji 加賀榮治', text)
         text = re.sub(r'(?<!Naitō Torajirō )內藤虎次郎', 'Naitō Torajirō 內藤虎次郎', text)
