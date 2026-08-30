@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "《Early Chinese Texts》 030: I Chou shu"
-date: 2026-08-30 13:00:00 +0900
+date: 2026-08-30 12:55:00 +0900
 categories:
   - Translations
 series: Early Chinese Texts
