@@ -86,6 +86,62 @@ jobs:
               p.write_text(text, encoding='utf-8')
           PY
 
+      - name: Normalize page reference labels and particles
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          page_marker = re.compile(r'(?<![A-Za-z0-9])([0-9]+(?:[–-][0-9]+)?(?:·[0-9]+(?:[–-][0-9]+)?)*)쪽')
+          particle_marker = re.compile(r'\b(pp?\.\s*[0-9][0-9,·–\-: ]*?)(은|는|이|가|을|를|과|와|으로|로)(?![가-힣])')
+
+          def final_number(reference):
+              numbers = re.findall(r'\d+', reference)
+              return int(numbers[-1]) if numbers else None
+
+          def has_batchim(number):
+              return str(number)[-1] in '013678'
+
+          def ends_l_batchim(number):
+              return str(number)[-1] in '178'
+
+          def correct_particle(number, particle):
+              batchim = has_batchim(number)
+              if particle in ('은', '는'):
+                  return '은' if batchim else '는'
+              if particle in ('이', '가'):
+                  return '이' if batchim else '가'
+              if particle in ('을', '를'):
+                  return '을' if batchim else '를'
+              if particle in ('과', '와'):
+                  return '과' if batchim else '와'
+              if particle in ('으로', '로'):
+                  return '로' if (not batchim or ends_l_batchim(number)) else '으로'
+              return particle
+
+          for path in Path('_posts').glob('*early-chinese-texts-*.md'):
+              original_text = path.read_text(encoding='utf-8')
+              text = original_text
+
+              def replace_page_marker(match):
+                  pages = match.group(1)
+                  label = 'pp.' if '–' in pages or '-' in pages or '·' in pages else 'p.'
+                  return f'{label} {pages}'
+
+              text = page_marker.sub(replace_page_marker, text)
+
+              def replace_particle_marker(match):
+                  reference, particle = match.group(1), match.group(2)
+                  number = final_number(reference)
+                  if number is None:
+                      return match.group(0)
+                  return reference + correct_particle(number, particle)
+
+              new_text = particle_marker.sub(replace_particle_marker, text)
+              if new_text != original_text:
+                  path.write_text(new_text, encoding='utf-8')
+          PY
+
       - name: Commit normalized citations
         run: |
           if git diff --quiet -- _posts; then exit 0; fi
