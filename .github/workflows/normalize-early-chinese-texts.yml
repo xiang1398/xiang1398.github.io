@@ -15,6 +15,38 @@ jobs:
         with:
           python-version: '3.x'
       - run: python tools/normalize_early_chinese_texts.py
+      - name: Remove nested translator-note parentheses in ETC 013-015
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          files = [
+              '_posts/2026-08-30-early-chinese-texts-Erh-ya.md',
+              '_posts/2026-08-30-early-chinese-texts-Fa-yen.md',
+              '_posts/2026-08-30-early-chinese-texts-Feng-su-tung-i.md',
+          ]
+          for filename in files:
+              p = Path(filename)
+              text = p.read_text(encoding='utf-8')
+
+              # 인용 전체를 감싼 괄호 안에 역자 주 괄호가 다시 들어간 경우 바깥 괄호를 제거한다.
+              text = re.sub(
+                  r'\((《(?:史記|漢書|後漢書|三國志|隋書|舊唐書|新唐書|宋史)》[^()\n]*?)\(역자 주: ([^)]+)\)\)',
+                  r'\1(역자 주: \2)',
+                  text,
+              )
+
+              # 《日本國見在書目錄》 역자 주가 정규화 과정에서 이중으로 붙은 경우 하나로 합친다.
+              text = re.sub(
+                  r'\(역자 주: [《〈]日本國見在書目錄[》〉]\)(?:\(역자 주: [《〈]日本國見在書目錄[》〉]\))+',
+                  '(역자 주: 《日本國見在書目錄》)',
+                  text,
+              )
+              text = text.replace('(역자 주: 〈日本國見在書目錄〉)', '(역자 주: 《日本國見在書目錄》)')
+
+              p.write_text(text, encoding='utf-8')
+          PY
       - name: Commit normalized citations
         run: |
           if git diff --quiet -- _posts; then exit 0; fi
