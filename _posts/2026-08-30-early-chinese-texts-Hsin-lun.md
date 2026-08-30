@@ -60,6 +60,6 @@ tags:
 
 ## 4. 기타 연구
 
-桓譚에 관한 많지 않은 연구의 목록은 Pokora, 앞의 책, 273–275쪽을 참조할 것. Timoteus Pokora, The Life of Huan T’an, *Archiv Orientální* 31(1963), 1–79, 521–576쪽도 참조할 것.
+桓譚에 관한 많지 않은 연구의 목록은 Pokora, 앞의 책, 273–275쪽을 참조할 것. Timoteus Pokora, The Life of Huan T’an, Archiv Orientální 31(1963), 1–79, 521–576쪽도 참조할 것.
 
 —Timoteus Pokora
