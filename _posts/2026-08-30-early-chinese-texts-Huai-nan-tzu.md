@@ -49,23 +49,23 @@ tags:
 
 ## 3. 본문의 전승과 판본
 
-(a) 劉向(기원전 79–8)본
+- (a) 劉向(기원전 79–8)본
 
-《漢書》 卷30, 1741쪽(역자 주: 〈藝文志〉)은 33편의 《淮南外》—《漢書補注》 卷30, 47a의 주 참조—와 21편의 《淮南內》, 곧 劉向본을 기록한다. 두 책은 雜家類에 들어 있으며, 이후 사가와 관찬 서목 모두 《淮南子》를 21편으로 기록하는 연속적인 서지 전통이 이어진다. 서명에는 여러 변형이 있고 가장 흔한 것은 《淮南鴻烈解》이다. 6세기 이후 서지학자들은 21편 대신 21권이라고 기록한다(《舊唐書》 卷47, 2032쪽; 《新唐書》 卷59, 1533쪽. 역자 주: 각각 〈經籍志〉·〈藝文志〉; Fujiwara Sukeyo 藤原佐世는 21권본과 31권본을 기록한다). 이러한 변화는 본문의 완전성과는 관계가 없다.
+《漢書》 卷30, 1741쪽(역자 주: 〈藝文志〉)은 33편의 《淮南外》—《漢書補注》 卷30, 47a의 주 참조—와 21편의 《淮南內》, 곧 劉向본을 기록한다. 두 책은 雜家類에 들어 있으며, 이후 사가와 관찬 서목 모두 《淮南子》를 21편으로 기록하는 연속적인 서지 전통이 이어진다. 서명에는 여러 변형이 있고 가장 흔한 것은 《淮南鴻烈解》이다. 6세기 이후 서지학자들은 21편 대신 21권이라고 기록한다(《舊唐書》 卷47, 2032쪽, 《新唐書》 卷59, 1533쪽; Fujiwara Sukeyo 藤原佐世는 21권본과 31권본을 기록한다. 역자 주: 두 정사 인용은 각각 〈經籍志〉·〈藝文志〉). 이러한 변화는 본문의 완전성과는 관계가 없다.
 
-(b) 許慎(약 55–약 149)과 高誘의 주석 및 판본
+- (b) 許慎(약 55–약 149)과 高誘의 주석 및 판본
 
 《隋書》 卷34, 1006쪽(역자 주: 〈經籍志〉)에는 각각 21권인 《淮南子》 두 부가 기록되어 있는데, 하나는 許慎 주석본이고 다른 하나는 高誘 주석본이다. 高誘가 21편 전체에 주석을 붙였는지는 확실하지 않다. 어쨌든 21편의 제목은 원래 판본에 들어 있었던 듯하다. 《淮南子》 제21편에서 각 편명을 언급하고, 현전하는 가장 이른 두 주석가인 許慎과 高誘가 그 제목을 풀이하기 때문이다. 두 주석은 약간 다른 두 정본에 붙어 있었을 가능성이 있으며, 11세기 이전 어느 시기에 합쳐졌다. 이 합성 주석은 高誘본에 붙은 뒤 간본마다 자의적으로 許慎 또는 高誘에게 귀속되었다. 1023–1063년에 간행된 北宋小字本과 《道藏》을 비롯한 모든 목판본이 이러한 경우에 해당한다. 宋代 이전 자료에 보존된 《淮南子》 인용문은 許慎본과 高誘본의 차이에 약간의 실마리를 줄 수 있지만, 초기 간본과 그러한 인용문을 비교해도 대체로 글자상의 이문만 드러난다. 따라서 본문 전체와 편차는 2천 년이 넘는 전승 동안 놀라울 만큼 안정적으로 유지된 듯하다.
 
-(c) 北宋本
+- (c) 北宋本
 
 蘇頌(1020–1101)은 〈校淮南子題序〉에서 당시 유통되던 일곱 판본을 비교하여 《淮南子》 교정본을 만들었다고 밝히고, 許慎본·高誘본과 두 주석을 구별하기 위한 기준도 마련하였다. 그의 본문이 1023–1063년의 北宋小字本일 가능성을 보여 주는 증거가 있다. 이 판본을 처음으로 비판적으로 서술한 사람은 黃丕烈(1763–1825)이다. 北宋本 한 부는 여러 사람의 손을 거쳐 20세기 초 大連大學 도서관에 들어갔고, 이후 행방을 알 수 없게 되었다. 다행히 顧廣圻(1776–1835)와 王念孫(1744–1832)을 위하여 원본을 베낀 모사본이 만들어졌고, 두 사람은 이 판본에 방대한 교감기를 남겼다. 마지막으로 劉履芬(1827–1879)이 만든 王念孫 모사본의 영인본이 《四部叢刊》 초편에 간행되었다. 초기 宋刊本이라는 권위는 지니지만 최선본은 아니다.
 
-(d) 《道藏》본
+- (d) 《道藏》본
 
 근대의 가장 뛰어난 《淮南子》 주석가인 王念孫에 따르면 그가 살던 시대에 가장 신뢰할 만한 본문은 1445년의 《道藏》본이었다. 기본적으로 北宋本에서 나왔지만, 편찬자들은 현재 소실된 다른 초기 판본을 사용하여 北宋本의 오류를 바로잡았다. 《道藏》본의 두드러진 특징은 北宋本과 그 이전 판본의 21권이 아니라 28권으로 나뉜다는 점이다. 그러나 내용의 삽입이나 변경이 있는 것은 아니다. 제1–5권, 제8권, 제13권을 각각 둘로 나누어 28권으로 만든 것뿐이다. 이렇게 나눈 이유는 분명하지 않지만 도가의 二十八宿 사상과 관련되었을 가능성이 있다.
 
-(e) 明·淸代 판본
+- (e) 明·淸代 판본
 
 明代에는 《淮南子》 판본이 15종 이상 간행되었으며, 그 가운데 9종이 萬曆年間(1573–1620)에 나왔다. 이 판본들은 北宋本이 아니라 《道藏》본에서 나왔다. 초기 판본은 28권이었고, 중요한 예로 王浦본(1488–1505 간행), 王鎣본(1522–1566 간행), 朱東光본(1573–1620 간행)이 있다. 萬曆年間에는 《道藏》 본문을 계승하면서도 전통적인 21권 체제로 돌아간 판본이 나타났다. 그 가운데 가장 이르고 중요한 것은 毛一桂본(1573–1620 간행)으로, 毛坤본(1573–1620 간행)과 《漢魏叢書》본—《廣漢魏叢書》·《增訂漢魏叢書》 포함—을 비롯한 네 중요 판본의 조본이 되었다. 毛坤의 본문과 교감 주석은 여러 일본 한적 총서에 재수록되었다.
 
@@ -73,7 +73,7 @@ tags:
 
 이문을 보면 蔣元廷은 본문을 확정할 때 정체를 알 수 없는 다른 판본도 이용한 듯하다. 판본 계통에 대해서는 아래 6항의 Harold D. Roth와 그의 Filiation Analysis and the Textual Criticism of the Huai nan tzu, Transactions of the International Conference of Orientalists in Japan XXVII(1982), 60–81쪽—東方學會 간행—을 참조할 것. 莊逵吉본은 錢坫(1744–1806)이 교감한 《道藏》 수정본에 기초한다. 莊逵吉은 본문과 주석에 교감 주를 붙였지만 그의 판본에도 잘못된 글자가 많다. 서문과 주석을 함께 《四部備要》에 재수록하였다. 1875년 陶方琦(1845–1884) 등이 莊逵吉본을 수정하였고, 이것이 표준 莊本이 되었다. 아마 현존하는 《淮南子》 최선본일 것이다.
 
-(f) 수정 莊本은 근래 대부분의 《淮南子》 판본에서 정본으로 채택되었다. 예는 다음과 같다.
+- (f) 수정 莊本은 근래 대부분의 《淮南子》 판본에서 정본으로 채택되었다. 예는 다음과 같다.
 
 (1) 劉家立, 《淮南集證》, 北京: 中華, 1924.
 
@@ -85,23 +85,23 @@ tags:
 
 서양어로 된 《淮南子》 완역은 없다. 아래 Morgan은 여덟 편을 번역했지만, 근래의 번역은 대부분 한 편만을 대상으로 한다. 개별 편을 번역한 훌륭한 미간행 자료도 여러 편 있다. 부분 번역은 다음과 같다.
 
-(a) Balfour, Frederic Henry, Taoist Texts, Ethical, Political, and Speculative, London: Trubner; Shanghai: Kelly and Walsh, 1884. 제1편 번역. 당시 《淮南子》 연구 수준을 고려하면 주목할 만한 번역이다.
+- (a) Balfour, Frederic Henry, *Taoist Texts, Ethical, Political, and Speculative*, London: Trubner; Shanghai: Kelly and Walsh, 1884. 제1편 번역. 당시 《淮南子》 연구 수준을 고려하면 주목할 만한 번역이다.
 
-(b) Morgan, Evan, Tao, the Great Luminant: Essays from the Huai nan tzu, London: Kegan Paul, Trench, Trubner & Co., 1933. 제1·2·7·8·12·13·15·19편 번역. 선구적인 시도이지만 신학적 선입견과 중국어 본문을 지나치게 자유롭게 옮긴 점이 흠이다.
+- (b) Morgan, Evan, *Tao, the Great Luminant: Essays from the Huai nan tzu*, London: Kegan Paul, Trench, Trubner & Co., 1933. 제1·2·7·8·12·13·15·19편 번역. 선구적인 시도이지만 신학적 선입견과 중국어 본문을 지나치게 자유롭게 옮긴 점이 흠이다.
 
-(c) Kraft, Eva, Zum Huai-nan-tzu. Einführung, Übersetzung (Kapitel I und II) und Interpretation (〈《淮南子》에 관하여: 서론, 제1·2편 번역과 해석〉), Monumenta Serica 16(1957), 191–286쪽; 17(1958), 128–207쪽.
+- (c) Kraft, Eva, Zum Huai-nan-tzu. Einführung, Übersetzung (Kapitel I und II) und Interpretation(〈《淮南子》에 관하여: 서론, 제1·2편 번역과 해석〉), Monumenta Serica 16(1957), 191–286쪽; 17(1958), 128–207쪽.
 
-(d) Wallacker, Benjamin, The Huai-nan-tzu, Book Eleven: Behavior, Culture and the Cosmos, New Haven: American Oriental Society, 1962.
+- (d) Wallacker, Benjamin, *The Huai-nan-tzu, Book Eleven: Behavior, Culture and the Cosmos*, New Haven: American Oriental Society, 1962.
 
-(e) Larre, Claude, Le Traité VIIe du Houai nan tseu. Les esprits légers et subtils animateurs de l’essence (《淮南子》第七篇: 精을 움직이는 가볍고 미묘한 神), Variétés sinologiques 67, nouvelle série, Taipei·Paris·Hong Kong, 1982.
+- (e) Larre, Claude, *Le Traité VIIe du Houai nan tseu. Les esprits légers et subtils animateurs de l’essence* (《淮南子》第七篇: 精을 움직이는 가볍고 미묘한 神), *Variétés sinologiques* 67, nouvelle série, Taipei·Paris·Hong Kong, 1982.
 
-(f) Ames, Roger T., The Art of Rulership: A Study in Ancient Chinese Political Thought, Honolulu: University of Hawaii Press, 1983.
+- (f) Ames, Roger T., *The Art of Rulership: A Study in Ancient Chinese Political Thought*, Honolulu: University of Hawaii Press, 1983.
 
-(g) Le Blanc, Charles, Huai nan tzu: Philosophical Synthesis in Early Han Thought; The Idea of Resonance (Kan-Ying), With a Translation and Analysis of Chapter Six, Hong Kong: Hong Kong University Press, 1985.
+- (g) Le Blanc, Charles, *Huai nan tzu: Philosophical Synthesis in Early Han Thought; The Idea of Resonance (Kan-Ying), With a Translation and Analysis of Chapter Six*, Hong Kong: Hong Kong University Press, 1985.
 
-(h) Major, John S., Heaven and Earth in Early Han Thought: Chapters Three, Four and Five of the Huainanzi, Albany: State University of New York Press, 1993.
+- (h) Major, John S., *Heaven and Earth in Early Han Thought: Chapters Three, Four and Five of the Huainanzi*, Albany: State University of New York Press, 1993.
 
-(i) Larre, Claude, Isabelle Robinet, Elisabeth Rochat de la Vallée, Les grands traités du Huainan zi (《淮南子》의 주요 논문), Paris: Éditions du Cerf, 1993. 제1·7·11·13·18편 번역.
+- (i) Larre, Claude, Isabelle Robinet, Elisabeth Rochat de la Vallée, *Les grands traités du Huainan zi* (《淮南子》의 주요 논문), Paris: Éditions du Cerf, 1993. 제1·7·11·13·18편 번역.
 
 ## 5. 일본어 판본
 
@@ -123,26 +123,26 @@ L. 《中國古典新書》, 1972, Kusuyama Haruki 楠山春樹 편.
 
 ## 6. 최근 연구와 연구 도구
 
-(a) Shimada Kan 島田翰(1879–1915), 《古文舊書考》, Tokyo: 民友社, 1905, 권4, 21a–43b. 중국어로 작성되었다.
+- (a) Shimada Kan 島田翰(1879–1915), 《古文舊書考》, Tokyo: 民友社, 1905, 卷4, 21a–43b. 중국어로 작성되었다.
 
-(b) 吳則虞, 〈淮南子書錄〉, 《文史》 2(1963), 291–315쪽.
+- (b) 吳則虞, 〈淮南子書錄〉, 《文史》 2(1963), 291–315쪽.
 
-(c) 于大成, 《淮南子校釋》, 2책, 臺北: 國立臺灣師範大學國文學系, 1969.
+- (c) 于大成, 《淮南子校釋》, 2책, 臺北: 國立臺灣師範大學國文學系, 1969.
 
 위 세 연구는 《淮南子》의 편찬·전승·판본·본문비평에 관한 핵심 자료를 제시한다.
 
-(d) Kanaya Osamu 金谷治, 《老莊的世界·淮南子の思想》, Kyoto: 平樂寺書店, 1959. 《淮南子》 전체의 기초 사상을 해석하려 한 가장 정교한 연구 가운데 하나이다.
+- (d) Kanaya Osamu 金谷治, 《老莊的世界·淮南子の思想》, Kyoto: 平樂寺書店, 1959. 《淮南子》 전체의 기초 사상을 해석하려 한 가장 정교한 연구 가운데 하나이다.
 
-(e) 馮友蘭, 《中國哲學史新編》 제2권, 北京: 人民, 1964. 주로 氣에 초점을 맞춘 긴 《淮南子》 절은 이 책의 기본 철학을 밝히려 한 매우 통찰력 있는 시도이다.
+- (e) 馮友蘭, 《中國哲學史新編》 제2권, 北京: 人民, 1964. 주로 氣에 초점을 맞춘 긴 《淮南子》 절은 이 책의 기본 철학을 밝히려 한 매우 통찰력 있는 시도이다.
 
-(f) Roth, Harold D., The Textual History of the Huai-nan tzu, Ann Arbor, Michigan: The Association for Asian Studies, 1992.
+- (f) Roth, Harold D., *The Textual History of the Huai-nan tzu*, Ann Arbor, Michigan: The Association for Asian Studies, 1992.
 
 ## 7. 색인
 
-(a) 《淮南子通檢》, 北京: Centre franco-chinois, 1944; 臺北, 1968 재판.
+- (a) 《淮南子通檢》, 北京: Centre franco-chinois, 1944; 臺北, 1968 재판.
 
-(b) 《淮南子索引》, Kyoto: 京都大學人文科學研究所, 1976.
+- (b) 《淮南子索引》, Kyoto: 京都大學人文科學研究所, 1976.
 
-(c) D.C. Lau와 Chen Fong Ching 편, A Concordance to the Huainanzi 《淮南子逐字索引》, ICS series, Hong Kong: Commercial Press, 1992.
+- (c) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Huainanzi* 《淮南子逐字索引》, ICS series, Hong Kong: Commercial Press, 1992.
 
-— Charles Le Blanc
+—Charles Le Blanc
