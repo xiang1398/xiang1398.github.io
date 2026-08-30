@@ -37,88 +37,82 @@ foreign_titles = {
 }
 
 notes_013_018 = {
-    ('《漢書》', '30'): '〈藝文志〉',
-    ('《漢書》', '87'): '〈揚雄傳〉',
-    ('《漢書》', '88'): '〈儒林傳〉',
-    ('《史記》', '6'): '〈秦始皇本紀〉',
-    ('《史記》', '45'): '〈韓世家〉',
-    # 《史記》卷63의 정식 편명은 〈老子韓非列傳〉이지만,
-    # 013–018에서 韓非만을 근거로 인용하는 경우 독자 지향 표기로 〈韓非列傳〉을 쓴다.
-    ('《史記》', '63'): '〈韓非列傳〉',
-    ('《史記》', '121'): '〈儒林列傳〉',
+    ('《漢書》', '30'): '〈藝文志〉', ('《漢書》', '87'): '〈揚雄傳〉',
+    ('《史記》', '6'): '〈秦始皇本紀〉', ('《史記》', '45'): '〈韓世家〉',
+    ('《史記》', '63'): '〈韓非列傳〉', ('《史記》', '121'): '〈儒林列傳〉',
     ('《後漢書》', '62'): '〈荀韓鍾陳列傳〉',
 }
 
 target_013_018 = {
-    '2026-08-30-early-chinese-texts-Erh-ya.md',
-    '2026-08-30-early-chinese-texts-Fa-yen.md',
-    '2026-08-30-early-chinese-texts-Feng-su-tung-i.md',
-    '2026-08-30-early-chinese-texts-Han-chi.md',
-    '2026-08-30-early-chinese-texts-Han-fei-tzu.md',
-    '2026-08-30-early-chinese-texts-Han-shih-wai-chuan.md',
+    '2026-08-30-early-chinese-texts-Erh-ya.md', '2026-08-30-early-chinese-texts-Fa-yen.md',
+    '2026-08-30-early-chinese-texts-Feng-su-tung-i.md', '2026-08-30-early-chinese-texts-Han-chi.md',
+    '2026-08-30-early-chinese-texts-Han-fei-tzu.md', '2026-08-30-early-chinese-texts-Han-shih-wai-chuan.md',
 }
 
 for path in Path('_posts').glob('*early-chinese-texts-*.md'):
     text = path.read_text(encoding='utf-8')
     numbered = bool(re.search(r'^title:\s*["\']?《?Early Chinese Texts》?\s+\d{3}[:.]', text, re.M))
-
     if path.name in series_times:
         day, clock = series_times[path.name]
         text = re.sub(r'^date:\s*2026-08-(?:29|30)(?:\s+\d{2}:\d{2}:\d{2}\s+\+0900)?$', f'date: {day} {clock} +0900', text, flags=re.M)
 
-    title_map = {
-        '2026-08-30-early-chinese-texts-Han-chi.md': '《Early Chinese Texts》 016: Han chi 漢紀',
-        '2026-08-30-early-chinese-texts-Han-shih-wai-chuan.md': '《Early Chinese Texts》 018: Han shih wai chuan 韓詩外傳',
-    }
+    title_map = {'2026-08-30-early-chinese-texts-Han-chi.md': '《Early Chinese Texts》 016: Han chi 漢紀', '2026-08-30-early-chinese-texts-Han-shih-wai-chuan.md': '《Early Chinese Texts》 018: Han shih wai chuan 韓詩外傳'}
     if path.name in title_map:
         text = re.sub(r'^title:.*$', f'title: "{title_map[path.name]}"', text, count=1, flags=re.M)
         text = re.sub(r'^categories:\s*\[Early Chinese Texts\]\s*$', 'categories:\n  - Translations\nseries: Early Chinese Texts', text, flags=re.M)
 
-    japanese_title_romanizations = {
-        '*Soji sakuin* 《楚辭索引》': '《楚辭索引》',
-        '*Soji kenkyū* 《楚辭研究》': '《楚辭研究》',
-    }
-    for old, new in japanese_title_romanizations.items():
-        text = text.replace(old, new)
-
+    for old, new in {'*Soji sakuin* 《楚辭索引》':'《楚辭索引》','*Soji kenkyū* 《楚辭研究》':'《楚辭研究》'}.items(): text=text.replace(old,new)
     text = re.sub(r'(역자 주:\s*)《([^》]+)》', r'\1〈\2〉', text)
-
-    shiji_liezhuan = {
-        '商君傳': '商君列傳', '張丞相傳': '張丞相列傳',
-        '屈原賈生傳': '屈原列傳', '屈原賈生列傳': '屈原列傳',
-    }
-    for short, full in shiji_liezhuan.items():
+    for short, full in {'商君傳':'商君列傳','張丞相傳':'張丞相列傳','屈原賈生傳':'屈原列傳','屈原賈生列傳':'屈原列傳'}.items():
         text = re.sub(rf'(《史記》[^\n]*?역자 주:\s*〈){re.escape(short)}(〉)', rf'\1{full}\2', text)
 
     if path.name in target_013_018:
-        text = re.sub(r'(《(?:史記|漢書|後漢書|隋書|舊唐書|新唐書|宋史)》)\s*권(?=\d)', r'\1 卷', text)
-        # 이미 붙어 있는 卷63 역자 주도 새 원칙으로 통일한다.
-        text = text.replace('역자 주: 〈老子韓非列傳〉', '역자 주: 〈韓非列傳〉')
-        text = text.replace('역자 주: 〈老子韓非傳〉', '역자 주: 〈韓非列傳〉')
-        for (book, vol), section in notes_013_018.items():
-            pattern = rf'({re.escape(book)}\s*卷{vol}(?:上|下)?(?:,?\s*\d+(?:–\d+)?쪽)?)(?!\s*\(역자 주:)'
-            text = re.sub(pattern, rf'\1(역자 주: {section})', text)
+        text = re.sub(r'(《(?:史記|漢書|後漢書|三國志|隋書|舊唐書|新唐書|宋史)》)\s*권(?=\d)', r'\1 卷', text)
+        text = text.replace('역자 주: 〈老子韓非列傳〉','역자 주: 〈韓非列傳〉').replace('역자 주: 〈老子韓非傳〉','역자 주: 〈韓非列傳〉')
 
-    text = re.sub(r'\(사망\s+(기원전\s+)?([0-9]+)\)', lambda m: f'({m.group(1) or ""}{m.group(2)} 사망)', text)
+    # 013: 사용자가 지정한 서지 표기와 일본인 인명 음역.
+    if path.name == '2026-08-30-early-chinese-texts-Erh-ya.md':
+        text = re.sub(r'《漢書》\s*卷30(?:\(역자 주: 〈藝文志〉\))?\s*1718쪽(?:\(역자 주: 〈藝文志〉\))?', '《漢書》 卷30 1718쪽', text)
+        text = text.replace('《皇淸經解》 667갑, 1a–2a', '《皇淸經解》 667甲, 1a–2a')
+        text = re.sub(r'(?<!Eiji )加賀榮治', 'Kaga Eiji 加賀榮治', text)
+        text = re.sub(r'(?<!Naitō Torajirō )內藤虎次郎', 'Naitō Torajirō 內藤虎次郎', text)
+
+    # 014: 卷의 上下는 권수에 붙이고, 역자 주는 페이지 뒤에 두어 괄호 중첩을 피한다.
+    if path.name == '2026-08-30-early-chinese-texts-Fa-yen.md':
+        text = re.sub(r'《漢書》\s*卷87(?:\(역자 주: 〈揚雄傳〉\))?하\s*(\d+쪽)(?:\(역자 주: 〈揚雄傳〉\))?', r'《漢書》 卷87下 \1(역자 주: 〈揚雄傳〉)', text)
+        text = re.sub(r'《漢書》\s*卷30(?:\(역자 주: 〈藝文志〉\))?\s*(1727쪽)(?:\(역자 주: 〈藝文志〉\))?', r'《漢書》 卷30 \1(역자 주: 〈藝文志〉)', text)
+        text = re.sub(r'《漢書》\s*卷99하\s*(4099쪽)(?!\(역자 주:)', r'《漢書》 卷99下 \1(역자 주: 〈王莽傳〉)', text)
+        text = re.sub(r'《隋書》\s*卷34\s*(998쪽)(?!\(역자 주:)', r'《隋書》 卷34 \1(역자 주: 〈經籍志〉)', text)
+        text = re.sub(r'《新唐書》\s*卷59\s*(1510쪽)(?!\(역자 주:)', r'《新唐書》 卷59 \1(역자 주: 〈藝文志〉)', text)
+        text = re.sub(r'《舊唐書》\s*卷47\s*(2024쪽)(?!\(역자 주:)', r'《舊唐書》 卷47 \1(역자 주: 〈經籍志〉)', text)
+        text = re.sub(r'(?<!Fujiwara Sukeyo )藤原佐世', 'Fujiwara Sukeyo 藤原佐世', text)
+        text = re.sub(r'(?<!Naitō Torajirō )內藤虎次郎', 'Naitō Torajirō 內藤虎次郎', text)
+        text = re.sub(r'(?<!Kaga Eiji )加賀榮治', 'Kaga Eiji 加賀榮治', text)
+
+    # 015: 정사 권수는 卷으로, 해당 인용은 편명을 역자 주로 보충한다.
+    if path.name == '2026-08-30-early-chinese-texts-Feng-su-tung-i.md':
+        text = re.sub(r'《後漢書》\s*卷48\s*(1609–1615쪽)(?!\(역자 주:)', r'《後漢書》 卷48 \1(역자 주: 〈應奉列傳〉)', text)
+        text = re.sub(r'《三國志》\s*卷1\(〈魏書〉\s*卷1\)\s*(11쪽 주1)(?!\(역자 주:)', r'《三國志》 卷1 \1(역자 주: 〈魏書·武帝紀〉)', text)
+        text = re.sub(r'華嶠의 《後漢書》\s*卷1\s*(22a 및 534–535쪽)(?!\(역자 주:)', r'華嶠의 《後漢書》 卷1 \1(역자 주: 〈應劭傳〉 일문)', text)
+        text = re.sub(r'范曄\(398–446\)의 《後漢書》\s*卷48\s*(1614쪽)(?!\(역자 주:)', r'范曄(398–446)의 《後漢書》 卷48 \1(역자 주: 〈應奉列傳〉)', text)
+        text = re.sub(r'《隋書》\s*卷34\s*(1006쪽)(?!\(역자 주:)', r'《隋書》 卷34 \1(역자 주: 〈經籍志〉)', text)
+        text = re.sub(r'《舊唐書》\s*卷47\s*(2033쪽)(?!\(역자 주:)', r'《舊唐書》 卷47 \1(역자 주: 〈經籍志〉)', text)
+        text = re.sub(r'《新唐書》\s*卷59\s*(1534쪽)(?!\(역자 주:)', r'《新唐書》 卷59 \1(역자 주: 〈藝文志〉)', text)
+        text = re.sub(r'《宋史》\s*卷454\s*(13345쪽)(?!\(역자 주:)', r'《宋史》 卷454 \1(역자 주: 〈丁黼傳〉)', text)
+        text = re.sub(r'(?<!Fujiwara Sukeyo )藤原佐世', 'Fujiwara Sukeyo 藤原佐世', text)
+        text = re.sub(r'(?<!Kaga Eiji )加賀榮治', 'Kaga Eiji 加賀榮治', text)
+        text = re.sub(r'(?<!Naitō Torajirō )內藤虎次郎', 'Naitō Torajirō 內藤虎次郎', text)
+
+    text = re.sub(r'\(사망\s+(기원전\s+)?([0-9]+)\)', lambda m:f'({m.group(1) or ""}{m.group(2)} 사망)', text)
     text = re.sub(r'[“"]([^”"\n]+)[”"](?=,\s*\*[^*\n]+\*)', r'\1', text)
     text = re.sub(r'[“"]([^”"\n]+)[”"](?=,\s*in\s+\*[^*\n]+\*)', r'\1', text)
-
     for title, ko in foreign_titles.items():
-        pat = rf'\*{re.escape(title)}\*(?!\s*\[)'
-        text = re.sub(pat, f'*{title}* [{ko}]', text)
-        pat_plain = rf'(?<![\*\w]){re.escape(title)}(?![\w\*])(?!\s*\[)'
-        text = re.sub(pat_plain, f'*{title}* [{ko}]', text)
+        text = re.sub(rf'\*{re.escape(title)}\*(?!\s*\[)', f'*{title}* [{ko}]', text)
+        text = re.sub(rf'(?<![\*\w]){re.escape(title)}(?![\w\*])(?!\s*\[)', f'*{title}* [{ko}]', text)
         text = text.replace(f'*{title} [{ko}]*', f'*{title}* [{ko}]')
-
-    text = text.replace('[고대 중국의 논서 《九章算術》]', '[고대 중국의 수학서 《九章算術》]')
-    text = text.replace('[수학 과학사 논총]', '[수학사 논총]')
-
+    text=text.replace('[고대 중국의 논서 《九章算術》]','[고대 중국의 수학서 《九章算術》]').replace('[수학 과학사 논총]','[수학사 논총]')
     if path.name == '2026-08-29-early-chinese-texts-Ch’u-tz’u.md':
-        text = text.replace('竹治貞夫가 《四部叢刊》본 《楚辭補注》를 바탕으로 만든 색인 *Soji sakuin* 《楚辭索引》은 德島大學에서 1964년에 간행했다. 그의 *Soji kenkyū* 《楚辭研究》(東京, 1978)는', 'Takeji Sadao 竹治貞夫가 《四部叢刊》본 《楚辭補注》를 바탕으로 만든 색인 《楚辭索引》은 德島大學에서 1964년에 간행했다. 그의 《楚辭研究》(東京, 1978)는')
-        text = text.replace('역자 주: 〈屈原賈生列傳〉', '역자 주: 〈屈原列傳〉')
-
+        text=text.replace('竹治貞夫가 《四部叢刊》본 《楚辭補注》를 바탕으로 만든 색인 *Soji sakuin* 《楚辭索引》은 德島大學에서 1964년에 간행했다. 그의 *Soji kenkyū* 《楚辭研究》(東京, 1978)는','Takeji Sadao 竹治貞夫가 《四部叢刊》본 《楚辭補注》를 바탕으로 만든 색인 《楚辭索引》은 德島大學에서 1964년에 간행했다. 그의 《楚辭研究》(東京, 1978)는').replace('역자 주: 〈屈原賈生列傳〉','역자 주: 〈屈原列傳〉')
     if numbered:
-        text = re.sub(r'^(—\s*[^\n*]+)$', r'*\1*', text, flags=re.M)
-        text = re.sub(r'^\*—\s+', '*—', text, flags=re.M)
-
-    path.write_text(text, encoding='utf-8')
+        text=re.sub(r'^(—\s*[^\n*]+)$',r'*\1*',text,flags=re.M); text=re.sub(r'^\*—\s+', '*—', text, flags=re.M)
+    path.write_text(text,encoding='utf-8')
