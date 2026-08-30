@@ -5,7 +5,15 @@ date: 2026-08-30 09:13:00 +0900
 categories:
   - Translations
 series: Early Chinese Texts
-tags: [漢紀, 荀悅, 漢書, 前漢紀]
+tags:
+  - Early Chinese Texts
+  - 漢紀
+  - 荀悅
+  - 漢書
+  - 前漢紀
+  - 중국고전
+  - 문헌학
+  - 번역
 ---
 
 # 《漢紀》
