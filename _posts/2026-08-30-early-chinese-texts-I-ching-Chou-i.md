@@ -59,7 +59,7 @@ tags:
 
 《易經》에는 위에서 설명한 괘상·괘명·卦辭·爻辭 외에 서로 다른 일곱 주석이 포함된다. 그 가운데 아래 (a), (b), (d)는 통상 상·하로 둘로 나뉘므로 전체 주석 단위가 열 개가 되어 ‘十翼’이라는 이름이 생겼다. 일곱 주석은 다음과 같다.
 
-- (a) 〈彖〉. 卦辭의 해설. 대체로 성운 풀이, 三卦 상징, 爻位 이론을 결합한다.
+- (a) 〈彖〉. 卦辭의 해설. 대체로 聲訓, 三卦 상징, 爻位 이론을 결합한다.
 
 - (b) 〈象〉. 大象과 小象으로 구분된다. 大象은 卦辭를 설명하고, 小象은 여섯 爻辭 각각에 대응한다. 大象은 거의 언제나 三卦 상징을 풀이한 뒤 괘 본문과 관련된 도덕적 격언을 덧붙인다. 小象은 爻位와 爻德을 주요 해석 도구로 삼는다.
 
@@ -117,7 +117,7 @@ tags:
 
 서양어로 출판된 최초의 완역은 예수회 신부 Jean-Baptiste Regis(1663–1738)의 라틴어 번역으로 1834년과 1839년에 두 권으로 간행되었다. 영어권 학생은 대체로 두 번역 가운데 하나를 접한다. (a) Legge, *Sacred Books of the East* 16권. 여러 차례 재간되었다. (b) Richard Wilhelm, *The I Ching or Book of Changes*, Cary F. Baynes 번역, 2책, Bollingen Series 19, New York, 1950. Wilhelm 번역은 둘 가운데 훨씬 읽기 쉽다. 본문의 역사 연구에는 사용할 수 없지만 淸代 말 전통 중국 유학자가 이해한 본문을 충실히 제시한다는 장점이 있다. 《周易》의 여러 부분, ‘十翼’, Wilhelm 자신의 설명을 구별하도록 주의해야 한다.
 
-근래 간행된 많은 번역의 상세한 목록은 Hellmut Wilhelm, The Book of Changes in the Western Tradition, Parerga 2(1975)를 참조할 것.
+근래 간행된 많은 번역의 상세한 목록은 Hellmut Wilhelm, The Book of Changes in the Western Tradition, *Parerga* 2(1975)를 참조할 것.
 
 ## 11. 일본어 판본
 
@@ -143,9 +143,9 @@ M. 《新訂中國古典選》 1, Honda Wataru 本田濟 편.
 
 ## 12. 최근 연구와 연구 도구
 
-- (a) 근래 《易經》 역사 연구의 목록은 반드시 顧頡剛(1893–1980)이 편집하여 1931년에 간행한 《古史辨》 제3책에서 시작한다. 顧頡剛, 錢穆, 胡適(1891–1962), 李鏡池, 余永梁 등의 연구를 수록한 이 책은 본문의 맥락비평을 근대 《易經》 연구의 가장 중요한 분야로 확립하였다. 그 뒤 50년 동안 나온 같은 유형의 많은 연구 가운데 근래의 중요 저술은 다음과 같다.
+(a) 근래 《易經》 역사 연구의 목록은 반드시 顧頡剛(1893–1980)이 편집하여 1931년에 간행한 《古史辨》 제3책에서 시작한다. 顧頡剛, 錢穆, 胡適(1891–1962), 李鏡池, 余永梁 등의 연구를 수록한 이 책은 본문의 맥락비평을 근대 《易經》 연구의 가장 중요한 분야로 확립하였다. 그 뒤 50년 동안 나온 같은 유형의 많은 연구 가운데 근래의 중요 저술은 다음과 같다.
 
-- (i) 高亨, 《周易大傳今注》, 濟南: 齊魯書社, 1979. 1947년 《周易古經今注》를 수정하고 ‘十翼’ 논의를 추가한 판본.
+(i) 高亨, 《周易大傳今注》, 濟南: 齊魯書社, 1979. 1947년 《周易古經今注》를 수정하고 ‘十翼’ 논의를 추가한 판본.
 
 (ii) 李鏡池, 《周易探源》, 北京: 中華, 1978. 《易經》 맥락비평의 선구적 논문 모음.
 
@@ -153,9 +153,9 @@ M. 《新訂中國古典選》 1, Honda Wataru 本田濟 편.
 
 (iv) 高懷民, 《兩漢易學史》, 臺北: 中國學術著作獎助委員會叢書 54, 1970. 漢代 易學에 관한 최초이자 여전히 가장 중요한 연구.
 
-- (b) 주목할 서양어 연구는 다음과 같다.
+(b) 주목할 서양어 연구는 다음과 같다.
 
-- (i) Waley, Arthur, The Book of Changes, BMFEA 5(1933), 121–142쪽.
+(i) Waley, Arthur, The Book of Changes, BMFEA 5(1933), 121–142쪽.
 
 (ii) Wilhelm, Hellmut, *Change: Eight Lectures on the I Ching*, Cary F. Baynes 번역, London: Routledge and Kegan Paul, 1961.
 
@@ -163,15 +163,15 @@ M. 《新訂中國古典選》 1, Honda Wataru 本田濟 편.
 
 (iv) Shchutskii, Iulian K., *Researches on the I Ching*, William L. MacDonald·Tsuyoshi Hasegawa·Hellmut Wilhelm 번역, London·Henley: Routledge and Kegan Paul, 1980.
 
-- (v) Schmitt, Gerhard, *Sprüche der Wandlungen auf ihrem geistesgeschichtlichen Hintergrund* (사상사적 배경에서 본 《易》의 괘효사), Berlin: Deutsche Akademie der Wissenschaften zu Berlin, Institut für Orientforschung 76, 1970.
+(v) Schmitt, Gerhard, *Sprüche der Wandlungen auf ihrem geistesgeschichtlichen Hintergrund* (사상사적 배경에서 본 《易》의 괘효사), Berlin: Deutsche Akademie der Wissenschaften zu Berlin, Institut für Orientforschung 76, 1970.
 
 (vi) Ch’en Ch’i-yün, A Confucian Magnate’s Idea of Political Violence: Hsün Shuang’s (A.D. 128–190) Interpretation of the Book of Changes, TP 54(1968), 73–115쪽.
 
 (vii) Peterson, Willard J., Making Connections: “Commentary on the Attached Verbalizations” of the Book of Changes, HJAS 42:1(1982년 6월), 67–116쪽.
 
-- (c) 근래 본문의 초기 역사를 다룬 박사학위논문은 다음과 같다.
+(c) 근래 본문의 초기 역사를 다룬 박사학위논문은 다음과 같다.
 
-- (i) Swanson, Gerald W., The Great Treatise: Commentatory Tradition to the Book of Changes, University of Washington, 1974.
+(i) Swanson, Gerald W., The Great Treatise: Commentatory Tradition to the Book of Changes, University of Washington, 1974.
 
 (ii) Shaughnessy, Edward L., The Composition of the Zhouyi, Stanford University, 1983.
 
@@ -179,22 +179,22 @@ M. 《新訂中國古典選》 1, Honda Wataru 本田濟 편.
 
 (iv) Goodman, Howard L., Exegetes and Exegeses of the Book of Changes in the Third Century A.D.: Historical and Scholastic Contexts for Wang Pi, Princeton University, 1985.
 
-- (v) Fendos, Paul George Jr., Fei Chih’s Place in the Development of I-ching Studies, University of Wisconsin, 1988.
+(v) Fendos, Paul George Jr., Fei Chih’s Place in the Development of I-ching Studies, University of Wisconsin, 1988.
 
-- (d) 가장 가치 있는 연구 도구는 다음과 같다.
+(d) 가장 가치 있는 연구 도구는 다음과 같다.
 
-- (i) *A Concordance to Yi Ching*, Harvard-Yenching Index 10. 北平, 1935 초판; 臺北: 成文, 1966 재판.
+(i) *A Concordance to Yi Ching*, Harvard-Yenching Index 10. 北平, 1935 초판; 臺北: 成文, 1966 재판.
 
 (ii) 《易學論叢》, 臺北, 1971. 가장 완전한 서지 연구를 포함한다.
 
 (iii) 嚴靈峯 편, 《易經集成》, 臺北: 成文, 1975. 제1책에 195책 전질의 목차, 저자 약전, 선록 판본의 서지 정보를 싣는다.
 
-(iv) Hellmut Wilhelm, The Book of Changes in the Western Tradition. 위 10항 참조. 서양 번역과 연구의 선별 서지.
+(iv) Hellmut Wilhelm, The Book of Changes in the Western Tradition. 위 10절 참조. 서양 번역과 연구의 선별 서지.
 
 ## 13. 색인
 
-- (a) 위 12(d) 참조.
+(a) 위 12(d) 참조.
 
-- (b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Zhou yi* 《周易逐字索引》, ICS series, Hong Kong: Commercial Press, 1994 간행 예정.
+(b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Zhou yi* 《周易逐字索引》, ICS series, Hong Kong: Commercial Press, 1994 간행 예정.
 
 —Edward L. Shaughnessy
