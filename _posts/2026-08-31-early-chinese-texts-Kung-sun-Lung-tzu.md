@@ -55,19 +55,19 @@ tags:
 
 《漢書》 卷30 p. 1736(역자 주: 〈藝文志〉)은 名家類에 14편의 《公孫龍子》를 수록한다. 《隋書》 서지에는 이 이름의 문헌이 없지만 道家類에 1권의 《守白論》이 실려 있다. 《隋書》 卷34 p. 1002(역자 주: 〈經籍志〉)을 참조할 수 있다. 成玄英(630–660년경 활동)은 《南華眞經注疏》 《道藏》 卷35 46b에서 이 제목의 책을 公孫龍에게 귀속시키며 당시에도 유통된다고 하였다. 현존본 첫머리도 公孫龍이 ‘守白’, 곧 흼을 지킨다는 주제의 논문을 썼다고 한다. 다만 ‘守白’은 《新論》 병행문에 보이는 ‘堅白’, 곧 단단함과 흼의 잘못일 가능성이 있다.
 
-《舊唐書》 卷47 p. 2031(역자 주: 〈經籍志〉)과 《新唐書》 卷59 p. 1532(역자 주: 〈藝文志〉)은 名家類에 주석 없는 3권의 《公孫龍子》를 기록한다. 《舊唐書》에는 賈大隱(676년경 활동)과 陳嗣古가 각각 주석한 1권본 두 종도 있다. 《通志》에도 언급되지만 《四庫全書》 편찬 때에는 이미 사라졌다. 익명의 〈擬公孫龍子論〉, 《文苑英華》 卷758에서 저자는 672년에 1권 6편의 《公孫龍子》를 보았다고 하며 현존 여섯 편의 제목을 모두 암시한다. 藤原佐世의 목록에는 이 문헌이 없다.
+《舊唐書》 卷47 p. 2031(역자 주: 〈經籍志〉)과 《新唐書》 卷59 p. 1532(역자 주: 〈藝文志〉)은 名家類에 주석 없는 3권의 《公孫龍子》를 기록한다. 《舊唐書》에는 賈大隱(676년경 활동)과 陳嗣古가 각각 주석한 1권본 두 종도 있다. 《通志》에도 언급되지만 《四庫全書》 편찬 때에는 이미 사라졌다. 익명의 〈擬公孫龍子論〉(《文苑英華》 卷758)에서 저자는 672년에 1권 6편의 《公孫龍子》를 보았다고 하며 현존 여섯 편의 제목을 모두 암시한다. Fujiwara Sukeyo 藤原佐世의 목록(역자 주: 《日本國見在書目錄》)에는 이 문헌이 없다.
 
 唐代 이후 모든 기록은 6편을 1권 또는 3권으로 묶은 판본을 가리킨다. 현존하는 가장 이른 인쇄본은 1445년 《道藏》본으로 3권이며 익명 주석이 있지만 서문은 없다. 《四庫全書》 편찬자들이 검토한 본문은 1권이었고 謝絳(字 希深, 995–1039)에게 귀속된 서문이 붙어 있었다. 주석도 그가 쓴 것으로 되어 있다. 이 판본은 錢熙祚(1801–1844) 편 《守山閣叢書》에서 《四部備要》에 영인되었다. 錢熙祚는 張海鵬(1755–1816)의 《墨海金壺》에서 가져왔으며, 1577년 《子彙》본에도 실려 있다.
 
-주석을 서문 저자에게 귀속한 것은 분명히 잘못이다. 주석에는 唐代의 피휘가 반영되어 있고, 楊倞의 《荀子》 주석, 《四部叢刊》본 卷1 21b〔819년 서문〕에도 본문과 함께 반영되어 있다. 또한 ‘守白’을 거듭 언급하므로 당시 책의 제목이 아직 《守白論》이었음을 시사한다. 아마 唐代 서지에 기록된 두 옛 주석 가운데 하나일 것이다. 주석을 두 唐代 주석가의 것으로 나누는 견해는 아래 5절에 든 Kandel p. 290을 참조할 수 있다.
+주석을 서문 저자에게 귀속한 것은 분명히 잘못이다. 주석에는 唐代의 피휘가 반영되어 있고, 楊倞의 《荀子》 주석, 《四部叢刊》본 卷1 21b(819년 서문)에도 본문과 함께 반영되어 있다. 또한 ‘守白’을 거듭 언급하므로 당시 책의 제목이 아직 《守白論》이었음을 시사한다. 아마 唐代 서지에 기록된 두 옛 주석 가운데 하나일 것이다. 주석을 두 唐代 주석가의 것으로 나누는 견해는 아래 5절에 든 Kandel p. 290을 참조할 수 있다.
 
-제2편과 어쩌면 다른 편에도 심각한 본문 착간의 증거가 있다. 제2편의 재배열은 A.C. Graham, Two dialogues in the Kung-sun Lung tzu, “White horse” and “Left and Right”, *Asia Major*, New Series 11:2(1965), pp. 128–152에서 제안되었다. 다섯 편 전체의 재배열은 아래 6절에 든 天野鎭雄의 판본을 참조할 수 있다.
+제2편과 어쩌면 다른 편에도 심각한 본문 착간의 증거가 있다. 제2편의 재배열은 A.C. Graham, Two dialogues in the Kung-sun Lung tzu, “White horse” and “Left and Right”, *Asia Major, New Series* 11:2(1965), pp. 128–152에서 제안되었다. 다섯 편 전체의 재배열은 아래 6절에 든 天野鎭雄의 판본을 참조할 수 있다.
 
 ## 3. 진위
 
 姚際恆(1647년생)은 《古今僞書考》에서 《隋書》 서지에 보이지 않는다는 이유로 《公孫龍子》를 위작으로 의심하였다. 그러나 이를 《隋書》의 《守白論》과 동일시하면서 이 반론은 해소되었다. 현대 중국과 일본 학자들은 현존 6편을 《漢書》에 기록된 14편 《公孫龍子》의 잔존 부분으로 받아들인다.
 
-A.C. Graham은 The composition of the Gongsuen Long Tzyy, Asia Major, New Series 5:2(1957), pp. 147–183에서 문제를 다시 제기하며 제2·3편 〈白馬論〉·〈指物論〉과 나머지 편들의 뚜렷한 차이를 지적하였다.
+A.C. Graham은 The composition of the Gongsuen Long Tzyy, *Asia Major, New Series* 5:2(1957), pp. 147–183에서 문제를 다시 제기하며 제2·3편 〈白馬論〉·〈指物論〉과 나머지 편들의 뚜렷한 차이를 지적하였다.
 
 (a) 제2·3편은 순수한 변증 논리로 도덕적·정치적 관심이 없다. 제4–6편은 논증을 논리적으로 빈틈없이 조직하려는 비슷한 노력을 보이지 않으며, 각 편이 마지막에는 도덕적 또는 정치적 결론으로 끝난다.
 
@@ -125,11 +125,11 @@ A.C. Graham은 The composition of the Gongsuen Long Tzyy, Asia Major, New Series
 
 (c) Mei, Y.P., The Kung-sun Lung-tzu, *HJAS* 16(1953), pp. 404–437.
 
-(d) Kou Pao-koh, Ignace, *Deux sophistes chinoises: Houei Che et K’ong-souen Long*; Paris: Presses Universitaires, 1953.
+(d) Kou Pao-koh, Ignace, *Deux sophistes chinoises: Houei Che et K’ong-souen Long* [두 명의 중국 소피스트: 惠施와 公孫龍]; Paris: Presses Universitaires, 1953.
 
 (e) Chan, Wing-tsit, *A Source-book of Chinese Philosophy*; Princeton: Princeton University Press, 1963. 제2–6편 번역.
 
-(f) Kandel, J.E., *Ein Beitrag zur Interpretationsgeschichte des abstrakten Denkens in China: Die Lehren des Kung-sun Lung und deren Aufnahme in der Tradition*; Höchberg, 1976. 제2–6편은 pp. 61–114 참조.
+(f) Kandel, J.E., *Ein Beitrag zur Interpretationsgeschichte des abstrakten Denkens in China: Die Lehren des Kung-sun Lung und deren Aufnahme in der Tradition* [중국 추상적 사고의 해석사에 대한 연구: 公孫龍의 학설과 그 전통적 수]; Höchberg, 1976. 제2–6편은 pp. 61–114 참조.
 
 제3편의 번역은 핵심 개념 指, 곧 ‘가리킴’과 논증 구조를 어떻게 해석하는가에 따라 크게 달라진다. 이 문제의 전문 연구로는 A.C. Graham, Kung-sun Lung’s Essay on Meanings and Things, *Journal of Oriental Studies* 2:2(1955), pp. 282–301; Janusz Chmielewski, Notes on Early Chinese Logic, *Rocznik Orientalistyczny* 26–32, 특히 26:1(1962), pp. 7–22; Cheng Chung-ying와 Richard H. Swain, Logic and Ontology in the Chih Wu Lun of Kung-sun Lung-tzu, *Philosophy East and West* 20:2(1970), pp. 137–154; A.C. Graham, *Later Mohist Logic, Ethics and Science*; Hong Kong: Chinese University Press; London: School of Oriental and African Studies, 1978, pp. 457–468이 있다.
 
