@@ -45,7 +45,7 @@ tags:
 
 이 책에 대한 가장 이른 언급으로 보이는 《韓非子》 卷19 〈五蠹〉(陳奇猷本 p. 1066)에는 “집집마다 商鞅과 管仲의 법을 간직한 사람이 있다”라고 한다. 그러나 실제 저술을 구체적으로 가리키는지는 확실하지 않다. 賈誼(기원전 201–169)의 《新書》는 현존 《管子》에 보이는 구절을 “管子曰”이라 하여 인용한다. 《新書》 卷4 9a와 卷6 8b를 참조할 수 있다.
 
-‘管子의 저술’이라는 명확하고 구체적인 첫 언급은 《淮南子》 卷21 9a(劉文典本)에 나온다. 그러나 기원전 1세기 이전에 존재하던 管仲 저술집의 실제 내용에 관한 첫 정보는 司馬遷(기원전 145년경–86년경)이 제공한다. 《史記》 卷62 p. 2136(역자 주: 〈管晏列傳〉)에서 그는 《管子》의 여러 편명을 들며, 그 가운데 제1·2편은 현존본과 동일시할 수 있다. 또 자신의 시대에 管仲의 저술이 쉽게 구할 수 있었다고 하였다. 따라서 기원전 2세기에는 이미 管仲에게 귀속된 저술집의 초기 형태가 존재했음을 알 수 있다.
+‘管子의 저술’이라는 명확하고 구체적인 첫 언급은 《淮南子》 卷21 9a(劉文典本)에 나온다. 그러나 기원전 1세기 이전에 존재하던 管仲 저술집의 실제 내용에 관한 첫 정보는 司馬遷(기원전 145년경–86년경)이 제공한다. 《史記》 卷62 p. 2136(역자 주: 〈管子列傳〉)에서 그는 《管子》의 여러 편명을 들며, 그 가운데 제1·2편은 현존본과 동일시할 수 있다. 또 자신의 시대에 管仲의 저술이 쉽게 구할 수 있었다고 하였다. 따라서 기원전 2세기에는 이미 管仲에게 귀속된 저술집의 초기 형태가 존재했음을 알 수 있다.
 
 《管子》의 다양한 내용은 초기 목록 편찬자에게 분류상의 문제를 일으켰다. 《漢書》 卷30 p. 1729(역자 주: 〈藝文志〉)은 86편을 道家類에 넣고, 《隋書》 卷34 p. 1003(역자 주: 〈經籍志〉)은 19권으로 法家類에 넣는다. 이후 중국 목록은 대체로 法家로 분류한다. 藤原佐世의 목록에도 20권으로 法家에 수록되어 있다.
 
@@ -99,9 +99,9 @@ tags:
 
 서양어 번역의 첫 시도는 M.C. de Harlez의 프랑스어 번역으로 보인다. *Journal Asiatique*, Series IX, vol. VII(1896), pp. 26–99. 그러나 본문의 난해함을 극복하지 못해 가치가 크지 않다.
 
-이후 중국철학 관련 서양 저술에 짧은 구절 번역이 나타났고, 1930년대에야 상당한 분량의 번역이 이루어졌다. Gustav Haloun, Das Ti-tsï-tsï Fragmente II, *Asia Major* 9(1933), pp. 467–502과 Legalist Fragments: Part I Kuan-tsï and Related Texts, *Asia Major* NS II(1951년 4월), pp. 85–120을 참조할 수 있다. Haloun은 Joseph Needham과 다른 부분도 공동 번역했으나 출판되지 않았다. Needham, *Science and Civilisation in China* (Cambridge: Cambridge University Press, 1956), vol. II, p. 630에 언급된다. 제39편은 같은 책 vol. II, pp. 42–45, 제54편은 Burton Watson, *Early Chinese Literature* (New York and London: Columbia University Press, 1962), pp. 181–183을 참조할 수 있다.
+이후 중국철학 관련 서양 저술에 짧은 구절 번역이 나타났고, 1930년대에야 상당한 분량의 번역이 이루어졌다. Gustav Haloun, Das Ti-tsï-tsï Fragmente II [〈弟子職〉 단편 II], *Asia Major* 9(1933), pp. 467–502과 Legalist Fragments: Part I Kuan-tsï and Related Texts, *Asia Major* NS II(1951년 4월), pp. 85–120을 참조할 수 있다. Haloun은 Joseph Needham과 다른 부분도 공동 번역했으나 출판되지 않았다. Needham, *Science and Civilisation in China* (Cambridge: Cambridge University Press, 1956), vol. II, p. 630에 언급된다. 제39편은 같은 책 vol. II, pp. 42–45, 제54편은 Burton Watson, *Early Chinese Literature* (New York and London: Columbia University Press, 1962), pp. 181–183을 참조할 수 있다.
 
-1954년 Lewis Maverick은 중국인 대학원생 譚伯夫·文公文과 함께 정치·경제 이론을 다룬 약 30편을 번역하여 *Economic Dialogues in Ancient China: Selections from the Kuan-tzu* (Carbondale, Illinois, 1954)를 출판하였다. 실제 번역보다 의역에 가까운 곳이 많지만 초기 중국 경제이론을 이해하는 데 매우 유용하다. Maverick이 다룬 많은 편의 러시아어 부분 번역은 Viktor M. Shteyn, *Guan-tze: Issledovanie i perevod* (Moscow: Izdatelstvo Vostochnoi Literatury, 1959)에 있다. Rickett의 *Kuan-tzu: a Repository of Early Chinese Thought*는 그의 2권 *Guanzi*로 대체되었으며 제2권은 1994년 출판 예정이었다.
+1954년 Lewis Maverick은 중국인 대학원생 譚伯夫·文公文과 함께 정치·경제 이론을 다룬 약 30편을 번역하여 *Economic Dialogues in Ancient China: Selections from the Kuan-tzu* (Carbondale, Illinois, 1954)를 출판하였다. 실제 번역보다 의역에 가까운 곳이 많지만 초기 중국 경제이론을 이해하는 데 매우 유용하다. Maverick이 다룬 많은 편의 러시아어 부분 번역은 Viktor M. Shteyn, *Guan-tze: Issledovanie i perevod* [《管子》: 연구와 번역] (Moscow: Izdatelstvo Vostochnoi Literatury, 1959)에 있다. Rickett의 *Kuan-tzu: a Repository of Early Chinese Thought*는 그의 2권 *Guanzi*로 대체되었으며 제2권은 1994년 출판 예정이었다.
 
 趙守正은 1989년 北京의 經濟學院出版社에서 뛰어난 현대 중국어 주석 번역 《管子通解》 2권을 출판하였다. 이는 앞서 낸 부분 번역 《管子注譯》 2권(南寧: 廣西人民出版社, 1982·1987)을 대신한다. 그 밖의 현대 중국어 부분 번역은 (a) 中國人民大學管子思想研究組, 《管子經濟篇文注譯》(江西人民出版社, 1980), (b) 巫寶三, 《中國經濟思想史資料選集·先秦部分》(中國社會科學出版社, 1989) 제1권 pp. 98–259이다.
 
@@ -127,6 +127,6 @@ L. 《中國古典新書》, 1970, Kakimura Takashi 柿村峻 편.
 
 (a) Wallace Johnson, *Kuan tzu yin te* 《管子引得: A Concordance to the Kuan-tzu》; 臺北: Chinese Materials and Research Aids Center, 1970. 趙用賢本을 수록한 《國學基本叢書》본의 면수를 따른다.
 
-(b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Guanzi* 《管子逐字索引》; ICS series, Hong Kong: Commercial Press, 1996년 출간 예정.
+(b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Guanzi* 《管子逐字索引》; *ICS* series, Hong Kong: Commercial Press, 1996년 출간 예정.
 
 —* W. Allyn Rickett*
