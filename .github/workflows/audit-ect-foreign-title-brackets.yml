@@ -1,0 +1,28 @@
+name: Audit ECT foreign title brackets
+on:
+  push:
+    paths:
+      - '.github/workflows/audit-ect-foreign-title-brackets.yml'
+  workflow_dispatch:
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Find parenthesized Korean translations after foreign titles
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          files=[]
+          for p in Path('_posts').glob('*early-chinese-texts-*.md'):
+              t=p.read_text(encoding='utf-8')
+              m=re.search(r'title:\s*["\']?《Early Chinese Texts》\s+(\d{3})',t)
+              if m and 1 <= int(m.group(1)) <= 30:
+                  files.append((int(m.group(1)),p))
+          pat=re.compile(r'([^\n]{0,180}[A-Za-zÀ-žА-Яа-яЁё][^\n]{0,120})\s+\(([^()\n]*[가-힣][^()\n]*)\)')
+          for n,p in sorted(files):
+              for i,line in enumerate(p.read_text(encoding='utf-8').splitlines(),1):
+                  for m in pat.finditer(line):
+                      print(f'{n:03} {p}:{i}: {m.group(0)}')
+          PY
