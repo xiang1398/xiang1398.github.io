@@ -63,7 +63,7 @@ tags:
 
 ## 4. 근대 연구와 참고 자료
 
-(a) *Li chi yin te* 《禮記引得》; Harvard-Yenching Index No. 27, 北京, 1937; 臺北, 1966 재판.
+(a) *Li chi yin te* 《禮記引得》, Harvard-Yenching Index No. 27, 北京, 1937, 臺北, 1966 재판.
 
 (b) Tsuda Sōkichi 津田左右吉, 〈禮記及び大戴禮記の編纂時代について〉, 《史學雜誌》 42(1931), pp. 131–170.
 
@@ -71,13 +71,13 @@ tags:
 
 (d) Kimura Ei'ichi 木村英一, 〈前漢に於ける禮學の傳授について〉, 《立命館文學》(1960), pp. 610–627.
 
-(e) Fujikawa Masakazu 藤川正數, 《漢代における禮學の研究》; 東京: 風間書房, 1968.
+(e) Fujikawa Masakazu 藤川正數, 《漢代における禮學の研究》, 東京: 風間書房, 1968.
 
 ## 5. 번역
 
-(a) Legge, *Sacred Books of the East*, vols. XXVII–XXVIII; 1926·1967 재판. New York판에는 Ch’u Chai와 Winberg Chai의 해설이 실려 있다.
+(a) Legge, *Sacred Books of the East*, vols. XXVII–XXVIII, 1926·1967 재판. New York판에는 Ch’u Chai와 Winberg Chai의 해설이 실려 있다.
 
-(b) Couvreur, Séraphin, *Li Ki ou Mémoires sur les bienséances; texte Chinois avec une double traduction en Français et en Latin* [《禮記》 혹은 예의범절에 관한 기록: 프랑스어와 라틴어 이중 번역을 곁들인 중국어 원문], 2권; 제2판, 河間府: Mission catholique, 1913; 1928 재판.
+(b) Couvreur, Séraphin, *Li Ki ou Mémoires sur les bienséances, texte Chinois avec une double traduction en Français et en Latin* [《禮記》 혹은 예의범절에 관한 기록: 프랑스어와 라틴어 이중 번역을 곁들인 중국어 원문], 2권, 제2판, 河間府: Mission catholique, 1913, 1928 재판.
 
 〈大學〉과 〈中庸〉은 Legge, *The Chinese Classics*, vol. I도 참조할 수 있다.
 
@@ -119,6 +119,6 @@ L. 《中國古典新書》, 1968, Matano Tarō 俣野太郎 편.
 
 (a) 위 4(a) 참조.
 
-(b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Liji* 《禮記逐字索引》; *ICS* series, Hong Kong: Commercial Press, 1992.
+(b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Liji* 《禮記逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1992.
 
 — *Jeffrey K. Riegel*

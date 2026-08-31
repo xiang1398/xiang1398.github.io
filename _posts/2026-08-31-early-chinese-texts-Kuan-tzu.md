@@ -57,7 +57,7 @@ tags:
 
 이와 관련하여 山東 臨沂 銀雀山에서 출토된 죽간 단편에는 〈王兵〉이라는 편명에서 나온 것으로 확인되는 본문이 있다. 《管子》 제6·8·27·28편의 여러 구절과 밀접하게 관련되며, 합치면 완전한 죽간 23매 분량이다. 전사는 《文物》 1976:12, pp. 36–43에 《管子》 병행문과 함께 실렸고, 사진은 같은 호 도판 4와 《文物》 1974:2 도판 3, 제27·28번에 있다.
 
-劉向의 《管子》 편집과 현대까지의 전승은 P. van der Loon, On the transmission of Kuan tzu, *TP* XLI:4–5(1952), pp. 357–393을 참조할 수 있다. 위 번역도 이 논문을 따랐다. W. Allyn Rickett, *Kuan-tzu, a Repository of Early Chinese Thought* (Hong Kong: Hong Kong University Press, 1965), pp. 13–31과 Rickett, *Guanzi: Political, Economic, and Philosophical Essays from Early China; A Study and Translation*, 2권(제1권 Princeton: Princeton University Press, 1985; 제2권 1994년 출간 예정)도 참조할 수 있다.
+劉向의 《管子》 편집과 현대까지의 전승은 P. van der Loon, On the transmission of Kuan tzu, *TP* XLI:4–5(1952), pp. 357–393을 참조할 수 있다. 위 번역도 이 논문을 따랐다. W. Allyn Rickett, *Kuan-tzu, a Repository of Early Chinese Thought* (Hong Kong: Hong Kong University Press, 1965), pp. 13–31과 Rickett, *Guanzi: Political, Economic, and Philosophical Essays from Early China, A Study and Translation*, 2권(제1권 Princeton: Princeton University Press, 1985, 제2권 1994년 출간 예정)도 참조할 수 있다.
 
 ## 4. 《管子》의 기원
 
@@ -125,8 +125,8 @@ L. 《中國古典新書》, 1970, Kakimura Takashi 柿村峻 편.
 
 ## 9. 색인
 
-(a) Wallace Johnson, *Kuan tzu yin te* 《管子引得: A Concordance to the Kuan-tzu》; 臺北: Chinese Materials and Research Aids Center, 1970. 趙用賢本을 수록한 《國學基本叢書》본의 면수를 따른다.
+(a) Wallace Johnson, *Kuan tzu yin te* 《管子引得: A Concordance to the Kuan-tzu》, 臺北: Chinese Materials and Research Aids Center, 1970. 趙用賢本을 수록한 《國學基本叢書》본의 면수를 따른다.
 
-(b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Guanzi* 《管子逐字索引》; *ICS* series, Hong Kong: Commercial Press, 1996년 출간 예정.
+(b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Guanzi* 《管子逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1996년 출간 예정.
 
 — *W. Allyn Rickett*

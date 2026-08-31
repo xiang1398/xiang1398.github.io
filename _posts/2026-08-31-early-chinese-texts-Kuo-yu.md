@@ -85,9 +85,9 @@ tags:
 
 (c) 《國語附札記》. 黃丕烈(1763–1825)의 附札記가 1권본 또는 3권본으로 붙는다. 1800년의 天聖明道本을 바탕으로 하며 《士禮居黃氏叢書》(1800)에 수록되었다. 湖北崇文書局 등에서 다시 간행했고 《四部備要》본의 저본이 되었다.
 
-(d) 朱元善 편, 《國語韋解補正》; 上海: 商務印書館, 1909.
+(d) 朱元善 편, 《國語韋解補正》, 上海: 商務印書館, 1909.
 
-(e) 董曾齡, 《國語正義》; 會稽章氏式訓堂, 1880.
+(e) 董曾齡, 《國語正義》, 會稽章氏式訓堂, 1880.
 
 위 (a)–(e)는 모두 21卷이다.
 
@@ -101,7 +101,7 @@ tags:
 
 (d) 俞樾(1821–1906), 《國語平議》.
 
-(e) 陳瑑(淸代), 《國語翼解》 6권; 《廣雅書局叢書》 수록.
+(e) 陳瑑(淸代), 《國語翼解》 6권, 《廣雅書局叢書》 수록.
 
 (f) 沈鎔·王懋, 《國語詳註》, 1916.
 
@@ -109,13 +109,13 @@ tags:
 
 (h) 楊樹達, 《讀國語小識》.
 
-(i) 張以仁, 《國語斠證》; 臺北: 商務印書館, 1969.
+(i) 張以仁, 《國語斠證》, 臺北: 商務印書館, 1969.
 
 ## 7. 번역
 
-(a) *Guo yu: Propos sur les Principautés I: Zhouyu* [《國語》: 제후국들에 관한 담론 I: 《周語》]; André d’Hormon 번역, Rémi Mathieu 보완; Paris: Collège de France, Institut des Hautes Études Chinoises, 1985.
+(a) *Guo yu: Propos sur les Principautés I: Zhouyu* [《國語》: 제후국들에 관한 담론 I: 《周語》], André d’Hormon 번역, Rémi Mathieu 보완, Paris: Collège de France, Institut des Hautes Études Chinoises, 1985.
 
-(b) *Go Iui (Rechi tsarstv)* [《國語》(제후국들의 담론 )]; V.S. Taskin 번역·서론·주석; Moscow: Nauka, 1987.
+(b) *Go Iui (Rechi tsarstv)* [《國語》(제후국들의 담론 )], V.S. Taskin 번역·서론·주석, Moscow: Nauka, 1987.
 
 ## 8. 일본어 판본
 
@@ -133,12 +133,12 @@ L. 《中國古典新書》, 1969, Ōno Takashi 大野峻 편.
 
 ## 9. 색인
 
-(a) Suzuki Ryūichi 鈴木隆一, 《國語索引》; 東京: 大安, 1943; 1967 재판. 《士禮居》본에 영인된 明道本을 저본으로 한다.
+(a) Suzuki Ryūichi 鈴木隆一, 《國語索引》, 東京: 大安, 1943, 1967 재판. 《士禮居》본에 영인된 明道本을 저본으로 한다.
 
-(b) Bauer, Wolfgang, *Kuo yü yin te*, 2권; 臺北: China Materials and Research Center, 1973. 諸橋轍次 《大漢和辭典》의 문자 번호를 기준으로 만들었고, 黃丕烈의 1800년본을 수록한 《叢書集成》본을 따른다. 제2권에는 해당 본문을 영인하고, 문자의 출현을 (i) 서술·직접 화법·직접 화법 속 인용과 (ii) 여덟 나라별 章群으로 구분한 빈도표를 수록한다.
+(b) Bauer, Wolfgang, *Kuo yü yin te*, 2권, 臺北: China Materials and Research Center, 1973. 諸橋轍次 《大漢和辭典》의 문자 번호를 기준으로 만들었고, 黃丕烈의 1800년본을 수록한 《叢書集成》본을 따른다. 제2권에는 해당 본문을 영인하고, 문자의 출현을 (i) 서술·직접 화법·직접 화법 속 인용과 (ii) 여덟 나라별 章群으로 구분한 빈도표를 수록한다.
 
-(c) 張以仁, 《國語引得》; 臺北: 中央研究院歷史語言研究所, 1976. 讀未見書齋가 天聖明道本을 1800년에 중각한 판본의 영인본〔臺北: 世界書局〕을 저본으로 한다.
+(c) 張以仁, 《國語引得》, 臺北: 中央研究院歷史語言研究所, 1976. 讀未見書齋가 天聖明道本을 1800년에 중각한 판본의 영인본〔臺北: 世界書局〕을 저본으로 한다.
 
-(d) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Guoyu* 《國語逐字索引》; ICS series, Hong Kong: Commercial Press, 1996년 출간 예정.
+(d) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Guoyu* 《國語逐字索引》, ICS series, Hong Kong: Commercial Press, 1996년 출간 예정.
 
 — 張以仁·*William G. Boltz·Michael Loewe*

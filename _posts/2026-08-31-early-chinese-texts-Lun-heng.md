@@ -59,13 +59,13 @@ tags:
 
 위 두 저술에 대해서는 Timoteus Pokora, Two recently commented editions of the Lun-heng, *Archiv orientální* 34(1966), pp. 593–601을 참조할 수 있다.
 
-(c) 北京大學歷史系 《論衡》注釋小組, 《論衡注釋》, 4권; 北京: 中華書局, 1979. 간체자로 된 본문 앞에는 각 편의 논지를 요약한 글을 두었고, 뒤에는 주석을 붙였으며 현대 중국어 번역을 자주 수록한다. 부록에는 《後漢書》 卷49(역자 주: 〈王充王符仲長統列傳〉) pp. 1629–1630의 王充傳, 사라진 본문의 집일, 서문과 발문을 포함한 서지 자료, 중국과 일본의 연구문헌 선목, 본문에 나오는 인명 색인이 실려 있다.
+(c) 北京大學歷史系 《論衡》注釋小組, 《論衡注釋》, 4권, 北京: 中華書局, 1979. 간체자로 된 본문 앞에는 각 편의 논지를 요약한 글을 두었고, 뒤에는 주석을 붙였으며 현대 중국어 번역을 자주 수록한다. 부록에는 《後漢書》 卷49(역자 주: 〈王充王符仲長統列傳〉) pp. 1629–1630의 王充傳, 사라진 본문의 집일, 서문과 발문을 포함한 서지 자료, 중국과 일본의 연구문헌 선목, 본문에 나오는 인명 색인이 실려 있다.
 
 ## 5. 연구
 
-(a) 田昌五, 《王充——古代的戰鬥唯物論者》; 北京: 人民出版社, 1958; 제2판 上海: 人民出版社, 1973. 일부가 Elma E. Kopetsky에 의해 *Chinese Studies in Philosophy* VII:1–2(1975년 가을–1976년 겨울), pp. 1–197에 번역되었다.
+(a) 田昌五, 《王充——古代的戰鬥唯物論者》, 北京: 人民出版社, 1958, 제2판 上海: 人民出版社, 1973. 일부가 Elma E. Kopetsky에 의해 *Chinese Studies in Philosophy* VII:1–2(1975년 가을–1976년 겨울), pp. 1–197에 번역되었다.
 
-(b) 陳拱, 《王充思想評論》; 臺中: 私立東海大學, 1968.
+(b) 陳拱, 《王充思想評論》, 臺中: 私立東海大學, 1968.
 
 (c) Karlgren, Bernhard, Excursions in Chinese grammar, *BMFEA* 23(1952), p. 107 이하. p. 114 이하는 《論衡》의 언어 사용 특징을 다룬다.
 
@@ -73,7 +73,7 @@ tags:
 
 ## 6. 번역
 
-유일한 영어 완역은 Alfred Forke의 *Lun-heng: Part I Philosophical Essays of Wang Ch’ung; Part II Miscellaneous Essays of Wang Ch’ung*, 2권; Shanghai: Kelly and Walsh; London: Luzac; Leipzig: Harrassowitz, 1907·1911이다. New York: Paragon Book Gallery에서 1962년에 재판되었다. 편의 순서는 형이상학·자연학·윤리학 같은 주제 범주에 맞추어 다시 배열하였다. 이 번역은 앞서 *MSOS* IX(1906), pp. 181–400, X(1907), pp. 1–172, XI(1908), pp. 1–188에 발표되었다.
+유일한 영어 완역은 Alfred Forke의 *Lun-heng: Part I Philosophical Essays of Wang Ch’ung, Part II Miscellaneous Essays of Wang Ch’ung*, 2권, Shanghai: Kelly and Walsh, London: Luzac, Leipzig: Harrassowitz, 1907·1911이다. New York: Paragon Book Gallery에서 1962년에 재판되었다. 편의 순서는 형이상학·자연학·윤리학 같은 주제 범주에 맞추어 다시 배열하였다. 이 번역은 앞서 *MSOS* IX(1906), pp. 181–400, X(1907), pp. 1–172, XI(1908), pp. 1–188에 발표되었다.
 
 ## 7. 일본어 판본
 
@@ -87,13 +87,13 @@ L. 《中國古典新書》, 1983, Wakamoto Makoto 若本眞 편.
 
 ## 8. 색인
 
-(a) *Lun heng t’ung chien (Index du Louen Heng)* [《論衡》 색인] 《論衡通檢》; Centre franco-chinois d’études sinologiques no. 1, 北京, 1943; 臺北: 成文出版社, 1968 재판.
+(a) *Lun heng t’ung chien (Index du Louen Heng)* [《論衡》 색인] 《論衡通檢》, Centre franco-chinois d’études sinologiques no. 1, 北京, 1943, 臺北: 成文出版社, 1968 재판.
 
-(b) Yamada Katsumi 山田勝美 외 편, 《論衡事類索引》; 東京: 大東文化研究所, 1960.
+(b) Yamada Katsumi 山田勝美 외 편, 《論衡事類索引》, 東京: 大東文化研究所, 1960.
 
-(c) Yamada Katsumi 山田勝美 외 편, 《論衡固有名詞索引附宮內廳書陵部藏宋本校勘記》; 東京: 大東文化研究所, 1961.
+(c) Yamada Katsumi 山田勝美 외 편, 《論衡固有名詞索引附宮內廳書陵部藏宋本校勘記》, 東京: 大東文化研究所, 1961.
 
-(d) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Lunheng* 《論衡逐字索引》; ICS series, Hong Kong: Commercial Press, 1995년 출간 예정.
+(d) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Lunheng* 《論衡逐字索引》, ICS series, Hong Kong: Commercial Press, 1995년 출간 예정.
 
 — *Timoteus Pokora*
 

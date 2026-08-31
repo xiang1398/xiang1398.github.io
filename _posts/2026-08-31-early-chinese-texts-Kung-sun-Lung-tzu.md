@@ -81,39 +81,39 @@ A.C. Graham은 The composition of the Gongsuen Long Tzyy, *Asia Major, New Serie
 
 그러나 이 논증은 중국과 일본 학계에서 큰 주목을 받지 못했고, 대체로 책 전체의 통일성을 당연하게 전제한다. 서양에서는 J.E. Kandel이 제4–6편이 기원후 300년 이후에 작성되었다는 논증을 받아들이면서도 그 안에 漢 이전 名家의 진정한 사상이 보존되었다고 본다. 아래 Kandel p. 205을 참조할 수 있다.
 
-책의 역사와 公孫龍의 생애 자료는 胡道靜, 《公孫龍子考》(上海: 商務印書館, 1934)에 편리하게 모여 있다. The composition of the Gongsuen Long tzyy의 개정판과 진작으로 판정된 논문·대화의 번역 및 주석은 A.C. Graham, *Studies in Chinese Philosophy and Philosophical Literature* (Institute of East Asian Philosophies, National University of Singapore, 1986; New York: State University of New York Press, 1990 재판), pp. 125–215에 실려 있다.
+책의 역사와 公孫龍의 생애 자료는 胡道靜, 《公孫龍子考》(上海: 商務印書館, 1934)에 편리하게 모여 있다. The composition of the Gongsuen Long tzyy의 개정판과 진작으로 판정된 논문·대화의 번역 및 주석은 A.C. Graham, *Studies in Chinese Philosophy and Philosophical Literature* (Institute of East Asian Philosophies, National University of Singapore, 1986, New York: State University of New York Press, 1990 재판), pp. 125–215에 실려 있다.
 
 ## 4. 현대 판본과 현대 중국어 역주
 
-(a) 王琯, 《公孫龍子懸解》; 초판 北平: 中華書局, 1927; 臺北: 中華書局, 1971 영인.
+(a) 王琯, 《公孫龍子懸解》, 초판 北平: 中華書局, 1927, 臺北: 中華書局, 1971 영인.
 
-(b) 金受申, 《公孫龍子釋》; 上海: 商務印書館, 1930.
+(b) 金受申, 《公孫龍子釋》, 上海: 商務印書館, 1930.
 
-(c) 陳柱, 《公孫龍子集解》; 上海: 商務印書館, 1937.
+(c) 陳柱, 《公孫龍子集解》, 上海: 商務印書館, 1937.
 
-(d) 譚戒甫, 《公孫龍子形名發微》; 北京: 科學出版社, 1957.
+(d) 譚戒甫, 《公孫龍子形名發微》, 北京: 科學出版社, 1957.
 
-(e) 王啟湘, 《公孫龍子校詮》; 臺北, 1958.
+(e) 王啟湘, 《公孫龍子校詮》, 臺北, 1958.
 
-(f) 汪奠基, 《中國邏輯思想史料分析》; 北京: 中華書局, 1961, 제1권 pp. 196–253.
+(f) 汪奠基, 《中國邏輯思想史料分析》, 北京: 中華書局, 1961, 제1권 pp. 196–253.
 
-(g) 徐復觀, 《公孫龍子講疏》; 臺中: 私立東海大學, 1966.
+(g) 徐復觀, 《公孫龍子講疏》, 臺中: 私立東海大學, 1966.
 
-(h) 何啟民, 《公孫龍與公孫龍子》; 臺北: 中國學術著作獎助委員會, 1967.
+(h) 何啟民, 《公孫龍與公孫龍子》, 臺北: 中國學術著作獎助委員會, 1967.
 
-(i) 陳癸淼, 《公孫龍子疏釋》; 臺北: 蘭臺書局, 1970.
+(i) 陳癸淼, 《公孫龍子疏釋》, 臺北: 蘭臺書局, 1970.
 
-(j) 龐朴, 《公孫龍子譯注》; 上海: 人民出版社, 1974.
+(j) 龐朴, 《公孫龍子譯注》, 上海: 人民出版社, 1974.
 
-(k) 龐朴, 《公孫龍子研究》; 北京: 中華書局, 1979.
+(k) 龐朴, 《公孫龍子研究》, 北京: 中華書局, 1979.
 
-(l) 屈志清, 《公孫龍子新注》; 湖北: 人民出版社, 1981.
+(l) 屈志清, 《公孫龍子新注》, 湖北: 人民出版社, 1981.
 
-(m) 欒星, 《公孫龍子長箋》; 河南: 中州書畫社, 1982.
+(m) 欒星, 《公孫龍子長箋》, 河南: 中州書畫社, 1982.
 
-(n) 蕭登福, 《公孫龍子與名家》; 臺北: 文津出版社, 1984.
+(n) 蕭登福, 《公孫龍子與名家》, 臺北: 文津出版社, 1984.
 
-(o) 楊俊光, 《公孫龍子蠡測》; 濟南: 齊魯書社, 1986.
+(o) 楊俊光, 《公孫龍子蠡測》, 濟南: 齊魯書社, 1986.
 
 俞樾(1821–1907)의 주석은 《諸子平議》에 실려 있다.
 
@@ -121,17 +121,17 @@ A.C. Graham은 The composition of the Gongsuen Long Tzyy, *Asia Major, New Serie
 
 (a) Forke, A., The Chinese sophists, *Journal of the China Branch of the Royal Asiatic Society* XXXIV(1901–1902), pp. 1–100, Appendix 3.
 
-(b) Perleberg, Max, *The Works of Kung-sun Lung tzu*; Hong Kong, 1952.
+(b) Perleberg, Max, *The Works of Kung-sun Lung tzu*, Hong Kong, 1952.
 
 (c) Mei, Y.P., The Kung-sun Lung-tzu, *HJAS* 16(1953), pp. 404–437.
 
-(d) Kou Pao-koh, Ignace, *Deux sophistes chinoises: Houei Che et K’ong-souen Long* [두 명의 중국 소피스트: 惠施와 公孫龍]; Paris: Presses Universitaires, 1953.
+(d) Kou Pao-koh, Ignace, *Deux sophistes chinoises: Houei Che et K’ong-souen Long* [두 명의 중국 소피스트: 惠施와 公孫龍], Paris: Presses Universitaires, 1953.
 
-(e) Chan, Wing-tsit, *A Source-book of Chinese Philosophy*; Princeton: Princeton University Press, 1963. 제2–6편 번역.
+(e) Chan, Wing-tsit, *A Source-book of Chinese Philosophy*, Princeton: Princeton University Press, 1963. 제2–6편 번역.
 
-(f) Kandel, J.E., *Ein Beitrag zur Interpretationsgeschichte des abstrakten Denkens in China: Die Lehren des Kung-sun Lung und deren Aufnahme in der Tradition* [중국 추상적 사고의 해석사에 대한 연구: 公孫龍의 학설과 그 전통적 수]; Höchberg, 1976. 제2–6편은 pp. 61–114 참조.
+(f) Kandel, J.E., *Ein Beitrag zur Interpretationsgeschichte des abstrakten Denkens in China: Die Lehren des Kung-sun Lung und deren Aufnahme in der Tradition* [중국 추상적 사고의 해석사에 대한 연구: 公孫龍의 학설과 그 전통적 수], Höchberg, 1976. 제2–6편은 pp. 61–114 참조.
 
-제3편의 번역은 핵심 개념 指, 곧 ‘가리킴’과 논증 구조를 어떻게 해석하는가에 따라 크게 달라진다. 이 문제의 전문 연구로는 A.C. Graham, Kung-sun Lung’s Essay on Meanings and Things, *Journal of Oriental Studies* 2:2(1955), pp. 282–301; Janusz Chmielewski, Notes on Early Chinese Logic, *Rocznik Orientalistyczny* 26–32, 특히 26:1(1962), pp. 7–22; Cheng Chung-ying와 Richard H. Swain, Logic and Ontology in the Chih Wu Lun of Kung-sun Lung-tzu, *Philosophy East and West* 20:2(1970), pp. 137–154; A.C. Graham, *Later Mohist Logic, Ethics and Science*; Hong Kong: Chinese University Press; London: School of Oriental and African Studies, 1978, pp. 457–468이 있다.
+제3편의 번역은 핵심 개념 指, 곧 ‘가리킴’과 논증 구조를 어떻게 해석하는가에 따라 크게 달라진다. 이 문제의 전문 연구로는 A.C. Graham, Kung-sun Lung’s Essay on Meanings and Things, *Journal of Oriental Studies* 2:2(1955), pp. 282–301, Janusz Chmielewski, Notes on Early Chinese Logic, *Rocznik Orientalistyczny* 26–32, 특히 26:1(1962), pp. 7–22, Cheng Chung-ying와 Richard H. Swain, Logic and Ontology in the Chih Wu Lun of Kung-sun Lung-tzu, *Philosophy East and West* 20:2(1970), pp. 137–154, A.C. Graham, *Later Mohist Logic, Ethics and Science*, Hong Kong: Chinese University Press, London: School of Oriental and African Studies, 1978, pp. 457–468이 있다.
 
 ## 6. 일본어 판본
 
@@ -141,6 +141,6 @@ L. 《中國古典新書》, 1967, Amano Shizuo 天野鎭雄 편.
 
 ## 7. 색인
 
-D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Yinwenzi, Kongcongzi, Gongsun Longzi and Dengxizi* 《尹文子·孔叢子·公孫龍子·鄧析子逐字索引》; ICS series, Hong Kong: Commercial Press, 1995년 출간 예정.
+D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Yinwenzi, Kongcongzi, Gongsun Longzi and Dengxizi* 《尹文子·孔叢子·公孫龍子·鄧析子逐字索引》, ICS series, Hong Kong: Commercial Press, 1995년 출간 예정.
 
 — *A.C. Graham*

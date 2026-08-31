@@ -68,7 +68,7 @@ tags:
 
 漢代 문인 사이에서 권위가 매우 높았으므로 기원후 175년에 다른 今文 경전과 함께 석경에 새길 《論語》로 선택되었다.(역자 주: 後漢 靈帝 熹平 4년(175) 蔡邕 등이 경전 문자를 교정하여 太學 앞에 새기기 시작한 熹平石經을 가리킨다. 《後漢書》 卷60 〈蔡邕列傳〉) 崔述(1740–1816) 같은 淸代 학자는 이 본문의 질을 강하게 비판했지만, 하나의 통일본을 만들려 한 첫 시도라는 점에서 중요한 이정표이다.
 
-何晏에 따르면 이 본문은 包咸(기원후 10년경 활동; 《後漢書》 卷79下 p. 2570(역자 주: 〈儒林列傳〉) 참조)과 정체를 알 수 없는 周氏의 주석 기초가 되었다. 陸德明(556–627)은 두 주석이 太學에서 공식 주석으로 학습되었고, 鄭玄이 《魯論》에 대한 張·包·周의 주를 교감하면서 《齊論》과 《古論》을 대조하고 자신의 주를 붙였다고 한다. 周氏 주석은 《張侯論》에서 鄭玄本으로 넘어가는 중간 단계였을 수 있다.
+何晏에 따르면 이 본문은 包咸(기원후 10년경 활동, 《後漢書》 卷79下 p. 2570(역자 주: 〈儒林列傳〉) 참조)과 정체를 알 수 없는 周氏의 주석 기초가 되었다. 陸德明(556–627)은 두 주석이 太學에서 공식 주석으로 학습되었고, 鄭玄이 《魯論》에 대한 張·包·周의 주를 교감하면서 《齊論》과 《古論》을 대조하고 자신의 주를 붙였다고 한다. 周氏 주석은 《張侯論》에서 鄭玄本으로 넘어가는 중간 단계였을 수 있다.
 
 《隋書》 卷32 pp. 935–936(역자 주: 〈經籍志〉)과 《舊唐書》 卷46 p. 1981(역자 주: 〈經籍志〉)에는 鄭玄注 《論語》가 각각 세 종과 두 종 기록되어 있다. 宋翔鳳(1776–1860), 袁鈞(1796–1820년경 활동) 등 淸代 학자가 단편을 모았으나 완전한 본문은 오래전에 사라졌다. 최근 敦煌에서 발견된 唐代 필사본 단편은 鄭玄注가 張禹 및 어쩌면 周氏가 정리한 《魯論》을 바탕으로 《齊論》과 《古論》에 따라 고친 것임을 보여 준다. 石塚晴通과 王素가 이를 연구하였다.
 
@@ -188,29 +188,29 @@ tags:
 
 1. Ishizuka Harumichi 石塚晴通, The texts of Lun yü, with commentaries by Cheng Hsüan, discovered in Tun-huang and Turfan, *Journal Asiatique* 269(1981), pp. 101–108.
 
-2. Morohashi Tetsuji 諸橋轍次, 《論語の講義》; 東京, 1939.
+2. Morohashi Tetsuji 諸橋轍次, 《論語の講義》, 東京, 1939.
 
-3. Nagasawa Kikuya 長澤規矩也, 《足利學校遺蹟圖書館古書分類目錄》; 足利市役所, 1966; 東京, 1975 개정판.
+3. Nagasawa Kikuya 長澤規矩也, 《足利學校遺蹟圖書館古書分類目錄》, 足利市役所, 1966, 東京, 1975 개정판.
 
-4. Shimada Kan 島田翰, 《古文舊書考》; 東京: 民友社, 1905.
+4. Shimada Kan 島田翰, 《古文舊書考》, 東京: 民友社, 1905.
 
-5. Takeuchi Yoshio 武內義雄, 《論語の研究》; 東京: 岩波書店, 1939.
+5. Takeuchi Yoshio 武內義雄, 《論語の研究》, 東京: 岩波書店, 1939.
 
 ## 8. 번역
 
 (a) Legge, *The Chinese Classics*, vol. I. *The Four Books*에도 여러 차례 간행·재판되었다.
 
-(b) Soothill, William, *The Analects of Confucius*; London: Oxford University Press, 1937(초판 Yokohama, 1910).
+(b) Soothill, William, *The Analects of Confucius*, London: Oxford University Press, 1937(초판 Yokohama, 1910).
 
-(c) Waley, Arthur, *The Analects of Confucius*; London: George Allen and Unwin, 1938.
+(c) Waley, Arthur, *The Analects of Confucius*, London: George Allen and Unwin, 1938.
 
-(d) Lau, D.C., *Confucius: The Analects (Lun yü)*; Harmondsworth: Penguin Books, 1979; 중국어 본문과 함께 Hong Kong: Chinese University Press, 1979 재판.
+(d) Lau, D.C., *Confucius: The Analects (Lun yü)*, Harmondsworth: Penguin Books, 1979, 중국어 본문과 함께 Hong Kong: Chinese University Press, 1979 재판.
 
 (e) Couvreur, Séraphin, *Entretiens de Confucius* [孔子의 대화들], *Les Quatre Livres* [四書] 수록, 중국어 본문 및 라틴어·프랑스어 번역, 제3판, 獻縣: Mission Catholique, 1930.
 
-(f) Cheng, Anne, *Entretiens de Confucius* [孔子의 대화들]; Paris: Éditions du Seuil, 1981.
+(f) Cheng, Anne, *Entretiens de Confucius* [孔子의 대화들], Paris: Éditions du Seuil, 1981.
 
-(g) Ryckmans, Pierre, *Les Entretiens de Confucius* [孔子의 대화들]; Paris: Gallimard, 1987.
+(g) Ryckmans, Pierre, *Les Entretiens de Confucius* [孔子의 대화들], Paris: Gallimard, 1987.
 
 ## 9. 일본어 판본
 
@@ -238,14 +238,14 @@ M. 《新訂中國古典選》 제2·3권, 1965–1966, Yoshikawa Kōjirō 吉�
 
 ## 10. 색인
 
-(a) 《論語引得》, *A Concordance to the Analects of Confucius*; Harvard-Yenching Institute Sinological Index Series, supplement no. 16; 北京, 1940; 洪業 총편집.
+(a) 《論語引得》, *A Concordance to the Analects of Confucius*, Harvard-Yenching Institute Sinological Index Series, supplement no. 16, 北京, 1940, 洪業 총편집.
 
-(b) 森本角藏, 《四書索引》; 東京: 目黑書店, 1921.
+(b) 森本角藏, 《四書索引》, 東京: 目黑書店, 1921.
 
-(c) 葉紹鈞, 《十三經索引》; 上海: 開明書店, 1934.
+(c) 葉紹鈞, 《十三經索引》, 上海: 開明書店, 1934.
 
-(d) 後藤俊瑞, 《朱子四書集註索引》; 廣島: 廣島大學文學部中國哲學研究室, 1954.
+(d) 後藤俊瑞, 《朱子四書集註索引》, 廣島: 廣島大學文學部中國哲學研究室, 1954.
 
-(e) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Lunyu* 《論語逐字索引》; *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
+(e) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Lunyu* 《論語逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
 
 —* Anne Cheng*

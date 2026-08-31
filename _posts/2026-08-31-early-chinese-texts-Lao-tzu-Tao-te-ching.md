@@ -352,11 +352,11 @@ Kusuyama Haruki 楠山春樹, 〈鄭成海著『老子河上公注斠理』〉, 
 
 勞健, 《老子古本考》, 1941.
 
-羅振玉, 《道德經考異》·《老子考異補遺》, 《永豐鄉人雜著續編》; 《羅雪堂先生全集初編》 제3권, 臺北: 文華, 1968 재수록, pp. 1025–1075.
+羅振玉, 《道德經考異》·《老子考異補遺》, 《永豐鄉人雜著續編》, 《羅雪堂先生全集初編》 제3권, 臺北: 文華, 1968 재수록, pp. 1025–1075.
 
 路工, 〈虞世南校寫本《老子》及其石刻拓本〉, *世界宗教研究* 1981.4, pp. 45–53.
 
-馬敘倫, 《老子校詁》, 1924; Hong Kong: 太平, 1965·1973 재판.
+馬敘倫, 《老子校詁》, 1924, Hong Kong: 太平, 1965·1973 재판.
 
 Mote, Frederick, The Oldest Book at Princeton, *Gest Library Journal* 1.1(1986), pp. 34–44.
 
@@ -378,7 +378,7 @@ Wagner, Rudolf G., Wang Bi: The Structure of the Laozi’s Pointers, *T’oung P
 
 Wagner, Rudolf G., The Wang Bi Recension of the Lao tzu, *Early China* 14(1989), pp. 27–54.
 
-王重民, 《敦煌古籍敘錄》, 1958; 北京: 中華, 1979 재판.
+王重民, 《敦煌古籍敘錄》, 1958, 北京: 中華, 1979 재판.
 
 Wulff, K., *Acht Kapitel des Tao-te-king* [《道德經》의 여덟 개 章], Victor Dantzer 편, Copenhagen: Eijnar Munksgaard, 1942.
 

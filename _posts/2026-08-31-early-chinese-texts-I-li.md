@@ -193,11 +193,11 @@ tags:
 
 ### (a) 번역
 
-(i) de Harlez, Charles Joseph, *Cérémonial de la Chine antique avec extraits des meilleurs commentaires* [고대 중국의 의례와 최고 주석 발췌본]; Paris: Jean Maisonneuve, Éditeur, 1890.
+(i) de Harlez, Charles Joseph, *Cérémonial de la Chine antique avec extraits des meilleurs commentaires* [고대 중국의 의례와 최고 주석 발췌본], Paris: Jean Maisonneuve, Éditeur, 1890.
 
-(ii) Couvreur, Séraphin, *Cérémonial* [의례]; Hsien hsien: Imprimerie de la Mission Catholique, 1916; 제2판 1928; Paris: Cathasia, 1951 재판.
+(ii) Couvreur, Séraphin, *Cérémonial* [의례], Hsien hsien: Imprimerie de la Mission Catholique, 1916, 제2판 1928, Paris: Cathasia, 1951 재판.
 
-(iii) Steele, John, *The I li, or Book of Etiquette and Ceremonial*; London: Probsthain and Co., 1917, 2권.
+(iii) Steele, John, *The I li, or Book of Etiquette and Ceremonial*, London: Probsthain and Co., 1917, 2권.
 
 ### (b) 연구
 
@@ -205,16 +205,16 @@ tags:
 
 (ii) 洪業, 〈禮記引得序〉. *Li chi yin te* 《禮記引得》(Harvard-Yenching Institute Sinological Index Series No. 27)의 서문. 부제는 〈兩漢禮學源流考〉이며, 원래 《史學年報》 3:3(1936), 1–31에 실렸다. 《禮記》 색인의 서문이지만 漢代 《儀禮》 본문의 문제를 매우 상세하게 다룬다. 이 두 글은 《洪業論學集》, 北京: 中華書局, 1981, pp. 41–50 및 pp. 197–220에 다시 수록되었다.
 
-(iii) 甘肅省博物館·中國科學院考古研究所 편, 《武威漢簡》; 北京: 文物出版社, 1965.
+(iii) 甘肅省博物館·中國科學院考古研究所 편, 《武威漢簡》, 北京: 文物出版社, 1965.
 
 (iv) Matsu’ura Yoshisaburō 松浦嘉三郎, 〈儀禮の成立に就いて〉, 《支那學》 5:4(1929), pp. 77–101.
 
-(v) Kawahara Jūichi 川原壽市, 《儀禮釋攷》; 京都: 朋友書店, 1973, 15권.
+(v) Kawahara Jūichi 川原壽市, 《儀禮釋攷》, 京都: 朋友書店, 1973, 15권.
 
 ## 8. 색인
 
-(a) 《儀禮引得》; Harvard-Yenching Institute Sinological Index Series no. 6; 北京, 1932; 臺北: 成文出版社, 1966 재판.
+(a) 《儀禮引得》, Harvard-Yenching Institute Sinological Index Series no. 6, 北京, 1932, 臺北: 成文出版社, 1966 재판.
 
-(b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Yili* 《儀禮逐字索引》; *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
+(b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Yili* 《儀禮逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
 
 — *William G. Boltz*

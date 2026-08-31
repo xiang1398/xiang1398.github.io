@@ -108,10 +108,10 @@ E. 《漢文叢書》, 1927.
 
 H. 《新釋漢文大系》 제53권, Uno Seiichi 宇野精一 편, 출간 예정.
 
-L. 《中國古典新書》 제27권, 1971, Kiyota Kiyoshi 淸田淸 편. Fujiwara Tadashi 藤原正, 《孔子家語》; 東京: 岩波文庫, 1933.
+L. 《中國古典新書》 제27권, 1971, Kiyota Kiyoshi 淸田淸 편. Fujiwara Tadashi 藤原正, 《孔子家語》, 東京: 岩波文庫, 1933.
 
 ## 6. 색인
 
-D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Kongzi Jiayu* 《孔子家語逐字索引》; ICS series, Hong Kong: Commercial Press, 1992.
+D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Kongzi Jiayu* 《孔子家語逐字索引》, ICS series, Hong Kong: Commercial Press, 1992.
 
 — *R.P. Kramers*
