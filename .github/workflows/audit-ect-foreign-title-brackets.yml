@@ -1,28 +1,62 @@
-name: Audit ECT foreign title brackets
+name: Normalize ECT foreign title brackets
 on:
   push:
     paths:
       - '.github/workflows/audit-ect-foreign-title-brackets.yml'
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
-  audit:
+  normalize:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Find parenthesized Korean translations after foreign titles
+      - name: Normalize confirmed title translations
         run: |
           python - <<'PY'
           from pathlib import Path
-          import re
-          files=[]
-          for p in Path('_posts').glob('*early-chinese-texts-*.md'):
-              t=p.read_text(encoding='utf-8')
-              m=re.search(r'title:\s*["\']?《Early Chinese Texts》\s+(\d{3})',t)
-              if m and 1 <= int(m.group(1)) <= 30:
-                  files.append((int(m.group(1)),p))
-          pat=re.compile(r'([^\n]{0,180}[A-Za-zÀ-žА-Яа-яЁё][^\n]{0,120})\s+\(([^()\n]*[가-힣][^()\n]*)\)')
-          for n,p in sorted(files):
-              for i,line in enumerate(p.read_text(encoding='utf-8').splitlines(),1):
-                  for m in pat.finditer(line):
-                      print(f'{n:03} {p}:{i}: {m.group(0)}')
+          replacements = {
+            '_posts/2026-08-18-early-chinese-texts-preface.md': [
+              ('*Bibliographie des Sung*〔송대 서지〕', '*Bibliographie des Sung* [송대 서지]'),
+            ],
+            '_posts/2026-08-19-early-chinese-texts-Chou-li.md': [
+              ('*Le Tcheou-li ou Rites des Tcheou* [《周禮》 또는 周의 예] (《周禮》 또는 周의 예)', '*Le Tcheou-li ou Rites des Tcheou* [《周禮》 또는 周의 예]'),
+            ],
+            '_posts/2026-08-30-early-chinese-texts-Hsiao-ching.md': [
+              ('*La morale de Confucius, le livre sacré de la piété filiale* (孔子의 도덕: 효의 성전)', '*La morale de Confucius, le livre sacré de la piété filiale* [孔子의 도덕: 효의 성전]'),
+              ('*Hiau Ging: das Buch der Ehrfurcht* (《孝經》: 경외의 책)', '*Hiau Ging: das Buch der Ehrfurcht* [《孝經》: 경외의 책]'),
+              ('*Testi confuciani* (유가 문헌)', '*Testi confuciani* [유가 문헌]'),
+            ],
+            '_posts/2026-08-30-early-chinese-texts-Hsun-tzu.md': [
+              ('*Hsün-tzu ins Deutsche übertragen* (《荀子》 독일어 번역)', '*Hsün-tzu ins Deutsche übertragen* [《荀子》 독일어 번역]'),
+            ],
+            '_posts/2026-08-30-early-chinese-texts-Huai-nan-tzu.md': [
+              ('*Le Traité VIIe du Houai nan tseu. Les esprits légers et subtils animateurs de l’essence* (《淮南子》第七篇: 精을 움직이는 가볍고 미묘한 神)', '*Le Traité VIIe du Houai nan tseu. Les esprits légers et subtils animateurs de l’essence* [《淮南子》第七篇: 精을 움직이는 가볍고 미묘한 神]'),
+              ('*Les grands traités du Huainan zi* (《淮南子》의 주요 논문)', '*Les grands traités du Huainan zi* [《淮南子》의 주요 논문]'),
+            ],
+            '_posts/2026-08-30-early-chinese-texts-Huang-ti-nei-ching.md': [
+              ('*La voie du ciel. Huangdi, l’Empereur Jaune, disait… La médecine chinoise traditionnelle* (천도의 길: 黃帝, 황제는 말했다… 전통 중국 의학)', '*La voie du ciel. Huangdi, l’Empereur Jaune, disait… La médecine chinoise traditionnelle* [천도의 길: 黃帝, 황제는 말했다… 전통 중국 의학]'),
+              ('*Par cinq. Discours méthodique sur les phénomènes et comment ils répondent au yin/yang. Texte, présentation, traduction et commentaire du Suwen chapitre 5* (다섯으로: 현상과 陰陽의 감응에 관한 체계적 논설—《素問》 제5편 본문·해설·번역·주석)', '*Par cinq. Discours méthodique sur les phénomènes et comment ils répondent au yin/yang. Texte, présentation, traduction et commentaire du Suwen chapitre 5* [다섯으로: 현상과 陰陽의 감응에 관한 체계적 논설—《素問》 제5편 본문·해설·번역·주석]'),
+              ('*Toux. Texte, présentation, traduction et commentaire du Suwen, chapitre 38 (Kelun) et autres textes se rapportant au sujet* (기침: 《素問》 제38편 〈咳論〉 및 관련 본문의 해설·번역·주석)', '*Toux. Texte, présentation, traduction et commentaire du Suwen, chapitre 38 (Kelun) et autres textes se rapportant au sujet* [기침: 《素問》 제38편 〈咳論〉 및 관련 본문의 해설·번역·주석]'),
+            ],
+            '_posts/2026-08-30-early-chinese-texts-I-ching-Chou-i.md': [
+              ('*Sprüche der Wandlungen auf ihrem geistesgeschichtlichen Hintergrund* (사상사적 배경에서 본 《易》의 괘효사)', '*Sprüche der Wandlungen auf ihrem geistesgeschichtlichen Hintergrund* [사상사적 배경에서 본 《易》의 괘효사]'),
+            ],
+          }
+          changed=[]
+          for fn,repls in replacements.items():
+              p=Path(fn); t=p.read_text(encoding='utf-8'); old=t
+              for a,b in repls:
+                  if a not in t:
+                      print('NOT FOUND:', fn, a)
+                  t=t.replace(a,b)
+              if t != old:
+                  p.write_text(t,encoding='utf-8'); changed.append(fn)
+          print('changed:', *changed, sep='\n')
           PY
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add _posts
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Normalize foreign-title translation brackets in ECT 001-030'
+          git push
