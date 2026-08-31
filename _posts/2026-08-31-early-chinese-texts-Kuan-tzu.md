@@ -101,7 +101,7 @@ tags:
 
 이후 중국철학 관련 서양 저술에 짧은 구절 번역이 나타났고, 1930년대에야 상당한 분량의 번역이 이루어졌다. Gustav Haloun, Das Ti-tsï-tsï Fragmente II [〈弟子職〉 단편 II], *Asia Major* 9(1933), pp. 467–502과 Legalist Fragments: Part I Kuan-tsï and Related Texts, *Asia Major* NS II(1951년 4월), pp. 85–120을 참조할 수 있다. Haloun은 Joseph Needham과 다른 부분도 공동 번역했으나 출판되지 않았다. Needham, *Science and Civilisation in China* (Cambridge: Cambridge University Press, 1956), vol. II, p. 630에 언급된다. 제39편은 같은 책 vol. II, pp. 42–45, 제54편은 Burton Watson, *Early Chinese Literature* (New York and London: Columbia University Press, 1962), pp. 181–183을 참조할 수 있다.
 
-1954년 Lewis Maverick은 중국인 대학원생 譚伯夫·文公文과 함께 정치·경제 이론을 다룬 약 30편을 번역하여 *Economic Dialogues in Ancient China: Selections from the Kuan-tzu* (Carbondale, Illinois, 1954)를 출판하였다. 실제 번역보다 의역에 가까운 곳이 많지만 초기 중국 경제이론을 이해하는 데 매우 유용하다. Maverick이 다룬 많은 편의 러시아어 부분 번역은 Viktor M. Shteyn, *Guan-tze: Issledovanie i perevod* [《管子》: 연구와 번역] (Moscow: Izdatelstvo Vostochnoi Literatury, 1959)에 있다. Rickett의 *Kuan-tzu: a Repository of Early Chinese Thought*는 그의 2권 *Guanzi*로 대체되었으며 제2권은 1994년 출판 예정이었다.
+1954년 Lewis Maverick은 중국인 대학원생 譚伯夫·文公文과 함께 정치·경제 이론을 다룬 약 30편을 번역하여 *Economic Dialogues in Ancient China: Selections from the Kuan-tzu* (Carbondale, Illinois, 1954)를 출판하였다. 실제 번역보다 의역에 가까운 곳이 많지만 초기 중국 경제이론을 이해하는 데 매우 유용하다. Maverick이 다룬 많은 편의 러시아어 부분 번역은 Viktor M. Shteyn, *Guan-tze: Issledovanie i perevod* [《管子》: 연구와 번역], (Moscow: Izdatelstvo Vostochnoi Literatury, 1959)에 있다. Rickett의 *Kuan-tzu: a Repository of Early Chinese Thought*는 그의 2권 *Guanzi*로 대체되었으며 제2권은 1994년 출판 예정이었다.
 
 趙守正은 1989년 北京의 經濟學院出版社에서 뛰어난 현대 중국어 주석 번역 《管子通解》 2권을 출판하였다. 이는 앞서 낸 부분 번역 《管子注譯》 2권(南寧: 廣西人民出版社, 1982·1987)을 대신한다. 그 밖의 현대 중국어 부분 번역은 (a) 中國人民大學管子思想研究組, 《管子經濟篇文注譯》(江西人民出版社, 1980), (b) 巫寶三, 《中國經濟思想史資料選集·先秦部分》(中國社會科學出版社, 1989) 제1권 pp. 98–259이다.
 
@@ -129,4 +129,4 @@ L. 《中國古典新書》, 1970, Kakimura Takashi 柿村峻 편.
 
 (b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Guanzi* 《管子逐字索引》; *ICS* series, Hong Kong: Commercial Press, 1996년 출간 예정.
 
-—* W. Allyn Rickett*
+— *W. Allyn Rickett*
