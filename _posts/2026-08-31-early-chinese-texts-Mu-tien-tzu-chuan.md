@@ -36,7 +36,7 @@ tags:
 
 ## 2. 성립 연대와 진위
 
-이 문제는 오랫동안 큰 논쟁을 일으켰다. 본문은 魏 襄王 또는 哀襄王(재위 기원전 318–296)의 무덤에서 기원후 281년경 발견되었고(왕명에 대해서는 《竹書紀年》 항목 참조), 분명 기원전 350년경까지 올라간다. 다만 부분별 성립을 구별해야 한다. 《隋書》 卷33 p. 964(역자 주: 〈經籍志〉)과 藤原佐世의 목록은 모두 무덤에서 나온 본문에 郭璞(276–324)의 후대 주석이 붙은 6권본으로 기록하며, 현전본도 6권이다.
+이 문제는 오랫동안 큰 논쟁을 일으켰다. 본문은 魏 襄王 또는 哀襄王(재위 기원전 318–296)의 무덤에서 기원후 281년경 발견되었고(왕명에 대해서는 《竹書紀年》 항목 참조), 분명 기원전 350년경까지 올라간다. 다만 부분별 성립을 구별해야 한다. 《隋書》 卷33 p. 964(역자 주: 〈經籍志〉)과 Fujiwara Sukeyo 藤原佐世의 목록(역자 주: 《日本國見在書目錄》)은 모두 무덤에서 나온 본문에 郭璞(276–324)의 후대 주석이 붙은 6권본으로 기록하며, 현전본도 6권이다.
 
 제1–4권의 진본성은 의심할 수 없지만, 제5권은 기원후 281년경 죽간의 순서를 다시 맞추고 결락을 보충한 晉 조정 학자들이 삽입한 글일 가능성이 매우 크다. 구문 분석과 《晉書》 卷51 p. 1433(역자 주: 〈束晳傳〉)의 기록에 따르면 제6권은 무덤에서 함께 발견된 다른 19권의 문헌, 예컨대 《周穆王美人盛姬死事》의 요소를 모아 편찬했을 가능성이 가장 높다. 따라서 책의 부분마다 서로 다른 주제가 두드러진다. 제1–4권은 穆王의 서방 여행이라는 주제로 놀랄 만큼 통일되어 있지만, 제6권은 盛姬에 대한 왕의 사랑을 다룬 단편적인 서사이므로 같은 맥락에 놓을 수 없다.
 
@@ -74,7 +74,7 @@ tags:
 
 두 번째 영어 번역은 Cheng Te-k’un의 것(*Journal of the North China Branch of the Royal Asiatic Society* LXIV, 1934, pp. 124–142, LXV, pp. 128–149)으로 품질은 더 낫지만 주석은 Eitel보다도 짧다. Léopold de Saussure는 La Relation des voyages du roi Mou (au Xe siècle avant J-C.) [기원전 10세기 穆王 여행기], *Journal asiatique*, 2nd series XVII (1921), p. 247 이하에서 일부를 번역했으나, 사실상 Eitel의 작업을 되풀이한 데 지나지 않는다(Paul Pelliot의 서평, *T’oung Pao* 21, 1922, pp. 98–102 참조).
 
-완전한 주석, 서론, 《四部備要》본 영인을 갖춘 번역으로 Rémi Mathieu, *Le Mu Tianzi zhuan: traduction annotée: étude critique* [《穆天子傳: 주석 번역과 비판적 연구》], Paris: Collège de France, Institut des hautes études chinoises, 1978이 있다. 이 책에는 《四部備要》본에 근거한 색인도 포함된다.
+완전한 주석, 서론, 《四部備要》본 영인을 갖춘 번역으로 Rémi Mathieu, *Le Mu Tianzi zhuan: traduction annotée: étude critique* [《穆天子傳》: 주석 번역과 비판적 연구], Paris: Collège de France, Institut des hautes études chinoises, 1978이 있다. 이 책에는 《四部備要》본에 근거한 색인도 포함된다.
 
 ## 6. 본문을 싣지 않은 연구
 
@@ -84,7 +84,7 @@ tags:
 
 (ii) Hulsewé, A.F.P., Texts in tombs, *Asiatische Studien* 18/19 (1965), pp. 78–89, 특히 p. 86 이하.
 
-(iii) Chavannes, *Mémoires Historiques* 제2책 p. 6 이하와 제5책 p. 480 이하의 관련 언급도 참조.
+(iii) Chavannes, *Mémoires Historiques* [역사적 기록] 제2책 p. 6 이하와 제5책 p. 480 이하의 관련 언급도 참조.
 
 (b) 중국어 연구
 
@@ -112,6 +112,6 @@ tags:
 
 ## 7. 색인
 
-D.C. Lau·Chen Fong Ching 편, *A Concordance to the Yan danzi, Shanhaijing and Mu tianzi zhuan* 《燕丹子·山海經·穆天子傳逐字索引》, ICS series, Hong Kong: Commercial Press, 1994년 출간 예정.
+D.C. Lau·Chen Fong Ching 편, *A Concordance to the Yan danzi, Shanhaijing and Mu tianzi zhuan* 《燕丹子·山海經·穆天子傳逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
 
 — *Rémi Mathieu*
