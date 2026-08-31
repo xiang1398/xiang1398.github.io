@@ -1,0 +1,71 @@
+name: ECT separator sync
+
+on:
+  push:
+    branches:
+      - ect-separator-sync
+
+permissions:
+  contents: write
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out current main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Replace semicolons in ECT 031-040
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          paths = [
+              '_posts/2026-08-31-early-chinese-texts-I-li.md',
+              '_posts/2026-08-31-early-chinese-texts-Kuan-tzu.md',
+              '_posts/2026-08-31-early-chinese-texts-Kung-sun-Lung-tzu.md',
+              '_posts/2026-08-31-early-chinese-texts-Kung-tzu-chia-yu.md',
+              '_posts/2026-08-31-early-chinese-texts-Kuo-yu.md',
+              '_posts/2026-08-31-early-chinese-texts-Lao-tzu-Tao-te-ching.md',
+              '_posts/2026-08-31-early-chinese-texts-Li-chi.md',
+              '_posts/2026-08-31-early-chinese-texts-Lieh-tzu.md',
+              '_posts/2026-08-31-early-chinese-texts-Lun-heng.md',
+              '_posts/2026-08-31-early-chinese-texts-Lun-yu.md',
+          ]
+          before = 0
+          for name in paths:
+              p = Path(name)
+              text = p.read_text(encoding='utf-8')
+              before += text.count(';')
+              p.write_text(text.replace(';', ','), encoding='utf-8')
+          after = sum(Path(name).read_text(encoding='utf-8').count(';') for name in paths)
+          print(f'before={before} after={after}')
+          if before != 105:
+              raise SystemExit(f'Expected 105 semicolons, found {before}; refusing to commit')
+          if after != 0:
+              raise SystemExit(f'{after} semicolons remain')
+          PY
+
+      - name: Commit exactly the ten posts
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            _posts/2026-08-31-early-chinese-texts-I-li.md \
+            _posts/2026-08-31-early-chinese-texts-Kuan-tzu.md \
+            _posts/2026-08-31-early-chinese-texts-Kung-sun-Lung-tzu.md \
+            _posts/2026-08-31-early-chinese-texts-Kung-tzu-chia-yu.md \
+            _posts/2026-08-31-early-chinese-texts-Kuo-yu.md \
+            _posts/2026-08-31-early-chinese-texts-Lao-tzu-Tao-te-ching.md \
+            _posts/2026-08-31-early-chinese-texts-Li-chi.md \
+            _posts/2026-08-31-early-chinese-texts-Lieh-tzu.md \
+            _posts/2026-08-31-early-chinese-texts-Lun-heng.md \
+            _posts/2026-08-31-early-chinese-texts-Lun-yu.md
+          test "$(git diff --cached --name-only | wc -l)" -eq 10
+          git commit -m "Normalize bibliography separators in ECT 031-040"
+          git push origin HEAD:main
