@@ -131,7 +131,7 @@ Fujiwara Sukeyo 藤原佐世(898년 사망)의 목록(역자 주: 《日本國�
 
 - (c) Watson, Burton, Hsün tzu, Basic Writings, New York·London: Columbia University Press, 1963. 제1·2·9·15·17·19–23편 번역.
 
-- (d) Köster, Hermann, *Hsün-tzu ins Deutsche übertragen* (《荀子》 독일어 번역), Kaldenkirchen: Steyler Verlag, 1967. 梁啟雄 1936년본을 바탕으로 32편 완역.
+- (d) Köster, Hermann, *Hsün-tzu ins Deutsche übertragen* [《荀子》 독일어 번역], Kaldenkirchen: Steyler Verlag, 1967. 梁啟雄 1936년본을 바탕으로 32편 완역.
 
 - (e) Malmqvist, Göran, The Cherng shianq Ballad of the Shyun Tzyy, BMFEA 45(1973), pp. 63–89.
 

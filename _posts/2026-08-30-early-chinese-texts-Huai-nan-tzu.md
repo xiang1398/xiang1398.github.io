@@ -93,7 +93,7 @@ tags:
 
 - (d) Wallacker, Benjamin, *The Huai-nan-tzu, Book Eleven: Behavior, Culture and the Cosmos*, New Haven: American Oriental Society, 1962.
 
-- (e) Larre, Claude, *Le Traité VIIe du Houai nan tseu. Les esprits légers et subtils animateurs de l’essence* (《淮南子》第七篇: 精을 움직이는 가볍고 미묘한 神), *Variétés sinologiques* 67, nouvelle série, Taipei·Paris·Hong Kong, 1982.
+- (e) Larre, Claude, *Le Traité VIIe du Houai nan tseu. Les esprits légers et subtils animateurs de l’essence* [《淮南子》第七篇: 精을 움직이는 가볍고 미묘한 神], *Variétés sinologiques* 67, nouvelle série, Taipei·Paris·Hong Kong, 1982.
 
 - (f) Ames, Roger T., *The Art of Rulership: A Study in Ancient Chinese Political Thought*, Honolulu: University of Hawaii Press, 1983.
 
@@ -101,7 +101,7 @@ tags:
 
 - (h) Major, John S., *Heaven and Earth in Early Han Thought: Chapters Three, Four and Five of the Huainanzi*, Albany: State University of New York Press, 1993.
 
-- (i) Larre, Claude, Isabelle Robinet, Elisabeth Rochat de la Vallée, *Les grands traités du Huainan zi* (《淮南子》의 주요 논문), Paris: Éditions du Cerf, 1993. 제1·7·11·13·18편 번역.
+- (i) Larre, Claude, Isabelle Robinet, Elisabeth Rochat de la Vallée, *Les grands traités du Huainan zi* [《淮南子》의 주요 논문], Paris: Éditions du Cerf, 1993. 제1·7·11·13·18편 번역.
 
 ## 5. 일본어 판본
 

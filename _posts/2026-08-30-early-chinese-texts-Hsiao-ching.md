@@ -157,15 +157,15 @@ William Hung는 古文 《孝經》과 孔安國 주석을 논한 끝에 처음�
 
 - (a) Legge, *Sacred Books of the East* III.
 
-- (b) de Rosny, Léon, *Le Hiao-king* (《孝經》), Paris: Maisonneuve et Ch. Leclerc, 1889; *La morale de Confucius, le livre sacré de la piété filiale* (孔子의 도덕: 효의 성전), Paris: J. Maisonneuve, 1893.
+- (b) de Rosny, Léon, *Le Hiao-king* (《孝經》), Paris: Maisonneuve et Ch. Leclerc, 1889; *La morale de Confucius, le livre sacré de la piété filiale* [孔子의 도덕: 효의 성전], Paris: J. Maisonneuve, 1893.
 
 - (c) Chen, Ivan, *The Book of Filial Piety*, London: J. Murray, 1908, 1920; New York: E.P. Dutton & Co., 1908, 1909.
 
-- (d) Wilhelm, Richard, *Hiau Ging: das Buch der Ehrfurcht* (《孝經》: 경외의 책), Peking: Verlag der Pekinger Pappelinsel, 1940.
+- (d) Wilhelm, Richard, *Hiau Ging: das Buch der Ehrfurcht* [《孝經》: 경외의 책], Peking: Verlag der Pekinger Pappelinsel, 1940.
 
 - (e) Makra, Mary Lelia, *The Hsiao ching*, Paul K.T. Sih 편, New York: St. John’s University Press, 1961.
 
-- (f) Tomassini, Fausto, *Testi confuciani* (유가 문헌), Turin: Unione tipografica-editrice torinese, 1974, pp. 69–83.
+- (f) Tomassini, Fausto, *Testi confuciani* [유가 문헌], Turin: Unione tipografica-editrice torinese, 1974, pp. 69–83.
 
 ## 6. 일본어 판본
 

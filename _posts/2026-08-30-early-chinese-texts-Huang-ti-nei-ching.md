@@ -260,7 +260,7 @@ Kosoto Hiroshi 小曾戶洋 총편집, 1981. 《東洋醫學善本叢書》. 전
 
 郭靄春, 1982. 《靈樞經校釋》. 北京: 人民衛生出版社. 간체자본.
 
-Larre, Claude 번역, 1987. *La voie du ciel. Huangdi, l’Empereur Jaune, disait… La médecine chinoise traditionnelle* (천도의 길: 黃帝, 황제는 말했다… 전통 중국 의학). Paris: Desclée de Brouwer. 《黃帝內經》 제1–2편에 특히 주목한 고전 의학론에 대한 일련의 명상.
+Larre, Claude 번역, 1987. *La voie du ciel. Huangdi, l’Empereur Jaune, disait… La médecine chinoise traditionnelle* [천도의 길: 黃帝, 황제는 말했다… 전통 중국 의학]. Paris: Desclée de Brouwer. 《黃帝內經》 제1–2편에 특히 주목한 고전 의학론에 대한 일련의 명상.
 
 Larre, Claude·Elisabeth Rochat de la Vallée 번역, 1983. Plein ciel. Les authentiqués de haute antiquité. Texte, présentation, traduction et commentaire du “Su Wen”, chap. I(가득한 하늘: 지고한 옛 시대의 진인들—《素問》 제1편 본문·해설·번역·주석). Méridiens 61–62:13–67. 제1편 번역.
 
@@ -268,7 +268,7 @@ Larre, Claude·Elisabeth Rochat de la Vallée 번역, 1983–1986. Vif. Texte, p
 
 Larre, Claude·Elisabeth Rochat de la Vallée 번역, 1984. Assaisonner les esprits. Texte, présentation, traduction et commentaire du Su Wen, chap. II. Part 2(정신을 조화시키기—《素問》 제2편 본문·해설·번역·주석, 제2부). Méridiens 67–68:13–54.
 
-Larre, Claude·Elisabeth Rochat de la Vallée 번역, 1985. *Par cinq. Discours méthodique sur les phénomènes et comment ils répondent au yin/yang. Texte, présentation, traduction et commentaire du Suwen chapitre 5* (다섯으로: 현상과 陰陽의 감응에 관한 체계적 논설—《素問》 제5편 본문·해설·번역·주석). Paris: Institut Ricci.
+Larre, Claude·Elisabeth Rochat de la Vallée 번역, 1985. *Par cinq. Discours méthodique sur les phénomènes et comment ils répondent au yin/yang. Texte, présentation, traduction et commentaire du Suwen chapitre 5* [다섯으로: 현상과 陰陽의 감응에 관한 체계적 논설—《素問》 제5편 본문·해설·번역·주석]. Paris: Institut Ricci.
 
 Larre, Claude·Elisabeth Rochat de la Vallée 번역, 1986–1987. Fil. Texte, présentation, traduction et commentaire du “Suwen”, chap. VIII(실—《素問》 제8편 본문·해설·번역·주석). Méridiens 1986, 75–76:13–44; 1987, 77:13–44.
 
@@ -302,7 +302,7 @@ Okuri Ei’ichi 小栗英一·Yabuuchi Kiyoshi 藪內清 번역, 1975. 《黃帝
 
 Porkert, Manfred, 1974. *The Theoretical Foundations of Chinese Medicine: Systems of Correspondence*. Cambridge: MIT Press.
 
-Rochat de la Vallée, Elisabeth 번역, 연도 미상. *Toux. Texte, présentation, traduction et commentaire du Suwen, chapitre 38 (Kelun) et autres textes se rapportant au sujet* (기침: 《素問》 제38편 〈咳論〉 및 관련 본문의 해설·번역·주석). Paris: Institut Ricci.
+Rochat de la Vallée, Elisabeth 번역, 연도 미상. *Toux. Texte, présentation, traduction et commentaire du Suwen, chapitre 38 (Kelun) et autres textes se rapportant au sujet* [기침: 《素問》 제38편 〈咳論〉 및 관련 본문의 해설·번역·주석]. Paris: Institut Ricci.
 
 Sakurai Kensuke 櫻井謙介, 1985. 〈新出土醫藥關係文物について〉. Yamada 山田 편 1985, II, pp. 347–368.
 

@@ -163,7 +163,7 @@ M. 《新訂中國古典選》 1, Honda Wataru 本田濟 편.
 
 (iv) Shchutskii, Iulian K., *Researches on the I Ching*, William L. MacDonald·Tsuyoshi Hasegawa·Hellmut Wilhelm 번역, London·Henley: Routledge and Kegan Paul, 1980.
 
-(v) Schmitt, Gerhard, *Sprüche der Wandlungen auf ihrem geistesgeschichtlichen Hintergrund* (사상사적 배경에서 본 《易》의 괘효사), Berlin: Deutsche Akademie der Wissenschaften zu Berlin, Institut für Orientforschung 76, 1970.
+(v) Schmitt, Gerhard, *Sprüche der Wandlungen auf ihrem geistesgeschichtlichen Hintergrund* [사상사적 배경에서 본 《易》의 괘효사], Berlin: Deutsche Akademie der Wissenschaften zu Berlin, Institut für Orientforschung 76, 1970.
 
 (vi) Ch’en Ch’i-yün, A Confucian Magnate’s Idea of Political Violence: Hsün Shuang’s (A.D. 128–190) Interpretation of the Book of Changes, TP 54(1968), pp. 73–115.
 

@@ -114,7 +114,7 @@ tags:
 
 - (c) 서양어: Charles De Harlez, “*Le Tcheou-li et le Shan-hai-king, leur origine et leur valeur historique* [《周禮》와 《山海經》—그 기원과 역사적 가치],” *T’oung Pao* 5 (1894), pp. 11–42, 107–122; Bruno Schindler, *Das Priestertum im alten China* [고대 중국의 사제직] (Leipzig: Spaniersche Buchdruckerei, 1919), pp. 55–77; Bernhard Karlgren, “The Early History of the Chou li and Tso chuan Texts,” *Bulletin of the Museum of Far Eastern Antiquities* 3 (1931), pp. 1–59; Sven Broman, “Studies on the Chou li,” *Bulletin of the Museum of Far Eastern Antiquities* 33 (1961), pp. 1–89; Stockholm, 1961 재간.
 
-《周禮》의 서양어 완역은 한 종이 있다. Édouard Biot, *Le Tcheou-li ou Rites des Tcheou* [《周禮》 또는 周의 예] (《周禮》 또는 周의 예), 3권 (Paris: Imprimerie Nationale, 1851; Taipei: 成文出版社, 1975 재간).
+《周禮》의 서양어 완역은 한 종이 있다. Édouard Biot, *Le Tcheou-li ou Rites des Tcheou* [《周禮》 또는 周의 예], 3권 (Paris: Imprimerie Nationale, 1851; Taipei: 成文出版社, 1975 재간).
 
 ## 5. 색인
 

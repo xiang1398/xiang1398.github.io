@@ -58,7 +58,7 @@ tags:
 
    (a) Arthur W. Hummel, *Eminent Chinese of the Ch’ing Period*, 2 vols.; Washington, D.C.: Library of Congress, 1943.
 
-   (b) Yves Hervouet (ed.), *A Sung Bibliography* (*Bibliographie des Sung*〔송대 서지〕), initiated by Etienne Balazs; Hong Kong: The Chinese University Press, 1978.
+   (b) Yves Hervouet (ed.), *A Sung Bibliography* (*Bibliographie des Sung* [송대 서지]), initiated by Etienne Balazs; Hong Kong: The Chinese University Press, 1978.
 
    (c) 譚正璧, 《中國文學家大辭典》; 香港 재판: 文史出版社, 1961.
 
