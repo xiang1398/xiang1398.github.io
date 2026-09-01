@@ -142,11 +142,52 @@ jobs:
                   path.write_text(new_text, encoding='utf-8')
           PY
 
+      - name: Normalize remaining ECT 001-065 editorial style
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          title_number = re.compile(r'title:\s*["\']?《Early Chinese Texts》\s+(\d{3}):')
+          list_label = re.compile(r'(?m)^(\s*)\\\(([A-Za-z]|[ivxlcdmIVXLCDM]+)\\\)(\s+)')
+          volume_page_comma = re.compile(r'(《[^》]+》\s*卷\d+(?:上|下)?),\s+(pp?\.)')
+          outer_note = re.compile(
+              r'\((《(?:史記|漢書|後漢書|三國志|晉書|隋書|舊唐書|新唐書|宋史)》[^()\n]*?)'
+              r'\(역자 주:\s*([^)]+)\)\)'
+          )
+
+          for path in Path('_posts').glob('*early-chinese-texts-*.md'):
+              original = path.read_text(encoding='utf-8')
+              match = title_number.search(original)
+              if not match:
+                  continue
+              number = int(match.group(1))
+              if not 1 <= number <= 65:
+                  continue
+
+              text = original
+
+              # Markdown 목록의 불필요한 괄호 이스케이프를 제거한다: \(a\) → (a).
+              text = list_label.sub(r'\1(\2)\3', text)
+
+              # 일본 서목명은 편명이 아니라 책 이름이므로 《》로 통일한다.
+              text = text.replace('(역자 주: 〈日本國見在書目錄〉)', '(역자 주: 《日本國見在書目錄》)')
+
+              # 정사 권차와 페이지 사이에는 쉼표를 두지 않는다: 卷63, p. 2146 → 卷63 p. 2146.
+              text = volume_page_comma.sub(r'\1 \2', text)
+
+              # 인용 전체가 괄호 안에 있을 때 역자 주는 별도 중첩괄호 대신 마침표 뒤에 둔다.
+              text = outer_note.sub(r'(\1. 역자 주: \2)', text)
+
+              if text != original:
+                  path.write_text(text, encoding='utf-8')
+          PY
+
       - name: Commit normalized citations
         run: |
           if git diff --quiet -- _posts; then exit 0; fi
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add _posts/*early-chinese-texts-*.md
-          git commit -m 'Normalize Early Chinese Texts page references'
+          git commit -m 'Normalize Early Chinese Texts editorial style'
           git push
