@@ -8,6 +8,10 @@ permalink: /
 
 고전 문헌, 역사언어학, 음운론, 번역과 독서 노트를 기록합니다.
 
+<form action="{{ '/search/' | relative_url }}" method="get" style="margin: 1.2rem 0 1.5rem;">
+  <input type="search" name="q" placeholder="블로그 검색 — 제목·본문·태그·카테고리" aria-label="블로그 검색" style="width: 100%; box-sizing: border-box; font: inherit; padding: .65rem .8rem; border: 1px solid #c8c8c8; border-radius: 6px;">
+</form>
+
 ### Contact
 
 블로그 내용에 관한 의견·질문·오류 제보는 [zasanblog@gmail.com](mailto:zasanblog@gmail.com)으로 보내실 수 있습니다.
