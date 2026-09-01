@@ -125,63 +125,63 @@ tags:
 
 ## 7. 일본 판본
 
-> A. 《漢文大系》 제6·7권(1911), Shigeno Yasutsugu 重野安繹 편. 권61–130만 수록.
->
-> B. 《史記國字解》 제1–8권(1919–1920). 《漢籍國字解》와 동일한 구성과 처리 방식을 쓴 독립 총서. Katsura Isoo (Koson) 桂湖村, Kikuchi Sankurō (Bankō) 菊池三九郞(晩香), Matsudaira Yasukuni 松平康國, Makino Kenjirō (Sōshu) 牧野謙次郞(藻洲) 편.
->
-> C. 《國譯漢文大成》 제13–16권(1922–1923), Kimida Rentarō 公田連太郞·Yanai Watari 箭內亙 편.
->
-> E. 《漢文叢書》(1927), 6권, Kuwabara Jitsuzō 桑原隲藏 편.
->
-> G. 《中國古典文學全集》 제4–5권(1958–1959), Noguchi Sadao 野口定男 편.
->
-> H. 《新釋漢文大系》 제38–41권·제85–87권(1973–1982), Yoshida Kenkō 吉田賢抗 편. 제88–92권은 Mizusawa Toshitada 水澤利忠 편이며 제88권은 1992년, 제89–91권은 간행 예정이었다.
->
-> K. 《中國古典文學大系》 제10–12권(1968–1971), Noguchi Sadao 野口定男·Kondō Mitsuo 近藤光男·Rai Tsutomu 賴惟勤·Yoshida Mitsukuni 吉田光邦 편.
->
-> M. 《新訂中國古典選》 제10–12권(1966–1967), Tanaka Kenji 田中謙二·Ikkai Tomoyoshi 一海知義 편. 제10권은 春秋·戰國, 제11권은 楚漢, 제12권은 武帝 시대의 본문을 수록한다.
+A. 《漢文大系》 제6·7권(1911), Shigeno Yasutsugu 重野安繹 편. 권61–130만 수록.
+
+B. 《史記國字解》 제1–8권(1919–1920). 《漢籍國字解》와 동일한 구성과 처리 방식을 쓴 독립 총서. Katsura Isoo (Koson) 桂湖村, Kikuchi Sankurō (Bankō) 菊池三九郞(晩香), Matsudaira Yasukuni 松平康國, Makino Kenjirō (Sōshu) 牧野謙次郞(藻洲) 편.
+
+C. 《國譯漢文大成》 제13–16권(1922–1923), Kimida Rentarō 公田連太郞·Yanai Watari 箭內亙 편.
+
+E. 《漢文叢書》(1927), 6권, Kuwabara Jitsuzō 桑原隲藏 편.
+
+G. 《中國古典文學全集》 제4–5권(1958–1959), Noguchi Sadao 野口定男 편.
+
+H. 《新釋漢文大系》 제38–41권·제85–87권(1973–1982), Yoshida Kenkō 吉田賢抗 편. 제88–92권은 Mizusawa Toshitada 水澤利忠 편이며 제88권은 1992년, 제89–91권은 간행 예정이었다.
+
+K. 《中國古典文學大系》 제10–12권(1968–1971), Noguchi Sadao 野口定男·Kondō Mitsuo 近藤光男·Rai Tsutomu 賴惟勤·Yoshida Mitsukuni 吉田光邦 편.
+
+M. 《新訂中國古典選》 제10–12권(1966–1967), Tanaka Kenji 田中謙二·Ikkai Tomoyoshi 一海知義 편. 제10권은 春秋·戰國, 제11권은 楚漢, 제12권은 武帝 시대의 본문을 수록한다.
 
 위 총서 수록본 외에 독립적으로 간행된 판본은 다음과 같다.
 
-> (a) Kotake Fumio 小竹文夫·Kotake Takeo 小竹武夫, 《現代語譯史記》(東京: 弘文堂, 1956–1958).
->
-> (b) Kaizuka Shigeki 貝塚茂樹·Kawakatsu Yoshio 川勝義雄, 《司馬遷史記列傳》, 《世界の名著》 총서(東京: 中央公論社, 1968).
->
-> (c) Katō Shigeru 加藤繁, 《史記平準書·漢書食貨志譯注》(東京: 岩波書店, 1942), 《岩波文庫》 3039–3040.
+(a) Kotake Fumio 小竹文夫·Kotake Takeo 小竹武夫, 《現代語譯史記》(東京: 弘文堂, 1956–1958).
+
+(b) Kaizuka Shigeki 貝塚茂樹·Kawakatsu Yoshio 川勝義雄, 《司馬遷史記列傳》, 《世界の名著》 총서(東京: 中央公論社, 1968).
+
+(c) Katō Shigeru 加藤繁, 《史記平準書·漢書食貨志譯注》(東京: 岩波書店, 1942), 《岩波文庫》 3039–3040.
 
 ## 8. 최근 연구와 연구 도구
 
 다음은 《史記》 연구의 여러 측면에 관해 간행된 방대한 자료 가운데 일부를 선별한 것이다.
 
-> (a) 판본사
->
-> (i) 王重民, 〈史記版本與參考書〉, 《圖書館學季刊》 1:4 (1926), pp. 555–577.
->
-> (ii) 趙證, 〈史記版本考〉, 《史學年報》 1:3 (1931), pp. 107–146.
->
-> (iii) 賀次君, 《史記書錄》(北京: 商務印書館, 1958).
->
-> (b) 《史記》 연구 색인
->
-> (i) 《史記研究的資料和論文索引》(北京: 科學出版社, 1957). 1937년까지 발표된 논문 제목을 수록한다.
->
-> (ii) Sanae Yoshio 早苗良雄, 《漢代研究文獻目錄 邦文篇》(京都: 朋友書店, 1979).
->
-> (c) 기타 연구
->
-> (i) 鄭鶴聲, 《史漢研究》(上海: 商務印書館, 1930). 《史記》의 저자와 삽입 문제를 논하고 《漢書》와 비교한다.
->
-> (ii) 金德建, 《司馬遷所見書考》(上海: 人民出版社, 1963). 司馬遷이 이용한 고대 문헌을 논한다.
->
-> (iii) 文史哲雜誌編輯委員會 편, 《司馬遷與史記》(北京: 中華書局, 1957). 저자와 저작에 관한 유익한 논문들을 수록한다.
->
-> (iv) Burton Watson, *Ssu-ma Ch’ien: Grand Historian of China* (New York and London: Columbia University Press, 1957).
->
-> (v) Y. L. Kroll, *Syma Cyan—istorik* (Moscow: Nauka, 1970).
->
-> (vi) Dzo Ching-chuan, *Sseu-ma Ts’ien et l’historiographie chinoise* (Paris: Presses universitaires de France, 1978).
->
-> (vii) 《二十五史補編》 제1권 pp. 1–134에 수록된 《史記》 개별 편 연구.
+(a) 판본사
+
+(i) 王重民, 〈史記版本與參考書〉, 《圖書館學季刊》 1:4 (1926), pp. 555–577.
+
+(ii) 趙證, 〈史記版本考〉, 《史學年報》 1:3 (1931), pp. 107–146.
+
+(iii) 賀次君, 《史記書錄》(北京: 商務印書館, 1958).
+
+(b) 《史記》 연구 색인
+
+(i) 《史記研究的資料和論文索引》(北京: 科學出版社, 1957). 1937년까지 발표된 논문 제목을 수록한다.
+
+(ii) Sanae Yoshio 早苗良雄, 《漢代研究文獻目錄 邦文篇》(京都: 朋友書店, 1979).
+
+(c) 기타 연구
+
+(i) 鄭鶴聲, 《史漢研究》(上海: 商務印書館, 1930). 《史記》의 저자와 삽입 문제를 논하고 《漢書》와 비교한다.
+
+(ii) 金德建, 《司馬遷所見書考》(上海: 人民出版社, 1963). 司馬遷이 이용한 고대 문헌을 논한다.
+
+(iii) 文史哲雜誌編輯委員會 편, 《司馬遷與史記》(北京: 中華書局, 1957). 저자와 저작에 관한 유익한 논문들을 수록한다.
+
+(iv) Burton Watson, *Ssu-ma Ch’ien: Grand Historian of China* (New York and London: Columbia University Press, 1957).
+
+(v) Y. L. Kroll, *Syma Cyan—istorik* (Moscow: Nauka, 1970).
+
+(vi) Dzo Ching-chuan, *Sseu-ma Ts’ien et l’historiographie chinoise* (Paris: Presses universitaires de France, 1978).
+
+(vii) 《二十五史補編》 제1권 pp. 1–134에 수록된 《史記》 개별 편 연구.
 
 ## 9. 색인
 
