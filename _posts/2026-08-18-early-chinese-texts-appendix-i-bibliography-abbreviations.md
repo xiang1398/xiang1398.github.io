@@ -258,7 +258,7 @@ tags:
 
 - *Nien erh tzu ch’uan shu* 廿二子全書 Wang Jang-t’ang 王纕堂 1833
 
-- *Nihon koku genzai sho mokuroku* 日本國見在書目錄 Fujiwara Sukeyo 藤原佐世 889–98 (황실 소장 사본을 저본으로 영인, Yamada Yoshio 山田孝雄 발문, 1925)
+- *Nihon koku genzai sho mokuroku* 《日本國見在書目錄》 Fujiwara Sukeyo 藤原佐世 889–98 (황실 소장 사본을 저본으로 영인, Yamada Yoshio 山田孝雄 발문, 1925)
 
 - *Pai pu ts’ung shu* 百部叢書
 
