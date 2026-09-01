@@ -6,9 +6,9 @@ permalink: /categories/
 
 {% assign oracle_posts = site.posts | where: "series", "Oracle Bone Script" %}
 {% if oracle_posts.size > 0 %}
-## 문자학
+## Palaeography
 
-### 갑골문
+### Oracle Bone Scripts
 
 {% for post in oracle_posts %}
 {% unless post.hidden %}
