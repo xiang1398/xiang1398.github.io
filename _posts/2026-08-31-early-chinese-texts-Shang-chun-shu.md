@@ -156,7 +156,7 @@ L. 《中國古典新書》, 1970, Shimizu Kiyoshi 淸水潔 편.
 
 商鞅의 정치 원리와 중국 통치술에 대한 공헌은 蘇軾(1036–1101)의 〈論商鞅〉을 비롯한 여러 글에서 논평되었다. 근대에는 楊寬, 《商鞅變法》(上海: 人民, 1955, 1975년 당시 중국 정치 상황을 반영해 수정 재간)이 있다.
 
-최근 연구의 서지·평가·일부 번역은 Li Yu-ning 편, *Shang Yang’s Reforms and State Control in China* (White Plains, New York: M.E. Sharpe, 1977)를 보라. Vitaly A. Rubin, *Individual and State in Ancient China: Essays on Four Chinese Philosophers*, Steven I. Levine 역(New York: Columbia University Press, 1976), 제3장 The Theory and Practice of a Totalitarian State: Shang Yang and Legalism도 참조하라.
+최근 연구의 서지·평가·일부 번역은 Li Yu-ning 편, *Shang Yang’s Reforms and State Control in China* (White Plains, New York: M.E. Sharpe, 1977)를 보라. Vitaly A. Rubin, *Individual and State in Ancient China: Essays on Four Chinese Philosophers*, Steven I. Levine 역(New York: Columbia University Press, 1976), 제3장 “The Theory and Practice of a Totalitarian State: Shang Yang and Legalism”도 참조하라.
 
 ## 12. 색인
 

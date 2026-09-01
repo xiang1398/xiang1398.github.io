@@ -103,7 +103,7 @@ tags:
 
 (b) David R. Knechtges, *The Han Rhapsody* (Cambridge: Cambridge University Press, 1976). p. 7 이하에서 《太玄》의 구조를 설명하고, p. 90 이하에서 제47首를 번역한다.
 
-(c) Michael Nylan·Nathan Sivin, The First Neo-Confucianism: An Introduction to Yang Hsiung’s “Canon of Supreme Mystery” (T’ai hsüan ching, c. 4 B.C.), Charles Le Blanc·Susan Blader 편, *Chinese Ideas About Nature and Society: Studies in Honour of Derk Bodde* (Hong Kong: Hong Kong University Press, 1987), pp. 41–99. 《太玄》의 철학적 배경, 배열, 해석상의 문제, 수학적 기초를 논하고, 首와 贊 본문의 번역 예도 수록한다.
+(c) Michael Nylan·Nathan Sivin, “The First Neo-Confucianism: An Introduction to Yang Hsiung’s ‘Canon of Supreme Mystery’ (T’ai hsüan ching, c. 4 B.C.),” Charles Le Blanc·Susan Blader 편, *Chinese Ideas About Nature and Society: Studies in Honour of Derk Bodde* (Hong Kong: Hong Kong University Press, 1987), pp. 41–99. 《太玄》의 철학적 배경, 배열, 해석상의 문제, 수학적 기초를 논하고, 首와 贊 본문의 번역 예도 수록한다.
 
 ## 5. 번역
 
