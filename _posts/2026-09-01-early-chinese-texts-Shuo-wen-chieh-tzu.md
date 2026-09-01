@@ -35,7 +35,7 @@ tags:
 
 《說文》은 許慎(약 55–약 149)이 편찬하였다. 간략한 전기는 《後漢書》 卷79下 p. 2588(역자 주: 〈儒林列傳〉)과 Miller 1953, p. 69를 보라. 책은 100년에 완성되었으나 121년에야 비로소 조정에 올려졌다. 이때 許慎의 아들 許沖이 적절한 상주문과 함께 安帝에게 바쳤다. 완성 뒤 20년 넘게 책이 제출되지 못한 이유는 許慎이 이 책을 편찬한 목적, 그리고 1세기 말과 2세기 초 한대 조정의 정치적·학술적 정세와 관련되어 있다.
 
-86년, 불과 10년 전 白虎觀 회의를 후원했던 章帝는 이제 학문 세계에 훨씬 비우호적인 태도를 보였다. 그는 추가적인 학술 토론과 규범 정립을 요구하는 건의를 물리치면서, 학자들은 끝없이 논쟁할 뿐 결론을 내리지 못하며, “堯에게 夔 한 사람만으로 충분했다면” 어째서 고루한 지식인과 서로 다투는 박사들을 떼 지어 둘 필요가 있겠느냐고 냉소적으로 말했다(《後漢書》 卷35 p. 1203(역자 주: 〈曹褒傳〉), Miller 1953, p. 69). 당대 학자들에 대한 이러한 경멸적 태도는 이후 수십 년 동안 황태후와 환관이 차례로 정권을 장악한 시기에도 거의 변하지 않았다(Miller 1953, p. 7 이하).
+86년, 불과 10년 전 白虎觀 회의를 후원했던 章帝는 이제 학문 세계에 훨씬 비우호적인 태도를 보였다. 그는 추가적인 학술 토론과 규범 정립을 요구하는 건의를 물리치면서, 학자들은 끝없이 논쟁할 뿐 결론을 내리지 못하며, “堯에게 夔 한 사람만으로 충분했다면” 어째서 고루한 지식인과 서로 다투는 박사들을 떼 지어 둘 필요가 있겠느냐고 냉소적으로 말했다(《後漢書》 卷35 p. 1203, Miller 1953, p. 69. 역자 주: 〈曹褒傳〉). 당대 학자들에 대한 이러한 경멸적 태도는 이후 수십 년 동안 황태후와 환관이 차례로 정권을 장악한 시기에도 거의 변하지 않았다(Miller 1953, p. 7 이하).
 
 陳忠(120년 무렵 활동)의 건의에 따라 安帝는 학자들을 조정 관직에 전면 복귀시키라고 명하였다. 이 조치로 지식인들이 오랫동안 겪었던 냉대가 끝났고, 학자들은 다시 존중받는 지위를 회복하여 정부의 진정한 환영을 받았다. 《說文》이 완성된 뒤 처음으로 조정에서 호의적으로 받아들여질 조건이 마련되었고, 그리하여 121년 9월 19일 이 책이 황제에게 제출되었다. 이러한 정세와 제출이 지연된 이유의 상세한 논의는 Miller 1953, pp. 3–26을 보라.
 
@@ -187,7 +187,7 @@ A……從X，從Y，Y亦聲
 
 (ii) Shirakawa Shizuka 白川靜, 《說文新義》, 京都: 五典書院, 1969. 일본의 대표적인 중국 언어·문헌 학자가 《說文》의 모든 표제를 하나씩 검토한 방대한 연구이다.
 
-(iii) Paul L-M. Serruys, On the system of the pu shou (部首) in the Shuo wen chieh tzu, *Bulletin of the Institute of History and Philology* 55 (1984), pp. 651–754. 《說文》 540部首 전부의 영어 번역과 각 항목에 대한 치밀하고 상세한 사전학적 주석을 담고 있다.
+(iii) Paul L-M. Serruys, "On the system of the pu shou (部首) in the Shuo wen chieh tzu," *Bulletin of the Institute of History and Philology* 55 (1984), pp. 651–754. 《說文》 540部首 전부의 영어 번역과 각 항목에 대한 치밀하고 상세한 사전학적 주석을 담고 있다.
 
 (b) 앞에서 인용한 연구.
 
@@ -197,7 +197,7 @@ A……從X，從Y，Y亦聲
 
 (iii) W. South Coblin, “The initials of Xu Shen’s language as reflected in the Shuowen duruo glosses,” *Journal of Chinese Linguistics* 6 (1978), pp. 27–75.
 
-(iv) Roy Andrew Miller, *Problems in the Study of Shuo wen chieh tzu*, 미간행 박사학위논문, Columbia University, 1953.
+(iv) Roy Andrew Miller, "Problems in the Study of Shuo wen chieh tzu," 미간행 박사학위논문, Columbia University, 1953.
 
 (v) Roy Andrew Miller, “The Wu-ching i-i of Hsü Shen,” *Monumenta Serica* 33(1977–78), pp. 1–21.
 
@@ -210,4 +210,5 @@ A……從X，從Y，Y亦聲
 ## 8. 색인
 
 D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Shouwen jiezi* 《說文解字逐字索引》. ICS 시리즈, Hong Kong: Commercial Press, 1996년 간행 예정.
+
 *—William G. Boltz*
