@@ -177,7 +177,7 @@ tags:
 >
 > (b) Samuel B. Griffith, *Sun Tzu: The Art of War*, Oxford: Clarendon Press, 1963, 1971 재판.
 >
-> (c) N. I. Konrad, *Sun Wu, Traktat o voennom iskusstve*, Moscow: Izdatelstvo Akademii Nauk, 1950, 저자 선집 *Izbrannye trudy, Sinologija*, Moscow, 1978에 재수록.
+> (c) N. I. Konrad, *Sun Wu, Traktat o voennom iskusstve* [孫武, 군사에 관한 논고)], Moscow: Izdatelstvo Akademii Nauk, 1950, 저자 선집 *Izbrannye trudy, Sinologija*, Moscow, 1978에 재수록.
 >
 > (d) Thomas Cleary, *Sun Tzu, The Art of War*, Boston–Shaftsbury: Shambala, 1988.
 >
@@ -218,4 +218,5 @@ tags:
 > (b) D. C. Lau 劉殿爵·Chen Fong Ching 陳方正 편, *A Concordance to the Militarists (Sunzi, Yuliaozi, Wuzi, Simafa)* 《兵書四種（孫子、尉繚子、吳子、司馬法）逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1992.
 
 *—Krzysztof Gawlikowski*
+
 *—Michael Loewe*
