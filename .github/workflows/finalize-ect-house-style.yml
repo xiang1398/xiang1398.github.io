@@ -1,0 +1,41 @@
+name: Finalize ECT house style
+on:
+  push:
+    paths: ['.github/workflows/finalize-ect-house-style.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          for p in Path('_posts').glob('*early-chinese-texts-*.md'):
+              s=p.read_text(encoding='utf-8')
+              # Space consecutive Latin initials everywhere, including inverted names: Lau, D.C.
+              s=re.sub(r'(?<![A-Za-z])(?:[A-Z]\.){2,}', lambda m:' '.join(re.findall(r'[A-Z]\.',m.group(0))), s)
+              # ICS house style.
+              s=re.sub(r'(?<![A-Za-z*])\*?ICS\*?\s*(?:총서|series)', '*ICS* series', s, flags=re.I)
+              # Hong Kong for ICS/Concordance publisher location.
+              out=[]
+              for line in s.splitlines(True):
+                  if '*ICS* series' in line or 'Concordance' in line:
+                      line=re.sub(r'(?:홍콩|香港)(?=\s*:|\s+商務印書館)', 'Hong Kong', line)
+                  # Bibliographic volume.issue immediately before year -> volume:issue.
+                  if re.search(r'(?:pp?\.|《|Journal|Bulletin|Review|Studies|Transactions|Monumenta|Sinica|T’oung|Early China)',line,re.I):
+                      line=re.sub(r'(?<!\d)(\d{1,3})\.(\d{1,2})(?=\s*\(\d{4})',r'\1:\2',line)
+                  # Era + Arabic regnal year spacing; avoid Gregorian years by requiring Hanzi era token directly before number.
+                  line=re.sub(r'([一-龥]{2,8})\s*(\d{1,2})\s*年',r'\1 \2年',line)
+                  out.append(line)
+              p.write_text(''.join(out),encoding='utf-8')
+          PY
+      - run: |
+          if git diff --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add _posts/*early-chinese-texts-*.md
+          git commit -m 'Finalize ECT 001-065 house style'
+          git push
