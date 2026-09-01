@@ -144,7 +144,7 @@ Wagner의 조사에 따르면 范應元본은 傅奕본과 약 100곳이 다르�
 
 P.2255, P.2329, P.2347, P.2350, P.2370, P.2375, P.2417, P.2420, P.2421, P.2435, P.2517, P.2577, P.2584, P.2594, P.2599, P.2639, P.2735, P.2823, P.2864, P.3235, P.3237, P.3277, P.3592, P.3725, P.3864.
 
-각 사본의 설명은 *Catalogue des manuscrits chinois de Touen-houang (Fonds Pelliot chinois)* 제1권(2001–2500번, 1970), 제3권(3001–3500번, 1983), 제4권(3501–4000번, 1991)에 있다. 제2권(2501–3000번)은 1992년 초 현재 아직 나오지 않았다.
+각 사본의 설명은 *Catalogue des manuscrits chinois de Touen-houang (Fonds Pelliot chinois)* ["敦煌 중국 사본 목록 (Pelliot 중국 컬렉션)] 제1권(2001–2500번, 1970), 제3권(3001–3500번, 1983), 제4권(3501–4000번, 1991)에 있다. 제2권(2501–3000번)은 1992년 초 현재 아직 나오지 않았다.
 
 15점은 영국도서관 Oriental and India Office Collections의 Stein 사본이다. 영국도서관과 四川人民出版社가 고품질 사진 영인을 공동으로 출판하고 있다.
 
@@ -214,7 +214,7 @@ Stein과 Pelliot가 자료를 국외로 가져간 뒤 淸 學部 관리가 회�
 
 (a) Mugitani Kunio 麥谷邦夫, 《老子想爾注索引》, 京都: 朋友書店, 1985.
 
-(b) C. C. Müller·R. G. Wagner 편, *Konkordanz zum Lao-tzu*, Publikationen der Fachschaft Sinologie München 19, München, 1968.
+(b) C. C. Müller·R. G. Wagner 편, *Konkordanz zum Lao-tzu* [老子 자구 색], Publikationen der Fachschaft Sinologie München 19, München, 1968.
 
 (c) 京都大學人文科學研究所 古典の校注と索引編纂班, 《老子索引》, 서문 1950년 10월 25일. Harvard-Yenching 색인 형식의 자구 색인으로, Wade–Giles·注音符號에 따른 발음순 색인과 총획수 색인을 갖추었다.
 
@@ -222,7 +222,7 @@ Stein과 Pelliot가 자료를 국외로 가져간 뒤 淸 學部 관리가 회�
 
 (e) 王重民, 《老子考》 2권, 北京: 中華圖書館協會, 1927. 《老子》 연구 목록 가운데 가장 풍부하며 朱彝尊의 《經義考》를 본떴다. 제1권은 초기 기록부터 宋代까지, 제2권은 元代부터 20세기까지 다룬다.
 
-(f) Yamamuro Saburō 山室三良·疋田啟佑, 《老子目錄》, 九州大學文學部中國哲學研究室內 中國の思想と文化の會 2, 연대 미상.
+(f) 山室三良·Hikita Keiyu 疋田啟佑, 《老子目錄》, 九州大學文學部中國哲學研究室內 中國の思想と文化の會 2, 연대 미상.
 
 (g) 嚴靈峯, 《中外老子著述目錄》, 臺北: 中華叢書, 1957. (i) 교감과 주석, (ii) 논문과 연구, (iii) 외국 학자의 연구로 나눈 유용한 서지이다.
 
