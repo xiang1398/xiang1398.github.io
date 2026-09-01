@@ -40,44 +40,21 @@ jobs:
               p = Path(filename)
               text = p.read_text(encoding='utf-8')
 
-              text = re.sub(
-                  r'(\(역자 주: ([^)]+)\))(?:\1)+',
-                  r'\1',
-                  text,
-              )
-
+              text = re.sub(r'(\(역자 주: ([^)]+)\))(?:\1)+', r'\1', text)
               text = re.sub(
                   r'\((《(?:史記|漢書|後漢書|三國志|晉書|隋書|舊唐書|新唐書|宋史)》[^()\n]*?)\(역자 주: ([^)]+)\)\)',
-                  r'(\1. 역자 주: \2)',
-                  text,
-              )
-
+                  r'(\1. 역자 주: \2)', text)
               text = re.sub(
                   r'\(역자 주: [《〈]日本國見在書目錄[》〉]\)(?:\(역자 주: [《〈]日本國見在書目錄[》〉]\))+',
-                  '(역자 주: 《日本國見在書目錄》)',
-                  text,
-              )
+                  '(역자 주: 《日本國見在書目錄》)', text)
               text = text.replace('(역자 주: 〈日本國見在書目錄〉)', '(역자 주: 《日本國見在書目錄》)')
 
               if filename.endswith('Feng-su-tung-i.md'):
-                  text = text.replace(
-                      '《三國志》 卷1(〈魏書〉 권1) 11쪽 주1',
-                      '《三國志》 卷1, 11쪽 주1(역자 주: 〈魏書·武帝紀〉)'
-                  )
-
+                  text = text.replace('《三國志》 卷1(〈魏書〉 권1) 11쪽 주1', '《三國志》 卷1, 11쪽 주1(역자 주: 〈魏書·武帝紀〉)')
               if filename.endswith('Han-chi.md'):
-                  text = re.sub(
-                      r'전혀 다르다\s*\(?《後漢書》 卷62, 2062쪽(?:\(역자 주: 〈荀悅傳〉\))*\)?\.',
-                      '전혀 다르다(《後漢書》 卷62, 2062쪽. 역자 주: 〈荀悅傳〉).',
-                      text,
-                  )
-
+                  text = re.sub(r'전혀 다르다\s*\(?《後漢書》 卷62, 2062쪽(?:\(역자 주: 〈荀悅傳〉\))*\)?\.', '전혀 다르다(《後漢書》 卷62, 2062쪽. 역자 주: 〈荀悅傳〉).', text)
               if filename.endswith('Han-shih-wai-chuan.md'):
-                  text = text.replace(
-                      '그의 전기(《史記》 卷121, 3124쪽(역자 주: 〈儒林列傳〉), 《漢書》 卷88, 3613쪽(역자 주: 〈儒林傳〉))',
-                      '그의 전기(《史記》 卷121, 3124쪽, 《漢書》 卷88, 3613쪽. 역자 주: 〈儒林列傳〉, 〈儒林傳〉)'
-                  )
-
+                  text = text.replace('그의 전기(《史記》 卷121, 3124쪽(역자 주: 〈儒林列傳〉), 《漢書》 卷88, 3613쪽(역자 주: 〈儒林傳〉))', '그의 전기(《史記》 卷121, 3124쪽, 《漢書》 卷88, 3613쪽. 역자 주: 〈儒林列傳〉, 〈儒林傳〉)')
               p.write_text(text, encoding='utf-8')
           PY
 
@@ -86,55 +63,29 @@ jobs:
           python - <<'PY'
           from pathlib import Path
           import re
-
           page_marker = re.compile(r'(?<![A-Za-z0-9])([0-9]+(?:[–-][0-9]+)?(?:·[0-9]+(?:[–-][0-9]+)?)*)쪽')
           particle_marker = re.compile(r'\b(pp?\.\s*[0-9][0-9,·–\-: ]*?)(은|는|이|가|을|를|과|와|으로|로)(?![가-힣])')
-
           def final_number(reference):
-              numbers = re.findall(r'\d+', reference)
-              return int(numbers[-1]) if numbers else None
-
-          def has_batchim(number):
-              return str(number)[-1] in '013678'
-
-          def ends_l_batchim(number):
-              return str(number)[-1] in '178'
-
+              numbers = re.findall(r'\d+', reference); return int(numbers[-1]) if numbers else None
+          def has_batchim(number): return str(number)[-1] in '013678'
+          def ends_l_batchim(number): return str(number)[-1] in '178'
           def correct_particle(number, particle):
               batchim = has_batchim(number)
-              if particle in ('은', '는'):
-                  return '은' if batchim else '는'
-              if particle in ('이', '가'):
-                  return '이' if batchim else '가'
-              if particle in ('을', '를'):
-                  return '을' if batchim else '를'
-              if particle in ('과', '와'):
-                  return '과' if batchim else '와'
-              if particle in ('으로', '로'):
-                  return '로' if (not batchim or ends_l_batchim(number)) else '으로'
+              if particle in ('은','는'): return '은' if batchim else '는'
+              if particle in ('이','가'): return '이' if batchim else '가'
+              if particle in ('을','를'): return '을' if batchim else '를'
+              if particle in ('과','와'): return '과' if batchim else '와'
+              if particle in ('으로','로'): return '로' if (not batchim or ends_l_batchim(number)) else '으로'
               return particle
-
           for path in Path('_posts').glob('*early-chinese-texts-*.md'):
-              original_text = path.read_text(encoding='utf-8')
-              text = original_text
-
+              original_text = path.read_text(encoding='utf-8'); text = original_text
               def replace_page_marker(match):
-                  pages = match.group(1)
-                  label = 'pp.' if '–' in pages or '-' in pages or '·' in pages else 'p.'
-                  return f'{label} {pages}'
-
+                  pages=match.group(1); label='pp.' if '–' in pages or '-' in pages or '·' in pages else 'p.'; return f'{label} {pages}'
               text = page_marker.sub(replace_page_marker, text)
-
               def replace_particle_marker(match):
-                  reference, particle = match.group(1), match.group(2)
-                  number = final_number(reference)
-                  if number is None:
-                      return match.group(0)
-                  return reference + correct_particle(number, particle)
-
-              new_text = particle_marker.sub(replace_particle_marker, text)
-              if new_text != original_text:
-                  path.write_text(new_text, encoding='utf-8')
+                  reference, particle=match.group(1),match.group(2); number=final_number(reference); return match.group(0) if number is None else reference+correct_particle(number,particle)
+              new_text=particle_marker.sub(replace_particle_marker,text)
+              if new_text != original_text: path.write_text(new_text,encoding='utf-8')
           PY
 
       - name: Normalize remaining ECT 001-065 editorial style
@@ -142,103 +93,58 @@ jobs:
           python - <<'PY'
           from pathlib import Path
           import re
-
-          title_number = re.compile(r'title:\s*["\']?《Early Chinese Texts》\s+(\d{3}):')
-          list_label = re.compile(r'(?m)^(\s*)\\\(([A-Za-z]|[ivxlcdmIVXLCDM]+)\\\)(\s+)')
-          volume_page_comma = re.compile(r'(《[^》]+》\s*卷\d+(?:上|下)?),\s+(pp?\.)')
-          shorthand_volume_page_comma = re.compile(r'(?<![A-Za-z])(卷\d+(?:上|下)?),\s+(pp?\.)')
-          outer_note = re.compile(
-              r'\((《(?:史記|漢書|後漢書|三國志|晉書|隋書|舊唐書|新唐書|宋史)》[^()\n]*?)'
-              r'\(역자 주:\s*([^)]+)\)\)'
-          )
-          shorthand_outer_note = re.compile(
-              r'\((卷\d+(?:上|下)?\s+pp?\.\s*[0-9][0-9·–\-]*)[,]\s*역자 주:\s*([^)]+)\)'
-          )
-          notice_pattern = re.compile(
-              r'(?m)^\*{0,2}이 번역문은 GPT-5\.6 모델로 기계번역한 뒤 편집·교정한 것입니다\.?\*{0,2}$'
-          )
-          notice_styled = '*이 번역문은 GPT-5.6 모델로 기계번역한 뒤 편집·교정한 것입니다.*'
-
+          title_number=re.compile(r'title:\s*["\']?《Early Chinese Texts》\s+(\d{3}):')
+          list_label=re.compile(r'(?m)^(\s*)\\\(([A-Za-z]|[ivxlcdmIVXLCDM]+)\\\)(\s+)')
+          volume_page_comma=re.compile(r'(《[^》]+》\s*卷\d+(?:上|下)?),\s+(pp?\.)')
+          shorthand_volume_page_comma=re.compile(r'(?<![A-Za-z])(卷\d+(?:上|下)?),\s+(pp?\.)')
+          outer_note=re.compile(r'\((《(?:史記|漢書|後漢書|三國志|晉書|隋書|舊唐書|新唐書|宋史)》[^()\n]*?)\(역자 주:\s*([^)]+)\)\)')
+          shorthand_outer_note=re.compile(r'\((卷\d+(?:上|下)?\s+pp?\.\s*[0-9][0-9·–\-]*)[,]\s*역자 주:\s*([^)]+)\)')
+          notice_pattern=re.compile(r'(?m)^\*{0,2}이 번역문은 GPT-5\.6 모델로 기계번역한 뒤 편집·교정한 것입니다\.?\*{0,2}$')
+          notice_styled='*이 번역문은 GPT-5.6 모델로 기계번역한 뒤 편집·교정한 것입니다.*'
           for path in Path('_posts').glob('*early-chinese-texts-*.md'):
-              original = path.read_text(encoding='utf-8')
-              match = title_number.search(original)
-              if not match:
-                  continue
-              number = int(match.group(1))
-              if not 1 <= number <= 65:
-                  continue
+              original=path.read_text(encoding='utf-8'); match=title_number.search(original)
+              if not match: continue
+              number=int(match.group(1))
+              if not 1 <= number <= 65: continue
+              text=original
+              text=text.replace('**이 번역문은 GPT-5.6 모델로 기계번역한 뒤 편집·교정한 것입니다.*.*',notice_styled)
+              text=notice_pattern.sub(notice_styled,text)
+              text=list_label.sub(r'\1(\2)\3',text)
+              text=text.replace('(역자 주: 〈日本國見在書目錄〉)','(역자 주: 《日本國見在書目錄》)')
+              text=volume_page_comma.sub(r'\1 \2',text); text=shorthand_volume_page_comma.sub(r'\1 \2',text)
+              text=outer_note.sub(r'(\1. 역자 주: \2)',text); text=shorthand_outer_note.sub(r'(\1. 역자 주: \2)',text)
+              text=re.sub(r'(《[^》]+》)\s*권(?=\d)',r'\1 卷',text)
+              if number==2: text=re.sub(r'(?m)^[ \t\u00a0]+(\([abc]\)\s+)',r'\1',text)
+              if number==4: text=text.replace('(역자 주: 〈馬援傳〉. 馬續의 전기가 딸려 있다.).','(역자 주: 〈馬援傳〉. 馬續의 전기가 딸려 있다).')
+              if number==12:
+                  text=text.replace('四部叢刊本 권6 20a','四部叢刊本 卷6 20a'); text=text.replace('(권34 p. 998)','(卷34 p. 998)')
+              if number==16: text=text.replace('(《後漢書》 卷62 p. 2062. 역자 주: 〈荀悅傳〉). 역자 주: 〈荀悅傳〉).','(《後漢書》 卷62 p. 2062. 역자 주: 〈荀悅傳〉).')
+              if number==17: text=text.replace('Vandermeersch, *La Formation du Légisme*. [法家의 형성] 제1부','Vandermeersch, *La Formation du Légisme* [法家의 형성] 제1부')
+              if number==18: text=text.replace('그의 전기(《史記》 卷121 p. 3124(역자 주: 〈儒林列傳〉), 《漢書》 卷88 p. 3613(역자 주: 〈儒林傳〉). 역자 주: 〈儒林列傳〉, 〈儒林傳〉)는','그의 전기(《史記》 卷121 p. 3124, 《漢書》 卷88 p. 3613. 역자 주: 〈儒林列傳〉, 〈儒林傳〉)는')
+              if number==20:
+                  text=text.replace('R. P. Peerenboom, Heguanzi and Huang-Lao Thought, *Early China* 16 (1991), pp. 169–186.','R. P. Peerenboom, “Heguanzi and Huang-Lao Thought,” *Early China* 16 (1991), pp. 169–186.')
+                  text=text.replace('Christopher C. Rand, Chinese Military Thought and Philosophical Taoism, *Monumenta Serica* 34 (1979–1980), pp. 206–210.','Christopher C. Rand, “Chinese Military Thought and Philosophical Taoism,” *Monumenta Serica* 34 (1979–1980), pp. 206–210.')
+                  text=text.replace('그의 논문 A neglected pre-Han philosophical text: Ho-kuan-tzu, *Bulletin of the School of Oriental and African Studies* 52:3 (1989), pp. 497–509도 보라.','그의 논문 “A neglected pre-Han philosophical text: Ho-kuan-tzu,” *Bulletin of the School of Oriental and African Studies* 52:3 (1989), pp. 497–509도 보라.')
+                  text=text.replace('\n—David R. Knechtges\n','\n*—David R. Knechtges*\n')
+              if number==22: text=text.replace('\n— Michael Loewe\n','\n*—Michael Loewe*\n')
+              if number==23: text=text.replace('\n—Timoteus Pokora\n','\n*—Timoteus Pokora*\n')
 
-              text = original
-
-              text = text.replace(
-                  '**이 번역문은 GPT-5.6 모델로 기계번역한 뒤 편집·교정한 것입니다.*.*',
-                  notice_styled,
-              )
-              text = notice_pattern.sub(notice_styled, text)
-
-              text = list_label.sub(r'\1(\2)\3', text)
-              text = text.replace('(역자 주: 〈日本國見在書目錄〉)', '(역자 주: 《日本國見在書目錄》)')
-              text = volume_page_comma.sub(r'\1 \2', text)
-              text = shorthand_volume_page_comma.sub(r'\1 \2', text)
-              text = outer_note.sub(r'(\1. 역자 주: \2)', text)
-              text = shorthand_outer_note.sub(r'(\1. 역자 주: \2)', text)
-              text = re.sub(r'(《[^》]+》)\s*권(?=\d)', r'\1 卷', text)
-
-              if number == 2:
-                  text = re.sub(r'(?m)^[ \t\u00a0]+(\([abc]\)\s+)', r'\1', text)
-
-              if number == 4:
-                  text = text.replace(
-                      '(역자 주: 〈馬援傳〉. 馬續의 전기가 딸려 있다.).',
-                      '(역자 주: 〈馬援傳〉. 馬續의 전기가 딸려 있다).'
+              # House style: Western journal/chapter article titles use curly double quotation marks;
+              # monograph and journal titles remain italic. Confirmed manually for ECT 025-034.
+              if 25 <= number <= 34:
+                  journal_tail = r'(?=,\s*\*(?:[^*]+)\*\s+(?:\d|[IVXLCDM]))'
+                  # Convert a plain Western article title following an author name into quoted form.
+                  # Require a following italic journal title, so books/monographs are not touched.
+                  text = re.sub(
+                      r'(?m)(\b(?:[A-Z][A-Za-zÀ-ÖØ-öø-ÿ.’’\'\-]+(?:\s+[A-Z](?:\.|[A-Za-zÀ-ÖØ-öø-ÿ.’’\'\-]+))*|A\.C\. Graham|J\.E\. Kandel|B\. Karlgren|H\. G\. Creel|D\. C\. Lau|M\. Loewe|Michael Loewe|Joseph Needham|Nathan Sivin|Edward L\. Shaughnessy|David S\. Nivison|Richard Wilhelm|Hellmut Wilhelm|Angus C\. Graham|A\. C\. Graham)),\s+(?![“\*])([^\n,]+)' + journal_tail,
+                      lambda m: m.group(1) + ', “' + m.group(2).strip() + '”',
+                      text
                   )
+                  # Known Graham titles in ECT 033 occur with initials lacking spaces and are normalized explicitly.
+                  text = text.replace('A.C. Graham, Two dialogues in the Kung-sun Lung tzu, “White horse” and “Left and Right”, *Asia Major, New Series*', 'A.C. Graham, “Two dialogues in the Kung-sun Lung tzu, ‘White horse’ and ‘Left and Right’,” *Asia Major, New Series*')
+                  text = text.replace('A.C. Graham은 The composition of the Gongsuen Long Tzyy, *Asia Major, New Series*', 'A.C. Graham은 “The composition of the Gongsuen Long Tzyy,” *Asia Major, New Series*')
 
-              if number == 12:
-                  text = text.replace('四部叢刊本 권6 20a', '四部叢刊本 卷6 20a')
-                  text = text.replace('(권34 p. 998)', '(卷34 p. 998)')
-
-              # 015-024 수동 점검에서 확인된 잔여 역자 주와 서지 서식을 정리한다.
-              if number == 16:
-                  text = text.replace(
-                      '(《後漢書》 卷62 p. 2062. 역자 주: 〈荀悅傳〉). 역자 주: 〈荀悅傳〉).',
-                      '(《後漢書》 卷62 p. 2062. 역자 주: 〈荀悅傳〉).'
-                  )
-
-              if number == 17:
-                  text = text.replace(
-                      'Vandermeersch, *La Formation du Légisme*. [法家의 형성] 제1부',
-                      'Vandermeersch, *La Formation du Légisme* [法家의 형성] 제1부'
-                  )
-
-              if number == 18:
-                  text = text.replace(
-                      '그의 전기(《史記》 卷121 p. 3124(역자 주: 〈儒林列傳〉), 《漢書》 卷88 p. 3613(역자 주: 〈儒林傳〉). 역자 주: 〈儒林列傳〉, 〈儒林傳〉)는',
-                      '그의 전기(《史記》 卷121 p. 3124, 《漢書》 卷88 p. 3613. 역자 주: 〈儒林列傳〉, 〈儒林傳〉)는'
-                  )
-
-              if number == 20:
-                  text = text.replace(
-                      'R. P. Peerenboom, Heguanzi and Huang-Lao Thought, *Early China* 16 (1991), pp. 169–186.',
-                      'R. P. Peerenboom, “Heguanzi and Huang-Lao Thought,” *Early China* 16 (1991), pp. 169–186.'
-                  )
-                  text = text.replace(
-                      'Christopher C. Rand, Chinese Military Thought and Philosophical Taoism, *Monumenta Serica* 34 (1979–1980), pp. 206–210.',
-                      'Christopher C. Rand, “Chinese Military Thought and Philosophical Taoism,” *Monumenta Serica* 34 (1979–1980), pp. 206–210.'
-                  )
-                  text = text.replace(
-                      '그의 논문 A neglected pre-Han philosophical text: Ho-kuan-tzu, *Bulletin of the School of Oriental and African Studies* 52:3 (1989), pp. 497–509도 보라.',
-                      '그의 논문 “A neglected pre-Han philosophical text: Ho-kuan-tzu,” *Bulletin of the School of Oriental and African Studies* 52:3 (1989), pp. 497–509도 보라.'
-                  )
-                  text = text.replace('\n—David R. Knechtges\n', '\n*—David R. Knechtges*\n')
-
-              if number == 22:
-                  text = text.replace('\n— Michael Loewe\n', '\n*—Michael Loewe*\n')
-
-              if number == 23:
-                  text = text.replace('\n—Timoteus Pokora\n', '\n*—Timoteus Pokora*\n')
-
-              if text != original:
-                  path.write_text(text, encoding='utf-8')
+              if text != original: path.write_text(text,encoding='utf-8')
           PY
 
       - name: Commit normalized citations
