@@ -8,6 +8,7 @@ highlighter: rouge
 header_pages:
   - categories.md
   - search.md
+  - tags.md
 
 kramdown:
   input: GFM
