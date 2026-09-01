@@ -57,7 +57,7 @@ Fujiwara Sukeyo 藤原佐世(898년 사망)의 목록(역자 주: 《日本國�
 
 《通典》에는 이 책이 언급되지 않는 듯하다. 宋·元刊本 몇 종과 서목 기록을 제외하면 18세기까지 거의 관심을 받지 못했다. 동시대 학자들의 주를 포함한다는 장점이 있는 표준본은 盧文弨본(1786)과 王先謙본(1891)이다. 梁啟雄의 1936년·1956년 판본은 王先謙이 볼 수 없었던 중국 학술과 일부 일본 주석가의 성과를 반영하였다. 주요 주석본은 다음과 같다.
 
-- (a) 《荀子附校勘補遺一卷》. 謝墉(1719–1795)과 盧文弨(1717–1796)의 공동 이름이 있어 어느 한 사람의 저술로 귀속되기도 하지만, 주석의 주된 작업은 盧文弨가 완성하였다. 謝墉의 1786년 서문은 《荀子》와 《禮記》·《大戴禮記》의 관계, 제국 이전 사상에서 荀卿 사상의 위치를 논한다. 처음 《抱經堂叢書》에 본문 뒤 보유 1권과 함께 간행되었다. 《叢書集成》 영인본은 제2권 말미에서 적어도 반엽이 빠져 있다. 1804년 《十子》—제목은 《荀子箋釋》—, 1877년 《二十二子》 4–5, 《四部備要》, 1923년 표점본 《三十六子全書》 10 등 여러 차례 재간되었다. 1830년 朝川鼎의 漢文 판본도 이를 저본으로 삼았다.
+- (a) 《荀子附校勘補遺一卷》. 謝墉(1719–1795)과 盧文弨(1717–1796)의 공동 이름이 있어 어느 한 사람의 저술로 귀속되기도 하지만, 주석의 주된 작업은 盧文弨가 완성하였다. 謝墉의 1786년 서문은 《荀子》와 《禮記》·《大戴禮記》의 관계, 제국 이전 사상에서 荀卿 사상의 위치를 논한다. 처음 《抱經堂叢書》에 본문 뒤 보유 1권과 함께 간행되었다. 《叢書集成》 영인본은 제2권 말미에서 적어도 반엽이 빠져 있다. 1804년 《十子》(제목은 《荀子箋釋》), 1877년 《二十二子》 4–5, 《四部備要》, 1923년 표점본 《三十六子全書》 10 등 여러 차례 재간되었다. 1830년 朝川鼎의 漢文 판본도 이를 저본으로 삼았다.
 
 이 판본에는 楊倞의 주를 먼저 싣고, 그 뒤에 명확히 구분하여 盧文弨의 주석을 붙였다. 盧文弨는 呂夏卿본의 모사본, 《纂圖互註》본, 顧春의 世德堂本을 참고하였다. 謝墉은 이용 가능한 明刊本으로 (i) 虞九章·王震亨본—王先謙에 따르면 실제로 한 구절의 주에서만 인용된다—, (ii) 《唐宋叢書》 편자 鍾人傑(字 瑞生)본을 들었다. 그의 《荀子》 주석은 《性理大全會通》 卷57, 27b 참조. 또한 이 판본이 이용한 학자로 趙曦明(字 敬夫, 17세기 초), 段玉裁(1735–1815), 吳騫(字 槎客, 1733–1813), 朱奐(字 文游, 약 1760 활동), 汪中(字 容甫, 1745–1794)을 열거한다.
 
@@ -113,11 +113,11 @@ Fujiwara Sukeyo 藤原佐世(898년 사망)의 목록(역자 주: 《日本國�
 
 - (o) Ogyū Sorai 荻生徂徠(1666–1728), 《讀荀子》. 원고 연대 미상. 저자 자필 원고의 영인본이 약 1940년에 간행되었다.
 
-- (p) Duyvendak, J. J. L., Hsün-tzu on the Rectification of Names, TP 23(1924), pp. 221–254.
+- (p) Duyvendak, J. J. L., "Hsün-tzu on the Rectification of Names," *TP* 23(1924), pp. 221–254.
 
-- (q) Duyvendak, J. J. L., The Chronology of Hsün-tzu, TP 26(1929), pp. 73–95.
+- (q) Duyvendak, J. J. L., "The Chronology of Hsün-tzu," *TP* 26(1929), pp. 73–95.
 
-- (r) Malmqvist, N. G. D., A Note on the Cherng shianq Ballad in the Shyun Tzyy, BSOAS 36:2(1973), pp. 352–358.
+- (r) Malmqvist, N. G. D., "A Note on the Cherng shianq Ballad in the Shyun Tzyy", *BSOAS* 36:2(1973), pp. 352–358.
 
 - (s) 饒彬, 《荀子疑義輯釋》, 臺北: 蘭臺, 1977. 난해한 용어와 구절을 선별하여 주석하였다.
 
@@ -129,11 +129,11 @@ Fujiwara Sukeyo 藤原佐世(898년 사망)의 목록(역자 주: 《日本國�
 
 - (b) Kanaya Osamu 金谷治, 《荀子》, 중국어 원문 없는 일본어 번역과 색인, 岩波文庫 6344–6351(1961–1962).
 
-- (c) Watson, Burton, Hsün tzu, Basic Writings, New York·London: Columbia University Press, 1963. 제1·2·9·15·17·19–23편 번역.
+- (c) Watson, Burton, *Hsün tzu, Basic Writings*, New York·London: Columbia University Press, 1963. 제1·2·9·15·17·19–23편 번역.
 
 - (d) Köster, Hermann, *Hsün-tzu ins Deutsche übertragen* [《荀子》 독일어 번역], Kaldenkirchen: Steyler Verlag, 1967. 梁啟雄 1936년본을 바탕으로 32편 완역.
 
-- (e) Malmqvist, Göran, “The Cherng shianq Ballad of the Shyun Tzyy,” BMFEA 45(1973), pp. 63–89.
+- (e) Malmqvist, Göran, “The Cherng shianq Ballad of the Shyun Tzyy,” *BMFEA* 45(1973), pp. 63–89.
 
 - (f) Knoblock, John, *Xunzi: A Translation and Study of the Complete Works*, 3책, Stanford: Stanford University Press, 1988, 1990, 제3권 간행 예정. 긴 서론에서 荀卿의 생애, 중국 사상에 대한 기여, 본문의 역사와 진위를 논한다. 각 번역에 해제와 주석을 붙였으며, 제1권은 제1–6편, 제2권은 제7–16편, 제3권은 제17–32편을 수록한다.
 
