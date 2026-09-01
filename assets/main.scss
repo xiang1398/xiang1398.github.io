@@ -427,7 +427,8 @@ code {
   display: inline-flex;
   align-items: center;
   gap: .18rem;
-  margin-left: 20px;
+  margin-left: 0;
+  margin-right: 20px;
   min-height: 54px;
   vertical-align: middle;
   font-size: .86rem;
@@ -467,6 +468,7 @@ code {
     top: 0;
     right: 52px;
     margin-left: 0;
+    margin-right: 0;
     min-height: 54px;
     font-size: .82rem;
   }
