@@ -415,10 +415,12 @@ code {
    ========================= */
 
 .hanzi-script-toggle {
+  float: right;
   display: inline-flex;
   align-items: center;
   gap: .18rem;
   margin-left: .8rem;
+  min-height: 54px;
   vertical-align: middle;
   font-size: .86rem;
   white-space: nowrap;
@@ -452,7 +454,12 @@ code {
 
 @media (max-width: 600px) {
   .hanzi-script-toggle {
-    margin-left: .45rem;
+    float: none;
+    position: absolute;
+    top: 0;
+    right: 52px;
+    margin-left: 0;
+    min-height: 54px;
     font-size: .82rem;
   }
 }
