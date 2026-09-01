@@ -11,6 +11,7 @@
 
   const normalize = (value) => (value || '').toString().toLocaleLowerCase().normalize('NFKC');
   const escapeHtml = (value) => value.replace(/[&<>'"]/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[ch]));
+  const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
   function excerpt(text, terms) {
     const clean = (text || '').replace(/\s+/g, ' ').trim();
@@ -25,6 +26,17 @@
     const start = Math.max(0, pos - 70);
     const end = Math.min(clean.length, start + 220);
     return `${start > 0 ? '…' : ''}${clean.slice(start, end)}${end < clean.length ? '…' : ''}`;
+  }
+
+  function highlight(text, terms) {
+    let html = escapeHtml(text || '');
+    const uniqueTerms = [...new Set(terms)].sort((a, b) => b.length - a.length);
+    for (const term of uniqueTerms) {
+      if (!term) continue;
+      const re = new RegExp(`(${escapeRegExp(term)})`, 'giu');
+      html = html.replace(re, '<mark>$1</mark>');
+    }
+    return html;
   }
 
   function score(post, terms) {
@@ -73,10 +85,11 @@
 
     results.innerHTML = matches.map(({ post }) => {
       const meta = [post.date, post.category || (post.categories || []).join(' · '), post.series].filter(Boolean).join(' · ');
+      const snippet = excerpt(post.content, terms);
       return `<article class="search-result-item">
-        <h3><a href="${escapeHtml(post.url)}">${escapeHtml(post.title)}</a></h3>
+        <h3><a href="${escapeHtml(post.url)}">${highlight(post.title, terms)}</a></h3>
         <div class="search-result-meta">${escapeHtml(meta)}</div>
-        <p>${escapeHtml(excerpt(post.content, terms))}</p>
+        <p>${highlight(snippet, terms)}</p>
       </article>`;
     }).join('');
   }
@@ -101,5 +114,12 @@
       results.innerHTML = '<p>검색 색인을 불러오지 못했습니다.</p>';
     });
 
-  input.addEventListener('input', event => render(event.target.value));
+  input.addEventListener('input', event => {
+    const q = event.target.value;
+    render(q);
+    const url = new URL(window.location.href);
+    if (q) url.searchParams.set('q', q);
+    else url.searchParams.delete('q');
+    history.replaceState(null, '', url);
+  });
 })();
