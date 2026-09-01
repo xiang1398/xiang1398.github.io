@@ -86,3 +86,4 @@ jobs:
           git add _posts/*early-chinese-texts-*.md
           git commit -m 'Finish western article title normalization in ECT 025-034'
           git push
+# trigger exact normalization
