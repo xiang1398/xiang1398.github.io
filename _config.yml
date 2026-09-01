@@ -5,6 +5,10 @@ theme: minima
 markdown: kramdown
 highlighter: rouge
 
+header_pages:
+  - categories.md
+  - search.md
+
 kramdown:
   input: GFM
   footnote_nr: 1
