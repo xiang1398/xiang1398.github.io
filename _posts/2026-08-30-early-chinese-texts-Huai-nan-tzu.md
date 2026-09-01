@@ -51,7 +51,7 @@ tags:
 
 - (a) 劉向(기원전 79–8)본
 
-《漢書》 卷30 p. 1741(역자 주: 〈藝文志〉)은 33편의 《淮南外》—《漢書補注》 卷30, 47a의 주 참조—와 21편의 《淮南內》, 곧 劉向본을 기록한다. 두 책은 雜家類에 들어 있으며, 이후 사가와 관찬 서목 모두 《淮南子》를 21편으로 기록하는 연속적인 서지 전통이 이어진다. 서명에는 여러 변형이 있고 가장 흔한 것은 《淮南鴻烈解》이다. 6세기 이후 서지학자들은 21편 대신 21권이라고 기록한다(《舊唐書》 卷47 p. 2032, 《新唐書》 卷59 p. 1533; Fujiwara Sukeyo 藤原佐世는 21권본과 31권본을 기록한다. 역자 주: 두 정사 인용은 각각 〈經籍志〉·〈藝文志〉). 이러한 변화는 본문의 완전성과는 관계가 없다.
+《漢書》 卷30 p. 1741(역자 주: 〈藝文志〉)은 33편의 《淮南外》—《漢書補注》 卷30, 47a의 주 참조—와 21편의 《淮南內》, 곧 劉向본을 기록한다. 두 책은 雜家類에 들어 있으며, 이후 사가와 관찬 서목 모두 《淮南子》를 21편으로 기록하는 연속적인 서지 전통이 이어진다. 서명에는 여러 변형이 있고 가장 흔한 것은 《淮南鴻烈解》이다. 6세기 이후 서지학자들은 21편 대신 21권이라고 기록한다(《舊唐書》 卷47 p. 2032, 《新唐書》 卷59 p. 1533; Fujiwara Sukeyo 藤原佐世(역자 주: 《日本國見在書目錄》)는 21권본과 31권본을 기록한다. 역자 주: 두 정사 인용은 각각 〈經籍志〉·〈藝文志〉). 이러한 변화는 본문의 완전성과는 관계가 없다.
 
 - (b) 許慎(약 55–약 149)과 高誘의 주석 및 판본
 
@@ -71,7 +71,7 @@ tags:
 
 淸代에는 《道藏》본을 바탕으로 한 가치 있는 판본 두 종이 나왔다. 莊逵吉(1760–1813)의 1789년 21권본과 1796–1820년에 간행된 28권 《道藏輯要》본이다. 후자는 蔣元廷(1755–1819)이 《道藏》본을 직접 저본으로 삼아 만들었다.
 
-이문을 보면 蔣元廷은 본문을 확정할 때 정체를 알 수 없는 다른 판본도 이용한 듯하다. 판본 계통에 대해서는 아래 6항의 Harold D. Roth와 그의 Filiation Analysis and the Textual Criticism of the Huai nan tzu, Transactions of the International Conference of Orientalists in Japan XXVII(1982), pp. 60–81—東方學會 간행—을 참조할 것. 莊逵吉본은 錢坫(1744–1806)이 교감한 《道藏》 수정본에 기초한다. 莊逵吉은 본문과 주석에 교감 주를 붙였지만 그의 판본에도 잘못된 글자가 많다. 서문과 주석을 함께 《四部備要》에 재수록하였다. 1875년 陶方琦(1845–1884) 등이 莊逵吉본을 수정하였고, 이것이 표준 莊本이 되었다. 아마 현존하는 《淮南子》 최선본일 것이다.
+이문을 보면 蔣元廷은 본문을 확정할 때 정체를 알 수 없는 다른 판본도 이용한 듯하다. 판본 계통에 대해서는 아래 6항의 Harold D. Roth와 그의 "Filiation Analysis and the Textual Criticism of the Huai nan tzu," *Transactions of the International Conference of Orientalists in Japan* XXVII(1982), pp. 60–81(東方學會 간행)을 참조할 것. 莊逵吉본은 錢坫(1744–1806)이 교감한 《道藏》 수정본에 기초한다. 莊逵吉은 본문과 주석에 교감 주를 붙였지만 그의 판본에도 잘못된 글자가 많다. 서문과 주석을 함께 《四部備要》에 재수록하였다. 1875년 陶方琦(1845–1884) 등이 莊逵吉본을 수정하였고, 이것이 표준 莊本이 되었다. 아마 현존하는 《淮南子》 최선본일 것이다.
 
 - (f) 수정 莊本은 근래 대부분의 《淮南子》 판본에서 정본으로 채택되었다. 예는 다음과 같다.
 
@@ -89,7 +89,7 @@ tags:
 
 - (b) Morgan, Evan, *Tao, the Great Luminant: Essays from the Huai nan tzu*, London: Kegan Paul, Trench, Trubner & Co., 1933. 제1·2·7·8·12·13·15·19편 번역. 선구적인 시도이지만 신학적 선입견과 중국어 본문을 지나치게 자유롭게 옮긴 점이 흠이다.
 
-- (c) Kraft, Eva, “Zum Huai-nan-tzu. Einführung, Übersetzung (Kapitel I und II) und Interpretation” (〈《淮南子》에 관하여: 서론, 제1·2편 번역과 해석〉), Monumenta Serica 16(1957), pp. 191–286; 17(1958), pp. 128–207.
+- (c) Kraft, Eva, “Zum Huai-nan-tzu. Einführung, Übersetzung (Kapitel I und II) und Interpretation” [〈《淮南子》에 관하여: 서론, 제1·2편 번역과 해석〉], *Monumenta Serica* 16(1957), pp. 191–286; 17(1958), pp. 128–207.
 
 - (d) Wallacker, Benjamin, *The Huai-nan-tzu, Book Eleven: Behavior, Culture and the Cosmos*, New Haven: American Oriental Society, 1962.
 
