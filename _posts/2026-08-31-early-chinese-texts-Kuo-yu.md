@@ -141,4 +141,4 @@ L. 《中國古典新書》, 1969, Ōno Takashi 大野峻 편.
 
 (d) D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Guoyu* 《國語逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1996년 출간 예정.
 
-*—張以仁·William G. Boltz·Michael Loewe*
+*—*張以仁·*William G. Boltz·Michael Loewe*
