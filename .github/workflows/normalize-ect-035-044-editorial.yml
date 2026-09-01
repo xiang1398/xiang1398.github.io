@@ -1,0 +1,122 @@
+name: Normalize ECT 035-044 editorial style
+on:
+  push:
+    paths:
+      - '.github/workflows/normalize-ect-035-044-editorial.yml'
+permissions:
+  contents: write
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Normalize ECT 035-044
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          replacements = {
+              '_posts/2026-08-31-early-chinese-texts-Kuo-yu.md': [
+                  ('Karlgren이 On the Authenticity and Nature of the Tso chuan, *Göteborg Högskolas Årsskrift* XXXII:3(1926)',
+                   'Karlgren이 “On the Authenticity and Nature of the Tso chuan,” *Göteborg Högskolas Årsskrift* XXXII:3(1926)'),
+                  ('— 張以仁·*William G. Boltz·Michael Loewe*', '*—張以仁·William G. Boltz·Michael Loewe*'),
+              ],
+              '_posts/2026-08-31-early-chinese-texts-Lao-tzu-Tao-te-ching.md': [
+                  ('Stephen Durrant, Packaging the Tao, *Rocky Mountain Review of Language and Literature*', 'Stephen Durrant, “Packaging the Tao,” *Rocky Mountain Review of Language and Literature*'),
+                  ('Boltz, Judith M., Lao-tzu, *The Encyclopedia of Religion*', 'Boltz, Judith M., “Lao-tzu,” *The Encyclopedia of Religion*'),
+                  ('Boltz, William G., The Religious and Philosophical Significance of the “Hsiang erh” Lao tzu in the Light of the Ma-wang-tui Silk Manuscripts, *Bulletin of the School of Oriental and African Studies*', 'Boltz, William G., “The Religious and Philosophical Significance of the ‘Hsiang erh’ Lao tzu in the Light of the Ma-wang-tui Silk Manuscripts,” *Bulletin of the School of Oriental and African Studies*'),
+                  ('Boltz, William G., Textual Criticism and the Ma wang tui Lao tzu, *Harvard Journal of Asiatic Studies*', 'Boltz, William G., “Textual Criticism and the Ma wang tui Lao tzu,” *Harvard Journal of Asiatic Studies*'),
+                  ('Boltz, William G., The Lao tzu Text That Wang Pi and Ho-shang Kung Never Saw, *Bulletin of the School of Oriental and African Studies*', 'Boltz, William G., “The Lao tzu Text That Wang Pi and Ho-shang Kung Never Saw,” *Bulletin of the School of Oriental and African Studies*'),
+                  ('Grill, Julius, Zur mandschurischen Übersetzung des Tao-te-king [《道德經》의 만주어 번역에 관하여], *Zeitschrift der Deutschen Morgenländischen Gesellschaft*', 'Grill, Julius, “Zur mandschurischen Übersetzung des Tao-te-king” [《道德經》의 만주어 번역에 관하여], *Zeitschrift der Deutschen Morgenländischen Gesellschaft*'),
+                  ('Henricks, Robert G., Examining the Ma-wang-tui Silk Texts of the Lao tzu, *T’oung Pao*', 'Henricks, Robert G., “Examining the Ma-wang-tui Silk Texts of the Lao tzu,” *T’oung Pao*'),
+                  ('Henricks, Robert G., On the Chapter Divisions in the Lao tzu, *Bulletin of the School of Oriental and African Studies*', 'Henricks, Robert G., “On the Chapter Divisions in the Lao tzu,” *Bulletin of the School of Oriental and African Studies*'),
+                  ('Hung, William, A Bibliographical Controversy at the T’ang Court A.D. 719, *Harvard Journal of Asiatic Studies*', 'Hung, William, “A Bibliographical Controversy at the T’ang Court A.D. 719,” *Harvard Journal of Asiatic Studies*'),
+                  ('Karlgren, Bernhard, Notes on Lao-tse, *Bulletin of the Museum of Far Eastern Antiquities*', 'Karlgren, Bernhard, “Notes on Lao-tse,” *Bulletin of the Museum of Far Eastern Antiquities*'),
+                  ('Mote, Frederick, The Oldest Book at Princeton, *Gest Library Journal*', 'Mote, Frederick, “The Oldest Book at Princeton,” *Gest Library Journal*'),
+                  ('Pelliot, Paul, Autour d’une traduction sanscrite du Tao tö king [《道德經》의 산스크리트어 번역에 관하여], *T’oung Pao*', 'Pelliot, Paul, “Autour d’une traduction sanscrite du Tao tö king” [《道德經》의 산스크리트어 번역에 관하여], *T’oung Pao*'),
+                  ('Wagner, Rudolf G., Wang Bi: The Structure of the Laozi’s Pointers, *T’oung Pao*', 'Wagner, Rudolf G., “Wang Bi: The Structure of the Laozi’s Pointers,” *T’oung Pao*'),
+                  ('Wagner, Rudolf G., The Wang Bi Recension of the Lao tzu, *Early China*', 'Wagner, Rudolf G., “The Wang Bi Recension of the Lao tzu,” *Early China*'),
+                  ('*清華學報*', '《清華學報》'),
+                  ('*文物*', '《文物》'),
+                  ('*橫濱市立大學紀要*', '《橫濱市立大學紀要》'),
+                  ('*支那學研究*', '《支那學研究》'),
+                  ('*東方宗教*', '《東方宗教》'),
+                  ('*大正大學研究紀要*', '《大正大學研究紀要》'),
+                  ('*東方文化*', '《東方文化》'),
+                  ('*文物資料叢刊*', '《文物資料叢刊》'),
+                  ('*史學年報*', '《史學年報》'),
+                  ('*世界宗教研究*', '《世界宗教研究》'),
+                  ('*中國文化研究彙刊*', '《中國文化研究彙刊》'),
+                  ('集刊東洋學 36(1976)', '《集刊東洋學》 36(1976)'),
+                  ('— *William G. Boltz*', '*—William G. Boltz*'),
+              ],
+              '_posts/2026-08-31-early-chinese-texts-Li-chi.md': [
+                  ('《隋書》 卷32(역자 주: 〈經籍志〉) p. 925', '《隋書》 卷32 p. 925(역자 주: 〈經籍志〉)'),
+                  ('《後漢書》 卷35上(역자 주: 〈曹褒傳〉) p. 1205', '《後漢書》 卷35上 p. 1205(역자 주: 〈曹褒傳〉)'),
+                  ('— *Jeffrey K. Riegel*', '*—Jeffrey K. Riegel*'),
+              ],
+              '_posts/2026-08-31-early-chinese-texts-Lieh-tzu.md': [
+                  ('(역자 주: (역자 주: 唐 玄宗 天寶 원년에 列子에게 존호를 하사하였다. 《舊唐書》 〈禮儀志〉.)', '(역자 주: 唐 玄宗 天寶 원년에 列子에게 존호를 하사하였다. 《舊唐書》 〈禮儀志〉.)'),
+                  ('A.C. Graham, The Date and Composition of Liehtzyy, *Asia Major*, n.s. 8(1960–1961)', 'A.C. Graham, “The Date and Composition of Liehtzyy,” *Asia Major*, n.s. 8(1960–1961)'),
+                  ('이는 The dialogue between Yang Ju and Chyntzyy, *BSOAS* 22:2(1959)', '이는 “The dialogue between Yang Ju and Chyntzyy,” *BSOAS* 22:2(1959)'),
+                  ('T. Zbikowski, Jang Czu [楊朱], *Przeglad Orientalistycy* 1976:4', 'T. Zbikowski, “Jang Czu” [楊朱], *Przeglad Orientalistycy* 1976:4'),
+                  ('— *T.H. Barrett*', '*—T.H. Barrett*'),
+              ],
+              '_posts/2026-08-31-early-chinese-texts-Lun-heng.md': [
+                  ('Timoteus Pokora, The works of Wang Ch’ung, *Archiv orientální*', 'Timoteus Pokora, “The works of Wang Ch’ung,” *Archiv orientální*'),
+                  ('Timoteus Pokora, Two recently commented editions of the Lun-heng, *Archiv orientální*', 'Timoteus Pokora, “Two recently commented editions of the Lun-heng,” *Archiv orientální*'),
+                  ('Karlgren, Bernhard, Excursions in Chinese grammar, *BMFEA*', 'Karlgren, Bernhard, “Excursions in Chinese grammar,” *BMFEA*'),
+                  ('Leslie, Donald, Contribution to a new translation of the Lun heng, *TP*', 'Leslie, Donald, “Contribution to a new translation of the Lun heng,” *TP*'),
+                  ('— *Timoteus Pokora*', '*—Timoteus Pokora*'),
+                  ('— *Michael Loewe*', '*—Michael Loewe*'),
+              ],
+              '_posts/2026-08-31-early-chinese-texts-Lun-yu.md': [
+                  ('Ishizuka Harumichi 石塚晴通, The texts of Lun yü, with commentaries by Cheng Hsüan, discovered in Tun-huang and Turfan, *Journal Asiatique*', 'Ishizuka Harumichi 石塚晴通, “The texts of Lun yü, with commentaries by Cheng Hsüan, discovered in Tun-huang and Turfan,” *Journal Asiatique*'),
+                  ('—* Anne Cheng*', '*—Anne Cheng*'),
+              ],
+              '_posts/2026-08-31-early-chinese-texts-Lu-shih-chun-chiu.md': [
+                  ('Michael F. Carson의 The language of the Lü shih ch’un ch’iu: some characteristic features of grammar and style in a third century b.c. text(워싱턴대학교 박사학위논문, 1980)', 'Michael F. Carson의 *The language of the Lü shih ch’un ch’iu: some characteristic features of grammar and style in a third century b.c. text* (워싱턴대학교 박사학위논문, 1980)'),
+                  ('Carson, Michael F., The battle of words in ancient China, *Asian Culture Quarterly*', 'Carson, Michael F., “The battle of words in ancient China,” *Asian Culture Quarterly*'),
+                  ('— *Michael Carson*', '*—Michael Carson*'),
+                  ('—* Michael Loewe*', '*—Michael Loewe*'),
+              ],
+              '_posts/2026-08-31-early-chinese-texts-Meng-tzu.md': [
+                  ('《宋史》 卷205 pp. 5171, 5173–5174(역자 주: 《藝文志》)', '《宋史》 卷205 pp. 5171, 5173–5174(역자 주: 〈藝文志〉)'),
+                  ('— *D.C. Lau*', '*—D.C. Lau*'),
+              ],
+              '_posts/2026-08-31-early-chinese-texts-Mo-tzu.md': [
+                  ('A.C. Graham, Divisions in early Mohism reflected in the core chapters of Mo-tzu (Singapore: Institute of East Asian Studies, 1985)', 'A.C. Graham, *Divisions in early Mohism reflected in the core chapters of Mo-tzu* (Singapore: Institute of East Asian Studies, 1985)'),
+                  ('Erik W. Maeder, Some observations on the composition of the ‘core chapters’ of the Mozi, *Early China*', 'Erik W. Maeder, “Some observations on the composition of the ‘core chapters’ of the Mozi,” *Early China*'),
+                  ('— *A.C. Graham*', '*—A.C. Graham*'),
+              ],
+              '_posts/2026-08-31-early-chinese-texts-Mu-tien-tzu-chuan.md': [
+                  ('Léopold de Saussure는 La Relation des voyages du roi Mou (au Xe siècle avant J-C.) [기원전 10세기 穆王 여행기], *Journal asiatique*', 'Léopold de Saussure는 “La Relation des voyages du roi Mou (au Xe siècle avant J-C.)” [기원전 10세기 穆王 여행기], *Journal asiatique*'),
+                  ('Tökei, F., A propos du genre du Mou t’ien-tseu tchouan [《穆天子傳》의 장르에 관하여], *Acta Orientalia*', 'Tökei, F., “A propos du genre du Mou t’ien-tseu tchouan” [《穆天子傳》의 장르에 관하여], *Acta Orientalia*'),
+                  ('Hulsewé, A.F.P., Texts in tombs, *Asiatische Studien*', 'Hulsewé, A.F.P., “Texts in tombs,” *Asiatische Studien*'),
+                  ('— *Rémi Mathieu*', '*—Rémi Mathieu*'),
+              ],
+          }
+
+          changed = []
+          for filename, pairs in replacements.items():
+              p = Path(filename)
+              text = p.read_text(encoding='utf-8')
+              original = text
+              for old, new in pairs:
+                  text = text.replace(old, new)
+              if text != original:
+                  p.write_text(text, encoding='utf-8')
+                  changed.append(filename)
+          print('\n'.join(changed))
+          PY
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- _posts; then exit 0; fi
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add _posts/*early-chinese-texts-*.md
+          git commit -m 'Normalize ECT 035-044 editorial style'
+          git push
