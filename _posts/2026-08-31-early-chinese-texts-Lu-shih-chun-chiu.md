@@ -58,7 +58,7 @@ tags:
 
 이러한 차이에도 불구하고, 특정 표현 양식의 일관성과 여러 문법적 특징이 책 전체에서 지속적으로 나타난다는 점은 기본적 통일성을 뒷받침한다. Wilhelm과 Naitō 内藤(역자 주: 内藤湖南)는 覽과 論이 紀보다 조금 뒤에 쓰였고, 그 일반 개념을 이어받았을 가능성을 제기했다.
 
-Michael F. Carson의 *The language of the Lü shih ch’un ch’iu: some characteristic features of grammar and style in a third century b.c. text* (워싱턴대학교 박사학위논문, 1980)는 책 전반, 본문 전승, 문법과 문체의 특징, 차용어를 논한다. 문법과 문체를 조사한 결과, 첫 12권의 각 첫 편처럼 책의 다른 부분과 구별되는 대목이 확인되었다. 紀 전체도 다시 覽·論과 구별되는 특징을 보인다. 세 부분에서 특정 단어를 사용하거나 사용하지 않는 양상은 이 책이 여러 저자에 의해 쓰였다는 司馬遷의 진술에 개연성을 더한다. 언어학적 조사도 앞서 언급한 Wilhelm과 内藤의 결론을 지지한다.
+Michael F. Carson의 "The language of the Lü shih ch’un ch’iu: some characteristic features of grammar and style in a third century b.c. text" (워싱턴대학교 박사학위논문, 1980)는 책 전반, 본문 전승, 문법과 문체의 특징, 차용어를 논한다. 문법과 문체를 조사한 결과, 첫 12권의 각 첫 편처럼 책의 다른 부분과 구별되는 대목이 확인되었다. 紀 전체도 다시 覽·論과 구별되는 특징을 보인다. 세 부분에서 특정 단어를 사용하거나 사용하지 않는 양상은 이 책이 여러 저자에 의해 쓰였다는 司馬遷의 진술에 개연성을 더한다. 언어학적 조사도 앞서 언급한 Wilhelm과 内藤의 결론을 지지한다.
 
 ## 4. 본문 전승
 
@@ -104,7 +104,7 @@ Michael F. Carson의 *The language of the Lü shih ch’un ch’iu: some charact
 
 ## 6. 번역
 
-유일한 완역은 Richard Wilhelm의 *Frühling und Herbst des Lü Bu we, aus dem Chinesischen verdeutscht und erläutert* [《呂不韋의 봄과 가을: 중국어에서 독일어로 번역하고 해설함》], Jena: Eugen Diederichs, 1928이며, Hellmut Wilhelm의 새 서문을 붙여 1971년에 재간되었다. 이 번역은 Pelliot의 서평(*TP* 27, 1930, pp. 68–91)과 함께 보아야 한다. 유익한 주석과 해설, 본문에 나오는 인명·지명의 색인을 포함한다. 신판에서는 Wilhelm의 서론을 Wolfgang Bauer의 서문으로 바꾸었을 뿐, 나머지는 두 판이 동일하다. Uchino Kumaichirō 內野熊一郞와 Nakamura Shōhachi 中村璋八의 일본어 판본은 《呂氏春秋》의 철학적 측면에 중점을 두고, 선별한 20편의 번역을 수록한다.
+유일한 완역은 Richard Wilhelm의 *Frühling und Herbst des Lü Bu we, aus dem Chinesischen verdeutscht und erläutert* [《呂不韋의 봄과 가을: 중국어에서 독일어로 번역하고 해설함》], Jena: Eugen Diederichs, 1928이며, Hellmut Wilhelm의 새 서문을 붙여 1971년에 재간되었다. 이 번역은 Pelliot의 서평(*TP* 27, 1930, pp. 68–91)과 함께 보아야 한다. 유익한 주석과 해설, 본문에 나오는 인명·지명의 색인을 포함한다. 신판에서는 Wilhelm의 서론을 Wolfgang Bauer의 서문으로 바꾸었을 뿐, 나머지는 두 판이 동일하다. 內野熊一郞와 中村璋八의 일본어 판본은 《呂氏春秋》의 철학적 측면에 중점을 두고, 선별한 20편의 번역을 수록한다.
 
 ## 7. 현대 중국어 역주
 
@@ -134,7 +134,7 @@ L. 《中國古典新書》, 1976, Uchino Kumaichirō 內野熊一郞·Nakamura 
 
 ## 10. 색인
 
-(a) 《呂氏春秋通檢》 [*Index du Liu Che Tch’ouen Ts’ieou*], Centre franco-chinois d’études sinologiques Index 2, 北京, 1943, 臺北: 成文, 1968 재간.
+(a) 《呂氏春秋通檢》 (*Index du Liu Che Tch’ouen Ts’ieou*) [《呂氏春秋》 색인], Centre franco-chinois d’études sinologiques Index 2, 北京, 1943, 臺北: 成文, 1968 재간.
 
 (b) Carson, Michael F., *A concordance to Lü-shih ch’un-ch’iu*, vol. 1, 臺北: Chinese Materials Center, 1985.
 
