@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   const commonBibliographyRevision = '독일어·프랑스어·러시아어 등 비영어권 외국어 문헌에 한국어 번역 제목을 대괄호로 추가하고 원제와 번역문의 서식을 정비했으며, 글 말미의 원저자 서명을 이탤릭으로 통일.';
+  const septFirstRevision = '원본 PDF와 대조하여 001–065의 참고문헌·판본·주석·번역·색인 등 서지 항목의 누락 여부를 재검사하고 확인된 누락과 오류를 보완. 특히 022 《新序》에서 빠졌던 판본·주석·잔편·근래 연구·번역·색인 및 원저자 서명을 복원했으며, 전권의 서양어 논문 제목 인용부호, 동아시아 서명 표기, 권·호·페이지 표기, 인명 이니셜, *ICS* series와 Hong Kong 표기, 전통 문헌의 위치 표기, Markdown 서식을 시리즈 공통 기준에 맞추어 재정비.';
   const mergeRevision = (base) => `2026-08-29: ${base} ${commonBibliographyRevision}`;
   const histories = [
     { match: ['early-chinese-texts-preface', 'Early Chinese Texts》 서문'], entries: [mergeRevision('번역 용어와 문헌학적 표현을 시리즈 공통 기준에 맞추어 교정.')] },
@@ -17,10 +18,36 @@ document.addEventListener('DOMContentLoaded', () => {
     { match: ['early-chinese-texts-Chung-lun', 'Chung lun', '中論'], entries: [`2026-08-29: ${commonBibliographyRevision}`] }
   ];
 
+  const mergeEntriesByDate = (entries) => {
+    const merged = new Map();
+    entries.forEach((entry) => {
+      const match = entry.match(/^(\d{4}-\d{2}-\d{2}):\s*(.*)$/);
+      if (!match) {
+        merged.set(`misc-${merged.size}`, entry);
+        return;
+      }
+      const [, date, text] = match;
+      const previous = merged.get(date);
+      merged.set(date, previous ? `${previous} ${text}` : text);
+    });
+    return Array.from(merged.entries()).map(([date, text]) =>
+      date.startsWith('misc-') ? text : `${date}: ${text}`
+    );
+  };
+
   const decodedPath = decodeURIComponent(window.location.pathname);
   const title = document.querySelector('.post-title')?.textContent || document.title || '';
+  const isEarlyChineseTexts = decodedPath.includes('early-chinese-texts-') || title.includes('《Early Chinese Texts》');
+  if (!isEarlyChineseTexts) return;
+
   const history = histories.find(({ match }) => match.some((needle) => decodedPath.includes(needle) || title.includes(needle)));
-  if (!history) return;
+  const entries = history ? [...history.entries] : [];
+
+  const isNumberedEntry = !decodedPath.includes('appendix-i-bibliography-abbreviations');
+  if (isNumberedEntry) entries.push(`2026-09-01: ${septFirstRevision}`);
+
+  const mergedEntries = mergeEntriesByDate(entries);
+  if (!mergedEntries.length) return;
 
   const postContent = document.querySelector('.post-content');
   if (!postContent || postContent.querySelector('.revision-history')) return;
@@ -34,7 +61,7 @@ document.addEventListener('DOMContentLoaded', () => {
   section.appendChild(heading);
 
   const list = document.createElement('ul');
-  history.entries.forEach((entry) => {
+  mergedEntries.forEach((entry) => {
     const item = document.createElement('li');
     item.textContent = entry;
     list.appendChild(item);
