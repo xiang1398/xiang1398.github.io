@@ -124,7 +124,7 @@ tags:
 
 ## 6. 번역
 
-《春秋繁露》의 서양어 완역은 없다. 약 55편의 부분 번역 목록은 Pokora pp. 267–268을 참조하라. 여기에 다음 후속 저술을 더할 수 있다. Robert H. Gassmann, *Tung Chung-shu Ch’un ch’iu fan lu: Übersetzung und Annotation der Kapitel eins bis sechs* [동중서 《春秋繁露》: 제1~6편 번역과 주석] (Bern: Peter Lang, 1988). Gary Arbuckle이 Some Remarks on a New Translation of the Chunqiu fanlu, *Early China* 17(1992), pp. 215–238에서 서평하였다.
+《春秋繁露》의 서양어 완역은 없다. 약 55편의 부분 번역 목록은 Pokora pp. 267–268을 참조하라. 여기에 다음 후속 저술을 더할 수 있다. Robert H. Gassmann, *Tung Chung-shu Ch’un ch’iu fan lu: Übersetzung und Annotation der Kapitel eins bis sechs* [董仲舒 《春秋繁露》: 제1~6편 번역과 주석] (Bern: Peter Lang, 1988). Gary Arbuckle이 Some Remarks on a New Translation of the Chunqiu fanlu, *Early China* 17(1992), pp. 215–238에서 서평하였다.
 
 ## 7. 일본어 판본
 
@@ -146,7 +146,7 @@ L. 《中國古典新書》(1977), Hihara Toshikuni 日原利國 편.
 
 (d) 朱熹, 《朱子語類》, 1473년판 권83 27a; 臺北: 正中書局, 1962 재간, p. 3509.
 
-(e) Otto Franke, *Studien zur Geschichte des konfuzianischen Dogmas und der chinesischen Staatsreligion: das Problem des Tsch’un-t’siu und Tung Tschung-schu’s Tsch’un-tsiu fan lu* [유교 교의와 중국 국가종교의 역사 연구: 《春秋》와 동중서의 《春秋繁露》 문제] (Hamburg: L. Friedrichsen & Co., 1920).
+(e) Otto Franke, *Studien zur Geschichte des konfuzianischen Dogmas und der chinesischen Staatsreligion: das Problem des Tsch’un-t’siu und Tung Tschung-schu’s Tsch’un-tsiu fan lu* [유교 교의와 중국 국가종교의 역사 연구: 《春秋》와 董仲舒의 《春秋繁露》 문제] (Hamburg: L. Friedrichsen & Co., 1920).
 
 (f) 徐復觀, 《兩漢思想史》 (臺北: 臺灣學生書局, 1964).
 
@@ -164,7 +164,7 @@ L. 《中國古典新書》(1977), Hihara Toshikuni 日原利國 편.
 
 (m) Tain Tzey-yueh 田則岳, *Tung Chung-shu’s System of Thought: Its Sources and Its Influences on Han Scholarship* (PhD thesis, University of California, Los Angeles, 1974).
 
-(n) Kang Woo, *Les trois théories politiques du Tch’ouen Ts’ieu interprétées par Tong Tchong-chou* [동중서가 해석한 《春秋》의 세 가지 정치 이론] (Paris: Ernest Leroux, 1932).
+(n) Kang Woo, *Les trois théories politiques du Tch’ouen Ts’ieu interprétées par Tong Tchong-chou* [董仲舒가 해석한 《春秋》의 세 가지 정치 이론] (Paris: Ernest Leroux, 1932).
 
 (o) 姚際恆(1647년 출생), 《古今僞書考》 (長沙, 1889), 44b–45b.
 
