@@ -47,7 +47,7 @@ jobs:
               )
 
               text = re.sub(
-                  r'\((《(?:史記|漢書|後漢書|三國志|隋書|舊唐書|新唐書|宋史)》[^()\n]*?)\(역자 주: ([^)]+)\)\)',
+                  r'\((《(?:史記|漢書|後漢書|三國志|晉書|隋書|舊唐書|新唐書|宋史)》[^()\n]*?)\(역자 주: ([^)]+)\)\)',
                   r'(\1. 역자 주: \2)',
                   text,
               )
@@ -146,9 +146,13 @@ jobs:
           title_number = re.compile(r'title:\s*["\']?《Early Chinese Texts》\s+(\d{3}):')
           list_label = re.compile(r'(?m)^(\s*)\\\(([A-Za-z]|[ivxlcdmIVXLCDM]+)\\\)(\s+)')
           volume_page_comma = re.compile(r'(《[^》]+》\s*卷\d+(?:上|下)?),\s+(pp?\.)')
+          shorthand_volume_page_comma = re.compile(r'(?<![A-Za-z])(卷\d+(?:上|下)?),\s+(pp?\.)')
           outer_note = re.compile(
               r'\((《(?:史記|漢書|後漢書|三國志|晉書|隋書|舊唐書|新唐書|宋史)》[^()\n]*?)'
               r'\(역자 주:\s*([^)]+)\)\)'
+          )
+          shorthand_outer_note = re.compile(
+              r'\((卷\d+(?:上|下)?\s+pp?\.\s*[0-9][0-9·–\-]*)[,]\s*역자 주:\s*([^)]+)\)'
           )
           notice_pattern = re.compile(
               r'(?m)^\*{0,2}이 번역문은 GPT-5\.6 모델로 기계번역한 뒤 편집·교정한 것입니다\.?\*{0,2}$'
@@ -166,13 +170,22 @@ jobs:
 
               text = original
 
-              # 번역 고지문은 굵게/평문/마침표 유무와 관계없이 동일한 이탤릭 서식으로 통일한다.
+              # 번역 고지문의 오래된 깨진 Markdown 표기도 먼저 바로잡는다.
+              text = text.replace(
+                  '**이 번역문은 GPT-5.6 모델로 기계번역한 뒤 편집·교정한 것입니다.*.*',
+                  notice_styled,
+              )
               text = notice_pattern.sub(notice_styled, text)
 
               text = list_label.sub(r'\1(\2)\3', text)
               text = text.replace('(역자 주: 〈日本國見在書目錄〉)', '(역자 주: 《日本國見在書目錄》)')
               text = volume_page_comma.sub(r'\1 \2', text)
+
+              # 정사명을 앞에서 밝혀 권차만 반복한 경우에도 卷N p./pp. 사이의 쉼표를 없앤다.
+              text = shorthand_volume_page_comma.sub(r'\1 \2', text)
+
               text = outer_note.sub(r'(\1. 역자 주: \2)', text)
+              text = shorthand_outer_note.sub(r'(\1. 역자 주: \2)', text)
 
               # 중국 문헌의 명시적 권차 표기는 《서명》 卷N으로 통일한다.
               text = re.sub(r'(《[^》]+》)\s*권(?=\d)', r'\1 卷', text)
@@ -187,6 +200,11 @@ jobs:
                       '(역자 주: 〈馬援傳〉. 馬續의 전기가 딸려 있다.).',
                       '(역자 주: 〈馬援傳〉. 馬續의 전기가 딸려 있다).'
                   )
+
+              # 012에 남은 판본 권차의 한글 표기를 정리한다.
+              if number == 12:
+                  text = text.replace('四部叢刊本 권6 20a', '四部叢刊本 卷6 20a')
+                  text = text.replace('(권34 p. 998)', '(卷34 p. 998)')
 
               if text != original:
                   path.write_text(text, encoding='utf-8')
