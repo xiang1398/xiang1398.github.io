@@ -170,7 +170,6 @@ jobs:
 
               text = original
 
-              # 번역 고지문의 오래된 깨진 Markdown 표기도 먼저 바로잡는다.
               text = text.replace(
                   '**이 번역문은 GPT-5.6 모델로 기계번역한 뒤 편집·교정한 것입니다.*.*',
                   notice_styled,
@@ -180,31 +179,63 @@ jobs:
               text = list_label.sub(r'\1(\2)\3', text)
               text = text.replace('(역자 주: 〈日本國見在書目錄〉)', '(역자 주: 《日本國見在書目錄》)')
               text = volume_page_comma.sub(r'\1 \2', text)
-
-              # 정사명을 앞에서 밝혀 권차만 반복한 경우에도 卷N p./pp. 사이의 쉼표를 없앤다.
               text = shorthand_volume_page_comma.sub(r'\1 \2', text)
-
               text = outer_note.sub(r'(\1. 역자 주: \2)', text)
               text = shorthand_outer_note.sub(r'(\1. 역자 주: \2)', text)
-
-              # 중국 문헌의 명시적 권차 표기는 《서명》 卷N으로 통일한다.
               text = re.sub(r'(《[^》]+》)\s*권(?=\d)', r'\1 卷', text)
 
-              # 002의 1차 분류 표지 앞 불필요한 선행 공백을 제거한다.
               if number == 2:
                   text = re.sub(r'(?m)^[ \t\u00a0]+(\([abc]\)\s+)', r'\1', text)
 
-              # 004에 남아 있던 역자 주의 중복 종결점을 정리한다.
               if number == 4:
                   text = text.replace(
                       '(역자 주: 〈馬援傳〉. 馬續의 전기가 딸려 있다.).',
                       '(역자 주: 〈馬援傳〉. 馬續의 전기가 딸려 있다).'
                   )
 
-              # 012에 남은 판본 권차의 한글 표기를 정리한다.
               if number == 12:
                   text = text.replace('四部叢刊本 권6 20a', '四部叢刊本 卷6 20a')
                   text = text.replace('(권34 p. 998)', '(卷34 p. 998)')
+
+              # 015-024 수동 점검에서 확인된 잔여 역자 주와 서지 서식을 정리한다.
+              if number == 16:
+                  text = text.replace(
+                      '(《後漢書》 卷62 p. 2062. 역자 주: 〈荀悅傳〉). 역자 주: 〈荀悅傳〉).',
+                      '(《後漢書》 卷62 p. 2062. 역자 주: 〈荀悅傳〉).'
+                  )
+
+              if number == 17:
+                  text = text.replace(
+                      'Vandermeersch, *La Formation du Légisme*. [法家의 형성] 제1부',
+                      'Vandermeersch, *La Formation du Légisme* [法家의 형성] 제1부'
+                  )
+
+              if number == 18:
+                  text = text.replace(
+                      '그의 전기(《史記》 卷121 p. 3124(역자 주: 〈儒林列傳〉), 《漢書》 卷88 p. 3613(역자 주: 〈儒林傳〉). 역자 주: 〈儒林列傳〉, 〈儒林傳〉)는',
+                      '그의 전기(《史記》 卷121 p. 3124, 《漢書》 卷88 p. 3613. 역자 주: 〈儒林列傳〉, 〈儒林傳〉)는'
+                  )
+
+              if number == 20:
+                  text = text.replace(
+                      'R. P. Peerenboom, Heguanzi and Huang-Lao Thought, *Early China* 16 (1991), pp. 169–186.',
+                      'R. P. Peerenboom, “Heguanzi and Huang-Lao Thought,” *Early China* 16 (1991), pp. 169–186.'
+                  )
+                  text = text.replace(
+                      'Christopher C. Rand, Chinese Military Thought and Philosophical Taoism, *Monumenta Serica* 34 (1979–1980), pp. 206–210.',
+                      'Christopher C. Rand, “Chinese Military Thought and Philosophical Taoism,” *Monumenta Serica* 34 (1979–1980), pp. 206–210.'
+                  )
+                  text = text.replace(
+                      '그의 논문 A neglected pre-Han philosophical text: Ho-kuan-tzu, *Bulletin of the School of Oriental and African Studies* 52:3 (1989), pp. 497–509도 보라.',
+                      '그의 논문 “A neglected pre-Han philosophical text: Ho-kuan-tzu,” *Bulletin of the School of Oriental and African Studies* 52:3 (1989), pp. 497–509도 보라.'
+                  )
+                  text = text.replace('\n—David R. Knechtges\n', '\n*—David R. Knechtges*\n')
+
+              if number == 22:
+                  text = text.replace('\n— Michael Loewe\n', '\n*—Michael Loewe*\n')
+
+              if number == 23:
+                  text = text.replace('\n—Timoteus Pokora\n', '\n*—Timoteus Pokora*\n')
 
               if text != original:
                   path.write_text(text, encoding='utf-8')
