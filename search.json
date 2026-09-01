@@ -5,10 +5,7 @@ layout: null
 {% assign searchable_posts = site.posts | where_exp: "post", "post.hidden != true" %}
 {% assign taxonomy = site.data.tag_taxonomy %}
 {% for post in searchable_posts %}
-  {% assign search_tags = taxonomy.post_tags[post.path] %}
-  {% if search_tags == nil or search_tags == empty %}
-    {% assign search_tags = post.tags | default: empty %}
-  {% endif %}
+  {% assign search_tags = taxonomy.post_tags[post.path] | default: empty %}
   {
     "title": {{ post.title | jsonify }},
     "url": {{ post.url | relative_url | jsonify }},
