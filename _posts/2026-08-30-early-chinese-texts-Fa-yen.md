@@ -72,7 +72,7 @@ tags:
 
 ## 6. 번역
 
-(a) Erwin von Zach, *Yang Hsiungs Fa-yên (Worte strenger Ermahnung)* [양웅의 《法言》(엄정한 훈계의 말)], *Sinologische Beiträge* IV:1, Batavia, 1939. 전편을 옮긴 완역으로 주석은 없으며 대체로 정확하다. San Francisco: Chinese Materials Center에서 1976년에 재간행되었다.
+(a) Erwin von Zach, *Yang Hsiungs Fa-yên (Worte strenger Ermahnung)* [揚雄의 《法言》(엄정한 훈계의 말)], *Sinologische Beiträge* IV:1, Batavia, 1939. 전편을 옮긴 완역으로 주석은 없으며 대체로 정확하다. San Francisco: Chinese Materials Center에서 1976년에 재간행되었다.
 
 (b) Bruno Belpaire, *Le Catéchisme philosophique de Yang Hiong-tse* [揚雄子의 철학적 교리문답], Brussels, 1960. 오류가 매우 많다.
 
@@ -80,7 +80,7 @@ tags:
 
 《中國古典新書》, 1972. Suzuki Yoshikazu 鈴木喜一 편.
 
-Momoi Hakuroku 桃井白鹿, 《增註揚雄法言》, 1796. 司馬光의 10권 오주본에 桃井의 주석을 합하였다.
+Momoi Hakuroku 桃井白鹿, 《增註揚雄法言》, 1796. 司馬光의 10권 五注본에 桃井의 주석을 합하였다.
 
 ## 8. 색인
 
