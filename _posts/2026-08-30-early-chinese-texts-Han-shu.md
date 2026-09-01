@@ -75,31 +75,31 @@ tags:
 본문 없이 간행된 주석으로는 다음이 있다.
 
 - (a) 필사본 《漢書疏證》. 저자 미상이며 1939년 또는 그 직후 東京 內外出版社에서 영인하였다. 杭世駿(1696–1773)의 저술일 가능성이 있다. 아래 5항에 인용한 M. A. N. Loewe의 논의를 보라.
-- (b) 楊樹達, 《漢書窺管》 (Peking: 科學出版社, 1955). 교감과 해설 p. 662이며 《漢書補注》 초판의 쪽수를 직접 참조한다.
-- (c) 陳直(1980년 사망), 《漢書新證》 (Tianjin: 人民出版社, 초판 1959, p. 208; 제2판 1979, p. 496). 고고학 자료에 근거한 경우가 많은 저자의 논평은 《四部叢刊》본의 쪽수를 따른다.
-- (d) 施之勉, 《漢書補注辨證》 (Kowloon: 新亞研究所, 1961). p. 368에 교감과 해설 약 1,100조를 싣는다. 王先謙의 《漢書補注》를 바로잡으려 했으나 楊樹達나 陳直의 연구는 참조하지 않았다.
+- (b) 楊樹達, 《漢書窺管》(Peking: 科學出版社, 1955). 교감과 해설 p. 662이며 《漢書補注》 초판의 쪽수를 직접 참조한다.
+- (c) 陳直(1980년 사망), 《漢書新證》(Tianjin: 人民出版社, 초판 1959, p. 208; 제2판 1979, p. 496). 고고학 자료에 근거한 경우가 많은 저자의 논평은 《四部叢刊》본의 쪽수를 따른다.
+- (d) 施之勉, 《漢書補注辨證》(Kowloon: 新亞研究所, 1961). p. 368에 교감과 해설 약 1,100조를 싣는다. 王先謙의 《漢書補注》를 바로잡으려 했으나 楊樹達나 陳直의 연구는 참조하지 않았다.
 - (e) Kano Naoki 狩野直喜, 《漢書補注補》. 《漢書》 앞 22권에 대한 한문 주석. 《東方學報》 (Kyoto) 9:1(1938), pp. 1–9; 10:1(1939), pp. 35–48; 10:3(1939), pp. 1–12; 10:4(1940), pp. 1–9; 11:2(1940), pp. 1–12; 11:4(1941), pp. 1–4; 12:1(1941), pp. 34–48; 12:2(1941), pp. 1–10.
 
 ## 5. 근래의 연구와 연구 도구
 
 - (a) Kurata Junnosuke 倉田淳之助, 〈漢書板本考〉, 《東方學報》 27 (Kyoto, 1957), pp. 255–284.
-- (b) M. A. N. Loewe, Some recent editions of the Ch’ien Han shu, *Asia Major* X (1963), pp. 162–172.
+- (b) M. A. N. Loewe, "Some recent editions of the Ch’ien Han shu", *Asia Major* X (1963), pp. 162–172.
 
 ## 6. 《漢書》 연구 서지
 
 - (a) 馬先醒, 〈漢史論著類目〉, *Chinese Culture* (Taipei) X.3 (1969), pp. 103–170; X.4, pp. 105–159; XI.1 (1970), pp. 124–178; XI.2, pp. 69–187.
-- (b) Sanae Yoshio 早苗良雄, 《漢代研究文獻目錄邦文編》 (Kyoto: 朋友書店, 1979). 근대 일본어 단행본과 논문의 색인이다.
+- (b) Sanae Yoshio 早苗良雄, 《漢代研究文獻目錄邦文編》(Kyoto: 朋友書店, 1979). 근대 일본어 단행본과 논문의 색인이다.
 
 ## 7. 그 밖의 연구
 
-- (a) Lo Tchen-ying, *Une famille d’historiens et son oeuvre; les formes et les méthodes historiques en Chine*〔한 역사가 집안과 그 저술: 중국 역사학의 형식과 방법〕 (Paris: Paul Guethner, 1938), Université de Lyon, Bibliotheca Franco-sinica lugdunensis. Études et documents publiés par l’Institut franco-chinois de Lyon IX.
+- (a) Lo Tchen-ying, *Une famille d’historiens et son oeuvre; les formes et les méthodes historiques en Chine* [한 역사가 집안과 그 저술: 중국 역사학의 형식과 방법] (Paris: Paul Guethner, 1938), Université de Lyon, Bibliotheca Franco-sinica lugdunensis. Études et documents publiés par l’Institut franco-chinois de Lyon IX.
 - (b) Nancy Lee Swann, *Pan Chao, Foremost Woman Scholar of China, 1st Century A.D.* (New York: Century, 1932).
-- (c) A. F. P. Hulsewé, Notes on the historiography of the Han period, W. G. Beasley·E. G. Pulleyblank 편, *Historians of China and Japan* (London: Oxford University Press, 1961), pp. 31–43.
+- (c) A. F. P. Hulsewé, "Notes on the historiography of the Han period", W. G. Beasley·E. G. Pulleyblank 편, *Historians of China and Japan* (London: Oxford University Press, 1961), pp. 31–43.
 - (d) O. B. van der Sprenkel, *Pan Piao, Pan Ku and the Han History*, Occasional Paper 3, The Australian University Centre of Oriental Studies (Canberra, 1964).
 - (e) Yves Hervouet, "La valeur relative des textes du Che-ki et du Han chou" [《史記》와 《漢書》 본문의 상대적 가치], *Mélanges de Sinologie offerts à Monsieur Paul Demiéville*, Études chinoises XX (Paris: Bibliothèque de l’Institut des Hautes Études Chinoises, 1974), 제2책 pp. 55–76.
-- (f) A. F. P. Hulsewé, The problem of the authenticity of Shih chi ch. 123, the memoir on Ta Yüan, *T’oung Pao* 61:1–3 (1975), pp. 83–147.
-- (g) E. P. Sinicyn, *Ban’ Gu—istorik drevnego Kitaya*〔班固—고대 중국의 역사가〕 (Moscow: Nauka, 1975).
-- (h) 《二十五史補編》에 수록된 《漢書》 개별 권 연구 (Shanghai: 開明書店, 1936; Peking: 中華書局, 1956 재간), 제1책 pp. 135–1385, 제2책 pp. 1387–1774.
+- (f) A. F. P. Hulsewé, "The problem of the authenticity of Shih chi ch. 123, the memoir on Ta Yüan", *T’oung Pao* 61:1–3 (1975), pp. 83–147.
+- (g) E. P. Sinicyn, *Ban’ Gu—istorik drevnego Kitaya* [班固—고대 중국의 역사가] (Moscow: Nauka, 1975).
+- (h) 《二十五史補編》에 수록된 《漢書》 개별 권 연구(Shanghai: 開明書店, 1936; Peking: 中華書局, 1956 재간), 제1책 pp. 135–1385, 제2책 pp. 1387–1774.
 
 ## 8. 번역
 
@@ -113,35 +113,35 @@ tags:
 - 권22 일부: A. F. P. Hulsewé, *Remnants of Han Law* (Leiden: E. J. Brill, 1955), pp. 429–455.
 - 권23: 위 책, pp. 309–422.
 - 권24: Nancy Lee Swann, *Food and Money in Ancient China: The Earliest Economic History of China to A.D. 25. Han shu 24, with Related Texts Han shu 91 and Shih Chi 129* (Princeton, N.J.: Princeton University Press, 1950), pp. 109–359.
-- 권26 일부: Wolfram Eberhard, *Beiträge zur kosmologischen Spekulation der Chinesen der Han-Zeit*〔漢代 중국인의 우주론적 사변 연구〕, Inauguraldissertation, Berlin, 1933; *Bässler Archiv* XVI.1–2.
+- 권26 일부: Wolfram Eberhard, *Beiträge zur kosmologischen Spekulation der Chinesen der Han-Zeit* [漢代 중국인의 우주론적 사변 연구], Inauguraldissertation, Berlin, 1933; *Bässler Archiv* XVI.1–2.
 - 권54·63·65·67·68·71·74·78·92·97상·하: Burton Watson, *Courtier and Commoner in Ancient China: Selections from the History of the Former Han by Pan Ku* (New York and London: Columbia University Press, 1974).
-- 권52·54·70·94상·하·96상: V. S. Taskin, *Materialy po istorii Syunnu po kitaiskim istočnikam*〔중국 사료에 따른 匈奴 역사 자료〕 (Moscow: Nauka, 1968–1973), 제1·2책.
-- (권57): Yves Hervouet, *Le Chapitre 117 du Che-ki; biographie de Sseu-ma Siang-jou*〔《史記》 卷117: 司馬相如 전기〕 (Paris: Presses universitaires de France, 1972). 《漢書》 卷57과 평행하는 《史記》 본문의 번역이다.
+- 권52·54·70·94상·하·96상: V. S. Taskin, *Materialy po istorii Syunnu po kitaiskim istočnikam* [중국 사료에 따른 匈奴 역사 자료] (Moscow: Nauka, 1968–1973), 제1·2책.
+- (권57): Yves Hervouet, *Le Chapitre 117 du Che-ki; biographie de Sseu-ma Siang-jou* [《史記》 卷117: 司馬相如 전기] (Paris: Presses universitaires de France, 1972). 《漢書》 卷57과 평행하는 《史記》 본문의 번역이다.
 - 권61: A. F. P. Hulsewé·M. A. N. Loewe, *China in Central Asia; the Early Stage: 125 B.C.–A.D. 23. An Annotated Translation of Chapters 61 and 96 of the History of the Former Han Dynasty* (Leiden: E. J. Brill, 1979).
-- 권68: Arvid Jongchell, *Huo Kuang och hans tid*〔霍光과 그의 시대〕 (Göteborg: Elander, 1930).
+- 권68: Arvid Jongchell, *Huo Kuang och hans tid* [霍光과 그의 시대] (Göteborg: Elander, 1930).
 - 권88 일부: Tjan Tjoe Som, *Po Hu T’ung, The Comprehensive Discussions in the White Tiger Hall*, vol. I (Leiden: E. J. Brill, 1949), p. 85 이하.
 - 권91: Swann, *Food and Money in Ancient China*, pp. 414–462.
-- 권94: J. J. M. de Groot, *Chinesische Urkunden zur Geschichte Asiens*, vol. I: *Die Hunnen der vorchristlichen Zeit*〔아시아사 중국 문서 제1책: 기원전의 흉노〕 (Berlin and Leipzig: de Gruyter, 1926).
+- 권94: J. J. M. de Groot, *Chinesische Urkunden zur Geschichte Asiens*, vol. I: *Die Hunnen der vorchristlichen Zeit* [아시아사 중국 문서 제1책: 기원전의 흉노] (Berlin and Leipzig: de Gruyter, 1926).
 - 권94: Taskin, *Materialy po istorii Syunnu po kitaiskim istočnikam*, 위 참조.
-- 권96: J. J. M. de Groot, *Chinesische Urkunden zur Geschichte Asiens*, vol. II: *Die Westlande Chinas in der vorchristlichen Zeit*〔아시아사 중국 문서 제2책: 기원전 중국의 서역〕 (Berlin and Leipzig: de Gruyter, 1926); Hulsewé·Loewe, *China in Central Asia*, pp. 71–203.
-- 권99: Hans O. H. Stange, *Die Monographie über Wang Mang*〔王莽 전문〕, *Abhandlungen für die Kunde des Morgenlandes* XXIII (Leipzig: Brockhaus, 1938).
+- 권96: J. J. M. de Groot, *Chinesische Urkunden zur Geschichte Asiens*, vol. II: *Die Westlande Chinas in der vorchristlichen Zeit* [아시아사 중국 문서 제2책: 기원전 중국의 서역] (Berlin and Leipzig: de Gruyter, 1926); Hulsewé·Loewe, *China in Central Asia*, pp. 71–203.
+- 권99: Hans O. H. Stange, *Die Monographie über Wang Mang* [王莽 전문], *Abhandlungen für die Kunde des Morgenlandes* XXIII (Leipzig: Brockhaus, 1938).
 - 권99상: Clyde Bailey Sargent, *Wang Mang, a Translation of the Official Account of His Rise to Power as Given in the History of the Former Han Dynasty* (Shanghai: Graphic Art Book Co., 1950).
 - 권99: Dubs, *The History of the Former Han Dynasty*, vol. III, pp. 125–474.
 
 ### B. 일본어
 
-- 권23: Uchida Tomoo 內田智雄, 《漢書刑法志》 (Kyoto: 同志社大學, 1958).
-- 권23: Uchida Tomoo 內田智雄 편, 《譯注中國歷代刑法志》 (Tokyo: 創文社, 1964), pp. 1–57.
-- 권24: Katō Shigeru 加藤繁, 《史記平準書漢書食貨志譯注》 (Tokyo: 岩波書店, 1942), pp. 115–221.
-- 권30: Suzuki Yoshijirō 鈴木由次郎, 《漢書藝文志》 (Tokyo: 明德出版社, 1968).
+- 권23: Uchida Tomoo 內田智雄, 《漢書刑法志》(Kyoto: 同志社大學, 1958).
+- 권23: Uchida Tomoo 內田智雄 편, 《譯注中國歷代刑法志》(Tokyo: 創文社, 1964), pp. 1–57.
+- 권24: Katō Shigeru 加藤繁, 《史記平準書漢書食貨志譯注》(Tokyo: 岩波書店, 1942), pp. 115–221.
+- 권30: Suzuki Yoshijirō 鈴木由次郎, 《漢書藝文志》(Tokyo: 明德出版社, 1968).
 
-전체를 간단한 주석과 함께 번역한 책으로 Otake Takeo 小竹武夫, 《漢書》, 3책 (Tokyo: 筑摩書房, 1977–1979)이 있다.
+전체를 간단한 주석과 함께 번역한 책으로 Otake Takeo 小竹武夫, 《漢書》, 3책(Tokyo: 筑摩書房, 1977–1979)이 있다.
 
 ## 9. 색인
 
 - (a) 《漢書》 본문과 顏師古·王先謙 주석의 합동 색인. *Harvard-Yenching Index* no. 36 (Peking, 1940; Taipei, 1966 재간). 同文書局本을 바탕으로 한다.
 - (b) 黃福鑾 편, *Index to Han shu* (The Chinese University of Hong Kong, 1966). 《四部叢刊》본과 《四部備要》본을 함께 색인한다. 인명·지명·자연현상·복식·관직 등 25개 부문으로 나누고 획수순으로 배열하였다.
-- (c) 魏連科 편, 《漢書人名索引》 (Peking: 中華書局, 1979). 주석이 아니라 본문에 나타나는 이름을 수록한다. 1962년 北京 中華書局 표점본의 쪽수를 가리키며 四角號碼 순으로 배열하였다.
-- (d) 《廿五史全文資料庫》 (Taipei: 中央硏究院歷史語言硏究所, 1988).
+- (c) 魏連科 편, 《漢書人名索引》(Peking: 中華書局, 1979). 주석이 아니라 본문에 나타나는 이름을 수록한다. 1962년 北京 中華書局 표점본의 쪽수를 가리키며 四角號碼 순으로 배열하였다.
+- (d) 《廿五史全文資料庫》(Taipei: 中央硏究院歷史語言硏究所, 1988).
 
 *—A. F. P. Hulsewé*
