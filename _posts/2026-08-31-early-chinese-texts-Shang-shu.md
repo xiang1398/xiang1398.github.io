@@ -206,5 +206,4 @@ Katō Jōken 加藤常賢, 《眞古文尚書集釋》(東京: 明治書院, 196
 (b) D.C. Lau·Chen Fong Ching 편, *A Concordance to the Shang shu* 《尚書逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
 
 (c) D.C. Lau·Chen Fong Ching 편, *A Concordance to the Shang shu da zhuan* 《尚書大傳逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
-
-— *Edward L. Shaughnessy*
+*—Edward L. Shaughnessy*

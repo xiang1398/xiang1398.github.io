@@ -239,5 +239,4 @@ Maeno Naoaki 前野直彬, 《山海經》, 東京: 集英社, 1975.
 (c) D.C. Lau·Chen Fong Ching 편, *A Concordance to the Yan danzi, Shanhaijing and Mu tianzi zhuan* 《燕丹子·山海經·穆天子傳逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
 
 위 8절의 Finsterbusch와 Mathieu도 참조하라.
-
-— *Riccardo Fracasso*
+*—Riccardo Fracasso*

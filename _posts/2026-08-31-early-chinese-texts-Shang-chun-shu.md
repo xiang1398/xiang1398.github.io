@@ -161,5 +161,4 @@ L. 《中國古典新書》, 1970, Shimizu Kiyoshi 淸水潔 편.
 ## 12. 색인
 
 D.C. Lau·Chen Fong Ching 편, *A Concordance to the Shang jun shu* 《商君書逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1992.
-
-— *Jean Levi*
+*—Jean Levi*

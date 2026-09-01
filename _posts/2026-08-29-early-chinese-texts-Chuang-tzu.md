@@ -219,5 +219,4 @@ M. 《新訂中國古典選》 제7–9책(1966–1967), Fukunaga Mitsuji 福永
 - (a) 齊思和(1907–) 편, *Chuang Tzu Yin Te* 《莊子引得》, Harvard-Yenching Institute Sinological Index 총서 제20책(北京, 1947). 郭慶藩본의 이른 영인본을 바탕으로 했으며 전사 오류는 교정하지 않았다.
 
 - (b) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Zhuangzi* 《莊子逐字索引》 (**ICS** series; Hong Kong: Commercial Press, 1996년 출간 예정).
-
-—*H. D. Roth*
+*—H. D. Roth*

@@ -156,7 +156,7 @@ L. 《中國古典新書》(1977), Hihara Toshikuni 日原利國 편.
 
 (i) 康有爲, 《春秋董氏學》, Shanghai, 1894.
 
-(j) Timoteus Pokora, Notes on New Studies on Tung Chung-shu, *Archiv Orientální* 33(1965), pp. 256–271.
+(j) Timoteus Pokora, “Notes on New Studies on Tung Chung-shu,” *Archiv Orientální* 33(1965), pp. 256–271.
 
 (k) 孫詒讓. 《札迻》의 주석 참조.
 

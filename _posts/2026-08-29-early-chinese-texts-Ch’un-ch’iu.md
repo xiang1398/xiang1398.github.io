@@ -109,7 +109,7 @@ Maspero는 《左氏傳》과 《春秋》의 불일치를 Hung과 다르게 설
 
 (i) 康有爲, 《新學僞經考》(1891).
 
-(j) Bernhard Karlgren. (i) On the Authenticity and Nature of the Tso-chuan, *Göteborgs Högskolas Årsskrift* 32(1926), p. 365 이하; 臺北, 1965 재판. (ii) The Early History of the Chou li and Tso chuan Texts, *Bulletin of the Museum of Far Eastern Antiquities* 3(1931), pp. 1–59.
+(j) Bernhard Karlgren. (i) “On the Authenticity and Nature of the Tso-chuan,” *Göteborgs Högskolas Årsskrift* 32(1926), p. 365 이하; 臺北, 1965 재판. (ii) “The Early History of the Chou li and Tso chuan Texts,” *Bulletin of the Museum of Far Eastern Antiquities* 3(1931), pp. 1–59.
 
 (k) 李富孫(1764–1843), 《春秋三傳異文釋》, 《叢書集成初編》.
 
@@ -121,7 +121,7 @@ Maspero는 《左氏傳》과 《春秋》의 불일치를 Hung과 다르게 설
 
 (o) 毛奇齡, 《春秋簡書刊誤》, 《皇清經解》 卷156–157.
 
-(p) Henri Maspero, La composition et la date du Tso-chuan [《左傳》의 성립과 연대], *Mélanges chinois et bouddhiques* 1(1931–1932), pp. 137–215.
+(p) Henri Maspero, “La composition et la date du Tso-chuan” [《左傳》의 성립과 연대], *Mélanges chinois et bouddhiques* 1(1931–1932), pp. 137–215.
 
 (q) 皮錫瑞, 《經學通論》 1923년판 제5권 16b–18a.
 

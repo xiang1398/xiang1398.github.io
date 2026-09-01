@@ -135,5 +135,4 @@ tags:
 (b) 《白虎通索引（附本文）》, ‘中國哲學資料’ 제3책. 北海道中國哲學硏究會 편, 伊東倫厚 외 편집, 東京: 東豐書店, 1979. 서론에서 본문과 판본의 역사를 논하고, 盧文弨본을 바탕으로 이 책에 수록한 표점본문을 기준으로 색인한다.
 
 (c) D.C. Lau·Chen Fong Ching 편, *A Concordance to the Baihu tong* 《白虎通逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1995년 출간 예정.
-
-— *Michael Loewe*
+*—Michael Loewe*

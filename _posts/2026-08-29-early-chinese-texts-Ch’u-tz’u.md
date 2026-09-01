@@ -143,5 +143,4 @@ L. 《中國古典新書》(1970), Hoshikawa Kiyotaka 星川清孝 편.
 - (a) 위 6절을 보라.
 
 - (b) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Chu ci* 《楚辭逐字索引》 (**ICS** series; Hong Kong: Commercial Press, 1996년 출간 예정).
-
-—*David Hawkes*
+*—David Hawkes*

@@ -128,5 +128,4 @@ Barrett은 《慎子》가 9세기까지 존속했다는 증거가 입증되지 
 ## 4. 색인
 
 D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Shenzi, Shenzi and Shizi 慎子, 申子, 尸子逐字索引*, ICS series, Hong Kong: Commercial Press, 1996년 간행 예정.
-
-—*P. M. Thompson*
+*—P. M. Thompson*

@@ -210,5 +210,4 @@ A……從X，從Y，Y亦聲
 ## 8. 색인
 
 D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Shouwen jiezi* 《說文解字逐字索引》. ICS 시리즈, Hong Kong: Commercial Press, 1996년 간행 예정.
-
-—*William G. Boltz*
+*—William G. Boltz*

@@ -158,5 +158,4 @@ tags:
 > (b) P. van der Loon, *Index to the Shih Ching; Register zum Shih Ching* (Leiden: E. J. Brill, 1943). 저자는 이를 “Legge·Couvreur·Granet·Waley의 번역에서 각 시를 찾을 수 있게 한 알파벳순 색인”이라고 설명한다.
 >
 > (c) D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Shijing* 《詩經逐字索引》, ICS series (Hong Kong: Commercial Press), 1994년 간행 예정.
-
-—*Michael Loewe*
+*—Michael Loewe*

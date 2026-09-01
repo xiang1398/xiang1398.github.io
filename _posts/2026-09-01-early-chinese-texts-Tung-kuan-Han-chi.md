@@ -48,6 +48,5 @@ tags:
 ## 색인
 
 D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Dong kuan Han ji* 《東觀漢記逐字索引》, ICS 총서, 홍콩 商務印書館, 1994년 간행 예정.
-
-—*Hans Bielenstein*
-—*Michael Loewe*
+*—Hans Bielenstein*
+*—Michael Loewe*

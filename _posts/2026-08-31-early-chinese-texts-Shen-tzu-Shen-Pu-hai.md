@@ -81,5 +81,4 @@ Creel은 저서 부록 C “The Shen Pu-hai fragments”(pp. 343–413)에서 �
 ## 6. 색인
 
 D.C. Lau·Chen Fong Ching 편, *A Concordance to the Shenzi, Shenzi and Shizi* 《慎子·申子·尸子逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1996년 출간 예정.
-
-— *Herrlee G. Creel*
+*—Herrlee G. Creel*

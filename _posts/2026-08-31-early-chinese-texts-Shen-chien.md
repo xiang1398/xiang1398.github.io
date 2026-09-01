@@ -78,5 +78,4 @@ Hihara Toshikuni 日原利國, 〈荀悅の規範意識について〉, 《東�
 (a) 《申鑒通檢》 *Index du Chen Kien*, Centre franco-chinois d’études sinologiques 8, 北京, 1947. 《四部備要》본에 근거하며 책의 내용 요약을 포함한다.
 
 (b) D.C. Lau·Chen Fong Ching 편, *A Concordance to the Shen jian, Zhong lun and Xin yu* 《申鑒·中論·新語逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1995년 출간 예정.
-
-— *Ch’i-yün Ch’en*
+*—Ch’i-yün Ch’en*

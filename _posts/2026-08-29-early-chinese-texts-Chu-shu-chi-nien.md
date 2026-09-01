@@ -128,5 +128,4 @@ tags:
 ## 7. 색인
 
 D. C. Lau·Chen Fong Ching 편, *A Concordance to the Zhu shu jinian* 竹書紀年傳世本及輯本逐字索引 (*ICS* series; Hong Kong: Commercial Press, 1995년 출간 예정).
-
-—*David S. Nivison*
+*—David S. Nivison*

@@ -128,5 +128,4 @@ L. 《中國古典新書》, 1970, Kakimura Takashi 柿村峻 편.
 (a) Wallace Johnson, *Kuan tzu yin te* 《管子引得: A Concordance to the Kuan-tzu》, 臺北: Chinese Materials and Research Aids Center, 1970. 趙用賢本을 수록한 《國學基本叢書》본의 면수를 따른다.
 
 (b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Guanzi* 《管子逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1996년 출간 예정.
-
-— *W. Allyn Rickett*
+*—W. Allyn Rickett*

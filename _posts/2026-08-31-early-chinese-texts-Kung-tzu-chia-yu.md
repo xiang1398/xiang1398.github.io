@@ -113,5 +113,4 @@ L. 《中國古典新書》 제27권, 1971, Kiyota Kiyoshi 淸田淸 편. Fujiwa
 ## 6. 색인
 
 D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Kongzi Jiayu* 《孔子家語逐字索引》, ICS series, Hong Kong: Commercial Press, 1992.
-
-— *R.P. Kramers*
+*—R.P. Kramers*
