@@ -93,7 +93,7 @@ tags:
 
 앞에서 언급한 학자들의 견해는 吳則虞에 다음과 같이 인용되어 있다. 章學誠(p. 605), 焦竑(p. 604), 古賀侗庵(p. 635), 管同(pp. 630–631), 梁啟超(p. 632), 劉師培(p. 635 이하 및 p. 647 이하), 王念孫(pp. 643–644), 吳德旋(p. 630), 王應麟(p. 604)이다. 여기에 다음 연구를 덧붙일 수 있다.
 
-(a) Alfred Forke, “Yen Ying, Staatsman und Philosoph, und das Yen-tse Tch’un-tsch’iu,” *Asia Major*, Hirth Anniversary Volume (1923), pp. 101–144.
+(a) Alfred Forke, “Yen Ying, Staatsman und Philosoph, und das Yen-tse Tch’un-tsch’iu" [정치가이자 철학자인 晏嬰, 그리고 《晏子春秋》], *Asia Major*, Hirth Anniversary Volume (1923), pp. 101–144.
 
 (b) Bernhard Karlgren, “On the Authenticity of Ancient Chinese Texts,” *Bulletin of the Museum of Far Eastern Antiquities* 1 (1929), pp. 165–183.
 
@@ -109,7 +109,7 @@ tags:
 
 (a) George Kao, *Chinese Wit and Humor*, 1946년 초간, New York: Sterling Publishing Company, 1974년 재간. 《晏子春秋》에서 뽑은 열두 일화는 pp. 37–46에 실려 있다.
 
-(b) Aschwin Lippe, Drei Geschichten aus dem ‘Frühling und Herbst des Yen Ying’, *Studia Sino-Altaica: Festschrift für Erich Haenisch* (1961).
+(b) Aschwin Lippe, "Drei Geschichten aus dem 'Frühling und Herbst des Yen Ying’" [晏嬰의 《春秋》에서 발췌한 세 가지 이야기], *Studia Sino-Altaica: Festschrift für Erich Haenisch* (1961).
 
 (c) Burton Watson, *Early Chinese Literature*, New York: Columbia University Press, 1962, p. 186.
 
