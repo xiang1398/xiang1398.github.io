@@ -1,0 +1,41 @@
+name: Fix ECT 004 Berezkina formatting
+
+on:
+  push:
+    paths:
+      - '.github/workflows/fix-ect-004-berezkina.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fix malformed Markdown in ECT 004
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('_posts/2026-08-19-early-chinese-texts-Chiu-chang-suan-shu.md')
+          s = p.read_text(encoding='utf-8')
+          old = '- (a) E. I. Berezkina, “*Drevnekitajskij Traktat *Matematika v devjati Knigach** [고대 중국의 수학서 《九章算術》],” *Istoriko-matematiceskie issledovaniya* [수학사 연구] 10 (1957), pp. 423–584.'
+          new = '- (a) E. I. Berezkina, “Drevnekitajskij Traktat Matematika v devjati Knigach” [고대 중국의 수학서 《九章算術》], *Istoriko-matematiceskie issledovaniya* [수학사 연구] 10 (1957), pp. 423–584.'
+          if old not in s:
+              raise SystemExit('Target text not found; refusing broad edit')
+          if s.count(old) != 1:
+              raise SystemExit(f'Expected one target, found {s.count(old)}')
+          p.write_text(s.replace(old, new), encoding='utf-8')
+          PY
+      - name: Commit fix
+        run: |
+          if git diff --quiet; then
+            echo 'No changes.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add _posts/2026-08-19-early-chinese-texts-Chiu-chang-suan-shu.md
+          git commit -m 'Fix ECT 004 Berezkina bibliography formatting'
+          git push
