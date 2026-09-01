@@ -3,14 +3,19 @@ layout: null
 ---
 [
 {% assign searchable_posts = site.posts | where_exp: "post", "post.hidden != true" %}
+{% assign taxonomy = site.data.tag_taxonomy %}
 {% for post in searchable_posts %}
+  {% assign search_tags = taxonomy.post_tags[post.path] %}
+  {% if search_tags == nil or search_tags == empty %}
+    {% assign search_tags = post.tags | default: empty %}
+  {% endif %}
   {
     "title": {{ post.title | jsonify }},
     "url": {{ post.url | relative_url | jsonify }},
     "date": {{ post.date | date: "%Y-%m-%d" | jsonify }},
     "category": {{ post.category | default: "" | jsonify }},
     "categories": {{ post.categories | default: empty | jsonify }},
-    "tags": {{ post.tags | default: empty | jsonify }},
+    "tags": {{ search_tags | jsonify }},
     "series": {{ post.series | default: "" | jsonify }},
     "content": {{ post.content | markdownify | strip_html | strip_newlines | jsonify }}
   }{% unless forloop.last %},{% endunless %}
