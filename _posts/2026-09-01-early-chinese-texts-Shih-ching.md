@@ -31,7 +31,7 @@ tags:
 
 ## 1. 시의 수집과 네 학파
 
-《詩經》, 곧 *Book of Songs \[노래의 책\]*는 대략 기원전 1000년에서 기원전 600년 사이에 성립한 것으로 보이는 305편의 시를 수록한다. 전통적으로는 孔子가, 그 가운데 일부는 아득한 옛날에 생겨났다고 여겨진 약 3천 편의 시에서 이를 뽑아 모았다고 하였다. 다른 전승에 따르면 민심의 넓이와 깊이를 살피기 위해 임명된 관리들이 이 노래들을 수집했다고 한다. Arthur Waley는 아래 7(d)의 p. 18에서 “孔子가 이 선집의 형성에 관여했다고 생각할 아무런 이유가 없다”고 지적하였다. 그러나 이 책이 경전으로 편입되고 제국시대에 유교적 가르침을 전달하는 수단으로 활용되면서, 孔子가 편찬했다는 전통은 오래도록 유지되었을 것이다.
+《詩經》, 곧 *Book of Songs* [노래의 책] 대략 기원전 1000년에서 기원전 600년 사이에 성립한 것으로 보이는 305편의 시를 수록한다. 전통적으로는 孔子가, 그 가운데 일부는 아득한 옛날에 생겨났다고 여겨진 약 3천 편의 시에서 이를 뽑아 모았다고 하였다. 다른 전승에 따르면 민심의 넓이와 깊이를 살피기 위해 임명된 관리들이 이 노래들을 수집했다고 한다. Arthur Waley는 아래 7(d)의 p. 18에서 “孔子가 이 선집의 형성에 관여했다고 생각할 아무런 이유가 없다”고 지적하였다. 그러나 이 책이 경전으로 편입되고 제국시대에 유교적 가르침을 전달하는 수단으로 활용되면서, 孔子가 편찬했다는 전통은 오래도록 유지되었을 것이다.
 
 前漢 초에 이 선집은 관학으로 인정된 魯詩·齊詩·韓詩의 세 판본과 毛公의 私學 판본으로 알려져 있었다. 앞의 세 판본은 뒤에 今文 계통으로 분류되었고, 그 해석을 담당하는 博士 관직의 지원을 받았다. 뒤에 古文 계통으로 분류된 毛詩는 平帝 재위기(기원전 1–기원후 6)에 진흥되기 전까지 그러한 후원을 받지 못했다. 그동안 齊詩는 后蒼(기원전 70년 무렵 활동)과 이름이 전하지 않는 孫氏가 이끈 계통을 포함하여 세 갈래로 나뉘었고, 韓詩에는 內傳과 外傳이 있었다.
 
@@ -47,9 +47,9 @@ tags:
 
 > (a) 風, 또는 國風은 북방 열다섯 지역과 관련된 160편의 시로, 감정을 서정적으로 표현한 작품이라 할 수 있다. 평민의 일생, 축제, 일상생활이 언급된다. 두 부문은 周南과 召南이라 하는데, 전자는 周 지역에서, 후자는 더 먼 남방 지역에서 유래한 것으로 여겨졌다. 동식물에 관한 언급이 매우 많아 전문적인 연구가 상당히 축적되었다. 毛傳은 이 민요들에 정치적 해석을 부여한다.
 >
-> (b) 小雅, 곧 ‘소아’에는 74편이 들어 있다. 이 명칭은 상층 사회와의 관련성을 암시하며, 내용은 흔히 여러 조정 가운데 하나를 다룬다. 일부 시는 당시 권력자들에 대한 일련의 불평으로 해석되었다.
+> (b) 小雅, 곧 ‘작은 송가’에는 74편이 들어 있다. 이 명칭은 상층 사회와의 관련성을 암시하며, 내용은 흔히 여러 조정 가운데 하나를 다룬다. 일부 시는 당시 권력자들에 대한 일련의 불평으로 해석되었다.
 >
-> (c) 大雅, 곧 ‘대아’는 31편이다. 많은 작품이 周 왕국과 商의 전복을 직접 다룬다. 后稷과 같은 더 이른 시대의 신화도 일부 언급되며, 당대 현실에 대한 비판도 있다.
+> (c) 大雅, 곧 ‘큰 송’는 31편이다. 많은 작품이 周 왕국과 商의 전복을 직접 다룬다. 后稷과 같은 더 이른 시대의 신화도 일부 언급되며, 당대 현실에 대한 비판도 있다.
 >
 > (d) 頌, 곧 찬송은 周頌·魯頌·商頌으로 나뉘며 모두 40편이다. 종교 의례, 연향, 음악 공연을 묘사하고, 周 왕실을 찬양해야 한다는 메시지를 밑바탕에 둔다.
 
@@ -103,7 +103,7 @@ tags:
 
 ## 6. 연구 도구
 
-> (a) 《詩經》 입문으로는 (i) Burton Watson, *Early Chinese Literature* (New York and London: Columbia University Press, 1962), pp. 199–230과 (ii) P. Eugen Feifel, *Geschichte der Chinesischen Literatur*, 곧 Nagasawa Kikuya 長澤規矩也의 《支那學術文藝史》(東京: 三省堂, 1938)의 독일어 번역(Darmstadt: Wissenschaftliche Buchgesellschaft, 1959), pp. 62–78을 참조하라. 학술사의 전개를 요약하고 여러 문제를 검토한 연구로는 Matsuzaki Tsuruo 松崎鶴雄, 《詩經國風篇研究》(東京: 第一書房, 1937)가 있다.
+> (a) 《詩經》 입문으로는 (i) Burton Watson, *Early Chinese Literature* (New York and London: Columbia University Press, 1962), pp. 199–230과 (ii) P. Eugen Feifel, *Geschichte der Chinesischen Literatur* [중국 문학], 곧 Nagasawa Kikuya 長澤規矩也의 《支那學術文藝史》(東京: 三省堂, 1938)의 독일어 번역(Darmstadt: Wissenschaftliche Buchgesellschaft, 1959), pp. 62–78을 참조하라. 학술사의 전개를 요약하고 여러 문제를 검토한 연구로는 Matsuzaki Tsuruo 松崎鶴雄, 《詩經國風篇研究》(東京: 第一書房, 1937)가 있다.
 >
 > (b) 문헌학적 문제에 대해서는 Bernhard Karlgren, “Glosses on the Book of Odes,” *Bulletin of the Museum of Far Eastern Antiquities* 14 (1942), 16 (1944), 18 (1946)을 참조하라.
 >
@@ -119,9 +119,9 @@ tags:
 
 > (a) James Legge, *The Chinese Classics*, 제4권 제1·2부, *Sacred Books of the East*, 제3권.
 >
-> (b) Séraphin Couvreur S.J., *Cheu King. Texte chinois avec une double traduction, en français et en latin* (Sien Hien: Mission Catholique, 1896, 제3판 1934). 중국어 본문에 프랑스어와 라틴어 이중 번역을 붙였다.
+> (b) Séraphin Couvreur S.J., *Cheu King. Texte chinois avec une double traduction, en français et en latin* [시경(詩經): 프랑스어와 라틴어 이중 번역이 수록된 중국어 원문] (Sien Hien: Mission Catholique, 1896, 제3판 1934). 중국어 본문에 프랑스어와 라틴어 이중 번역을 붙였다.
 >
-> (c) Marcel Granet, *Fêtes et chansons anciennes de la Chine* (Paris: Bibliothèque de l’École des hautes études, 1919). 문학적·인류학적 관점에서 國風을 해석하고 번역한 연구이다. E. D. Edwards가 *Festivals and Songs of Ancient China* (London: Broadway Oriental Library, 1932)라는 제목으로 영어 번역하였다.
+> (c) Marcel Granet, *Fêtes et chansons anciennes de la Chine* [중국의 고대 축제와 노래] (Paris: Bibliothèque de l’École des hautes études, 1919). 문학적·인류학적 관점에서 國風을 해석하고 번역한 연구이다. E. D. Edwards가 *Festivals and Songs of Ancient China* (London: Broadway Oriental Library, 1932)라는 제목으로 영어 번역하였다.
 >
 > (d) Arthur Waley, *The Book of Songs: Translated from the Chinese* (London: George Allen and Unwin Limited, 1937).
 >
