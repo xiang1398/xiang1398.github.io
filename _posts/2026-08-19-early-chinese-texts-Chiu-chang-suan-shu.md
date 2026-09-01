@@ -96,7 +96,7 @@ tags:
 
 다음과 같은 서양 언어 번역이 출판되었다.
 
-- (a) E. I. Berezkina, “*Drevnekitajskij Traktat *Matematika v devjati Knigach** [고대 중국의 수학서 《九章算術》],” *Istoriko-matematiceskie issledovaniya* [수학사 연구] 10 (1957), pp. 423–584.
+- (a) E. I. Berezkina, “Drevnekitajskij Traktat Matematika v devjati Knigach” [고대 중국의 수학서 《九章算術》], *Istoriko-matematiceskie issledovaniya* [수학사 연구] 10 (1957), pp. 423–584.
 
 - (b) Kurt Vogel, *Neun Bücher arithmetischer Technik* [산술 기법 아홉 편], Ostwalds Klassiker der exakten Wissenschaften, n.s., vol. IV (Braunschweig, 1968).
 
