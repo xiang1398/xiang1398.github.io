@@ -143,7 +143,7 @@ William Hung는 古文 《孝經》과 孔安國 주석을 논한 끝에 처음�
 
 - (c) Itano Chōhachi 板野長八, 〈孝經の成立〉, 《史學雜誌》 64:3–4, 188–214, pp. 282–296; RBS 1(1955), 항목 408 참조. 《孝經》이 《呂氏春秋》보다 먼저 지어졌다는 가능성 낮은 견해를 주장한다.
 
-- (d) Hung, William, A Bibliographical Controversy at the T’ang Court A.D. 719, HJAS 20:1–2(1957), pp. 74–134.
+- (d) Hung, William, "A Bibliographical Controversy at the T’ang Court A.D. 719," *HJAS* 20:1–2(1957), pp. 74–134.
 
 - (e) Yen, Isabella Y., *A Grammatical Analysis of Syau Jing*, Bloomington, Indiana: Indiana Research Center in Anthropology, Folklore, and Linguistics, 1960; *RBS* 6(1960), 항목 394.
 
