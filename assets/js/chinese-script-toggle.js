@@ -5,6 +5,8 @@
   const originals = new Map();
   let converter = null;
   let loading = null;
+  let currentMode = 'traditional';
+  let observer = null;
 
   function loadOpenCC() {
     if (window.OpenCC && typeof window.OpenCC.Converter === 'function') {
@@ -15,8 +17,11 @@
     loading = new Promise((resolve, reject) => {
       const existing = document.querySelector(`script[src="${OPENCC_SRC}"]`);
       if (existing) {
-        existing.addEventListener('load', () => resolve(window.OpenCC), { once: true });
-        existing.addEventListener('error', reject, { once: true });
+        if (window.OpenCC) resolve(window.OpenCC);
+        else {
+          existing.addEventListener('load', () => resolve(window.OpenCC), { once: true });
+          existing.addEventListener('error', reject, { once: true });
+        }
         return;
       }
       const script = document.createElement('script');
@@ -33,15 +38,20 @@
     const parent = node.parentElement;
     if (!parent) return true;
     if (EXCLUDED_TAGS.has(parent.tagName)) return true;
-    if (parent.closest('[data-no-hanzi-convert], .ling-tree-rendered, .tree-example, .gloss-trans, .gloss-def')) return true;
+    if (parent.closest('[data-no-hanzi-convert]')) return true;
     return !/[\u3400-\u9fff\uf900-\ufaff]/u.test(node.nodeValue || '');
   }
 
-  function collectTextNodes() {
-    const root = document.body;
+  function collectTextNodes(root = document.body) {
     if (!root) return [];
-    const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
     const nodes = [];
+
+    if (root.nodeType === Node.TEXT_NODE) {
+      if (!shouldSkip(root)) nodes.push(root);
+      return nodes;
+    }
+
+    const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
     let node;
     while ((node = walker.nextNode())) {
       if (!shouldSkip(node)) nodes.push(node);
@@ -53,19 +63,41 @@
     if (!originals.has(node)) originals.set(node, node.nodeValue);
   }
 
+  function convertNode(node) {
+    if (!converter || shouldSkip(node)) return;
+    remember(node);
+    node.nodeValue = converter(originals.get(node));
+  }
+
+  function convertRoot(root) {
+    for (const node of collectTextNodes(root)) convertNode(node);
+  }
+
   function restoreOriginals() {
     originals.forEach((text, node) => {
       if (node.isConnected) node.nodeValue = text;
     });
   }
 
+  function startObserver() {
+    if (observer) return;
+    observer = new MutationObserver(mutations => {
+      if (currentMode !== 'simplified' || !converter) return;
+      for (const mutation of mutations) {
+        for (const added of mutation.addedNodes) {
+          if (added.nodeType === Node.TEXT_NODE) convertNode(added);
+          else if (added.nodeType === Node.ELEMENT_NODE) convertRoot(added);
+        }
+      }
+    });
+    observer.observe(document.body, { childList: true, subtree: true });
+  }
+
   async function simplify() {
     const OpenCC = await loadOpenCC();
     if (!converter) converter = OpenCC.Converter({ from: 't', to: 'cn' });
-    for (const node of collectTextNodes()) {
-      remember(node);
-      node.nodeValue = converter(originals.get(node));
-    }
+    convertRoot(document.body);
+    startObserver();
   }
 
   function updateButtons(mode) {
@@ -77,18 +109,20 @@
   }
 
   async function setMode(mode) {
+    currentMode = mode;
     if (mode === 'simplified') {
       try {
         await simplify();
       } catch (error) {
         console.warn('Chinese script conversion unavailable:', error);
+        currentMode = 'traditional';
         return;
       }
     } else {
       restoreOriginals();
     }
-    localStorage.setItem(STORAGE_KEY, mode);
-    updateButtons(mode);
+    localStorage.setItem(STORAGE_KEY, currentMode);
+    updateButtons(currentMode);
   }
 
   function makeToggle() {
@@ -108,15 +142,16 @@
 
   function mount() {
     const toggle = makeToggle();
-    const nav = document.querySelector('.site-nav');
     const header = document.querySelector('.site-header .wrapper');
-    if (nav) nav.appendChild(toggle);
-    else if (header) header.appendChild(toggle);
-    else document.body.insertAdjacentElement('afterbegin', toggle);
+    if (header) {
+      header.appendChild(toggle);
+    } else {
+      document.body.insertAdjacentElement('afterbegin', toggle);
+    }
 
-    const saved = localStorage.getItem(STORAGE_KEY) || 'traditional';
-    updateButtons(saved);
-    if (saved === 'simplified') setMode('simplified');
+    currentMode = localStorage.getItem(STORAGE_KEY) || 'traditional';
+    updateButtons(currentMode);
+    if (currentMode === 'simplified') setMode('simplified');
   }
 
   if (document.readyState === 'loading') {
