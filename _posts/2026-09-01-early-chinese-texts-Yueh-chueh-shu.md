@@ -67,7 +67,7 @@ tags:
 
 ## 5. 색인
 
-D. C. Lau·Chen Fong Ching 편, *A Concordance to the Yuejue shu* 《越絕書逐字索引》, ICS 총서, 홍콩: 商務印書館, 1993년 간행 예정.
+D. C. Lau·Chen Fong Ching 편, *A Concordance to the Yuejue shu* 《越絕書逐字索引》, *ICS* series, Hong Kong: 商務印書館, 1993년 간행 예정.
 
 *—Axel Schuessler*
 

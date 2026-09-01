@@ -246,6 +246,6 @@ M. 《新訂中國古典選》 제2·3권, 1965–1966, Yoshikawa Kōjirō 吉�
 
 (d) 後藤俊瑞, 《朱子四書集註索引》, 廣島: 廣島大學文學部中國哲學研究室, 1954.
 
-(e) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Lunyu* 《論語逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
+(e) D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Lunyu* 《論語逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
 
 *—Anne Cheng*

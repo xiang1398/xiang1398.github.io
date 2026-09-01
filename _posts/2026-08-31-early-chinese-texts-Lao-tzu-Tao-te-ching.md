@@ -278,11 +278,11 @@ Boltz, Judith M., “Lao-tzu,” *The Encyclopedia of Religion* 8, Mircea Eliade
 
 Boltz, Judith M., *A Survey of Taoist Literature, Tenth to Seventeenth Centuries*, China Research Monograph 32, Berkeley: University of California, Institute of East Asian Studies, 1987.
 
-Boltz, William G., “The Religious and Philosophical Significance of the ‘Hsiang erh’ Lao tzu in the Light of the Ma-wang-tui Silk Manuscripts,” *Bulletin of the School of Oriental and African Studies* 45.1(1982), pp. 95–117.
+Boltz, William G., “The Religious and Philosophical Significance of the ‘Hsiang erh’ Lao tzu in the Light of the Ma-wang-tui Silk Manuscripts,” *Bulletin of the School of Oriental and African Studies* 45:1(1982), pp. 95–117.
 
-Boltz, William G., “Textual Criticism and the Ma wang tui Lao tzu,” *Harvard Journal of Asiatic Studies* 44.1(1984), pp. 185–224.
+Boltz, William G., “Textual Criticism and the Ma wang tui Lao tzu,” *Harvard Journal of Asiatic Studies* 44:1(1984), pp. 185–224.
 
-Boltz, William G., “The Lao tzu Text That Wang Pi and Ho-shang Kung Never Saw,” *Bulletin of the School of Oriental and African Studies* 48.3(1985), pp. 493–501.
+Boltz, William G., “The Lao tzu Text That Wang Pi and Ho-shang Kung Never Saw,” *Bulletin of the School of Oriental and African Studies* 48:3(1985), pp. 493–501.
 
 *Catalogue des manuscrits chinois de Touen-houang (Fonds Pelliot chinois)* [敦煌 중국 사본 목록(Pelliot 중국 컬렉션)], 제1권 2001–2500번, J. Gernet·吳其昱 편, Paris: Bibliothèque Nationale, 1970.
 
@@ -292,7 +292,7 @@ Boltz, William G., “The Lao tzu Text That Wang Pi and Ho-shang Kung Never Saw,
 
 Chan, Alan K. L., *Two Visions of the Way: A Study of the Wang Pi and the Ho-shang Kung Commentaries on the Lao tzu*, Albany: State University of New York Press, 1991.
 
-陳世驤, 〈“想爾”老子道經燉煌殘卷論證〉, 《清華學報》 신판 1.2(1957), pp. 41–62.
+陳世驤, 〈“想爾”老子道經燉煌殘卷論證〉, 《清華學報》 신판 1:2(1957), pp. 41–62.
 
 鄭成海, 《老子河上公注斠理》, 臺北: 中華, 1971.
 
@@ -318,7 +318,7 @@ Hatano Tarō 波多野太郎, 〈馬王堆出土老子考〉, 《東方宗教》
 
 Henricks, Robert G., “Examining the Ma-wang-tui Silk Texts of the Lao tzu,” *T’oung Pao* 65.4–5(1980), pp. 166–199.
 
-Henricks, Robert G., “On the Chapter Divisions in the Lao tzu,” *Bulletin of the School of Oriental and African Studies* 45.3(1982), pp. 501–524.
+Henricks, Robert G., “On the Chapter Divisions in the Lao tzu,” *Bulletin of the School of Oriental and African Studies* 45:3(1982), pp. 501–524.
 
 Herforth, Derek D., *Two Philological Studies on the Mawangdui Lao Tzu Manuscripts*, University of British Columbia 석사학위논문, 1980, 개정 1989.
 
@@ -344,7 +344,7 @@ Imaeda Jirō 今枝二郎, 〈馬王堆出土「老子」古寫本について�
 
 Karlgren, Bernhard, “Notes on Lao-tse,” *Bulletin of the Museum of Far Eastern Antiquities* 47(1975), pp. 1–18.
 
-顧頡剛, 〈從呂氏春秋推測老子之成書年代〉, 《史學年報》 1.4(1932), pp. 13–46.
+顧頡剛, 〈從呂氏春秋推測老子之成書年代〉, 《史學年報》 1:4(1932), pp. 13–46.
 
 國家文物局古文獻研究室, 《馬王堆漢墓帛書》 제1권, 北京: 文物, 1980.
 
@@ -358,7 +358,7 @@ Kusuyama Haruki 楠山春樹, 〈鄭成海著『老子河上公注斠理』〉, 
 
 馬敘倫, 《老子校詁》, 1924, Hong Kong: 太平, 1965·1973 재판.
 
-Mote, Frederick, “The Oldest Book at Princeton,” *Gest Library Journal* 1.1(1986), pp. 34–44.
+Mote, Frederick, “The Oldest Book at Princeton,” *Gest Library Journal* 1:1(1986), pp. 34–44.
 
 Ōfuchi Ninji 大淵忍爾, 《敦煌道經》 2권, Tokyo: 福武書店, 1978.
 

@@ -134,7 +134,7 @@ tags:
 
 (i) 《足本山海經圖讚》. 張宗祥 편(上海: 古典文學出版社, 1958). 臺北 國立故宮博物院 소장 필사본을 저본으로 삼아 《山海經圖讚》을 활자로 조판한 판본이며, 삽화는 수록되어 있지 않다.
 
-(j) 《山海經校注》, 18卷. 袁珂의 주석서이다(上海: 上海古籍出版社, 1980). R. Mathieu의 서평은 *Asiatische Studien* 37.1 (1983), pp. 62–66에 실려 있다. 이 책은 두 부분으로 이루어져 있다. 첫째는 《海經新釋》(pp. 181–475)으로, 卷6에서 卷18까지에 대한 상세한 주석이다. 이 부분은 원래 독립된 저술로 구상되었으며, 서문은 1963년에 작성되었다. 둘째는 《山經柬釋》(pp. 1–180)으로, 卷1에서 卷5까지에 대한 간략한 주석이다. 이 부분의 주석은 종종 만족스럽지 못하며, 서문은 1978년에 작성되었다. 따라서 두 부분의 학술적 가치는 서로 다소 차이가 있다. 본문에는 표점이 되어 있으며, 위 (e)의 판본에서 주로 가져온 약 150폭의 삽화가 수록되어 있다. 또한 張明華가 편찬한 유용한 색인이 붙어 있다.
+(j) 《山海經校注》, 18卷. 袁珂의 주석서이다(上海: 上海古籍出版社, 1980). R. Mathieu의 서평은 *Asiatische Studien* 37:1 (1983), pp. 62–66에 실려 있다. 이 책은 두 부분으로 이루어져 있다. 첫째는 《海經新釋》(pp. 181–475)으로, 卷6에서 卷18까지에 대한 상세한 주석이다. 이 부분은 원래 독립된 저술로 구상되었으며, 서문은 1963년에 작성되었다. 둘째는 《山經柬釋》(pp. 1–180)으로, 卷1에서 卷5까지에 대한 간략한 주석이다. 이 부분의 주석은 종종 만족스럽지 못하며, 서문은 1978년에 작성되었다. 따라서 두 부분의 학술적 가치는 서로 다소 차이가 있다. 본문에는 표점이 되어 있으며, 위 (e)의 판본에서 주로 가져온 약 150폭의 삽화가 수록되어 있다. 또한 張明華가 편찬한 유용한 색인이 붙어 있다.
 
 《山海經》 연구에는 (h)와 (j)의 판본이 필수적이다. 여기에 (e)와 (g), 그리고 Mathieu의 번역(아래 제8장 참조)을 함께 활용하면 유익하다. 지리 문제에 관한 논의는 다음 저술들을 참조하라. 다만 이 저술들에서 제시된 여러 지명 비정은 저자들이 생각한 것만큼 확실하지 않다.
 
@@ -146,7 +146,7 @@ tags:
 
 ## 7. 본문·2차 연구
 
-(a) 張公量, 〈穆傳山經合證〉, 《禹貢》 1.5 (1934), pp. 126–135.
+(a) 張公量, 〈穆傳山經合證〉, 《禹貢》 1:5 (1934), pp. 126–135.
 
 (b) 鄭德坤, 〈山海經及其神話〉, 《史學年報》 4 (1932), pp. 127–151.
 
@@ -158,21 +158,21 @@ tags:
 
 (f) E. Joseph Eitel, “Prolegomena to the Shan Hai King,” *China Review* XVII (1888), pp. 330–348.
 
-(g) Riccardo Fracasso, “Teratoscopy or Divination by Monsters, Being a Study on the Wu-tsang Shan-ching,” 《漢學硏究》 1.2 (1983년 12월), pp. 657–700.
+(g) Riccardo Fracasso, “Teratoscopy or Divination by Monsters, Being a Study on the Wu-tsang Shan-ching,” 《漢學硏究》 1:2 (1983년 12월), pp. 657–700.
 
 (h) Riccardo Fracasso, “The Illustrations of the Shan hai jing (1). From *Yu’s Tripods to Qing Blockprints*,” *Cina* 21 (1988), pp. 93–104.
 
 (i) 何觀洲, 〈山海經在科學上之批判及其作者之時代考〉, 《燕京學報》 7 (1930), pp. 1347–1375.
 
-(j) 賀次君, 〈山海經之版本及關於山海經之著書〉, 《禹貢》 1.10 (1934), pp. 9–20, pp. 311–322.
+(j) 賀次君, 〈山海經之版本及關於山海經之著書〉, 《禹貢》 1:10 (1934), pp. 9–20, pp. 311–322.
 
 (k) 侯仁之, 〈海外四經海內四經與大荒四經海內經比較〉, 《禹貢》 7 (1937), pp. 319–326.
 
 (l) 徐炳昶, 《中國古史的傳說時代》, 上海, 1946, 臺北, 1978 재간.
 
-(m) Itō Seiji 伊藤淸司, 〈山川の神神——山海經の硏究〉, 《史學》 41.1 (1969), pp. 31–61, 42.2 (1969), pp. 29–78, 42.4 (1969), pp. 73–106.
+(m) Itō Seiji 伊藤淸司, 〈山川の神神——山海經の硏究〉, 《史學》 41:1 (1969), pp. 31–61, 42:2 (1969), pp. 29–78, 42:4 (1969), pp. 73–106.
 
-(n) Itō Seiji 伊藤淸司, 〈古代中國の民間醫療——山海經の硏究〉, 《史學》 42.4 (1969), pp. 41–62, 43.3 (1970), pp. 17–33, 43.4 (1971), pp. 39–87.
+(n) Itō Seiji 伊藤淸司, 〈古代中國の民間醫療——山海經の硏究〉, 《史學》 42:4 (1969), pp. 41–62, 43:3 (1970), pp. 17–33, 43:4 (1971), pp. 39–87.
 
 (o) 高去尋 편, 《山海經硏究論文集》, 香港: 中山, 1974.
 
@@ -188,7 +188,7 @@ tags:
 
 (u) 歐纈芳, 〈山海經校正〉, 《文史哲學報》 11 (1962), pp. 203–338.
 
-(v) John Wm. Schiffeler, “Chinese Folk Medicine: a study of the Shan-hai ching,” *Asian Folklore Studies* 39.2 (1980), pp. 41–83.
+(v) John Wm. Schiffeler, “Chinese Folk Medicine: a study of the Shan-hai ching,” *Asian Folklore Studies* 39:2 (1980), pp. 41–83.
 
 (w) Gustave Schlegel, “Problèmes Géographiques: les Peuples étrangers chez les historiens Chinois” [지리적 문제들: 중국 史家들의 기록에 나타난 이민족들], 첫 논문은 *T’oung Pao* 3 (1892), p. 101 이하.
 
@@ -196,9 +196,9 @@ tags:
 
 (y) 史景成, 〈山海經新證〉, 高去尋 편 책, pp. 1–77.
 
-(z) 王以中, 〈山海經圖與職貢圖〉, 《禹貢》 1.3 (1934), pp. 5–10, 高去尋 편 책, pp. 94–99 재수록.
+(z) 王以中, 〈山海經圖與職貢圖〉, 《禹貢》 1:3 (1934), pp. 5–10, 高去尋 편 책, pp. 94–99 재수록.
 
-(aa) 吳晗, 〈山海經中的古代故事及其系統〉, 《史學年報》 1.3 (1931), pp. 81–105.
+(aa) 吳晗, 〈山海經中的古代故事及其系統〉, 《史學年報》 1:3 (1931), pp. 81–105.
 
 (ab) 袁珂, 《中國古代神話》, 上海, 1960, 北京: 中華, 1981 재간.
 
@@ -214,7 +214,7 @@ tags:
 
 (iii) Rémi Mathieu, *Étude sur la mythologie et l’ethnologie de la Chine ancienne* [고대 중국 신화와 민족지 연구], vol. I 주석 번역, vol. II 색인, Paris: Collège de France, 1983.
 
-(iv) *Katalog Gor i Morei: Shan’ hai tszin* [산과 바다의 목록: 《山海經》], E.M. Ianshina 서론·번역·주석, Moscow: Nauka, 1977.
+(iv) *Katalog Gor i Morei: Shan’ hai tszin* [산과 바다의 목록: 《山海經》], E. M. Ianshina 서론·번역·주석, Moscow: Nauka, 1977.
 
 (b) 현대 중국어
 
@@ -236,7 +236,7 @@ Maeno Naoaki 前野直彬, 《山海經》, 東京: 集英社, 1975.
 
 (b) Sugawa Terukazu 須川照一, Nakamura Takashi 中村喬, Tamada Tsuguo 玉田繼雄, 《山海經索引》, 京都: 臨川書店, 1961.
 
-(c) D.C. Lau·Chen Fong Ching 편, *A Concordance to the Yan danzi, Shanhaijing and Mu tianzi zhuan* 《燕丹子·山海經·穆天子傳逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
+(c) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Yan danzi, Shanhaijing and Mu tianzi zhuan* 《燕丹子·山海經·穆天子傳逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
 
 위 8절의 Finsterbusch와 Mathieu도 참조하라.
 *—Riccardo Fracasso*

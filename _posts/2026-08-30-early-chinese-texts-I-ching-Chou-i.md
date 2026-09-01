@@ -195,6 +195,6 @@ M. 《新訂中國古典選》 1, Honda Wataru 本田濟 편.
 
 (a) 위 12(d) 참조.
 
-(b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Zhou yi* 《周易逐字索引》, ICS series, Hong Kong: Commercial Press, 1994 간행 예정.
+(b) D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Zhou yi* 《周易逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994 간행 예정.
 
 *—Edward L. Shaughnessy*

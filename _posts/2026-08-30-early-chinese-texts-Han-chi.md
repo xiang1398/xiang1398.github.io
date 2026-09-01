@@ -64,6 +64,6 @@ tags:
 
 ## 6. 색인
 
-D. C. Lau·Chen Fong Ching 편, *A Concordance to the Qian Han ji* 《前漢紀逐字索引》, ICS series (Hong Kong: Commercial Press, 1995년 출간 예정).
+D. C. Lau·Chen Fong Ching 편, *A Concordance to the Qian Han ji* 《前漢紀逐字索引》, *ICS* series (Hong Kong: Commercial Press, 1995년 출간 예정).
 
 *—A. F. P. Hulsewé*

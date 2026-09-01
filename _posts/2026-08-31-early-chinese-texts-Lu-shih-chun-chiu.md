@@ -128,7 +128,7 @@ L. 《中國古典新書》, 1976, Uchino Kumaichirō 內野熊一郞·Nakamura 
 
 (b) 徐復觀, 〈呂氏春秋及其對漢代學術與政治的影響〉, 《新亞書院學術年刊》 14 (1972), pp. 1–53.
 
-(c) 田鳳台, 〈呂氏春秋書目列舉析要〉, 《書目季刊》 14.1 (1980년 6월), pp. 91–104.
+(c) 田鳳台, 〈呂氏春秋書目列舉析要〉, 《書目季刊》 14:1 (1980년 6월), pp. 91–104.
 
 (d) 田鳳台, 《呂氏春秋探微》, 臺北: 學生, 1986.
 
@@ -138,7 +138,7 @@ L. 《中國古典新書》, 1976, Uchino Kumaichirō 內野熊一郞·Nakamura 
 
 (b) Carson, Michael F., *A concordance to Lü-shih ch’un-ch’iu*, vol. 1, 臺北: Chinese Materials Center, 1985.
 
-(c) D.C. Lau·Chen Fong Ching 편, *A Concordance to the Lü shi chunqiu* 《呂氏春秋逐字索引》, ICS series, Hong Kong: Commercial Press, 1994년 출간 예정.
+(c) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Lü shi chunqiu* 《呂氏春秋逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
 
 *—Michael Carson*
 

@@ -122,7 +122,7 @@ tags:
 
 (i) 널리 구하기 어려운 다른 연구는 《秦漢思想硏究文獻目錄》 0904, 0906, 0909, 0923, 0925번을 참조하라.
 
-(j) 영어로 된 가장 포괄적인 연구는 Tjan Tjoe Som, *Po hu t’ung, the Comprehensive Discussions in the White Tiger Hall* (2 vols., Leiden: E.J. Brill, 1949, 1952)이다. 긴 서론은 서지사, 내용, 漢代 경학에서의 위치를 검토한다. 진위 논쟁, 경전의 상이한 해석, 今古文 논쟁을 세밀하게 다룬 기념비적 저작이다. 번역은 《四部叢刊》본과 盧文弨·陳立의 주를 참조한다. 제1책은 네 편의 영어 번역, 제2책은 나머지와 일문을 싣는다. 주석은 제1책이 제2책보다 상세하다.
+(j) 영어로 된 가장 포괄적인 연구는 Tjan Tjoe Som, *Po hu t’ung, the Comprehensive Discussions in the White Tiger Hall* (2 vols., Leiden: E. J. Brill, 1949, 1952)이다. 긴 서론은 서지사, 내용, 漢代 경학에서의 위치를 검토한다. 진위 논쟁, 경전의 상이한 해석, 今古文 논쟁을 세밀하게 다룬 기념비적 저작이다. 번역은 《四部叢刊》본과 盧文弨·陳立의 주를 참조한다. 제1책은 네 편의 영어 번역, 제2책은 나머지와 일문을 싣는다. 주석은 제1책이 제2책보다 상세하다.
 
 ## 7. 일본 漢文 판본
 
@@ -134,5 +134,5 @@ tags:
 
 (b) 《白虎通索引（附本文）》, ‘中國哲學資料’ 제3책. 北海道中國哲學硏究會 편, 伊東倫厚 외 편집, 東京: 東豐書店, 1979. 서론에서 본문과 판본의 역사를 논하고, 盧文弨본을 바탕으로 이 책에 수록한 표점본문을 기준으로 색인한다.
 
-(c) D.C. Lau·Chen Fong Ching 편, *A Concordance to the Baihu tong* 《白虎通逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1995년 출간 예정.
+(c) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Baihu tong* 《白虎通逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1995년 출간 예정.
 *—Michael Loewe*

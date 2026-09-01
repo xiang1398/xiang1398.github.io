@@ -84,6 +84,6 @@ Momoi Hakuroku 桃井白鹿, 《增註揚雄法言》, 1796. 司馬光의 10권 
 
 ## 8. 색인
 
-D. C. Lau·Chen Fong Ching 편, *A Concordance to the Fa yan and Tai xuan jing* 《法言·太玄經逐字索引》, ICS series, Hong Kong: Commercial Press, 1995년 출간 예정.
+D. C. Lau·Chen Fong Ching 편, *A Concordance to the Fa yan and Tai xuan jing* 《法言·太玄經逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1995년 출간 예정.
 
 *—David R. Knechtges*

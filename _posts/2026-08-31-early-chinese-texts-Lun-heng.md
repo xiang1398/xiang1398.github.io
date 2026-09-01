@@ -93,7 +93,7 @@ L. 《中國古典新書》, 1983, Wakamoto Makoto 若本眞 편.
 
 (c) Yamada Katsumi 山田勝美 외 편, 《論衡固有名詞索引附宮內廳書陵部藏宋本校勘記》, 東京: 大東文化研究所, 1961.
 
-(d) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Lunheng* 《論衡逐字索引》, ICS series, Hong Kong: Commercial Press, 1995년 출간 예정.
+(d) D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Lunheng* 《論衡逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1995년 출간 예정.
 
 *—Timoteus Pokora*
 

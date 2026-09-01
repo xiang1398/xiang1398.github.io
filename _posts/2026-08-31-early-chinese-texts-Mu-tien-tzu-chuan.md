@@ -70,7 +70,7 @@ tags:
 
 ## 5. 번역
 
-알려진 바로는 현대 중국어 번역이나 일본어 번역은 출판된 적이 없다. 가장 오래된 영어 번역은 E.J. Eitel의 번역(*China Review* XVII, 1888, pp. 223–240, 247–258)이지만, 19세기 번역의 여러 사례처럼 원문을 매우 충실하게 따르지는 않는다. 주석이 적고 오류도 일부 포함한다.
+알려진 바로는 현대 중국어 번역이나 일본어 번역은 출판된 적이 없다. 가장 오래된 영어 번역은 E. J. Eitel의 번역(*China Review* XVII, 1888, pp. 223–240, 247–258)이지만, 19세기 번역의 여러 사례처럼 원문을 매우 충실하게 따르지는 않는다. 주석이 적고 오류도 일부 포함한다.
 
 두 번째 영어 번역은 Cheng Te-k’un의 것(*Journal of the North China Branch of the Royal Asiatic Society* LXIV, 1934, pp. 124–142, LXV, pp. 128–149)으로 품질은 더 낫지만 주석은 Eitel보다도 짧다. Léopold de Saussure는 “La Relation des voyages du roi Mou (au Xe siècle avant J-C.)” [기원전 10세기 穆王 여행기], *Journal asiatique*, 2nd series XVII (1921), p. 247 이하에서 일부를 번역했으나, 사실상 Eitel의 작업을 되풀이한 데 지나지 않는다(Paul Pelliot의 서평, *T’oung Pao* 21, 1922, pp. 98–102 참조).
 
@@ -112,6 +112,6 @@ tags:
 
 ## 7. 색인
 
-D.C. Lau·Chen Fong Ching 편, *A Concordance to the Yan danzi, Shanhaijing and Mu tianzi zhuan* 《燕丹子·山海經·穆天子傳逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
+D. C. Lau·Chen Fong Ching 편, *A Concordance to the Yan danzi, Shanhaijing and Mu tianzi zhuan* 《燕丹子·山海經·穆天子傳逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
 
 *—Rémi Mathieu*

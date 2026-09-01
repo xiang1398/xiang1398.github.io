@@ -75,6 +75,6 @@ L. 《中國古典新書》, 1972, Nitta Daisaku 新田大作 편.
 
 (a) Suzuki Ryūichi 鈴木隆一, 《大戴禮索引》(東京: 大安, 1945, 1967 재판). 孔廣森본을 저본으로 삼았다.
 
-(b) D. C. Lau (劉殿爵)·Chen Fong Ching (陳方正) 편, *A Concordance to the Dadai Liji* 大戴禮記逐字索引, ICS series (Hong Kong: Commercial Press, 1992).
+(b) D. C. Lau (劉殿爵)·Chen Fong Ching (陳方正) 편, *A Concordance to the Dadai Liji* 大戴禮記逐字索引, *ICS* series (Hong Kong: Commercial Press, 1992).
 
 *—Jeffrey K. Riegel*

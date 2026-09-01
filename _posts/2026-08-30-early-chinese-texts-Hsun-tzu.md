@@ -117,7 +117,7 @@ Fujiwara Sukeyo 藤原佐世(898년 사망)의 목록(역자 주: 《日本國�
 
 - (q) Duyvendak, J.J.L., The Chronology of Hsün-tzu, TP 26(1929), pp. 73–95.
 
-- (r) Malmqvist, N.G.D., A Note on the Cherng shianq Ballad in the Shyun Tzyy, BSOAS 36.2(1973), pp. 352–358.
+- (r) Malmqvist, N.G.D., A Note on the Cherng shianq Ballad in the Shyun Tzyy, BSOAS 36:2(1973), pp. 352–358.
 
 - (s) 饒彬, 《荀子疑義輯釋》, 臺北: 蘭臺, 1977. 난해한 용어와 구절을 선별하여 주석하였다.
 
@@ -171,6 +171,6 @@ L. 《中國古典新書》, 1973, Kimata Tokuo 木全德雄 편.
 
 - (a) 《荀子引得》, Harvard-Yenching Institute Sinological Index 22. 齊思和가 편찬한 완전한 컨코던스로, 서문은 1949년이다. 색인 앞의 표점 본문은 王先謙본에 기초하며 이문은 각주에 표시한다.
 
-- (b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Xunzi* 《荀子逐字索引》, ICS series, Hong Kong: Commercial Press, 1995 간행 예정.
+- (b) D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Xunzi* 《荀子逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1995 간행 예정.
 
 *—Michael Loewe*

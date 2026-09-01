@@ -122,6 +122,6 @@ D. 《國譯漢文大成》 10, 1921, Kojima Kenkichirō 小島謙吉郞 편.
 
 ## 7. 색인
 
-D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Shen jian, Zhong lun and Xin yu* 《申鑑·中論·新語逐字索引》, ICS series, Hong Kong: Commercial Press, 1995 간행 예정.
+D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Shen jian, Zhong lun and Xin yu* 《申鑑·中論·新語逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1995 간행 예정.
 
 *—Michael Loewe*

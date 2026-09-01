@@ -42,7 +42,7 @@ tags:
 
 ## 2. 진위와 성립 연대
 
-《列子》·《莊子》와 다른 문헌의 언급으로 보아 列禦寇는 기원전 400년경 인물로 여겨졌다. 본문 일부를 그 시대에 귀속할 수 있는지를 둘러싼 논의는 주로 《列子》가 확실히 이른 다른 문헌과 공유하는 구절과 《列子》 자체의 언어 사용을 중심으로 이루어졌다. 두 방법을 충분히 활용한 유일한 연구는 A.C. Graham, “The Date and Composition of Liehtzyy,” *Asia Major*, n.s. 8(1960–1961), pp. 139–198〔이하 Graham, Liehtzyy〕이다.
+《列子》·《莊子》와 다른 문헌의 언급으로 보아 列禦寇는 기원전 400년경 인물로 여겨졌다. 본문 일부를 그 시대에 귀속할 수 있는지를 둘러싼 논의는 주로 《列子》가 확실히 이른 다른 문헌과 공유하는 구절과 《列子》 자체의 언어 사용을 중심으로 이루어졌다. 두 방법을 충분히 활용한 유일한 연구는 A. C. Graham, “The Date and Composition of Liehtzyy,” *Asia Major*, n.s. 8(1960–1961), pp. 139–198〔이하 Graham, Liehtzyy〕이다.
 
 《列子》라는 책에 대한 가장 이른 증거는 기원전 14년에 작성되어 劉向(기원전 79–8)의 《別錄》에 들어 있던 보고서이다. 楊 1979, pp. 277–278 참조. 劉向은 다섯 종의 짧은 본문을 바탕으로 8편을 교감했다고 하며, 현존본과 같은 네 편의 편명을 들고 책이 희귀하다고 설명한다. 일부 학자는 문서의 진위를 의심하지만 Graham은 진짜로 받아들인다. 《漢書》 卷30 p. 1730(역자 주: 〈藝文志〉)도 劉向의 저술을 바탕으로 8편의 《列子》를 기록한다.
 
@@ -136,9 +136,9 @@ Kakimura Shigematsu 柿村重松이 편찬하여 東京 明治會館에서 1926�
 
 서양어 연구·번역 목록은 嚴의 서지에도 있으나 불완전하고 인쇄도 좋지 않다. M. Soymié와 F. Litsch의 더 철저한 서지는 《道敎研究》 3(1968), pp. 47–49에 있다. 이에 따르면 L. Pozdneeva, *Ateisty, materialisty i dialektiki drevnego Kitaya* [고대 중국의 무신론자, 유물론자, 변증론] (Moscow: Nauka, 1967)에 실린 러시아어 번역이 가장 최근 서양어 완역인 듯하지만 영국 도서관에서는 구할 수 없는 것 같다.
 
-그 다음은 B. Grynpas, *Lie tseu, Le vrai classique du vide parfait* [《列子》, 완전한 비움의 참된 고전(《沖虛眞經》)](Paris: Gallimard, 1961)이다. 《列子》 연대에 지나치게 보수적인 입장을 취하고 출처를 밝히지 않은 世德堂 재판본에서 번역하였다. 본문을 임의로 재배열했다는 비판을 받았으며, K.M. Schipper는 *TP* 51:2–3(1964), pp. 293–294에서 L. Wieger의 낡은 프랑스어 번역에 지나치게 의존했음을 보였다.
+그 다음은 B. Grynpas, *Lie tseu, Le vrai classique du vide parfait* [《列子》, 완전한 비움의 참된 고전(《沖虛眞經》)](Paris: Gallimard, 1961)이다. 《列子》 연대에 지나치게 보수적인 입장을 취하고 출처를 밝히지 않은 世德堂 재판본에서 번역하였다. 본문을 임의로 재배열했다는 비판을 받았으며, K. M. Schipper는 *TP* 51:2–3(1964), pp. 293–294에서 L. Wieger의 낡은 프랑스어 번역에 지나치게 의존했음을 보였다.
 
-현재까지 가장 좋은 서양어 번역은 A.C. Graham, *The Book of Lieh-tzu* (London: John Murray, 1960)이다. 종교적 요소를 과소평가했다는 비판도 있었지만 대체로 높이 평가되었다. 楊伯峻의 1958년 《列子集釋》을 기초로 하고 한 쪽 분량의 간결한 교감주를 부록으로 붙였다. 본문 번역에는 설명 주가 거의 없지만 각 편 앞에 중심 사상을 요약하고 p. 13 서론에서 책과 배경을 개관한다. 서양어 부분 번역도 여러 종 있다. 최근 사례로 〈楊朱〉편의 폴란드어 번역 T. Zbikowski, “Jang Czu” [楊朱], *Przeglad Orientalistycy* 1976:4, pp. 441–456이 있다.
+현재까지 가장 좋은 서양어 번역은 A. C. Graham, *The Book of Lieh-tzu* (London: John Murray, 1960)이다. 종교적 요소를 과소평가했다는 비판도 있었지만 대체로 높이 평가되었다. 楊伯峻의 1958년 《列子集釋》을 기초로 하고 한 쪽 분량의 간결한 교감주를 부록으로 붙였다. 본문 번역에는 설명 주가 거의 없지만 각 편 앞에 중심 사상을 요약하고 p. 13 서론에서 책과 배경을 개관한다. 서양어 부분 번역도 여러 종 있다. 최근 사례로 〈楊朱〉편의 폴란드어 번역 T. Zbikowski, “Jang Czu” [楊朱], *Przeglad Orientalistycy* 1976:4, pp. 441–456이 있다.
 
 ## 6. 일본어 판본
 
@@ -164,6 +164,6 @@ L. 《中國古典新書》, 1969, Anazawa Tatsuo 穴澤辰雄 편.
 
 (a) 위 5절 참조.
 
-(b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Liezi* 《列子逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1995년 출간 예정.
+(b) D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Liezi* 《列子逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1995년 출간 예정.
 
-*—T.H. Barrett*
+*—T. H. Barrett*

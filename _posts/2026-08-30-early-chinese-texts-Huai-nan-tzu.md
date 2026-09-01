@@ -143,6 +143,6 @@ L. 《中國古典新書》, 1972, Kusuyama Haruki 楠山春樹 편.
 
 - (b) 《淮南子索引》, Kyoto: 京都大學人文科學研究所, 1976.
 
-- (c) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Huainanzi* 《淮南子逐字索引》, ICS series, Hong Kong: Commercial Press, 1992.
+- (c) D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Huainanzi* 《淮南子逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1992.
 
 *—Charles Le Blanc*

@@ -215,7 +215,7 @@ tags:
 
 > (a) 위 4절 (k)와 (n)을 보라.
 >
-> (b) D. C. Lau 劉殿爵·Chen Fong Ching 陳方正 편, *A Concordance to the Militarists (Sunzi, Yuliaozi, Wuzi, Simafa)* 《兵書四種（孫子、尉繚子、吳子、司馬法）逐字索引》, ICS 총서, Hong Kong: Commercial Press, 1992.
+> (b) D. C. Lau 劉殿爵·Chen Fong Ching 陳方正 편, *A Concordance to the Militarists (Sunzi, Yuliaozi, Wuzi, Simafa)* 《兵書四種（孫子、尉繚子、吳子、司馬法）逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1992.
 
 *—Krzysztof Gawlikowski*
 *—Michael Loewe*

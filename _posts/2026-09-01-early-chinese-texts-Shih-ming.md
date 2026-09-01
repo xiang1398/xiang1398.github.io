@@ -91,6 +91,6 @@ Bodman의 연구(아래 4절 참조) 덕분에, 한대 어두 자음군의 가�
 
 ## 5. 색인
 
-D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Shi Ming and Jijiu Pian* 《釋名》《急就篇》逐字索引, ICS 총서, Hong Kong: Commercial Press, 1996년 간행 예정.
+D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Shi Ming and Jijiu Pian* 《釋名》《急就篇》逐字索引, *ICS* series, Hong Kong: Commercial Press, 1996년 간행 예정.
 
 *—Roy Andrew Miller*

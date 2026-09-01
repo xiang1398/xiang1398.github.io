@@ -113,7 +113,7 @@ tags:
 
 《舊唐書》 卷46 pp. 1980–1981(역자 주: 〈經籍志〉)과 《新唐書》 卷57 pp. 1442–1443(역자 주: 〈藝文志〉)은 각각 《孝經》 관련 저술 27종을 기록한다. 唐代 이후 孔安國傳은 중국에서 없어졌지만 일본에서는 보존·전승된 듯하다. 古文 《孝經》 자체는 宋 황실 도서관에 보존된 듯하며, 11세기의 두 저술이 이를 시사한다. 司馬光(1019–1086)의 《古文孝經指解》는 1055년에, 范祖禹(1041–1098)의 《古文孝經說》은 1086–1093년에 조정에 올렸다. 두 책은 唐 玄宗 御注와 함께 현재 《孝經注解》의 일부로 전한다(《通志堂經解》, Hung, p. 127 주119).
 
-1945년 四川 석굴에서 돌에 새긴 거의 완전한 范祖禹 古文本이 발견되었다. 비문 끝에는 “范祖禹敬書”라고 되어 있어 范祖禹 자신이 썼다는 뜻으로 이해된다. 이 발견이 古文 《孝經》 본문사 연구에 지닌 가치는 매우 크다. 전사를 포함한 馬衡, *BIHP* 20.1(1948), pp. 19–24 참조.
+1945년 四川 석굴에서 돌에 새긴 거의 완전한 范祖禹 古文本이 발견되었다. 비문 끝에는 “范祖禹敬書”라고 되어 있어 范祖禹 자신이 썼다는 뜻으로 이해된다. 이 발견이 古文 《孝經》 본문사 연구에 지닌 가치는 매우 크다. 전사를 포함한 馬衡, *BIHP* 20:1(1948), pp. 19–24 참조.
 
 Fujiwara Chikanaga 藤原親長가 1493년에 베낀 古文 《孝經》의 영인본은 1935년 東京의 《尊經閣叢刊》에 간행되었다. Dazai Jun 太宰純(春臺, 1680–1747)이 편집하고 1731년 서문을 붙인 판본은 藤原親長본보다 더 유명하다. 鮑廷博가 《古文孝經孔傳》이라는 제목으로 간행하였고 《知不足齋叢書》와 《四庫全書》에 실렸다. 비교를 위하여 《孝經注解》의 宋代 古文本도 덧붙였다.
 
@@ -151,7 +151,7 @@ William Hung는 古文 《孝經》과 孔安國 주석을 논한 끝에 처음�
 
 - (g) 鄭阿財·朱鳳玉, 《敦煌學研究論著目錄》, 臺北: 漢學研究資料及服務中心, 1987. 《孝經》는 p. 97.
 
-- (h) 何廣棪, 〈晚近《孝經》研究論文彙目〉, 《書目季刊》 32.4(1989), pp. 91–97.
+- (h) 何廣棪, 〈晚近《孝經》研究論文彙目〉, 《書目季刊》 32:4(1989), pp. 91–97.
 
 ## 5. 번역
 
@@ -159,11 +159,11 @@ William Hung는 古文 《孝經》과 孔安國 주석을 논한 끝에 처음�
 
 - (b) de Rosny, Léon, *Le Hiao-king* (《孝經》), Paris: Maisonneuve et Ch. Leclerc, 1889; *La morale de Confucius, le livre sacré de la piété filiale* [孔子의 도덕: 효의 성전], Paris: J. Maisonneuve, 1893.
 
-- (c) Chen, Ivan, *The Book of Filial Piety*, London: J. Murray, 1908, 1920; New York: E.P. Dutton & Co., 1908, 1909.
+- (c) Chen, Ivan, *The Book of Filial Piety*, London: J. Murray, 1908, 1920; New York: E. P. Dutton & Co., 1908, 1909.
 
 - (d) Wilhelm, Richard, *Hiau Ging: das Buch der Ehrfurcht* [《孝經》: 경외의 책], Peking: Verlag der Pekinger Pappelinsel, 1940.
 
-- (e) Makra, Mary Lelia, *The Hsiao ching*, Paul K.T. Sih 편, New York: St. John’s University Press, 1961.
+- (e) Makra, Mary Lelia, *The Hsiao ching*, Paul K. T. Sih 편, New York: St. John’s University Press, 1961.
 
 - (f) Tomassini, Fausto, *Testi confuciani* [유가 문헌], Turin: Unione tipografica-editrice torinese, 1974, pp. 69–83.
 
@@ -189,7 +189,7 @@ L. 《中國古典新書》, 1979, Hayashi Hideichi 林秀一 편.
 
 - (a) *Hsiao ching yin te: A Concordance to Hsiao ching* 《孝經引得》, Harvard-Yenching Institute Sinological Index Series Supplement 23, 1950; 1966 재판.
 
-- (b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Erya and Xiaojing* 《爾雅·孝經逐字索引》, ICS series, Hong Kong: Commercial Press, 1994 간행 예정.
+- (b) D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Erya and Xiaojing* 《爾雅·孝經逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994 간행 예정.
 
 (일본의 《孝經》에 관한 정보의 상당 부분은 Laura E. Hess에게 힘입었으나, 여기의 서술은 필자가 책임진다.)
 

@@ -119,6 +119,6 @@ L. 《中國古典新書》, 1968, Matano Tarō 俣野太郎 편.
 
 (a) 위 4(a) 참조.
 
-(b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Liji* 《禮記逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1992.
+(b) D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Liji* 《禮記逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1992.
 
 *—Jeffrey K. Riegel*

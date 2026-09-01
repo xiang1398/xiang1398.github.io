@@ -199,5 +199,5 @@ tags:
 
 (a) 《儀禮引得》, Harvard-Yenching Institute Sinological Index Series no. 6, 北京, 1932, 臺北: 成文出版社, 1966 재판.
 
-(b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Yili* 《儀禮逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
+(b) D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Yili* 《儀禮逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
 *—William G. Boltz*

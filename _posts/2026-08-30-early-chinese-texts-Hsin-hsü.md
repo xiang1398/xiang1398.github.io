@@ -88,6 +88,6 @@ L. 《中國古典新書》, 1973, Hirotsune Jinsei 廣常人世 편.
 ## 10. 색인
 
 - (a) 《新序通檢》 (北京: 中法漢學研究所, 1946; 臺北: 成文出版社, 1968 재간). 《四部叢刊》본을 바탕으로 한다.
-- (b) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Xinxu* 《新序逐字索引》, ICS series (Hong Kong: Commercial Press, 1992).
+- (b) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Xinxu* 《新序逐字索引》, *ICS* series (Hong Kong: Commercial Press, 1992).
 
 *—David R. Knechtges*

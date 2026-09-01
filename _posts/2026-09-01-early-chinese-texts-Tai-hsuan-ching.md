@@ -77,11 +77,11 @@ tags:
 
 (j) 孫詒讓(1848–1908)은 《札迻》에서 11개 구절만을 풀이했으며, 그중 3개는 俞樾도 논한 것이다.
 
-(k) 夏敬觀, 〈太玄經考〉, 《藝文雜誌》 1.2 (1936), pp. 1–4. 한대에서 송대에 이르는 《易》 해석 학파와 《太玄》의 관계를 논한다.
+(k) 夏敬觀, 〈太玄經考〉, 《藝文雜誌》 1:2 (1936), pp. 1–4. 한대에서 송대에 이르는 《易》 해석 학파와 《太玄》의 관계를 논한다.
 
 (l) 《中國哲學史資料選輯》(北京: 中華書局, 1960) 兩漢之部 상, pp. 179–189에는 揚雄 자주 세 편의 현대 중국어 번역이 실려 있다. 《中國哲學史教學資料彙編》(北京: 中華書局, 1964) 兩漢部分 하, pp. 301–321에는 자주 네 편에 대한 주석이 실려 있다.
 
-(m) 徐復觀, 〈揚雄論究〉, 《大陸雜誌》 50.3 (1975), pp. 1–43. 揚雄의 생애와 《漢書》(역자 주: 〈揚雄傳〉) 전기에 관한 여러 문제를 논한다. pp. 13–22의 《太玄》 관련 부분에서는 이 책과 〈解難賦〉·《法言》의 저술 동기를 비교하고, 《太玄》의 구조와 당시 사용되던 역법의 관계를 설명한다. 또 한대 수비학이 피타고라스학파에서 차용되었다는 馮友蘭의 견해를 부정한다. 馮友蘭, *A History of Chinese Philosophy*, 제2권(Princeton: Princeton University Press, 1953), pp. 93–96, pp. 101–102를 참조한다.
+(m) 徐復觀, 〈揚雄論究〉, 《大陸雜誌》 50:3 (1975), pp. 1–43. 揚雄의 생애와 《漢書》(역자 주: 〈揚雄傳〉) 전기에 관한 여러 문제를 논한다. pp. 13–22의 《太玄》 관련 부분에서는 이 책과 〈解難賦〉·《法言》의 저술 동기를 비교하고, 《太玄》의 구조와 당시 사용되던 역법의 관계를 설명한다. 또 한대 수비학이 피타고라스학파에서 차용되었다는 馮友蘭의 견해를 부정한다. 馮友蘭, *A History of Chinese Philosophy*, 제2권(Princeton: Princeton University Press, 1953), pp. 93–96, pp. 101–102를 참조한다.
 
 (n) 鄭文, 〈太玄學說初探〉, 《甘肅師大學報》 1979.4, pp. 59–70. 揚雄 저술에 대한 후속 연구를 촉진하고 저술 동기를 설명하려 하며, 《太玄》을 둘러싼 전통적 논쟁을 이해할 실마리를 제시한다.
 
@@ -119,6 +119,6 @@ Michael Nylan, *The Canon of Supreme Mystery by Yang Hsiung* (Albany: State Univ
 
 ## 7. 색인
 
-D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Fayan and Taixuanjing* 法言, 太玄經逐字索引, ICS series (Hong Kong: Commercial Press), 1995년 간행 예정.
+D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Fayan and Taixuanjing* 法言, 太玄經逐字索引, *ICS* series (Hong Kong: Commercial Press), 1995년 간행 예정.
 
 *—Michael Nylan*

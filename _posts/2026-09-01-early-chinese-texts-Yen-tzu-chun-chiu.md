@@ -129,6 +129,6 @@ tags:
 
 ## 9. 색인
 
-D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Yanzi Chunqiu* 《晏子春秋逐字索引》, ICS 총서, Hong Kong: Commercial Press, 1993년 간행 예정.
+D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Yanzi Chunqiu* 《晏子春秋逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1993년 간행 예정.
 
 *—Stephen W. Durrant*

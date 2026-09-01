@@ -81,7 +81,7 @@ tags:
 
 그 직후 秦始皇의 서적과 학자에 대한 탄압은, 일부 편이 이미 800년 넘게 전해지던 《尚書》 전승을 거의 끊어 놓았다. 다행히 당시 학자 伏勝, 흔히 伏生이라 부르는 인물은 오늘날 濟南 부근 자기 집 벽 속에 죽간본을 숨겼다. 秦 멸망 뒤 꺼내 보니 원래 문헌 가운데 28편만 읽을 수 있었다. 그는 굴하지 않고 그 본문을 가르쳤다.
 
-훨씬 뒤 文帝(재위 기원전 179–157) 때 조정은 秦의 隸書로 적힌 伏生본을 확보했다. 이것이 今文 《尚書》의 기초이다. 武帝(재위 기원전 141–87) 때 이 글은 경전으로 인정되고 歐陽高의 계통 아래 이를 해석하는 博士가 설치되었다. 이어 伏生본에 근거한 夏侯勝, 곧 大夏侯와 그의 아들 夏侯建, 곧 小夏侯 전승을 대표하는 博士도 임명되었고 모두 정통으로 인정되었다. Tjan Tjoe Som 曾珠森, *Po hu t’ung i*, vol. I, Leiden: E.J. Brill, 1949, p. 82 이하 참조.
+훨씬 뒤 文帝(재위 기원전 179–157) 때 조정은 秦의 隸書로 적힌 伏生본을 확보했다. 이것이 今文 《尚書》의 기초이다. 武帝(재위 기원전 141–87) 때 이 글은 경전으로 인정되고 歐陽高의 계통 아래 이를 해석하는 博士가 설치되었다. 이어 伏生본에 근거한 夏侯勝, 곧 大夏侯와 그의 아들 夏侯建, 곧 小夏侯 전승을 대표하는 博士도 임명되었고 모두 정통으로 인정되었다. Tjan Tjoe Som 曾珠森, *Po hu t’ung i*, vol. I, Leiden: E. J. Brill, 1949, p. 82 이하 참조.
 
 伏生 今文 전통이 정통으로 인정될 무렵, 집 벽에서 다른 두 본문이 발견되었다고 한다. 하나는 武帝 또는 宣帝(재위 기원전 74–49) 때 발견된 〈泰誓〉 본문이다. 곧 여러 今文本에 합쳐져 총 29편, 일부 편을 여러 단위로 세면 34편이 되었다.
 
@@ -203,7 +203,7 @@ Katō Jōken 加藤常賢, 《眞古文尚書集釋》(東京: 明治書院, 196
 
 (a) 顧頡剛 편, 《尚書通檢》, 北京: Harvard-Yenching Institute, 1936, 北京: 書目文獻出版社, 1982 재간.
 
-(b) D.C. Lau·Chen Fong Ching 편, *A Concordance to the Shang shu* 《尚書逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
+(b) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Shang shu* 《尚書逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
 
-(c) D.C. Lau·Chen Fong Ching 편, *A Concordance to the Shang shu da zhuan* 《尚書大傳逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
+(c) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Shang shu da zhuan* 《尚書大傳逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
 *—Edward L. Shaughnessy*

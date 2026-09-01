@@ -63,7 +63,7 @@ tags:
 
 늦어도 기원후 3세기부터 중국 학자들은 劉向本 《管子》에 기원전 7세기보다 훨씬 뒤 시대의 역사·사상 자료가 많고, 문체도 기원전 5세기 이전에는 나타나지 않으므로 적어도 책 전체를 管仲이 쓸 수 없다고 인식하였다. 서로 다른 부분의 상충하는 주장과 다양한 문체를 포함한 잡다한 내용 때문에 한 사람 또는 한 시기의 저작일 수 없다는 점도 오래전부터 인정되었다.
 
-그럼에도 여러 중국 학자는 통행 《管子》가 管仲 또는 그의 직계 제자들의 저술이라고 계속 주장하였다. 예를 들어 婁良樂, 《管子評議》, 臺灣 사간본, 1972년경을 볼 수 있다. 다른 학자들은 후대 저자들의 산물이지만 대부분 管仲의 사상을 나타낸다고 보았다. 蕭公權, *A History of Chinese Political Thought*, vol. 1, F.W. Mote 번역, Princeton: Princeton University Press, 1979, pp. 320–322와 余敦康, 〈論管仲學派〉, 《中國哲學》 제2집, 北京: 三聯書店, 1980, pp. 39–67(*Chinese Studies in Philosophy*, Winter 1982–1983, pp. 3–60 번역)을 참조할 수 있다. 1987년부터 山東 淄博에서 간행된 계간 《管子學刊》에서도 이 문제를 둘러싼 격렬한 논쟁이 이어졌다.
+그럼에도 여러 중국 학자는 통행 《管子》가 管仲 또는 그의 직계 제자들의 저술이라고 계속 주장하였다. 예를 들어 婁良樂, 《管子評議》, 臺灣 사간본, 1972년경을 볼 수 있다. 다른 학자들은 후대 저자들의 산물이지만 대부분 管仲의 사상을 나타낸다고 보았다. 蕭公權, *A History of Chinese Political Thought*, vol. 1, F. W. Mote 번역, Princeton: Princeton University Press, 1979, pp. 320–322와 余敦康, 〈論管仲學派〉, 《中國哲學》 제2집, 北京: 三聯書店, 1980, pp. 39–67(*Chinese Studies in Philosophy*, Winter 1982–1983, pp. 3–60 번역)을 참조할 수 있다. 1987년부터 山東 淄博에서 간행된 계간 《管子學刊》에서도 이 문제를 둘러싼 격렬한 논쟁이 이어졌다.
 
 《管子》의 성격이 매우 다양하므로 연대와 저자 문제는 편별로 다루어야 한다. 전체 본문에 대해 이를 시도한 연구는 羅根澤의 《管子探源》(中華書局, 1931)뿐이다. 개별 편에 대한 판단은 논쟁적일 수 있으나, 어느 편도 戰國時代보다 이르지 않고 대부분 戰國 말기에서 漢代, 곧 기원전 4–1세기에 성립했다는 기본 결론은 오늘날 대체로 받아들여진다. 이후 여러 학자가 개별 편의 연대를 추정했으나 성과는 일정하지 않다. Rickett 1985·1994 각 편의 서론을 참조할 수 있다.
 
@@ -127,5 +127,5 @@ L. 《中國古典新書》, 1970, Kakimura Takashi 柿村峻 편.
 
 (a) Wallace Johnson, *Kuan tzu yin te* 《管子引得: A Concordance to the Kuan-tzu》, 臺北: Chinese Materials and Research Aids Center, 1970. 趙用賢本을 수록한 《國學基本叢書》본의 면수를 따른다.
 
-(b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Guanzi* 《管子逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1996년 출간 예정.
+(b) D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Guanzi* 《管子逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1996년 출간 예정.
 *—W. Allyn Rickett*

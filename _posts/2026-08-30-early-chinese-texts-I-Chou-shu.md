@@ -127,7 +127,7 @@ tags:
 
 - (a) 劉師培(1884–1919), 〈王會篇補釋〉, 《國粹學報》 3.9, 12(1907).
 
-- (b) 蕭鳴籟, 〈讀周書殷祝解〉, 《學文》 1.2(1931), pp. 42–44.
+- (b) 蕭鳴籟, 〈讀周書殷祝解〉, 《學文》 1:2(1931), pp. 42–44.
 
 - (c) 顧頡剛(1893–1980), 〈讀周書官職篇〉, 《禹貢》 7.6–7(1937), pp. 327–332.
 
@@ -139,6 +139,6 @@ tags:
 
 ## 6. 색인
 
-D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Yizhoushu* 《逸周書逐字索引》, ICS series, Hong Kong: Commercial Press, 1992.
+D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Yizhoushu* 《逸周書逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1992.
 
 *—Edward L. Shaughnessy*

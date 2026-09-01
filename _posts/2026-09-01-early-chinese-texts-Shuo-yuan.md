@@ -82,6 +82,6 @@ tags:
 
 > (a) *Shuo yüan yin te (Index to Shuo Yüan)* 《說苑引得》. Harvard–Yenching Index 제1호. 초판: 北平, 1931, 재판: 臺北, 成文出版社, 1966.
 >
-> (b) *A Concordance to the Shuoyuan* 《說苑逐字索引》. D. C. Lau (劉殿爵), Chen Fong Ching (陳方正) 편. ICS 총서. 香港: 商務印書館, 1992.
+> (b) *A Concordance to the Shuoyuan* 《說苑逐字索引》. D. C. Lau (劉殿爵), Chen Fong Ching (陳方正) 편. *ICS* series. Hong Kong: 商務印書館, 1992.
 
 *—David R. Knechtges*

@@ -52,7 +52,7 @@ tags:
 
 - *HY* *Harvard-Yenching Institute*
 
-- *ICS* *The ICS Ancient Chinese Text Concordance Series*: 《先秦兩漢古籍逐字索引叢刊》. 劉殿爵(D. C. Lau)·陳方正(Chen Fong Ching) 편, 香港中文大學中國文化研究所, 홍콩: 商務印書館, 1992–. 본문 교감 주석의 책임 편자는 劉殿爵이다.
+- *ICS* *The ICS Ancient Chinese Text Concordance Series*: 《先秦兩漢古籍逐字索引叢刊》. 劉殿爵(D. C. Lau)·陳方正(Chen Fong Ching) 편, 香港中文大學中國文化研究所, Hong Kong: 商務印書館, 1992–. 본문 교감 주석의 책임 편자는 劉殿爵이다.
 
 - *JAOS* *Journal of the American Oriental Society*
 

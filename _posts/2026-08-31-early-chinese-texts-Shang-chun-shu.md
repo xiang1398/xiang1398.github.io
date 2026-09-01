@@ -140,7 +140,7 @@ tags:
 
 ## 9. 번역
 
-(a) J.J.L. Duyvendak, *The Book of Lord Shang*, London: Arthur Probsthain, 1928, Chicago: University of Chicago Press, 1963, London: UNESCO Collection of Representative Works, Chinese Series, 1963 재간. 긴 서론에서 商鞅의 사상과 책의 진위를 연구하고, 본문에 상당한 주석을 붙였다. 해석 오류가 일부 있다.
+(a) J. J. L. Duyvendak, *The Book of Lord Shang*, London: Arthur Probsthain, 1928, Chicago: University of Chicago Press, 1963, London: UNESCO Collection of Representative Works, Chinese Series, 1963 재간. 긴 서론에서 商鞅의 사상과 책의 진위를 연구하고, 본문에 상당한 주석을 붙였다. 해석 오류가 일부 있다.
 
 (b) Jean Levi, *Le Livre du prince Shang* [商君의 책], Paris: Flammarion, 1981.
 
@@ -152,13 +152,13 @@ L. 《中國古典新書》, 1970, Shimizu Kiyoshi 淸水潔 편.
 
 ## 11. 연구 도구와 비판적 연구
 
-근래 연구 대부분은 商鞅의 저술 자체보다 실천 정치에 관심을 두며, 저술은 더 일반적인 法家 연구 속에서 다루어지기도 한다. 梁啓超와 Vandermeersch의 저술은 《韓非子》 항목 9·1절을 보라. 정치이론은 위의 Duyvendak·Levi와 Yuan Shao-chi, “Some Reflections on Shang Yang and his Political Philosophy,” *Chinese Culture* 9.3 (1968), pp. 81–92를 참조하라. 교감본과 본문 전승은 위 연구 외에 陳啓天, 〈法家述要〉, 《中央硏究院歷史語言硏究所集刊》 40.2 (1969), pp. 865–866을 참조하라.
+근래 연구 대부분은 商鞅의 저술 자체보다 실천 정치에 관심을 두며, 저술은 더 일반적인 法家 연구 속에서 다루어지기도 한다. 梁啓超와 Vandermeersch의 저술은 《韓非子》 항목 9·1절을 보라. 정치이론은 위의 Duyvendak·Levi와 Yuan Shao-chi, “Some Reflections on Shang Yang and his Political Philosophy,” *Chinese Culture* 9:3 (1968), pp. 81–92를 참조하라. 교감본과 본문 전승은 위 연구 외에 陳啓天, 〈法家述要〉, 《中央硏究院歷史語言硏究所集刊》 40:2 (1969), pp. 865–866을 참조하라.
 
 商鞅의 정치 원리와 중국 통치술에 대한 공헌은 蘇軾(1036–1101)의 〈論商鞅〉을 비롯한 여러 글에서 논평되었다. 근대에는 楊寬, 《商鞅變法》(上海: 人民, 1955, 1975년 당시 중국 정치 상황을 반영해 수정 재간)이 있다.
 
-최근 연구의 서지·평가·일부 번역은 Li Yu-ning 편, *Shang Yang’s Reforms and State Control in China* (White Plains, New York: M.E. Sharpe, 1977)를 보라. Vitaly A. Rubin, *Individual and State in Ancient China: Essays on Four Chinese Philosophers*, Steven I. Levine 역(New York: Columbia University Press, 1976), 제3장 “The Theory and Practice of a Totalitarian State: Shang Yang and Legalism”도 참조하라.
+최근 연구의 서지·평가·일부 번역은 Li Yu-ning 편, *Shang Yang’s Reforms and State Control in China* (White Plains, New York: M. E. Sharpe, 1977)를 보라. Vitaly A. Rubin, *Individual and State in Ancient China: Essays on Four Chinese Philosophers*, Steven I. Levine 역(New York: Columbia University Press, 1976), 제3장 “The Theory and Practice of a Totalitarian State: Shang Yang and Legalism”도 참조하라.
 
 ## 12. 색인
 
-D.C. Lau·Chen Fong Ching 편, *A Concordance to the Shang jun shu* 《商君書逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1992.
+D. C. Lau·Chen Fong Ching 편, *A Concordance to the Shang jun shu* 《商君書逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1992.
 *—Jean Levi*

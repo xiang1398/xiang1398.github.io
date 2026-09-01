@@ -74,6 +74,6 @@ Toriyama Shūgaku 鳥山崧岳이 1759년에 返り点을 붙여 간행한 판�
 ## 8. 색인
 
 - (a) Toyoshima Mutsu 豐島睦, 《韓詩外傳索引》 (Hiroshima: 比治山女子短期大學, 1972). 위 7의 鳥山 판본을 바탕으로 전체 본문을 재현하고 단락 번호를 붙였다. 사실상 색인이지만 종결 어조사 항목은 없다.
-- (b) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Hanshi waizhuan* 《韓詩外傳逐字索引》, ICS series (Hong Kong: Commercial Press, 1992).
+- (b) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Hanshi waizhuan* 《韓詩外傳逐字索引》, *ICS* series (Hong Kong: Commercial Press, 1992).
 
 *—James R. Hightower*

@@ -159,6 +159,6 @@ tags:
 
 - (a) Wallace Johnson, *A Concordance to Han-Fei Tzu (Han fei tzu yin te)*, Research Aids Series No. 13 (San Francisco: Chinese Materials Center Inc., 1975). 王先慎 《韓非子集解》(Taiwan: 世界書局, 1955)를 참조한다.
 - (b) 周鍾靈·施孝適·許惟賢 편, 《韓非子索引》(Peking: 中華書局, 1982). 권말의 번체자 표점 본문을 참조하며, 그 본문은 吳鼒의 乾道本을 바탕으로 한다. 각 편 뒤 주에 이문을 제시한다.
-- (c) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Hanfeizi* 《韓非子逐字索引》, ICS series (Hong Kong: Commercial Press), 1996년 출간 예정.
+- (c) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Hanfeizi* 《韓非子逐字索引》, *ICS* series (Hong Kong: Commercial Press), 1996년 출간 예정.
 
 *—Jean Levi*

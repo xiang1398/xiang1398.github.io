@@ -114,6 +114,6 @@ M. 《新訂中國古典選》 제5책, 1966, Kanaya Osamu 金谷治 편.
 
 (c) Morimoto Kakuzō 森本角藏, 《四書索引》, 東京: 目黑書店, 1921, 제2판 1933, 제3판 1937.
 
-(d) D.C. Lau·Chen Fong Ching 편, *A Concordance to the Mengzi* 《孟子逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
+(d) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Mengzi* 《孟子逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
 
-*—D.C. Lau*
+*—D. C. Lau*

@@ -102,9 +102,9 @@ tags:
 
 (f) Kaga Eiji 加賀榮治, 〈爾雅文字考〉, 《諸橋博士古稀祝賀紀念論文集》, 東京: 諸橋轍次先生古稀祝賀紀念會, 1953, pp. 372–393.
 
-(g) 顧頡剛, 〈讀爾雅釋地以下四篇〉, 《史學年報》 2.1(1934), pp. 247–266.
+(g) 顧頡剛, 〈讀爾雅釋地以下四篇〉, 《史學年報》 2:1(1934), pp. 247–266.
 
-(h) Naitō Torajirō 內藤虎次郎, 〈爾雅の新研究〉, 《支那學》 2.1(1921), pp. 1–11·106–110.
+(h) Naitō Torajirō 內藤虎次郎, 〈爾雅の新研究〉, 《支那學》 2:1(1921), pp. 1–11·106–110.
 
 (i) 聞一多, 《爾雅新義》, 《古典新義》 수록, 北京: 古籍出版社, 1956, pp. 209–231.
 
@@ -118,6 +118,6 @@ tags:
 
 (b) *Erh ya chu shu yin shu yin te* 《爾雅注疏引書引得》, *Harvard-Yenching Institute Sinological Index Series*, no. 38, Peking, 1941.
 
-(c) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Erya and Xiaojing* 《爾雅孝經逐字索引》, ICS series, Hong Kong: Commercial Press, 1994년 출간 예정.
+(c) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Erya and Xiaojing* 《爾雅孝經逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
 
 *—W. South Coblin*

@@ -125,6 +125,6 @@ tags:
 
 (a) *Feng su t’ung i t’ung chien* 《風俗通義通檢》, *Index du Feng su t’ung i* [《風俗通義》 색인], Centre franco-chinois d’études sinologiques, Peking, 1943; Taipei: 成文出版社, 1968 재간. 《四部叢刊》 본문에 표점을 더하여 재수록하고 盧文弨의 주석 대부분, 孫詒讓의 주기, 嚴可均(1762–1843)의 《全後漢文》에서 뽑은 일문 6권, 盧文弨와 張澍의 일문집을 함께 싣는다.
 
-(b) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Fengsu tongyi* 《風俗通義逐字索引》, ICS series, Hong Kong: Commercial Press, 1995년 출간 예정.
+(b) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Fengsu tongyi* 《風俗通義逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1995년 출간 예정.
 
 *—Michael Nylan*

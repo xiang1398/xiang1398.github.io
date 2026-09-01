@@ -113,7 +113,7 @@ tags:
 >
 > (e) 漢學 계열의 비판 연구로는 陳奐, 《詩毛氏傳疏》를 참조하라. 약 1850년에 처음 인쇄되었고, 臺北에서 1968년에 재간행되었다.
 >
-> (f) 현대 비평으로는 (i) 聞一多(1899–1946), 《古典新義》(北京: 古籍出版社, 1956), (ii) 陳世驤, “The Shih ching: Its Generic Significance in Chinese Literary History and Poetics,” 《中央研究院歷史語言研究所集刊》 39.1 (1969), pp. 371–413, (iii) C. H. Wang, *The Bell and the Drum: Shih Ching as Formulaic Poetry in an Oral Tradition* (Berkeley, 1974)을 참조하라.
+> (f) 현대 비평으로는 (i) 聞一多(1899–1946), 《古典新義》(北京: 古籍出版社, 1956), (ii) 陳世驤, “The Shih ching: Its Generic Significance in Chinese Literary History and Poetics,” 《中央研究院歷史語言研究所集刊》 39:1 (1969), pp. 371–413, (iii) C. H. Wang, *The Bell and the Drum: Shih Ching as Formulaic Poetry in an Oral Tradition* (Berkeley, 1974)을 참조하라.
 
 ## 7. 번역
 
@@ -157,5 +157,5 @@ tags:
 >
 > (b) P. van der Loon, *Index to the Shih Ching; Register zum Shih Ching* (Leiden: E. J. Brill, 1943). 저자는 이를 “Legge·Couvreur·Granet·Waley의 번역에서 각 시를 찾을 수 있게 한 알파벳순 색인”이라고 설명한다.
 >
-> (c) D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Shijing* 《詩經逐字索引》, ICS series (Hong Kong: Commercial Press), 1994년 간행 예정.
+> (c) D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Shijing* 《詩經逐字索引》, *ICS* series (Hong Kong: Commercial Press), 1994년 간행 예정.
 *—Michael Loewe*

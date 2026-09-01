@@ -123,7 +123,7 @@ tags:
 
 (iv) David W. Pankenier, “Mozi and the Dates of Xia, Shang and Zhou: a Research Note,” *Early China* 9–10 (1983–1985), pp. 175–181.
 
-(v) David W. Pankenier, “The Bamboo Annals revisited: problems of method in using the chronicle as a source for the chronology of Early Zhou, Part I,” *Bulletin of the School of Oriental and African Studies* 55.2 (1992), pp. 272–297.
+(v) David W. Pankenier, “The Bamboo Annals revisited: problems of method in using the chronicle as a source for the chronology of Early Zhou, Part I,” *Bulletin of the School of Oriental and African Studies* 55:2 (1992), pp. 272–297.
 
 ## 7. 색인
 

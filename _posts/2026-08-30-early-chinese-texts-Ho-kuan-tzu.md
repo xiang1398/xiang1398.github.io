@@ -77,7 +77,7 @@ tags:
 
 ## 8. 색인
 
-D. C. Lau·Chen Fong Ching 편, *A Concordance to the Heguanzi, Wenshi zhenjing and Wei guzi* 《鶡冠子·文始真經·鬼谷子逐字索引》, ICS series, Hong Kong: Commercial Press, 1995년 출간 예정.
+D. C. Lau·Chen Fong Ching 편, *A Concordance to the Heguanzi, Wenshi zhenjing and Wei guzi* 《鶡冠子·文始真經·鬼谷子逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1995년 출간 예정.
 
 *—David R. Knechtges*
 

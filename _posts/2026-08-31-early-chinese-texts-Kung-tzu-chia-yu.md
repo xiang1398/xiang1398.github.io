@@ -36,7 +36,7 @@ tags:
 
 따라서 《家語》는 기본적으로 공자라는 인물, 그의 가르침과 원칙, 생애의 사건을 중심으로 한 고대 전승 모음집이다. 본문의 상당 부분은 인간 행위의 윤리적 측면을 중시하는 유가의 입장을 드러내며, 비유나 우화를 통해 이를 설명하는 경우가 많다. 가장 자주 반복되는 단일 주제는 禮와 의례가 사회 질서 및 올바른 인간 행동과 맺는 관계이다.
 
-내용의 간략한 개관은 R.P. Kramers, *K’ung tzu chia yü, the School Sayings of Confucius* (Leiden: E.J. Brill, 1950), pp. 1–14를 참조할 수 있다. 《家語》의 거의 전 본문은 다른 자료에도 보이는 내용으로 이루어져 있으므로 漢代 이전과 漢初의 수많은 문헌에 상당한 수의 병행문이 남아 있다. Kramers, 앞의 책 p. 170 이하와 p. 361 이하의 병행문 대조표를 참조할 수 있다.
+내용의 간략한 개관은 R. P. Kramers, *K’ung tzu chia yü, the School Sayings of Confucius* (Leiden: E. J. Brill, 1950), pp. 1–14를 참조할 수 있다. 《家語》의 거의 전 본문은 다른 자료에도 보이는 내용으로 이루어져 있으므로 漢代 이전과 漢初의 수많은 문헌에 상당한 수의 병행문이 남아 있다. Kramers, 앞의 책 p. 170 이하와 p. 361 이하의 병행문 대조표를 참조할 수 있다.
 
 ## 2. 성립 연대와 진위
 
@@ -96,7 +96,7 @@ tags:
 
 (i) Haloun, Gustav, “Fragmente des Fu-tsï und des Tsin-tsï: Früh-Konfuzianische Fragmente I” [《宓子》와 《晉子》 단편: 초기 유가 단편 I], *Asia Major* 8 (1932), pp. 437–509. 《家語》의 한 구절이 병행문의 원천임을 입증하려 하면서 진위 문제를 새로운 각도에서 검토하였다.
 
-(j) R.P. Kramers의 앞서 든 책 서론은 여전히 이 문제를 가장 상세하게 다룬 연구이다. 제1–10편의 번역도 제공한다. Wolfram Eberhard의 서평, *Oriens* IV(1951), pp. 142–145는 위작의 파급과 동기를 더 연구할 길을 열었다.
+(j) R. P. Kramers의 앞서 든 책 서론은 여전히 이 문제를 가장 상세하게 다룬 연구이다. 제1–10편의 번역도 제공한다. Wolfram Eberhard의 서평, *Oriens* IV(1951), pp. 142–145는 위작의 파급과 동기를 더 연구할 길을 열었다.
 
 (k) Wilhelm, Richard, *Kung Futse, Schulgespräche (Gia yü)* [孔夫子, 학단의 대화(家語)]. Helmut Wilhelm이 유고로 간행하였다. Düsseldorf-Köln: Eugen Diederichs Verlag, 1961. 잘 알려진 병행문 가운데 Richard Wilhelm이 다른 곳에서 번역한 부분을 제외하고 전편을 번역하였다.
 
@@ -112,5 +112,5 @@ L. 《中國古典新書》 제27권, 1971, Kiyota Kiyoshi 淸田淸 편. Fujiwa
 
 ## 6. 색인
 
-D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Kongzi Jiayu* 《孔子家語逐字索引》, ICS series, Hong Kong: Commercial Press, 1992.
-*—R.P. Kramers*
+D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Kongzi Jiayu* 《孔子家語逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1992.
+*—R. P. Kramers*

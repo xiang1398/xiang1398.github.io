@@ -115,7 +115,7 @@ tags:
 
 (a) *Guo yu: Propos sur les Principautés I: Zhouyu* [《國語》: 제후국들에 관한 담론 I: 《周語》], André d’Hormon 번역, Rémi Mathieu 보완, Paris: Collège de France, Institut des Hautes Études Chinoises, 1985.
 
-(b) *Go Iui (Rechi tsarstv)* [《國語》(제후국들의 담론 )], V.S. Taskin 번역·서론·주석, Moscow: Nauka, 1987.
+(b) *Go Iui (Rechi tsarstv)* [《國語》(제후국들의 담론 )], V. S. Taskin 번역·서론·주석, Moscow: Nauka, 1987.
 
 ## 8. 일본어 판본
 
@@ -139,6 +139,6 @@ L. 《中國古典新書》, 1969, Ōno Takashi 大野峻 편.
 
 (c) 張以仁, 《國語引得》, 臺北: 中央研究院歷史語言研究所, 1976. 讀未見書齋가 天聖明道本을 1800년에 중각한 판본의 영인본〔臺北: 世界書局〕을 저본으로 한다.
 
-(d) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Guoyu* 《國語逐字索引》, ICS series, Hong Kong: Commercial Press, 1996년 출간 예정.
+(d) D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Guoyu* 《國語逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1996년 출간 예정.
 
 *—張以仁·William G. Boltz·Michael Loewe*
