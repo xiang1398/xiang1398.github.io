@@ -8,6 +8,10 @@ permalink: /
 
 고전 문헌, 역사언어학, 음운론, 번역과 독서 노트를 기록합니다.
 
+<form action="{{ '/search/' | relative_url }}" method="get" style="margin: 1.2rem 0 1.5rem;">
+  <input type="search" name="q" placeholder="블로그 검색 — 제목·본문·태그·카테고리" aria-label="블로그 검색" style="width: 100%; box-sizing: border-box; font: inherit; padding: .65rem .8rem; border: 1px solid #c8c8c8; border-radius: 6px;">
+</form>
+
 ### Contact
 
 블로그 내용에 관한 의견·질문·오류 제보는 [zasanblog@gmail.com](mailto:zasanblog@gmail.com)으로 보내실 수 있습니다.
@@ -29,9 +33,23 @@ permalink: /
 - 고전문학(운문).
 - 고전음악(Classical Music).
 
-### Project
+## 주요 연재 · 글 모음
 
-- [*Early Chinese Texts* 번역글 모음]({{ "/projects/early-chinese-texts/" | relative_url }})
+- [*Early Chinese Texts* 번역 — 본편 001–065 및 부록]({{ "/projects/early-chinese-texts/" | relative_url }})
+- [중국어 운율통사론]({{ "/tags/" | relative_url }}#운율통사론)
+- [갑골문 · 갑골저록]({{ "/tags/" | relative_url }}#갑골문)
+- [전국초간 · 출토문헌]({{ "/tags/" | relative_url }}#전국초간)
+- [문헌학]({{ "/tags/" | relative_url }}#문헌학)
+
+## 주요 글
+
+- [중국어 운율통사론 소개]({% post_url 2026-08-27-Chinese-prosodic-syntax-introduction %})
+- [《甲骨文合集》 이전의 갑골 저록과 《甲骨文合集》]({% post_url 2026-08-26-.pre-Heji-oracle-bone-catalogues-and-the-Jiaguwen-Heji %})
+- [《甲骨文合集》 이후의 갑골 저록과 綴合 연구]({% post_url 2026-08-26-post-Heji-oracle-bone-catalogues-and-joining-research %})
+- [전국초죽간 자료 목록]({% post_url 2026-08-28-warring-states-bamboo-manuscripts-catalogue %})
+- [둔황 사본 컬렉션·목록·데이터베이스]({% post_url 2026-08-26-Dunhuang-Manuscript-Collections-Catalogues-and-Databases %})
+
+글은 [카테고리별]({{ "/categories/" | relative_url }})·[태그별]({{ "/tags/" | relative_url }})로 찾아보거나 [전문 검색]({{ "/search/" | relative_url }})할 수 있습니다.
 
 {% assign visible_posts = site.posts | where_exp: "post", "post.hidden != true" %}
 
