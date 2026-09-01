@@ -4,20 +4,26 @@ title: 태그
 permalink: /tags/
 ---
 
-{% assign sorted_tags = site.tags | sort %}
+{% assign taxonomy = site.data.tag_taxonomy %}
+{% assign visible_posts = site.posts | where_exp: "post", "post.hidden != true" %}
 
-{% if sorted_tags.size == 0 %}
-아직 태그가 지정된 글이 없습니다.
-{% endif %}
+{% for tag_name in taxonomy.tags %}
+  {% assign tag_count = 0 %}
+  {% for post in visible_posts %}
+    {% assign curated_tags = taxonomy.post_tags[post.path] %}
+    {% if curated_tags contains tag_name %}
+      {% assign tag_count = tag_count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
 
-{% for tag in sorted_tags %}
-## {{ tag[0] }}
+  {% if tag_count > 0 %}
+## {{ tag_name }} <small>({{ tag_count }})</small>
 
-{% assign posts = tag[1] %}
-{% for post in posts %}
-{% unless post.hidden %}
+    {% for post in visible_posts %}
+      {% assign curated_tags = taxonomy.post_tags[post.path] %}
+      {% if curated_tags contains tag_name %}
 - {{ post.date | date: "%Y-%m-%d" }} — [{{ post.title }}]({{ post.url | relative_url }}){% if post.category %} · {{ post.category }}{% endif %}{% if post.series %} · *{{ post.series }}*{% endif %}
-{% endunless %}
-{% endfor %}
-
+      {% endif %}
+    {% endfor %}
+  {% endif %}
 {% endfor %}
