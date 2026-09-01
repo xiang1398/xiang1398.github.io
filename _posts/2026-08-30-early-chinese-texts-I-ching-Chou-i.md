@@ -117,7 +117,7 @@ tags:
 
 서양어로 출판된 최초의 완역은 예수회 신부 Jean-Baptiste Regis(1663–1738)의 라틴어 번역으로 1834년과 1839년에 두 권으로 간행되었다. 영어권 학생은 대체로 두 번역 가운데 하나를 접한다. (a) Legge, *Sacred Books of the East* 16권. 여러 차례 재간되었다. (b) Richard Wilhelm, *The I Ching or Book of Changes*, Cary F. Baynes 번역, 2책, Bollingen Series 19, New York, 1950. Wilhelm 번역은 둘 가운데 훨씬 읽기 쉽다. 본문의 역사 연구에는 사용할 수 없지만 淸代 말 전통 중국 유학자가 이해한 본문을 충실히 제시한다는 장점이 있다. 《周易》의 여러 부분, ‘十翼’, Wilhelm 자신의 설명을 구별하도록 주의해야 한다.
 
-근래 간행된 많은 번역의 상세한 목록은 Hellmut Wilhelm, The Book of Changes in the Western Tradition, *Parerga* 2(1975)를 참조할 것.
+근래 간행된 많은 번역의 상세한 목록은 Hellmut Wilhelm, “The Book of Changes in the Western Tradition”, *Parerga* 2(1975)를 참조할 것.
 
 ## 11. 일본어 판본
 

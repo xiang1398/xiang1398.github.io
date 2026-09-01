@@ -61,13 +61,13 @@ tags:
 
 주석을 서문 저자에게 귀속한 것은 분명히 잘못이다. 주석에는 唐代의 피휘가 반영되어 있고, 楊倞의 《荀子》 주석, 《四部叢刊》본 卷1 21b(819년 서문)에도 본문과 함께 반영되어 있다. 또한 ‘守白’을 거듭 언급하므로 당시 책의 제목이 아직 《守白論》이었음을 시사한다. 아마 唐代 서지에 기록된 두 옛 주석 가운데 하나일 것이다. 주석을 두 唐代 주석가의 것으로 나누는 견해는 아래 5절에 든 Kandel p. 290을 참조할 수 있다.
 
-제2편과 어쩌면 다른 편에도 심각한 본문 착간의 증거가 있다. 제2편의 재배열은 A.C. Graham, Two dialogues in the Kung-sun Lung tzu, “White horse” and “Left and Right”, *Asia Major, New Series* 11:2(1965), pp. 128–152에서 제안되었다. 다섯 편 전체의 재배열은 아래 6절에 든 天野鎭雄의 판본을 참조할 수 있다.
+제2편과 어쩌면 다른 편에도 심각한 본문 착간의 증거가 있다. 제2편의 재배열은 A.C. Graham, “Two dialogues in the Kung-sun Lung tzu, ‘White horse’ and ‘Left and Right’,” *Asia Major, New Series* 11:2(1965), pp. 128–152에서 제안되었다. 다섯 편 전체의 재배열은 아래 6절에 든 天野鎭雄의 판본을 참조할 수 있다.
 
 ## 3. 진위
 
 姚際恆(1647년생)은 《古今僞書考》에서 《隋書》 서지에 보이지 않는다는 이유로 《公孫龍子》를 위작으로 의심하였다. 그러나 이를 《隋書》의 《守白論》과 동일시하면서 이 반론은 해소되었다. 현대 중국과 일본 학자들은 현존 6편을 《漢書》에 기록된 14편 《公孫龍子》의 잔존 부분으로 받아들인다.
 
-A.C. Graham은 The composition of the Gongsuen Long Tzyy, *Asia Major, New Series* 5:2(1957), pp. 147–183에서 문제를 다시 제기하며 제2·3편 〈白馬論〉·〈指物論〉과 나머지 편들의 뚜렷한 차이를 지적하였다.
+A.C. Graham은 “The composition of the Gongsuen Long Tzyy,” *Asia Major, New Series* 5:2(1957), pp. 147–183에서 문제를 다시 제기하며 제2·3편 〈白馬論〉·〈指物論〉과 나머지 편들의 뚜렷한 차이를 지적하였다.
 
 (a) 제2·3편은 순수한 변증 논리로 도덕적·정치적 관심이 없다. 제4–6편은 논증을 논리적으로 빈틈없이 조직하려는 비슷한 노력을 보이지 않으며, 각 편이 마지막에는 도덕적 또는 정치적 결론으로 끝난다.
 
@@ -119,11 +119,11 @@ A.C. Graham은 The composition of the Gongsuen Long Tzyy, *Asia Major, New Serie
 
 ## 5. 번역
 
-(a) Forke, A., The Chinese sophists, *Journal of the China Branch of the Royal Asiatic Society* XXXIV(1901–1902), pp. 1–100, Appendix 3.
+(a) Forke, A., “The Chinese sophists”, *Journal of the China Branch of the Royal Asiatic Society* XXXIV(1901–1902), pp. 1–100, Appendix 3.
 
 (b) Perleberg, Max, *The Works of Kung-sun Lung tzu*, Hong Kong, 1952.
 
-(c) Mei, Y.P., The Kung-sun Lung-tzu, *HJAS* 16(1953), pp. 404–437.
+(c) Mei, Y.P., “The Kung-sun Lung-tzu”, *HJAS* 16(1953), pp. 404–437.
 
 (d) Kou Pao-koh, Ignace, *Deux sophistes chinoises: Houei Che et K’ong-souen Long* [두 명의 중국 소피스트: 惠施와 公孫龍], Paris: Presses Universitaires, 1953.
 
@@ -131,7 +131,7 @@ A.C. Graham은 The composition of the Gongsuen Long Tzyy, *Asia Major, New Serie
 
 (f) Kandel, J.E., *Ein Beitrag zur Interpretationsgeschichte des abstrakten Denkens in China: Die Lehren des Kung-sun Lung und deren Aufnahme in der Tradition* [중국 추상적 사고의 해석사에 대한 연구: 公孫龍의 학설과 그 전통적 수], Höchberg, 1976. 제2–6편은 pp. 61–114 참조.
 
-제3편의 번역은 핵심 개념 指, 곧 ‘가리킴’과 논증 구조를 어떻게 해석하는가에 따라 크게 달라진다. 이 문제의 전문 연구로는 A.C. Graham, Kung-sun Lung’s Essay on Meanings and Things, *Journal of Oriental Studies* 2:2(1955), pp. 282–301, Janusz Chmielewski, Notes on Early Chinese Logic, *Rocznik Orientalistyczny* 26–32, 특히 26:1(1962), pp. 7–22, Cheng Chung-ying와 Richard H. Swain, Logic and Ontology in the Chih Wu Lun of Kung-sun Lung-tzu, *Philosophy East and West* 20:2(1970), pp. 137–154, A.C. Graham, *Later Mohist Logic, Ethics and Science*, Hong Kong: Chinese University Press, London: School of Oriental and African Studies, 1978, pp. 457–468이 있다.
+제3편의 번역은 핵심 개념 指, 곧 ‘가리킴’과 논증 구조를 어떻게 해석하는가에 따라 크게 달라진다. 이 문제의 전문 연구로는 A.C. Graham, “Kung-sun Lung’s Essay on Meanings and Things”, *Journal of Oriental Studies* 2:2(1955), pp. 282–301, Janusz Chmielewski, “Notes on Early Chinese Logic”, *Rocznik Orientalistyczny* 26–32, 특히 26:1(1962), pp. 7–22, Cheng Chung-ying와 Richard H. Swain, “Logic and Ontology in the Chih Wu Lun of Kung-sun Lung-tzu”, *Philosophy East and West* 20:2(1970), pp. 137–154, A.C. Graham, *Later Mohist Logic, Ethics and Science*, Hong Kong: Chinese University Press, London: School of Oriental and African Studies, 1978, pp. 457–468이 있다.
 
 ## 6. 일본어 판본
 

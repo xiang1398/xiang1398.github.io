@@ -57,7 +57,7 @@ tags:
 
 이와 관련하여 山東 臨沂 銀雀山에서 출토된 죽간 단편에는 〈王兵〉이라는 편명에서 나온 것으로 확인되는 본문이 있다. 《管子》 제6·8·27·28편의 여러 구절과 밀접하게 관련되며, 합치면 완전한 죽간 23매 분량이다. 전사는 《文物》 1976:12, pp. 36–43에 《管子》 병행문과 함께 실렸고, 사진은 같은 호 도판 4와 《文物》 1974:2 도판 3, 제27·28번에 있다.
 
-劉向의 《管子》 편집과 현대까지의 전승은 P. van der Loon, On the transmission of Kuan tzu, *TP* XLI:4–5(1952), pp. 357–393을 참조할 수 있다. 위 번역도 이 논문을 따랐다. W. Allyn Rickett, *Kuan-tzu, a Repository of Early Chinese Thought* (Hong Kong: Hong Kong University Press, 1965), pp. 13–31과 Rickett, *Guanzi: Political, Economic, and Philosophical Essays from Early China, A Study and Translation*, 2권(제1권 Princeton: Princeton University Press, 1985, 제2권 1994년 출간 예정)도 참조할 수 있다.
+劉向의 《管子》 편집과 현대까지의 전승은 P. van der Loon, “On the transmission of Kuan tzu”, *TP* XLI:4–5(1952), pp. 357–393을 참조할 수 있다. 위 번역도 이 논문을 따랐다. W. Allyn Rickett, *Kuan-tzu, a Repository of Early Chinese Thought* (Hong Kong: Hong Kong University Press, 1965), pp. 13–31과 Rickett, *Guanzi: Political, Economic, and Philosophical Essays from Early China, A Study and Translation*, 2권(제1권 Princeton: Princeton University Press, 1985, 제2권 1994년 출간 예정)도 참조할 수 있다.
 
 ## 4. 《管子》의 기원
 
@@ -99,7 +99,7 @@ tags:
 
 서양어 번역의 첫 시도는 M.C. de Harlez의 프랑스어 번역으로 보인다. *Journal Asiatique*, Series IX, vol. VII(1896), pp. 26–99. 그러나 본문의 난해함을 극복하지 못해 가치가 크지 않다.
 
-이후 중국철학 관련 서양 저술에 짧은 구절 번역이 나타났고, 1930년대에야 상당한 분량의 번역이 이루어졌다. Gustav Haloun, Das Ti-tsï-tsï Fragmente II [〈弟子職〉 단편 II], *Asia Major* 9(1933), pp. 467–502와 Legalist Fragments: Part I Kuan-tsï and Related Texts, *Asia Major* NS II(1951년 4월), pp. 85–120을 참조할 수 있다. Haloun은 Joseph Needham과 다른 부분도 공동 번역했으나 출판되지 않았다. Needham, *Science and Civilisation in China* (Cambridge: Cambridge University Press, 1956), vol. II, p. 630에 언급된다. 제39편은 같은 책 vol. II, pp. 42–45, 제54편은 Burton Watson, *Early Chinese Literature* (New York and London: Columbia University Press, 1962), pp. 181–183을 참조할 수 있다.
+이후 중국철학 관련 서양 저술에 짧은 구절 번역이 나타났고, 1930년대에야 상당한 분량의 번역이 이루어졌다. Gustav Haloun, “Das Ti-tsï-tsï Fragmente II [〈弟子職〉 단편 II]”, *Asia Major* 9(1933), pp. 467–502와 Legalist Fragments: Part I Kuan-tsï and Related Texts, *Asia Major* NS II(1951년 4월), pp. 85–120을 참조할 수 있다. Haloun은 Joseph Needham과 다른 부분도 공동 번역했으나 출판되지 않았다. Needham, *Science and Civilisation in China* (Cambridge: Cambridge University Press, 1956), vol. II, p. 630에 언급된다. 제39편은 같은 책 vol. II, pp. 42–45, 제54편은 Burton Watson, *Early Chinese Literature* (New York and London: Columbia University Press, 1962), pp. 181–183을 참조할 수 있다.
 
 1954년 Lewis Maverick은 중국인 대학원생 譚伯夫·文公文과 함께 정치·경제 이론을 다룬 약 30편을 번역하여 *Economic Dialogues in Ancient China: Selections from the Kuan-tzu* (Carbondale, Illinois, 1954)를 출판하였다. 실제 번역보다 의역에 가까운 곳이 많지만 초기 중국 경제이론을 이해하는 데 매우 유용하다. Maverick이 다룬 많은 편의 러시아어 부분 번역은 Viktor M. Shteyn, *Guan-tze: Issledovanie i perevod* [《管子》: 연구와 번역], (Moscow: Izdatelstvo Vostochnoi Literatury, 1959)에 있다. Rickett의 *Kuan-tzu: a Repository of Early Chinese Thought*는 그의 2권 *Guanzi*로 대체되었으며 제2권은 1994년 출판 예정이었다.
 
