@@ -1,0 +1,39 @@
+name: Normalize ECT Japanese book title
+
+on:
+  push:
+    paths:
+      - '.github/workflows/normalize-ect-japanese-book-title.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Use book-title brackets for 日本國見在書目錄
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          for path in Path('_posts').glob('*early-chinese-texts-*.md'):
+              original = path.read_text(encoding='utf-8')
+              text = original
+              text = text.replace('〈日本國見在書目錄〉', '《日本國見在書目錄》')
+              text = re.sub(r'(?<!《)日本國見在書目錄(?!》)', '《日本國見在書目錄》', text)
+              if text != original:
+                  path.write_text(text, encoding='utf-8')
+          PY
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- _posts; then exit 0; fi
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add _posts/*early-chinese-texts-*.md
+          git commit -m 'Use book-title brackets for 日本國見在書目錄 in ECT'
+          git push
