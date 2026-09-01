@@ -105,7 +105,7 @@ tags:
 
 (a)와 (b)는 1967년 臺北 成文出版社에서 *Discourses on Salt and Iron* 한 권으로 재간되었다.
 
-(c) Georges Walter 편, *Chine, An -81: Dispute sur le Sel et le Fer, Yantie lun*, Delphine Baudry-Weulersse·Jean Levi·Pierre Baudry 역, Paris: Lanzmann & Seghers, 1978. 일반 독자를 겨냥한 유려한 문체의 다소 자유로운 번역이다. 학술적 번역을 목적으로 한 책은 아니며, 아쉽게도 부정확하거나 지나치게 느슨한 번역도 섞여 있다. 전체를 42장으로 나누었으나 이는 원문의 篇 구분과 일치하지 않고, 각 篇의 번역이 어느 장에 들어 있는지도 표시하지 않았다. 완역이 아니라고 밝히면서도 어느 부분을 생략했는지는 알려 주지 않는다.
+(c) Georges Walter 편, *Chine, An -81: Dispute sur le Sel et le Fer, Yantie lun* [중국, 기원전 81년: 소금과 철에 관한 논쟁, 《鹽鐵論》], Delphine Baudry-Weulersse·Jean Levi·Pierre Baudry 역, Paris: Lanzmann & Seghers, 1978. 일반 독자를 겨냥한 유려한 문체의 다소 자유로운 번역이다. 학술적 번역을 목적으로 한 책은 아니며, 아쉽게도 부정확하거나 지나치게 느슨한 번역도 섞여 있다. 전체를 42장으로 나누었으나 이는 원문의 篇 구분과 일치하지 않고, 각 篇의 번역이 어느 장에 들어 있는지도 표시하지 않았다. 완역이 아니라고 밝히면서도 어느 부분을 생략했는지는 알려 주지 않는다.
 
 ## 6. 일본 판본
 
