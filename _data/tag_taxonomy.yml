@@ -1,0 +1,131 @@
+# Curated visible tag system.
+# Legacy front-matter tags are intentionally not used by the tag index when a post is listed here.
+
+tags:
+  - 문헌학
+  - 문헌학사
+  - 서지학
+  - 목록학
+  - 사본학
+  - 출토문헌
+  - 갑골문
+  - 갑골저록
+  - 전국초간
+  - 둔황문헌
+  - 중국어문법사
+  - 근대중국어학
+  - 역사통사론
+  - 운율통사론
+  - 형태론
+  - 논항구조
+  - 조선어학
+  - 한국고전문학
+  - 번역론
+  - 경학
+  - 예학
+  - 역학
+  - 유가
+  - 도가
+  - 법가
+  - 묵가
+  - 명가
+  - 제자서
+  - 사서
+  - 시가
+  - 자서·훈고
+  - 사상사
+  - 사회사
+  - 제도사
+  - 경제사
+  - 병학
+  - 수학사
+  - 천문학사
+  - 의학사
+  - 신화·박물
+
+post_tags:
+  "_posts/2026-06-18-Hunmong-chahoe-preface.md": [조선어학, 자서·훈고]
+  "_posts/2026-06-24-Mashi-wentong-xu.md": [중국어문법사, 근대중국어학]
+  "_posts/2026-06-25-Mashi-wentong-Shangce-fuyin-tiji.md": [중국어문법사, 근대중국어학]
+  "_posts/2026-06-25-Mashi-wentong-houxu.md": [중국어문법사, 근대중국어학]
+  "_posts/2026-06-27-Mashi-wentong-liyan.md": [중국어문법사, 근대중국어학]
+  "_posts/2026-06-28-Anticausative-Autocausative.md": [형태론, 논항구조]
+
+  "_posts/2026-08-25-Reflections-on-Korean-Classical-Literature.md": [한국고전문학, 문헌학]
+  "_posts/2026-08-25-Reflections-on-Philology-and-Philosophy.md": [문헌학, 문헌학사]
+  "_posts/2026-08-26-.pre-Heji-oracle-bone-catalogues-and-the-Jiaguwen-Heji.md": [갑골문, 갑골저록, 목록학]
+  "_posts/2026-08-26-post-Heji-oracle-bone-catalogues-and-joining-research.md": [갑골문, 갑골저록, 출토문헌]
+  "_posts/2026-08-26-Dunhuang-Manuscript-Collections-Catalogues-and-Databases.md": [둔황문헌, 사본학, 목록학]
+  "_posts/2026-08-27-Chinese-prosodic-syntax-introduction.md": [운율통사론, 역사통사론]
+  "_posts/2026-08-28-warring-states-bamboo-manuscripts-catalogue.md": [전국초간, 출토문헌, 목록학]
+
+  "_posts/2026-08-18-early-chinese-texts-preface.md": [번역론, 문헌학]
+  "_posts/2026-08-18-early-chinese-texts-appendix-i-bibliography-abbreviations.md": [서지학, 문헌학]
+
+  "_posts/2026-08-18-early-chinese-texts-Chan-kuo-ts'e.md": [사서, 사상사]
+  "_posts/2026-08-18-early-chinese-texts-Ch’ien-fu-lun.md": [사상사, 사회사]
+  "_posts/2026-08-19-early-chinese-texts-Chou-li.md": [경학, 예학, 제도사]
+  "_posts/2026-08-19-early-chinese-texts-Chiu-chang-suan-shu.md": [수학사]
+  "_posts/2026-08-29-early-chinese-texts-Chuang-tzu.md": [도가, 제자서]
+  "_posts/2026-08-29-early-chinese-texts-Ch’u-tz’u.md": [시가]
+  "_posts/2026-08-29-early-chinese-texts-Ch’un-ch’iu.md": [경학, 사서]
+  "_posts/2026-08-29-early-chinese-texts-Ch’un-ch’iu-fan-lu.md": [유가, 경학, 사상사]
+  "_posts/2026-08-29-early-chinese-texts-Chou-pi-suan-ching.md": [수학사, 천문학사]
+  "_posts/2026-08-29-early-chinese-texts-Chung-lun.md": [유가, 사상사]
+  "_posts/2026-08-29-early-chinese-texts-Chu-shu-chi-nien.md": [사서]
+
+  "_posts/2026-08-30-early-chinese-texts-Erh-ya.md": [자서·훈고, 경학]
+  "_posts/2026-08-30-early-chinese-texts-Fa-yen.md": [유가, 사상사]
+  "_posts/2026-08-30-early-chinese-texts-Feng-su-tung-i.md": [사회사, 사상사]
+  "_posts/2026-08-30-early-chinese-texts-Han-chi.md": [사서]
+  "_posts/2026-08-30-early-chinese-texts-Han-fei-tzu.md": [법가, 제자서]
+  "_posts/2026-08-30-early-chinese-texts-Han-shih-wai-chuan.md": [유가, 경학]
+  "_posts/2026-08-30-early-chinese-texts-Han-shu.md": [사서]
+  "_posts/2026-08-30-early-chinese-texts-Ho-kuan-tzu.md": [도가, 제자서]
+  "_posts/2026-08-30-early-chinese-texts-Hsiao-ching.md": [유가, 경학]
+  "_posts/2026-08-30-early-chinese-texts-Hsin-lun.md": [사상사]
+  "_posts/2026-08-30-early-chinese-texts-Hsin-hsü.md": [유가, 사상사]
+  "_posts/2026-08-30-early-chinese-texts-Hsin-shu.md": [유가, 사상사]
+  "_posts/2026-08-30-early-chinese-texts-Hsin-yü.md": [유가, 사상사]
+  "_posts/2026-08-30-early-chinese-texts-Hsun-tzu.md": [유가, 제자서]
+  "_posts/2026-08-30-early-chinese-texts-Huai-nan-tzu.md": [도가, 제자서, 사상사]
+  "_posts/2026-08-30-early-chinese-texts-Huang-ti-nei-ching.md": [의학사]
+  "_posts/2026-08-30-early-chinese-texts-I-Chou-shu.md": [사서, 경학]
+  "_posts/2026-08-30-early-chinese-texts-I-ching-Chou-i.md": [경학, 역학]
+
+  "_posts/2026-08-31-early-chinese-texts-I-li.md": [경학, 예학]
+  "_posts/2026-08-31-early-chinese-texts-Kuan-tzu.md": [제자서, 사상사]
+  "_posts/2026-08-31-early-chinese-texts-Kung-sun-Lung-tzu.md": [명가, 제자서]
+  "_posts/2026-08-31-early-chinese-texts-Kung-tzu-chia-yu.md": [유가, 제자서]
+  "_posts/2026-08-31-early-chinese-texts-Kuo-yu.md": [사서]
+  "_posts/2026-08-31-early-chinese-texts-Lao-tzu-Tao-te-ching.md": [도가, 제자서]
+  "_posts/2026-08-31-early-chinese-texts-Li-chi.md": [경학, 예학]
+  "_posts/2026-08-31-early-chinese-texts-Lieh-tzu.md": [도가, 제자서]
+  "_posts/2026-08-31-early-chinese-texts-Lu-shih-chun-chiu.md": [제자서, 사상사]
+  "_posts/2026-08-31-early-chinese-texts-Lun-heng.md": [사상사]
+  "_posts/2026-08-31-early-chinese-texts-Lun-yu.md": [유가, 경학]
+  "_posts/2026-08-31-early-chinese-texts-Meng-tzu.md": [유가, 경학]
+  "_posts/2026-08-31-early-chinese-texts-Mo-tzu.md": [묵가, 제자서]
+  "_posts/2026-08-31-early-chinese-texts-Mu-tien-tzu-chuan.md": [사서, 신화·박물]
+  "_posts/2026-08-31-early-chinese-texts-Pai-hu-tung.md": [경학, 사상사]
+  "_posts/2026-08-31-early-chinese-texts-Shan-hai-ching.md": [신화·박물]
+  "_posts/2026-08-31-early-chinese-texts-Shang-chun-shu.md": [법가, 제자서]
+  "_posts/2026-08-31-early-chinese-texts-Shang-shu.md": [경학, 사서]
+  "_posts/2026-08-31-early-chinese-texts-Shen-chien.md": [유가, 사상사]
+  "_posts/2026-08-31-early-chinese-texts-Shen-tzu-Shen-Pu-hai.md": [법가, 제자서]
+
+  "_posts/2026-09-01-early-chinese-texts-Shen-tzu-Shen-Tao.md": [법가, 제자서]
+  "_posts/2026-09-01-early-chinese-texts-Shih-chi.md": [사서]
+  "_posts/2026-09-01-early-chinese-texts-Shih-ching.md": [경학, 시가]
+  "_posts/2026-09-01-early-chinese-texts-Shih-ming.md": [자서·훈고]
+  "_posts/2026-09-01-early-chinese-texts-Shuo-wen-chieh-tzu.md": [자서·훈고]
+  "_posts/2026-09-01-early-chinese-texts-Shuo-yuan.md": [유가, 사상사]
+  "_posts/2026-09-01-early-chinese-texts-Sun-tzu-ping-fa.md": [병학, 제자서]
+  "_posts/2026-09-01-early-chinese-texts-Ta-Tai-li-chi.md": [경학, 예학]
+  "_posts/2026-09-01-early-chinese-texts-Tai-hsuan-ching.md": [역학, 사상사]
+  "_posts/2026-09-01-early-chinese-texts-Tu-tuan.md": [제도사]
+  "_posts/2026-09-01-early-chinese-texts-Tung-kuan-Han-chi.md": [사서]
+  "_posts/2026-09-01-early-chinese-texts-Wu-Yueh-chun-chiu.md": [사서]
+  "_posts/2026-09-01-early-chinese-texts-Yen-tieh-lun.md": [경제사, 사상사]
+  "_posts/2026-09-01-early-chinese-texts-Yen-tzu-chun-chiu.md": [제자서, 사상사]
+  "_posts/2026-09-01-early-chinese-texts-Yueh-chueh-shu.md": [사서]
