@@ -29,6 +29,10 @@ permalink: /
 - 고전문학(운문).
 - 고전음악(Classical Music).
 
+### Project
+
+- [*Early Chinese Texts* 번역글 모음]({{ "/projects/early-chinese-texts/" | relative_url }})
+
 {% assign visible_posts = site.posts | where_exp: "post", "post.hidden != true" %}
 
 {% assign categories = visible_posts | map: "category" | compact | uniq | sort %}
