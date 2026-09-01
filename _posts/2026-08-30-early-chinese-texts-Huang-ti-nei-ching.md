@@ -330,11 +330,11 @@ Unschuld, Paul U. 편, 1988. *Approaches to Traditional Chinese Medical Literatu
 
 吳考槃, 1983. 〈黃帝內經素問靈樞考〉. 《中華醫史雜誌》 13.2:85–87. 현존 《素問》과 《靈樞》를 원래의 內經과 동일시하는 데 반대한다.
 
-Yamada Keiji 山田慶兒, 1979a. 〈黃帝內經の成立〉. *Shisō* 662:94–108.
+Yamada Keiji 山田慶兒, 1979a. 〈黃帝內經の成立〉, *Shisō* 662:94–108.
 
-Yamada Keiji 山田慶兒, 1979b. The Formation of the Huang-ti nei-ching. Acta Asiatica 36:67–89. 1979a의 번역.
+Yamada Keiji 山田慶兒, 1979b. “The Formation of the Huang-ti nei-ching,” *Acta Asiatica* 36:67–89. 1979a의 번역.
 
-Yamada Keiji 山田慶兒, 1980. 〈九宮八風說と少師派の立場〉. Tōhō Gakuhō (Kyoto) 52:199–242.
+Yamada Keiji 山田慶兒, 1980. 〈九宮八風說と少師派の立場〉, *Tōhō Gakuhō* (Kyoto) 52:199–242.
 
 Yamada Keiji 山田慶兒 편, 1985. 《新發現中國科學史資料の研究》. 전2권. I: 주석 번역, II: 논문. Kyoto: 人文科學研究所.
 

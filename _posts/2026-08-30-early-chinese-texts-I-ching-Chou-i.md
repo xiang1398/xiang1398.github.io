@@ -165,9 +165,9 @@ M. 《新訂中國古典選》 1, Honda Wataru 本田濟 편.
 
 (v) Schmitt, Gerhard, *Sprüche der Wandlungen auf ihrem geistesgeschichtlichen Hintergrund* [사상사적 배경에서 본 《易》의 괘효사], Berlin: Deutsche Akademie der Wissenschaften zu Berlin, Institut für Orientforschung 76, 1970.
 
-(vi) Ch’en Ch’i-yün, A Confucian Magnate’s Idea of Political Violence: Hsün Shuang’s (A.D. 128–190) Interpretation of the Book of Changes, TP 54(1968), pp. 73–115.
+(vi) Ch’en Ch’i-yün, “A Confucian Magnate’s Idea of Political Violence: Hsün Shuang’s (A.D. 128–190) Interpretation of the Book of Changes,” *TP* 54 (1968), pp. 73–115.
 
-(vii) Peterson, Willard J., Making Connections: “Commentary on the Attached Verbalizations” of the Book of Changes, HJAS 42:1(1982년 6월), pp. 67–116.
+(vii) Peterson, Willard J., “Making Connections: ‘Commentary on the Attached Verbalizations’ of the Book of Changes,” *HJAS* 42:1 (1982년 6월), pp. 67–116.
 
 (c) 근래 본문의 초기 역사를 다룬 박사학위논문은 다음과 같다.
 
