@@ -1,0 +1,46 @@
+name: Normalize ECT 045-054 editorial style
+on:
+  push:
+    paths:
+      - '.github/workflows/normalize-ect-045-054-editorial.yml'
+permissions:
+  contents: write
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.x'}
+      - name: Normalize
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          paths=[
+          '_posts/2026-08-31-early-chinese-texts-Pai-hu-tung.md','_posts/2026-08-31-early-chinese-texts-Shan-hai-ching.md','_posts/2026-08-31-early-chinese-texts-Shang-chun-shu.md','_posts/2026-08-31-early-chinese-texts-Shang-shu.md','_posts/2026-08-31-early-chinese-texts-Shen-chien.md','_posts/2026-08-31-early-chinese-texts-Shen-tzu-Shen-Pu-hai.md','_posts/2026-09-01-early-chinese-texts-Shen-tzu-Shen-Tao.md','_posts/2026-09-01-early-chinese-texts-Shih-chi.md','_posts/2026-09-01-early-chinese-texts-Shih-ching.md','_posts/2026-09-01-early-chinese-texts-Shih-ming.md']
+          notice='*이 번역문은 GPT-5.6 모델로 기계번역한 뒤 편집·교정한 것입니다.*'
+          nr=re.compile(r'(?m)^\*{0,2}이 번역문은 GPT-5\.6 모델로 기계번역한 뒤 편집·교정한 것입니다\.?\*{0,2}$')
+          for fn in paths:
+            p=Path(fn); t=p.read_text(encoding='utf-8'); old=t
+            t=nr.sub(notice,t)
+            t=t.replace('(역자 주: 〈日本國見在書目錄〉)','(역자 주: 《日本國見在書目錄》)')
+            t=re.sub(r'(《[^》]+》\s*卷\d+(?:上|下)?),\s+(pp?\.)',r'\1 \2',t)
+            t=re.sub(r'(?<![A-Za-z])(卷\d+(?:上|下)?),\s+(pp?\.)',r'\1 \2',t)
+            t=re.sub(r'(《[^》]+》)\s*권(?=\d)',r'\1 卷',t)
+            t=re.sub(r'“([^”\n]+)”\s*,\s*(\*[^*\n]+\*)',r'“\1,” \2',t)
+            t=re.sub(r'“([^”\n]+)”,\s*(\*[^*\n]+\*)',r'“\1,” \2',t)
+            # Western article title immediately preceding an italicized journal.
+            t=re.sub(r'(?m)(\b[A-Z][A-Za-zÀ-ÖØ-öø-ÿ.\-’\' ]{1,50},\s+)(?![“\*])([^,\n]{4,180}),\s+(\*[^*\n]+\*\s+(?:\d|[IVXLCDM]))',lambda m:m.group(1)+'“'+m.group(2).strip()+',” '+m.group(3),t)
+            # CJK journals use book-title brackets, not Western italics.
+            t=re.sub(r'(〈[^〉\n]+〉,\s*)\*([\u3400-\u9fff][^*\n]*)\*',r'\1《\2》',t)
+            if t!=old:p.write_text(t,encoding='utf-8')
+          PY
+      - name: Commit
+        run: |
+          if git diff --quiet -- _posts; then exit 0; fi
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add _posts/*early-chinese-texts-*.md
+          git commit -m 'Normalize ECT 045-054 editorial style'
+          git push
