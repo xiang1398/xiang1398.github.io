@@ -94,7 +94,7 @@ tags:
 
 서양 학계의 연구는 다음과 같다.
 
-(i) Haloun, Gustav, “Fragmente des Fu-tsï und des Tsin-tsï: Früh-Konfuzianische Fragmente I [《宓子》와 《晉子》 단편: 초기 유가 단편 I]”, *Asia Major* 8(1932), pp. 437–509. 《家語》의 한 구절이 병행문의 원천임을 입증하려 하면서 진위 문제를 새로운 각도에서 검토하였다.
+(i) Haloun, Gustav, “Fragmente des Fu-tsï und des Tsin-tsï: Früh-Konfuzianische Fragmente I [《宓子》와 《晉子》 단편: 초기 유가 단편 I],” *Asia Major* 8(1932), pp. 437–509. 《家語》의 한 구절이 병행문의 원천임을 입증하려 하면서 진위 문제를 새로운 각도에서 검토하였다.
 
 (j) R.P. Kramers의 앞서 든 책 서론은 여전히 이 문제를 가장 상세하게 다룬 연구이다. 제1–10편의 번역도 제공한다. Wolfram Eberhard의 서평, *Oriens* IV(1951), pp. 142–145는 위작의 파급과 동기를 더 연구할 길을 열었다.
 

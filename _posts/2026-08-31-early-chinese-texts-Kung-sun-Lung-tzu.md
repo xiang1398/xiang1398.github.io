@@ -119,11 +119,11 @@ A.C. Graham은 “The composition of the Gongsuen Long Tzyy,” *Asia Major, New
 
 ## 5. 번역
 
-(a) Forke, A., “The Chinese sophists”, *Journal of the China Branch of the Royal Asiatic Society* XXXIV(1901–1902), pp. 1–100, Appendix 3.
+(a) Forke, A., “The Chinese sophists,” *Journal of the China Branch of the Royal Asiatic Society* XXXIV(1901–1902), pp. 1–100, Appendix 3.
 
 (b) Perleberg, Max, *The Works of Kung-sun Lung tzu*, Hong Kong, 1952.
 
-(c) Mei, Y.P., “The Kung-sun Lung-tzu”, *HJAS* 16(1953), pp. 404–437.
+(c) Mei, Y.P., “The Kung-sun Lung-tzu,” *HJAS* 16(1953), pp. 404–437.
 
 (d) Kou Pao-koh, Ignace, *Deux sophistes chinoises: Houei Che et K’ong-souen Long* [두 명의 중국 소피스트: 惠施와 公孫龍], Paris: Presses Universitaires, 1953.
 
@@ -131,7 +131,7 @@ A.C. Graham은 “The composition of the Gongsuen Long Tzyy,” *Asia Major, New
 
 (f) Kandel, J.E., *Ein Beitrag zur Interpretationsgeschichte des abstrakten Denkens in China: Die Lehren des Kung-sun Lung und deren Aufnahme in der Tradition* [중국 추상적 사고의 해석사에 대한 연구: 公孫龍의 학설과 그 전통적 수], Höchberg, 1976. 제2–6편은 pp. 61–114 참조.
 
-제3편의 번역은 핵심 개념 指, 곧 ‘가리킴’과 논증 구조를 어떻게 해석하는가에 따라 크게 달라진다. 이 문제의 전문 연구로는 A.C. Graham, “Kung-sun Lung’s Essay on Meanings and Things”, *Journal of Oriental Studies* 2:2(1955), pp. 282–301, Janusz Chmielewski, “Notes on Early Chinese Logic”, *Rocznik Orientalistyczny* 26–32, 특히 26:1(1962), pp. 7–22, Cheng Chung-ying와 Richard H. Swain, “Logic and Ontology in the Chih Wu Lun of Kung-sun Lung-tzu”, *Philosophy East and West* 20:2(1970), pp. 137–154, A.C. Graham, *Later Mohist Logic, Ethics and Science*, Hong Kong: Chinese University Press, London: School of Oriental and African Studies, 1978, pp. 457–468이 있다.
+제3편의 번역은 핵심 개념 指, 곧 ‘가리킴’과 논증 구조를 어떻게 해석하는가에 따라 크게 달라진다. 이 문제의 전문 연구로는 A.C. Graham, “Kung-sun Lung’s Essay on Meanings and Things,” *Journal of Oriental Studies* 2:2(1955), pp. 282–301, Janusz Chmielewski, “Notes on Early Chinese Logic,” *Rocznik Orientalistyczny* 26–32, 특히 26:1(1962), pp. 7–22, Cheng Chung-ying와 Richard H. Swain, “Logic and Ontology in the Chih Wu Lun of Kung-sun Lung-tzu,” *Philosophy East and West* 20:2(1970), pp. 137–154, A.C. Graham, *Later Mohist Logic, Ethics and Science*, Hong Kong: Chinese University Press, London: School of Oriental and African Studies, 1978, pp. 457–468이 있다.
 
 ## 6. 일본어 판본
 

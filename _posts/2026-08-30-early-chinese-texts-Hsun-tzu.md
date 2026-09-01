@@ -133,7 +133,7 @@ Fujiwara Sukeyo 藤原佐世(898년 사망)의 목록(역자 주: 《日本國�
 
 - (d) Köster, Hermann, *Hsün-tzu ins Deutsche übertragen* [《荀子》 독일어 번역], Kaldenkirchen: Steyler Verlag, 1967. 梁啟雄 1936년본을 바탕으로 32편 완역.
 
-- (e) Malmqvist, Göran, The Cherng shianq Ballad of the Shyun Tzyy, BMFEA 45(1973), pp. 63–89.
+- (e) Malmqvist, Göran, “The Cherng shianq Ballad of the Shyun Tzyy,” BMFEA 45(1973), pp. 63–89.
 
 - (f) Knoblock, John, *Xunzi: A Translation and Study of the Complete Works*, 3책, Stanford: Stanford University Press, 1988, 1990, 제3권 간행 예정. 긴 서론에서 荀卿의 생애, 중국 사상에 대한 기여, 본문의 역사와 진위를 논한다. 각 번역에 해제와 주석을 붙였으며, 제1권은 제1–6편, 제2권은 제7–16편, 제3권은 제17–32편을 수록한다.
 

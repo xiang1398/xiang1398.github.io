@@ -314,7 +314,7 @@ Sivin, N., 1989. A Cornucopia of Reference Works for the History of Chinese Medi
 
 Sivin, N., 출간 예정. On the Dates of Yang Shang-shan and the Huang ti nei ching t’ai su. Chinese Science.
 
-Sohn, Pow-key, 1959. Early Korean Printing. Journal of the American Oriental Society 79.2:99–103.
+Sohn, Pow-key, 1959. “Early Korean Printing.” Journal of the American Oriental Society 79.2:99–103.
 
 Soothill, William Edward, 1951. *The Hall of Light: A Study of Early Chinese Kingship*. Missionary Research Series 18. London: Lutterworth.
 

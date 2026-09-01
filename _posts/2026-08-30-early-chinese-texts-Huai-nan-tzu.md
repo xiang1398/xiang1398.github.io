@@ -89,7 +89,7 @@ tags:
 
 - (b) Morgan, Evan, *Tao, the Great Luminant: Essays from the Huai nan tzu*, London: Kegan Paul, Trench, Trubner & Co., 1933. 제1·2·7·8·12·13·15·19편 번역. 선구적인 시도이지만 신학적 선입견과 중국어 본문을 지나치게 자유롭게 옮긴 점이 흠이다.
 
-- (c) Kraft, Eva, Zum Huai-nan-tzu. Einführung, Übersetzung (Kapitel I und II) und Interpretation(〈《淮南子》에 관하여: 서론, 제1·2편 번역과 해석〉), Monumenta Serica 16(1957), pp. 191–286; 17(1958), pp. 128–207.
+- (c) Kraft, Eva, “Zum Huai-nan-tzu. Einführung, Übersetzung (Kapitel I und II) und Interpretation” (〈《淮南子》에 관하여: 서론, 제1·2편 번역과 해석〉), Monumenta Serica 16(1957), pp. 191–286; 17(1958), pp. 128–207.
 
 - (d) Wallacker, Benjamin, *The Huai-nan-tzu, Book Eleven: Behavior, Culture and the Cosmos*, New Haven: American Oriental Society, 1962.
 
