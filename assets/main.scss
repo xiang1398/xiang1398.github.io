@@ -409,3 +409,50 @@ code {
 .citation-link:target {
   background: transparent;
 }
+
+/* =========================
+   Traditional / Simplified toggle
+   ========================= */
+
+.hanzi-script-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: .18rem;
+  margin-left: .8rem;
+  vertical-align: middle;
+  font-size: .86rem;
+  white-space: nowrap;
+}
+
+.hanzi-script-toggle button {
+  appearance: none;
+  border: 0;
+  background: transparent;
+  color: #828282;
+  padding: .12rem .18rem;
+  font: inherit;
+  line-height: 1.2;
+  cursor: pointer;
+}
+
+.hanzi-script-toggle button:hover,
+.hanzi-script-toggle button:focus-visible {
+  color: #111;
+  text-decoration: underline;
+}
+
+.hanzi-script-toggle button.is-active {
+  color: #111;
+  font-weight: 700;
+}
+
+.hanzi-script-toggle > span {
+  color: #b0b0b0;
+}
+
+@media (max-width: 600px) {
+  .hanzi-script-toggle {
+    margin-left: .45rem;
+    font-size: .82rem;
+  }
+}
