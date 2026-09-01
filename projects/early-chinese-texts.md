@@ -10,7 +10,7 @@ permalink: /projects/early-chinese-texts/
 
 {% assign ect_posts = site.posts | where: "series", "Early Chinese Texts" | sort: "title" %}
 {% for post in ect_posts %}
-{% unless post.title contains "Appendix" %}
+{% unless post.title contains "Appendix" or post.title contains "부록" %}
 {% assign label = post.title | remove_first: "Early Chinese Texts " | replace_first: ": ", " " %}
 - {{ label }}: [링크]({{ post.url | relative_url }})
 {% endunless %}
