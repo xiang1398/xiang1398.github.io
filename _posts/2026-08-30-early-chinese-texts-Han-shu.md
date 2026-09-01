@@ -96,7 +96,7 @@ tags:
 - (b) Nancy Lee Swann, *Pan Chao, Foremost Woman Scholar of China, 1st Century A.D.* (New York: Century, 1932).
 - (c) A. F. P. Hulsewé, Notes on the historiography of the Han period, W. G. Beasley·E. G. Pulleyblank 편, *Historians of China and Japan* (London: Oxford University Press, 1961), pp. 31–43.
 - (d) O. B. van der Sprenkel, *Pan Piao, Pan Ku and the Han History*, Occasional Paper 3, The Australian University Centre of Oriental Studies (Canberra, 1964).
-- (e) Yves Hervouet, 〈La valeur relative des textes du Che-ki et du Han chou〔《史記》와 《漢書》 본문의 상대적 가치〕〉, *Mélanges de Sinologie offerts à Monsieur Paul Demiéville*, Études chinoises XX (Paris: Bibliothèque de l’Institut des Hautes Études Chinoises, 1974), 제2책 pp. 55–76.
+- (e) Yves Hervouet, "La valeur relative des textes du Che-ki et du Han chou" [《史記》와 《漢書》 본문의 상대적 가치], *Mélanges de Sinologie offerts à Monsieur Paul Demiéville*, Études chinoises XX (Paris: Bibliothèque de l’Institut des Hautes Études Chinoises, 1974), 제2책 pp. 55–76.
 - (f) A. F. P. Hulsewé, The problem of the authenticity of Shih chi ch. 123, the memoir on Ta Yüan, *T’oung Pao* 61:1–3 (1975), pp. 83–147.
 - (g) E. P. Sinicyn, *Ban’ Gu—istorik drevnego Kitaya*〔班固—고대 중국의 역사가〕 (Moscow: Nauka, 1975).
 - (h) 《二十五史補編》에 수록된 《漢書》 개별 권 연구 (Shanghai: 開明書店, 1936; Peking: 中華書局, 1956 재간), 제1책 pp. 135–1385, 제2책 pp. 1387–1774.
