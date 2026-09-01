@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 056: Shuo yüan 說苑"
+title: "*Early Chinese Texts* 056: *Shuo yüan* 《說苑》"
 date: 2026-09-01 11:45:00 +0900
 categories:
   - Translations

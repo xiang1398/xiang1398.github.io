@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 021: Hsiao ching 孝經"
+title: "*Early Chinese Texts* 021: *Hsiao ching* 《孝經》"
 date: 2026-08-30 12:10:00 +0900
 categories:
   - Translations

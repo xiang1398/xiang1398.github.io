@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 037: Li chi 禮記"
+title: "*Early Chinese Texts* 037: *Li chi* 《禮記》"
 date: 2026-08-31 13:06:00 +0900
 categories:
   - Translations

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 012: Chung lun 中論"
+title: "*Early Chinese Texts* 012: *Chung lun* 《中論》"
 date: 2026-08-29 14:16:00 +0900
 categories:
   - Translations

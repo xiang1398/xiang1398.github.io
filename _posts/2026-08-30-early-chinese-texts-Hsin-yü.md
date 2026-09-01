@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 025: Hsin yü 新語"
+title: "*Early Chinese Texts* 025: *Hsin yü* 《新語》"
 date: 2026-08-30 12:30:00 +0900
 categories:
   - Translations

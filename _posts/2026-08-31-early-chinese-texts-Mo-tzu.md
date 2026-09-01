@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 043: Mo tzu 墨子"
+title: "*Early Chinese Texts* 043: *Mo tzu* 《墨子》"
 date: 2026-08-31 13:12:00 +0900
 categories:
   - Translations

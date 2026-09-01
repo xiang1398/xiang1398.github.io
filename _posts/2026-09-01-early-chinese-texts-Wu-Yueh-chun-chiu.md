@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 062: Wu Yüeh ch'un ch'iu 吳越春秋"
+title: "*Early Chinese Texts* 062: *Wu Yüeh ch'un ch'iu* 《吳越春秋》"
 date: 2026-09-01 11:51:00 +0900
 categories:
   - Translations

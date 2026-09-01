@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 006: Chou pi suan ching 周髀算經"
+title: "*Early Chinese Texts* 006: *Chou pi suan ching* 《周髀算經》"
 date: 2026-08-29 14:10:00 +0900
 categories:
   - Translations

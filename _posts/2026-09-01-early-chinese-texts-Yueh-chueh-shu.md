@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 065: Yüeh chüeh shu 越絕書"
+title: "*Early Chinese Texts* 065: *Yüeh chüeh shu* 《越絕書》"
 date: 2026-09-01 11:54:00 +0900
 categories:
   - Translations

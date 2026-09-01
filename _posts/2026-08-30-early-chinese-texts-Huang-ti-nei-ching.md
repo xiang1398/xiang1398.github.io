@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 028: Huang ti nei ching 黃帝內經"
+title: "*Early Chinese Texts* 028: *Huang ti nei ching* 《黃帝內經》"
 date: 2026-08-30 12:45:00 +0900
 categories:
   - Translations

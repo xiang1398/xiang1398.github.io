@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 026: Hsun tzu 荀子"
+title: "*Early Chinese Texts* 026: *Hsun tzu* 《荀子》"
 date: 2026-08-30 12:35:00 +0900
 categories: [Translations]
 series: [Early Chinese Texts] 

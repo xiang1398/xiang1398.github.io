@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 013: Erh ya 爾雅"
+title: "*Early Chinese Texts* 013: *Erh ya* 《爾雅》"
 date: 2026-08-30 09:10:00 +0900
 categories:
   - Translations

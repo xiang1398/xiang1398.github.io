@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 046: Shan hai ching 山海經"
+title: "*Early Chinese Texts* 046: *Shan hai ching* 《山海經》"
 date: 2026-08-31 13:15:00 +0900
 categories:
   - Translations

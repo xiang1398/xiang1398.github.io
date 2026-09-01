@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 053: Shih ching 詩經"
+title: "*Early Chinese Texts* 053: *Shih ching* 《詩經》"
 date: 2026-09-01 11:42:00 +0900
 categories:
   - Translations

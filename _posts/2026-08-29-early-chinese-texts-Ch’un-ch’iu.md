@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 010: Ch’un ch’iu 春秋·公羊傳·穀梁傳·左傳"
+title: "*Early Chinese Texts* 010: *Ch’un ch’iu* 《春秋·公羊傳·穀梁傳·左傳》"
 date: 2026-08-29 14:14:00 +0900
 categories:
   - Translations

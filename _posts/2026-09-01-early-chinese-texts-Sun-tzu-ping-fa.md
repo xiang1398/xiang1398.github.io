@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 057: Sun tzu ping fa 孫子兵法"
+title: "*Early Chinese Texts* 057: *Sun tzu ping fa* 《孫子兵法》"
 date: 2026-09-01 11:46:00 +0900
 categories:
   - Translations

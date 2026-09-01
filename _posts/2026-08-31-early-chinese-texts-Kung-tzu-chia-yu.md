@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 034: Kung tzu chia yu 孔子家語"
+title: "*Early Chinese Texts* 034: *Kung tzu chia yu* 《孔子家語》"
 date: 2026-08-31 13:03:00 +0900
 categories:
   - Translations

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 008: Ch’u tz’u 楚辭"
+title: "*Early Chinese Texts* 008: *Ch’u tz’u* 《楚辭》"
 date: 2026-08-29 14:12:00 +0900
 categories:
   - Translations

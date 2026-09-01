@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 031: I li 儀禮"
+title: "*Early Chinese Texts* 031: *I li* 《儀禮》"
 date: 2026-08-31 13:00:00 +0900
 categories:
   - Translations

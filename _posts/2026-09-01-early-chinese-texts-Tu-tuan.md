@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 060: Tu tuan 獨斷"
+title: "*Early Chinese Texts* 060: *Tu tuan* 《獨斷》"
 date: 2026-09-01 11:49:00 +0900
 categories:
   - Translations

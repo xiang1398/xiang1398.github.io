@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 017: Han fei tzu 韓非子"
+title: "*Early Chinese Texts* 017: *Han fei tzu* 《韓非子》"
 date: 2026-08-30 09:14:00 +0900
 categories:
   - Translations

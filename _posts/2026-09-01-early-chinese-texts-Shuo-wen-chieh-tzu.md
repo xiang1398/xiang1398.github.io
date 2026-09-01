@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 055: Shuo wen chieh tzu 說文解字"
+title: "*Early Chinese Texts* 055: *Shuo wen chieh tzu* 《說文解字》"
 date: 2026-09-01 11:44:00 +0900
 categories:
   - Translations

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Early Chinese Texts》 048: Shang shu 尚書"
+title: "*Early Chinese Texts* 048: *Shang shu* 《尚書》"
 date: 2026-08-31 13:17:00 +0900
 categories:
   - Translations
