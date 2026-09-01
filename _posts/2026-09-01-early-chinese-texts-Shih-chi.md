@@ -49,7 +49,7 @@ tags:
 
 전통적으로 《史記》는 太史令 司馬談(기원전 110년 사망)이 집필을 시작하고, 그의 아들이자 후임 太史令인 司馬遷(字 子長, 약 기원전 145–86)이 이어 완성한 것으로 인정된다. 보통은 司馬遷만을 저자로 거론한다. 그가 언제 역사서를 완성했는지는 알 수 없지만, 그의 사망 연대 자체도 불확실한 가운데 사후 한 세기 동안 여러 저자가 내용을 덧붙였다는 사실은 알려져 있다. 그러므로 현행 본문에서 대략 기원전 100년 이후의 사건을 언급하는 구절은 후대의 첨가일 수 있으며, 기원전 90년 이후를 다룬 구절은 확실히 후대에 들어온 것이다. 기원전 1세기 후반에 활동한 褚少孫(약 기원전 104–30)의 보충만은 명확하게 표시되어 있다. 또한 이미 기원후 1세기에 열 편이 빠졌다는 사실이 지적되었고, 이 결락은 뒤에 보충되었다. 이에 대해서는 余嘉錫(1883–1955), 〈太史公書亡篇考〉, 《余嘉錫論學雜著》(北京: 中華書局, 1963), pp. 1–108을 참조하라.
 
-근대에는 또 다른 문제가 제기되었다. 이는 한 왕조 첫 세기, 곧 기원전 2세기의 사건과 인물을 다루는 《史記》 수십 편의 진위와 관계된다. 알 수 없는 이유로 이 편들이 사라진 뒤, 내용이 거의 축자적으로 일치하는 《漢書》의 관련 편을 이용해 기원후 3세기 또는 4세기에 복원되었다는 설이다. Yves Hervouet, “La valeur relative des textes du Che-ki et du Han-chou,” *Mélanges de sinologie offerts à Monsieur Paul Demiéville* 2(Paris, 1974), pp. 55–76을 참조하라. 지금까지는 소수의 편만 이 관점에서 검토되었다. Hervouet의 앞 논문, A. F. P. Hulsewé, “The problem of the authenticity of Shih chi ch. 123, The Memoir on Ta Yüan,” *T’oung Pao* 61 (1975), pp. 83–147, 丘瓊蓀, 《歷代樂志律志校釋 第一分冊》(北京: 中華書局, 1964)을 보라. 반대 견해는 E. G. Pulleyblank, “Chinese and Indo-Europeans,” *Journal of the Royal Asiatic Society* (1966), pp. 9–39, “The Wu-sun and Sakas and the Yüeh-chih migration,” *Bulletin of the School of Oriental and African Studies* 33 (1979), pp. 154–170을 참조하라. 다른 편들 역시 후대의 복원일 가능성을 의심하게 하는 징후가 있다.
+근대에는 또 다른 문제가 제기되었다. 이는 한 왕조 첫 세기, 곧 기원전 2세기의 사건과 인물을 다루는 《史記》 수십 편의 진위와 관계된다. 알 수 없는 이유로 이 편들이 사라진 뒤, 내용이 거의 축자적으로 일치하는 《漢書》의 관련 편을 이용해 기원후 3세기 또는 4세기에 복원되었다는 설이다. Yves Hervouet, “La valeur relative des textes du Che-ki et du Han-chou” [《史記》와 《漢書》 문헌의 상대적 가치], *Mélanges de sinologie offerts à Monsieur Paul Demiéville* 2(Paris, 1974), pp. 55–76을 참조하라. 지금까지는 소수의 편만 이 관점에서 검토되었다. Hervouet의 앞 논문, A. F. P. Hulsewé, “The problem of the authenticity of Shih chi ch. 123, The Memoir on Ta Yüan,” *T’oung Pao* 61 (1975), pp. 83–147, 丘瓊蓀, 《歷代樂志律志校釋 第一分冊》(北京: 中華書局, 1964)을 보라. 반대 견해는 E. G. Pulleyblank, “Chinese and Indo-Europeans,” *Journal of the Royal Asiatic Society* (1966), pp. 9–39, “The Wu-sun and Sakas and the Yüeh-chih migration,” *Bulletin of the School of Oriental and African Studies* 33 (1979), pp. 154–170을 참조하라. 다른 편들 역시 후대의 복원일 가능성을 의심하게 하는 징후가 있다.
 
 ## 3. 자료
 
@@ -73,7 +73,7 @@ tags:
 
 1739년 武英殿본, 곧 殿本 《史記》 삼가주는 劉應秋(科試 1538)의 1598년 明 國子監本을 저본으로 했다. 이 본문에는 오류와 탈락이 있었다. 편찬자들은 黃善夫본, 王延喆본, 凌稚隆의 1576년 《史記評林》을 대조했다. 凌稚隆은 宋·明 판본을 이용했고, 賀次君은 그 본문을 비교적 좋게 평가했다. 武英殿본 편찬자는 많은 교정을 가하고 각 권 뒤에 본문비평적 고찰인 考證을 붙였다. 賀次君에 따르면 이 판본은 明刊本보다 훨씬 낫지만 여전히 결함이 있다. 乾隆 연간에는 황제의 개인 총서 《古香齋叢書》를 위해 충실하게 재각되었다.
 
-武英殿본은 1884년 同文書局, 五洲同文書局, 上海 商務印書館에서 복제되었고, 上海 圖書集成書局도 1888년에 다시 간행했다. Édouard Chavannes는 *Mémoires historiques* 번역에 이 판본을 사용했다. 中華書局은 《四部備要》에 활자본으로 수록했고, 上海 開明書店도 1936년에 다시 인쇄했다.
+武英殿본은 1884년 同文書局, 五洲同文書局, 上海 商務印書館에서 복제되었고, 上海 圖書集成書局도 1888년에 다시 간행했다. Édouard Chavannes는 *Mémoires historiques* [역사 기록] 번역에 이 판본을 사용했다. 中華書局은 《四部備要》에 활자본으로 수록했고, 上海 開明書店도 1936년에 다시 인쇄했다.
 
 賀次君이 明·淸 판본 가운데 가장 좋다고 평가한 것은 張文虎(1808–1885)와 唐仁壽가 교정하여 南京 金陵書局에서 1870년에 낸 판본이다. 저본은 교정된 汲古閣본이었다.
 
@@ -99,7 +99,7 @@ tags:
 
 몇몇 예외를 빼면 《史記》의 모든 편이 번역되었다. 번역 목록은 Timoteus Pokora, *Oriens Extremus* 8 (1962), pp. 159–173과 아래 (a) 제6권 pp. 113–146에 가장 완전하게 정리되어 있다. 다음은 단행본으로 나온 번역만을 든 것이다.
 
-> (a) Édouard Chavannes, *Les mémoires historiques de Se-ma Ts’ien*, 5권(Paris: Ernest Leroux, 1895–1905). 권1–47의 주석 번역. 1969년 Paris의 Adrien Maisonneuve에서 사진 영인되었고, 제6권에는 권48–52의 주석 번역이 추가되었다.
+> (a) Édouard Chavannes, *Les mémoires historiques de Se-ma Ts’ien* [司馬遷의 역사 기록], 5권(Paris: Ernest Leroux, 1895–1905). 권1–47의 주석 번역. 1969년 Paris의 Adrien Maisonneuve에서 사진 영인되었고, 제6권에는 권48–52의 주석 번역이 추가되었다.
 >
 > (b) Burton Watson, *Records of the Grand Historian of China Translated from the Shih chi of Ssu-ma Ch’ien*, 2권(New York and London: Columbia University Press, 1961). 권7–12, 16–20, 28–30, 48–59, 84, 89–104, 106–125, 127, 129. 매우 읽기 쉬우나 설명 주가 몇 개뿐이고 학술 장치가 없다.
 >
@@ -107,19 +107,19 @@ tags:
 >
 > (d) Yang Hsien-i·Gladys Yang, *Selections from Records of the Historian* (Peking: Foreign Languages Press, 1979). 권6, 7, 41, 47, 48, 55, 56, 65, 66, 68, 74–77, 79, 81, 82, 85, 86, 92, 100, 102, 106, 107, 109, 118, 120, 122, 124, 126, 129. 1974년 Hong Kong Commercial Press판도 ‘초판’이라 표시되어 있으나 두 판은 실제로 동일하다.
 >
-> (e) R. V. Viatkin·V. S. Taskin, *Syma Cian, Istoričeskie zapiski—Siczi* (Moscow: Nauka, 1972–), 6권. 권1부터 이어지는 러시아어 번역.
+> (e) R. V. Viatkin·V. S. Taskin, *Syma Cian, Istoričeskie zapiski—Siczi* [司馬遷, 역사 기록: 《史記》] (Moscow: Nauka, 1972–), 6권. 권1부터 이어지는 러시아어 번역.
 >
 > (f) William Dolby·John Scott, *Sima Qian, Warlords: Translated with Twelve Stories from His Historical Records* (Edinburgh: Southside, 1974). 권65, 75–78, 86, 126. 주석 없는 번역.
 >
-> (g) Erich Haenisch, *Gestalten aus der Zeit der chinesischen Hegemoniekämpfe. Uebersetzungen aus Sze-ma Ts’ien’s Historischen Denkwürdigkeiten*, *Abhandlungen für die Kunde des Morgenlandes* XXXIV.2(Wiesbaden: Franz Steiner, 1962). 권75–78.
+> (g) Erich Haenisch, "Gestalten aus der Zeit der chinesischen Hegemoniekämpfe. Uebersetzungen aus Sze-ma Ts’ien’s Historischen Denkwürdigkeiten" [중국 패권 투쟁 시대의 인물들: 司馬遷의 역사 기록 발췌 번역], *Abhandlungen für die Kunde des Morgenlandes* XXXIV.2(Wiesbaden: Franz Steiner, 1962). 권75–78.
 >
 > (h) Frank Algerton Kierman Jr., *Ssu-ma Ch’ien’s Historiographical Attitude as Reflected in Four Late Warring States Biographies* (Wiesbaden: Harrassowitz, 1962). 권80–83.
 >
-> (i) V. S. Taskin, *Materialy po istorii Syunnu (po kitaiskim istočnikam)*, 제1권(Moscow: Nauka, 1968). 권110과 권81·93·99·109·112 일부.
+> (i) V. S. Taskin, *Materialy po istorii Syunnu (po kitaiskim istočnikam)* [중국 사료에 따른 흉노 역사 자료], 제1권(Moscow: Nauka, 1968). 권110과 권81·93·99·109·112 일부.
 >
-> (j) Yves Hervouet, *Le chapitre 117 du Che-ki; biographie de Sseu-ma Siang-jou* (Paris: Presses universitaires de France, 1972). 권117. 완전한 학술 장치와 중국어 본문을 갖추었고 瀧川본의 주석을 영인했다.
+> (j) Yves Hervouet, *Le chapitre 117 du Che-ki; biographie de Sseu-ma Siang-jou* [《史記》 권117; 司馬相如 전기] (Paris: Presses universitaires de France, 1972). 권117. 완전한 학술 장치와 중국어 본문을 갖추었고 瀧川본의 주석을 영인했다.
 >
-> (k) J. J. M. de Groot, *Chinesische Urkunden zur Geschichte Asiens*, 제2부 *Die Westlande Chinas in der vorchristlichen Zeit* (Berlin und Leipzig: Walter de Gruyter, 1926), pp. 9–45. 권123.
+> (k) J. J. M. de Groot, *Chinesische Urkunden zur Geschichte Asiens* [아시아 역사에 관한 중국 문헌], 제2부 *Die Westlande Chinas in der vorchristlichen Zeit* [기원전 시대 중국의 西域](Berlin und Leipzig: Walter de Gruyter, 1926), pp. 9–45. 권123.
 >
 > (l) Nancy Lee Swann, *Food and Money in Ancient China* (Princeton, N.J.: Princeton University Press, 1950), pp. 419–464. 권129.
 
