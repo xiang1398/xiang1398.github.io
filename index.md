@@ -8,6 +8,8 @@ permalink: /
 
 고전 문헌, 역사언어학, 음운론, 번역과 독서 노트를 기록합니다.
 
+[〈이 블로그에 대하여〉]({{ "/about/" | relative_url }})
+
 ### Contact
 
 블로그 내용에 관한 의견·질문·오류 제보는 [zasanblog@gmail.com](mailto:zasanblog@gmail.com)으로 보내실 수 있습니다.
