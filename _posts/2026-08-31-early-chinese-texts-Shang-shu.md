@@ -169,11 +169,11 @@ tags:
 
 (a) Legge, *The Chinese Classics*, vol. III, parts I–II, *Sacred Books of the East*, vol. III.
 
-(b) Karlgren, Bernhard, The Book of Documents, *BMFEA* 22 (1950), pp. 1–81, 같은 제목의 단행본, Göteborg: Elanders, 1950.
+(b) Karlgren, Bernhard, “The Book of Documents,” *BMFEA* 22 (1950), pp. 1–81, 같은 제목의 단행본, Göteborg: Elanders, 1950.
 
-(c) Karlgren, Bernhard, Glosses on the Book of Documents I, *BMFEA* 20 (1948), pp. 39–315.
+(c) Karlgren, Bernhard, “Glosses on the Book of Documents I,” *BMFEA* 20 (1948), pp. 39–315.
 
-(d) Karlgren, Bernhard, *Glosses on the Book of Documents* II, *BMFEA* 21 (1949), pp. 63–206, 합본 *Glosses on the Book of Documents*, Göteborg: Elanders, 1970.
+(d) Karlgren, “Bernhard,” *Glosses on the Book of Documents* II, *BMFEA* 21 (1949), pp. 63–206, 합본 *Glosses on the Book of Documents*, Göteborg: Elanders, 1970.
 
 Legge 번역은 今文·古文 모두를 포함한 완전한 정통 해석을 신뢰할 만하게 재현한다. 긴 서론과 풍부한 주에서 본문을 둘러싼 해석 논쟁을 상당히 잘 이해하고 있음을 보여 준다. 古文篇을 진본으로 본 점은 거의 확실히 잘못이지만 번역 자체는 대체로 신뢰할 만하다.
 

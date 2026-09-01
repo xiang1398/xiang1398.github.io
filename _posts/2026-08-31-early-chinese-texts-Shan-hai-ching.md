@@ -62,7 +62,7 @@ tags:
 
 卷6–9와 卷10–13의 여러 구절은 조금씩 달라지고 내용이 확대된 형태로 卷14–17과 卷18에 다시 나타난다. 이러한 사실은 顧頡剛(1893–1980)과 侯仁之가 제시한 가설에 신빙성을 더한다. 그들에 따르면 卷14–18은 卷6–13과 병행하는 또 하나의 이본으로 보아야 하며, 후대에 《山海經》에 덧붙여진 것이다.
 
-주: 이 책에 관한 상세한 참고문헌은 R. Fracasso, The *Shanhaijing*: a bibliography by subject, *CINA* 23(1991), pp. 81–104를 참조하라.
+주: 이 책에 관한 상세한 참고문헌은 R. Fracasso, “The *Shanhaijing*: a bibliography by subject,” *CINA* 23(1991), pp. 81–104를 참조하라.
 
 ## 2. 문헌 분류
 
@@ -156,11 +156,11 @@ tags:
 
 (e) Terrien de Lacouperie, *Western Origin of the Early Chinese Civilisation from 2300 BC to 200 AD*, London: Asher and Company, 1894.
 
-(f) E. Joseph Eitel, Prolegomena to the Shan Hai King, *China Review* XVII (1888), pp. 330–348.
+(f) E. Joseph Eitel, “Prolegomena to the Shan Hai King,” *China Review* XVII (1888), pp. 330–348.
 
 (g) Riccardo Fracasso, Teratoscopy or Divination by Monsters, Being a Study on the Wu-tsang Shan-ching, 《漢學硏究》 1.2 (1983년 12월), pp. 657–700.
 
-(h) Riccardo Fracasso, The Illustrations of the Shan hai jing (1). From *Yu’s Tripods to Qing Blockprints*, *Cina* 21 (1988), pp. 93–104.
+(h) Riccardo Fracasso, “The Illustrations of the Shan hai jing (1). From *Yu’s Tripods to Qing Blockprints*,” *Cina* 21 (1988), pp. 93–104.
 
 (i) 何觀洲, 〈山海經在科學上之批判及其作者之時代考〉, 《燕京學報》 7 (1930), pp. 1347–1375.
 
@@ -180,7 +180,7 @@ tags:
 
 (q) 凌純聲, 《山海經新論》, 臺北: Orient Cultural Service, 1970.
 
-(r) O. Mänchen-Helfen, The Later Books of the Shan hai ching, *Asia Major* 1 (1924), pp. 550–586.
+(r) O. Mänchen-Helfen, “The Later Books of the Shan hai ching,” *Asia Major* 1 (1924), pp. 550–586.
 
 (s) 蒙文通, 〈略論山海經的寫作及其產生地域〉, 《中華文史論叢》 1 (1962), pp. 43–70.
 
@@ -188,7 +188,7 @@ tags:
 
 (u) 歐纈芳, 〈山海經校正〉, 《文史哲學報》 11 (1962), pp. 203–338.
 
-(v) John Wm. Schiffeler, Chinese Folk Medicine: a study of the Shan-hai ching, *Asian Folklore Studies* 39.2 (1980), pp. 41–83.
+(v) John Wm. Schiffeler, “Chinese Folk Medicine: a study of the Shan-hai ching,” *Asian Folklore Studies* 39.2 (1980), pp. 41–83.
 
 (w) Gustave Schlegel, Problèmes Géographiques: les Peuples étrangers chez les historiens Chinois [지리적 문제들: 중국 史家들의 기록에 나타난 이민족들], 첫 논문은 *T’oung Pao* 3 (1892), p. 101 이하.
 
