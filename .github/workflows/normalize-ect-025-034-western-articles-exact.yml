@@ -1,0 +1,88 @@
+name: Finish ECT 025-034 western article title normalization
+on:
+  push:
+    paths:
+      - '.github/workflows/normalize-ect-025-034-western-articles-exact.yml'
+permissions:
+  contents: write
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Normalize exact western article citations
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          replacements = {
+              '_posts/2026-08-30-early-chinese-texts-Hsin-yü.md': [
+                  ('von Gabain, Annemarie, Ein Fürstenspiegel: Das Sin-yü des Lu Kia(〈군주를 위한 거울: 陸賈의 《新語》〉), MSOS 33:1(1930)',
+                   'von Gabain, Annemarie, “Ein Fürstenspiegel: Das Sin-yü des Lu Kia” (〈군주를 위한 거울: 陸賈의 《新語》〉), MSOS 33:1(1930)'),
+              ],
+              '_posts/2026-08-30-early-chinese-texts-Hsun-tzu.md': [
+                  ('Malmqvist, Göran, The Cherng shianq Ballad of the Shyun Tzyy, BMFEA 45(1973)',
+                   'Malmqvist, Göran, “The Cherng shianq Ballad of the Shyun Tzyy,” BMFEA 45(1973)'),
+              ],
+              '_posts/2026-08-30-early-chinese-texts-Huai-nan-tzu.md': [
+                  ('Kraft, Eva, Zum Huai-nan-tzu. Einführung, Übersetzung (Kapitel I und II) und Interpretation(〈《淮南子》에 관하여: 서론, 제1·2편 번역과 해석〉), Monumenta Serica 16(1957)',
+                   'Kraft, Eva, “Zum Huai-nan-tzu. Einführung, Übersetzung (Kapitel I und II) und Interpretation” (〈《淮南子》에 관하여: 서론, 제1·2편 번역과 해석〉), Monumenta Serica 16(1957)'),
+              ],
+              '_posts/2026-08-30-early-chinese-texts-Huang-ti-nei-ching.md': [
+                  ('Sohn, Pow-key, 1959. Early Korean Printing. Journal of the American Oriental Society 79.2:99–103.',
+                   'Sohn, Pow-key, 1959. “Early Korean Printing.” Journal of the American Oriental Society 79.2:99–103.'),
+              ],
+              '_posts/2026-08-30-early-chinese-texts-I-ching-Chou-i.md': [
+                  ('“The Book of Changes in the Western Tradition”, *Parerga*',
+                   '“The Book of Changes in the Western Tradition,” *Parerga*'),
+              ],
+              '_posts/2026-08-31-early-chinese-texts-Kuan-tzu.md': [
+                  ('“On the transmission of Kuan tzu”, *TP*',
+                   '“On the transmission of Kuan tzu,” *TP*'),
+                  ('“Das Ti-tsï-tsï Fragmente II [〈弟子職〉 단편 II]”, *Asia Major*',
+                   '“Das Ti-tsï-tsï Fragmente II [〈弟子職〉 단편 II],” *Asia Major*'),
+                  ('와 Legalist Fragments: Part I Kuan-tsï and Related Texts, *Asia Major*',
+                   '와 “Legalist Fragments: Part I Kuan-tsï and Related Texts,” *Asia Major*'),
+              ],
+              '_posts/2026-08-31-early-chinese-texts-Kung-sun-Lung-tzu.md': [
+                  ('“The Chinese sophists”, *Journal of the China Branch of the Royal Asiatic Society*',
+                   '“The Chinese sophists,” *Journal of the China Branch of the Royal Asiatic Society*'),
+                  ('“The Kung-sun Lung-tzu”, *HJAS*',
+                   '“The Kung-sun Lung-tzu,” *HJAS*'),
+                  ('“Kung-sun Lung’s Essay on Meanings and Things”, *Journal of Oriental Studies*',
+                   '“Kung-sun Lung’s Essay on Meanings and Things,” *Journal of Oriental Studies*'),
+                  ('“Notes on Early Chinese Logic”, *Rocznik Orientalistyczny*',
+                   '“Notes on Early Chinese Logic,” *Rocznik Orientalistyczny*'),
+                  ('“Logic and Ontology in the Chih Wu Lun of Kung-sun Lung-tzu”, *Philosophy East and West*',
+                   '“Logic and Ontology in the Chih Wu Lun of Kung-sun Lung-tzu,” *Philosophy East and West*'),
+              ],
+              '_posts/2026-08-31-early-chinese-texts-Kung-tzu-chia-yu.md': [
+                  ('“Fragmente des Fu-tsï und des Tsin-tsï: Früh-Konfuzianische Fragmente I [《宓子》와 《晉子》 단편: 초기 유가 단편 I]”, *Asia Major*',
+                   '“Fragmente des Fu-tsï und des Tsin-tsï: Früh-Konfuzianische Fragmente I [《宓子》와 《晉子》 단편: 초기 유가 단편 I],” *Asia Major*'),
+              ],
+          }
+
+          changed = []
+          for filename, pairs in replacements.items():
+              p = Path(filename)
+              text = p.read_text(encoding='utf-8')
+              original = text
+              for old, new in pairs:
+                  text = text.replace(old, new)
+              if text != original:
+                  p.write_text(text, encoding='utf-8')
+                  changed.append(filename)
+
+          print('\n'.join(changed))
+          PY
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- _posts; then exit 0; fi
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add _posts/*early-chinese-texts-*.md
+          git commit -m 'Finish western article title normalization in ECT 025-034'
+          git push
