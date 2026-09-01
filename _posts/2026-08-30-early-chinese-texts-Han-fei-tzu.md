@@ -127,15 +127,15 @@ tags:
 
 ## 11. 일본어 판본
 
-- A. 《漢文大系》 제8책(1911), Hattori Unokichi 服部宇之吉 편, Ōta Zensai 太田全齋 주.
-- B. 《漢籍國字解全書》 제24·25책(1911), Matsudaira Yasukuni 松平康國 편.
-- D. 《國譯漢文大成》 제9책(1921), Uno Tetsuto 宇野哲人 편.
-- E. 《漢文叢書》(1928), Koyanagi Shikita 小柳司氣太 편.
-- F. 《經書大講》 제19–22책(1938–1939).
-- H. 《新釋漢文大系》 제11·12책(1960·1964), Takeuchi Teruo 竹內照夫 편.
-- J. 《中國の思想》 제1책(1964), Nishino Hiroyoshi 西野廣祥·Ichikawa Hiroshi 市川宏 편.
-- K. 《中國古典文學大系》 제5책(1968), Kakimura Takashi 柿村峻 편.
-- L. 《中國古典新書》(1968), Onozawa Seiichi 小野澤精一 편.
+A. 《漢文大系》 제8책(1911), Hattori Unokichi 服部宇之吉 편, Ōta Zensai 太田全齋 주.
+B. 《漢籍國字解全書》 제24·25책(1911), Matsudaira Yasukuni 松平康國 편.
+D. 《國譯漢文大成》 제9책(1921), Uno Tetsuto 宇野哲人 편.
+E. 《漢文叢書》(1928), Koyanagi Shikita 小柳司氣太 편.
+F. 《經書大講》 제19–22책(1938–1939).
+H. 《新釋漢文大系》 제11·12책(1960·1964), Takeuchi Teruo 竹內照夫 편.
+J. 《中國の思想》 제1책(1964), Nishino Hiroyoshi 西野廣祥·Ichikawa Hiroshi 市川宏 편.
+K. 《中國古典文學大系》 제5책(1968), Kakimura Takashi 柿村峻 편.
+L. 《中國古典新書》(1968), Onozawa Seiichi 小野澤精一 편.
 
 이 밖에 다음 독립 판본이 있다.
 
@@ -147,7 +147,6 @@ tags:
 ## 12. 근래의 연구
 
 다음은 많은 간행물 가운데 일부이며 중국철학 일반서는 제외하였다.
-
 - (a) 周鍾靈, 《韓非子的邏輯》(Peking: 人民出版社, 1958).
 - (b) 謝雲飛, 《韓非子析論》(Taipei: 大林書店, 1973).
 - (c) 王邦雄, 《韓非子的哲學》(Taipei: 滄海叢刊, 1977).
