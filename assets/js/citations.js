@@ -2,6 +2,17 @@ document.addEventListener("DOMContentLoaded", () => {
   const post = document.querySelector(".post-content");
   if (!post) return;
 
+  // 글 첫머리의 권장 인용 표기를 한국어 서명·편명 부호로 통일한다.
+  // 「글 제목」, 『사이트명』 → 〈글 제목〉, 《사이트명》
+  document.querySelectorAll(".citation-notice").forEach((notice) => {
+    Array.from(notice.childNodes).forEach((node) => {
+      if (node.nodeType !== Node.TEXT_NODE) return;
+      node.nodeValue = node.nodeValue
+        .replace(/「([^」]+)」/g, "〈$1〉")
+        .replace(/『([^』]+)』/g, "《$1》");
+    });
+  });
+
   const headings = Array.from(post.querySelectorAll("h2, h3"));
 
   function findHeading(pattern) {
