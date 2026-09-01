@@ -35,6 +35,12 @@ permalink: /search/
 .search-result-item p {
   margin: .45rem 0 0;
 }
+.search-result-item mark {
+  padding: 0 .08em;
+  border-radius: 2px;
+  background: #fff1a8;
+  color: inherit;
+}
 </style>
 
 <input id="site-search-input" class="site-search-box" type="search" placeholder="제목·본문·태그·카테고리 검색" autocomplete="off" autofocus>
