@@ -1,0 +1,50 @@
+name: Fix ECT 046-065 audit issues
+on:
+  push:
+    paths:
+      - '.github/workflows/fix-ect-046-065-audit.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Apply exact bibliography fixes
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          fixes = {
+            '_posts/2026-08-31-early-chinese-texts-Shang-chun-shu.md': [
+              ('제3장 The Theory and Practice of a Totalitarian State: Shang Yang and Legalism도 참조하라.',
+               '제3장 “The Theory and Practice of a Totalitarian State: Shang Yang and Legalism”도 참조하라.'),
+            ],
+            '_posts/2026-09-01-early-chinese-texts-Shih-ching.md': [
+              ('陳世驤, The Shih ching: Its Generic Significance in Chinese Literary History and Poetics, 《中央研究院歷史語言研究所集刊》 39.1 (1969), pp. 371–413',
+               '陳世驤, “The Shih ching: Its Generic Significance in Chinese Literary History and Poetics,” 《中央研究院歷史語言研究所集刊》 39.1 (1969), pp. 371–413'),
+            ],
+            '_posts/2026-09-01-early-chinese-texts-Shih-ming.md': [
+              ('“The Far East” \\[극동\\], Thomas E. Sebeok 편,',
+               '“The Far East” [극동], Thomas E. Sebeok 편,'),
+            ],
+            '_posts/2026-09-01-early-chinese-texts-Tai-hsuan-ching.md': [
+              ('Michael Nylan·Nathan Sivin, The First Neo-Confucianism: An Introduction to Yang Hsiung’s “Canon of Supreme Mystery” (T’ai hsüan ching, c. 4 B.C.), Charles Le Blanc·Susan Blader 편,',
+               'Michael Nylan·Nathan Sivin, “The First Neo-Confucianism: An Introduction to Yang Hsiung’s ‘Canon of Supreme Mystery’ (T’ai hsüan ching, c. 4 B.C.),” Charles Le Blanc·Susan Blader 편,'),
+            ],
+          }
+          for fn,repls in fixes.items():
+              p=Path(fn); s=p.read_text(encoding='utf-8')
+              for old,new in repls:
+                  if old not in s: raise SystemExit(f'Target not found in {fn}: {old}')
+                  s=s.replace(old,new,1)
+              p.write_text(s,encoding='utf-8')
+          PY
+      - name: Commit fixes
+        run: |
+          if git diff --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add _posts/2026-08-31-early-chinese-texts-Shang-chun-shu.md _posts/2026-09-01-early-chinese-texts-Shih-ching.md _posts/2026-09-01-early-chinese-texts-Shih-ming.md _posts/2026-09-01-early-chinese-texts-Tai-hsuan-ching.md
+          git commit -m 'Fix ECT 046-065 bibliography formatting'
+          git push
