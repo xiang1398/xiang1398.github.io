@@ -1,0 +1,47 @@
+name: Remove Markdown from ECT titles
+on:
+  push:
+    paths: ['.github/workflows/remove-ect-title-markdown.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Remove title asterisks
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          found=[]
+          for p in sorted(Path('_posts').glob('*early-chinese-texts-*.md')):
+              s=p.read_text(encoding='utf-8')
+              m=re.search(r'^title:\s*"\*Early Chinese Texts\*\s+(\d{3}):\s*(.*?)"\s*$',s,re.M)
+              if not m: continue
+              n,rest=m.group(1),m.group(2)
+              rest=rest.replace('*','')
+              new=f'title: "Early Chinese Texts {n}: {rest}"'
+              s=s[:m.start()]+new+s[m.end():]
+              p.write_text(s,encoding='utf-8')
+              found.append(n)
+          exp=[f'{i:03d}' for i in range(1,66)]
+          if sorted(found)!=exp: raise SystemExit(f'Expected 001-065, got {found}')
+          # Verify no Markdown asterisks remain in ECT 001-065 title lines.
+          checked=0
+          for p in Path('_posts').glob('*early-chinese-texts-*.md'):
+              s=p.read_text(encoding='utf-8')
+              m=re.search(r'^title:\s*"Early Chinese Texts\s+(\d{3}):\s*(.*?)"\s*$',s,re.M)
+              if m:
+                  checked+=1
+                  if '*' in m.group(0): raise SystemExit(f'Asterisk remains: {p}')
+          if checked!=65: raise SystemExit(f'Expected 65 verified titles, got {checked}')
+          print('VERIFIED_TITLE_COUNT=65')
+          PY
+      - name: Commit
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add _posts/*early-chinese-texts-*.md
+          git commit -m 'Remove Markdown markup from ECT 001-065 titles'
+          git push
