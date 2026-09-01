@@ -99,7 +99,7 @@ tags:
 
 ## 4. 서양 학자의 연구
 
-(a) Alfred Forke, “The Philosopher Yang Hsiung,” *Journal of the North China Branch of the Royal Asiatic Society* 66 (1930), pp. 108–110, “Chinesischer Bildersaal: der Philosoph Yang Hiung,” *Sinica* 7 (1932), pp. 169–178, *Geschichte der mittelalterlichen chinesischen Philosophie* (Hamburg: Friederischen, de Gruyter and Co., 1934), pp. 74–99도 참조한다.
+(a) Alfred Forke, “The Philosopher Yang Hsiung,” *Journal of the North China Branch of the Royal Asiatic Society* 66 (1930), pp. 108–110, “Chinesischer Bildersaal: der Philosoph Yang Hiung,” [중국의 인물 畵廊: 철학자 揚雄] *Sinica* 7 (1932), pp. 169–178, *Geschichte der mittelalterlichen chinesischen Philosophie* [중세 중국 철학사](Hamburg: Friederischen, de Gruyter and Co., 1934), pp. 74–99도 참조한다.
 
 (b) David R. Knechtges, *The Han Rhapsody* (Cambridge: Cambridge University Press, 1976). p. 7 이하에서 《太玄》의 구조를 설명하고, p. 90 이하에서 제47首를 번역한다.
 
@@ -119,6 +119,6 @@ Michael Nylan, *The Canon of Supreme Mystery by Yang Hsiung* (Albany: State Univ
 
 ## 7. 색인
 
-D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Fayan and Taixuanjing* 法言, 太玄經逐字索引, *ICS* series (Hong Kong: Commercial Press), 1995년 간행 예정.
+D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Fayan and Taixuanjing* 《法言太玄經逐字索引》, *ICS* series (Hong Kong: Commercial Press), 1995년 간행 예정.
 
 *—Michael Nylan*
