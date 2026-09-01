@@ -411,6 +411,14 @@ code {
 }
 
 /* =========================
+   Header navigation spacing
+   ========================= */
+
+.site-nav .page-link:not(:last-child) {
+  margin-right: 20px;
+}
+
+/* =========================
    Traditional / Simplified toggle
    ========================= */
 
@@ -419,7 +427,7 @@ code {
   display: inline-flex;
   align-items: center;
   gap: .18rem;
-  margin-left: .8rem;
+  margin-left: 20px;
   min-height: 54px;
   vertical-align: middle;
   font-size: .86rem;
