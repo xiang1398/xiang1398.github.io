@@ -73,47 +73,47 @@ tags:
 
 이 책을 연구할 때에는 여러 판본을 함께 참고해야 한다. 완전한 판본 목록은 吳則虞 pp. 43–48을 참조한다.
 
-> \(a\) 元代 판본을 저본으로 한 明末 활자본이 《四部叢刊》에 영인되어 있다.
+> (a) 元代 판본을 저본으로 한 明末 활자본이 《四部叢刊》에 영인되어 있다.
 >
-> \(b\) 馮夢禎(1546–1605)의 1602년본은 《先秦諸子合編》에 수록되어 있으며 宋代 판목을 저본으로 했다고 전한다. 이를 (a)와 비교하면 두 판본 모두 각기 장점과 약점을 지닌다는 사실이 드러난다(吳則虞, p. 43).
+> (b) 馮夢禎(1546–1605)의 1602년본은 《先秦諸子合編》에 수록되어 있으며 宋代 판목을 저본으로 했다고 전한다. 이를 (a)와 비교하면 두 판본 모두 각기 장점과 약점을 지닌다는 사실이 드러난다(吳則虞, p. 43).
 >
-> \(c\) 孫星衍은 1585년 沈啟南본과, (a)와 같은 계통의 저본에서 나왔다고 전하는 吳懷保의 明末본을 바탕으로 새 본문을 마련하여 1788년에 처음 간행하였다. 더 중요한 것은 그가 《音義》라는 주석을 작성했다는 점이다. 여기에는 이문, 난해한 글자, 운을 비롯한 음운 현상에 관한 정보가 들어 있다. 孫星衍의 《補遺》와 黃以周(1828–1899)의 교감기를 합친 본문은 《四部備要》에 수록되어 있다. 盧文弨·王念孫·俞樾도 본문에 관한 논평을 남겼다.
+> (c) 孫星衍은 1585년 沈啟南본과, (a)와 같은 계통의 저본에서 나왔다고 전하는 吳懷保의 明末본을 바탕으로 새 본문을 마련하여 1788년에 처음 간행하였다. 더 중요한 것은 그가 《音義》라는 주석을 작성했다는 점이다. 여기에는 이문, 난해한 글자, 운을 비롯한 음운 현상에 관한 정보가 들어 있다. 孫星衍의 《補遺》와 黃以周(1828–1899)의 교감기를 합친 본문은 《四部備要》에 수록되어 있다. 盧文弨·王念孫·俞樾도 본문에 관한 논평을 남겼다.
 >
 > 이러한 논평과 다수의 본문 이문에 관한 주석은 다음 판본들을 참조하라.
 >
-> \(d\) 張純一, 《晏子春秋校注》. 1930년 서문, 上海 世界書局, 1936년 초간. 뒤에 《諸子集成》에 재수록되었다.
+> (d) 張純一, 《晏子春秋校注》. 1930년 서문, 上海 世界書局, 1936년 초간. 뒤에 《諸子集成》에 재수록되었다.
 >
-> \(e\) 吳則虞, 《晏子春秋集釋》, 2책, 北京 中華書局, 1962.
+> (e) 吳則虞, 《晏子春秋集釋》, 2책, 北京 中華書局, 1962.
 
 (d)와 (e)는 때로 서로 다른 자료를 인용하므로 함께 사용해야 한다. 배열상 (e)가 더 편리하며, 저자의 판단도 대체로 (d)보다 더 유용하다.
 
-> \(f\) 王叔岷, 〈晏子春秋斠證〉, 《中央研究院歷史語言研究所集刊》 28(1956), pp. 55–105.
+> (f) 王叔岷, 〈晏子春秋斠證〉, 《中央研究院歷史語言研究所集刊》 28(1956), pp. 55–105.
 
 ## 6. 앞에서 인용한 연구
 
 앞에서 언급한 학자들의 견해는 吳則虞에 다음과 같이 인용되어 있다. 章學誠(p. 605), 焦竑(p. 604), 古賀侗庵(p. 635), 管同(pp. 630–631), 梁啟超(p. 632), 劉師培(p. 635 이하 및 p. 647 이하), 王念孫(pp. 643–644), 吳德旋(p. 630), 王應麟(p. 604)이다. 여기에 다음 연구를 덧붙일 수 있다.
 
-> \(a\) Alfred Forke, Yen Ying, Staatsman und Philosoph, und das Yen-tse Tch’un-tsch’iu, *Asia Major*, Hirth Anniversary Volume (1923), pp. 101–144.
+> (a) Alfred Forke, “Yen Ying, Staatsman und Philosoph, und das Yen-tse Tch’un-tsch’iu,” *Asia Major*, Hirth Anniversary Volume (1923), pp. 101–144.
 >
-> \(b\) Bernhard Karlgren, “On the Authenticity of Ancient Chinese Texts,” *Bulletin of the Museum of Far Eastern Antiquities* 1 (1929), pp. 165–183.
+> (b) Bernhard Karlgren, “On the Authenticity of Ancient Chinese Texts,” *Bulletin of the Museum of Far Eastern Antiquities* 1 (1929), pp. 165–183.
 >
-> \(c\) Henri Maspero, *China in Antiquity*, Frank A. Kierman Jr. 옮김, Folkestone: Wm Dawson, 1978.
+> (c) Henri Maspero, *China in Antiquity*, Frank A. Kierman Jr. 옮김, Folkestone: Wm Dawson, 1978.
 >
-> \(d\) Richard Walker, “Some Notes on the Yen tzu ch’un ch’iu,” *Journal of the American Oriental Society* 73 (1953), pp. 156–163.
+> (d) Richard Walker, “Some Notes on the Yen tzu ch’un ch’iu,” *Journal of the American Oriental Society* 73 (1953), pp. 156–163.
 >
-> \(e\) 王更生, 《晏子春秋研究》, 臺北: 文史哲出版社, 1976.
+> (e) 王更生, 《晏子春秋研究》, 臺北: 文史哲出版社, 1976.
 
 ## 7. 번역
 
 서양 언어로 된 완역은 아직 나오지 않았다. 부분 번역은 다음과 같다.
 
-> \(a\) George Kao, *Chinese Wit and Humor*, 1946년 초간, New York: Sterling Publishing Company, 1974년 재간. 《晏子春秋》에서 뽑은 열두 일화는 pp. 37–46에 실려 있다.
+> (a) George Kao, *Chinese Wit and Humor*, 1946년 초간, New York: Sterling Publishing Company, 1974년 재간. 《晏子春秋》에서 뽑은 열두 일화는 pp. 37–46에 실려 있다.
 >
-> \(b\) Aschwin Lippe, Drei Geschichten aus dem ‘Frühling und Herbst des Yen Ying’, *Studia Sino-Altaica: Festschrift für Erich Haenisch* (1961).
+> (b) Aschwin Lippe, Drei Geschichten aus dem ‘Frühling und Herbst des Yen Ying’, *Studia Sino-Altaica: Festschrift für Erich Haenisch* (1961).
 >
-> \(c\) Burton Watson, *Early Chinese Literature*, New York: Columbia University Press, 1962, p. 186.
+> (c) Burton Watson, *Early Chinese Literature*, New York: Columbia University Press, 1962, p. 186.
 >
-> \(d\) 위 6절의 Forke 논문도 참조한다.
+> (d) 위 6절의 Forke 논문도 참조한다.
 
 北京의 中國國家圖書館에는 만주어 필사 번역본 한 종이 소장되어 있다.
 

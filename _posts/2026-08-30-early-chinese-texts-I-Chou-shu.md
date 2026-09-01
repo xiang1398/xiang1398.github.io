@@ -141,4 +141,4 @@ tags:
 
 D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Yizhoushu* 《逸周書逐字索引》, ICS series, Hong Kong: Commercial Press, 1992.
 
-—Edward L. Shaughnessy
+*—Edward L. Shaughnessy*

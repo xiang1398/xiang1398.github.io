@@ -121,4 +121,4 @@ Michael Nylan, *The Canon of Supreme Mystery by Yang Hsiung* (Albany: State Univ
 
 D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Fayan and Taixuanjing* 法言, 太玄經逐字索引, ICS series (Hong Kong: Commercial Press), 1995년 간행 예정.
 
-—Michael Nylan
+*—Michael Nylan*

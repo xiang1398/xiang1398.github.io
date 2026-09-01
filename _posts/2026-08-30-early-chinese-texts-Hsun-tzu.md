@@ -173,4 +173,4 @@ L. 《中國古典新書》, 1973, Kimata Tokuo 木全德雄 편.
 
 - (b) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Xunzi* 《荀子逐字索引》, ICS series, Hong Kong: Commercial Press, 1995 간행 예정.
 
-—Michael Loewe
+*—Michael Loewe*

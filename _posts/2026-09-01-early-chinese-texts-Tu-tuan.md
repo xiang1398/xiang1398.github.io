@@ -79,4 +79,4 @@ tags:
 
 《漢魏叢書》의 본문은 Saitō Sanzaemon 齋藤三左衛門이 1669년에 漢文訓讀 부호를 붙여 다시 간행했다. 이 판본은 Nagasawa Kikuya 長澤規矩也(1902–1980) 편, 《和刻本漢籍隨筆集》 제10권(東京: 古典研究會, 1974)에서 이용할 수 있다.
 
-—Michael Loewe
+*—Michael Loewe*

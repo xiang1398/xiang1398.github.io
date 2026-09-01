@@ -63,7 +63,7 @@ tags:
 
 ## 6. 연구 도구와 2차 연구
 
-Heinrich Busch, Hsün Yüeh, “ein Denker am Hofe des letzten Han-Kaisers [마지막 漢 황제의 궁정 사상가 荀悅],” *Monumenta Serica* 10 (1945), pp. 58–90에서는 荀悅의 생애와 사상을 포괄적으로 개관한다. 그 밖에 다음 연구가 있다.
+Heinrich Busch, “Hsün Yüeh, ein Denker am Hofe des letzten Han-Kaisers” [마지막 漢 황제의 궁정 사상가 荀悅], *Monumenta Serica* 10 (1945), pp. 58–90에서는 荀悅의 생애와 사상을 포괄적으로 개관한다. 그 밖에 다음 연구가 있다.
 
 Yoshinami Takashi 好並隆司, 〈荀悅の社會背景とその政策について〉, 《岡山史學》 2 (1956), pp. 68–86.
 

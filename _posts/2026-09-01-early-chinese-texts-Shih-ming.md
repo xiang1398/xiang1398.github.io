@@ -85,9 +85,9 @@ Bodman의 연구(아래 4절 참조) 덕분에, 한대 어두 자음군의 가�
 
 (a) Nicholas Cleaveland Bodman, *A Linguistic Study of the Shih Ming: Initials and Consonant Clusters* \[《釋名》의 언어학적 연구: 성모와 자음군\], *Harvard-Yenching Institute Studies* XI, Cambridge, Mass.: Harvard University Press, 1954.
 
-(b) Roy Andrew Miller, “위 (a)에 대한 서평,” *T’oung Pao* 44 (1956), pp. 266–287.
+(b) Roy Andrew Miller, 위 (a)에 대한 서평, *T’oung Pao* 44 (1956), pp. 266–287.
 
-(c) Roy Andrew Miller, The Far East \[극동\], Thomas E. Sebeok 편, *Current Trends in Linguistics*, 제13권 *Historiography of Linguistics*, The Hague·Paris: Mouton, 1975, pp. 1213–1264, 특히 pp. 1224–1225.
+(c) Roy Andrew Miller, “The Far East” \[극동\], Thomas E. Sebeok 편, *Current Trends in Linguistics*, 제13권 *Historiography of Linguistics*, The Hague·Paris: Mouton, 1975, pp. 1213–1264, 특히 pp. 1224–1225.
 
 ## 5. 색인
 

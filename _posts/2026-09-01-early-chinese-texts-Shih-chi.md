@@ -33,15 +33,15 @@ tags:
 
 《史記》는 성립 초기 몇 세기 동안 《太史公書》라고 불렸으며, 신화적 黃帝 시대부터 저자 자신의 시대인 기원전 2세기 말까지를 다룬 중국 통사이다. 모두 130권으로 이루어져 있다. 《春秋》나 《竹書紀年》처럼 기본적으로 편년체로 구성된 초기 역사서와 달리, 《史記》의 저자는 자료를 다섯 부문으로 나누었다.
 
-> \(a\) 역대 왕조 군주의 기본 연대기인 本紀 12권.
+> (a) 역대 왕조 군주의 기본 연대기인 本紀 12권.
 >
-> \(b\) 제국 이전 여러 나라 군주의 연대를 주로 대조하고, 漢 왕조 초기 첫 세기에 봉작된 가문의 계보도 제시하는 表 10권.
+> (b) 제국 이전 여러 나라 군주의 연대를 주로 대조하고, 漢 왕조 초기 첫 세기에 봉작된 가문의 계보도 제시하는 表 10권.
 >
-> \(c\) 글자 그대로는 ‘문서’이지만 실제로는 예·악·역법·천문 또는 점성·河渠·농업 경제, 특히 조세와 화폐 등 좋은 통치에 중요하다고 여긴 주제를 논한 書 8권.
+> (c) 글자 그대로는 ‘문서’이지만 실제로는 예·악·역법·천문 또는 점성·河渠·농업 경제, 특히 조세와 화폐 등 좋은 통치에 중요하다고 여긴 주제를 논한 書 8권.
 >
-> \(d\) ‘세습 가문’이라는 뜻의 世家 30권. 실제로는 선진 시대 주요 국가들의 역사, 孔子의 전기, 그리고 한 초기 일부 중요 인물의 전기를 포함한다.
+> (d) ‘세습 가문’이라는 뜻의 世家 30권. 실제로는 선진 시대 주요 국가들의 역사, 孔子의 전기, 그리고 한 초기 일부 중요 인물의 전기를 포함한다.
 >
-> \(e\) 傳은 글자 그대로는 ‘전승’ 또는 ‘전해지는 이야기’라는 뜻이지만, 여기서는 실제로 정치가·군사 지도자·학자·俳優 등 여러 계층의 중요 인물을 다룬 列傳 70권. 이 편들에는 匈奴, 西域의 여러 민족, 朝鮮, 東南·西南 지역 등 한 초기 중국과 밀접하게 접촉한 외국 민족에 대한 역사적 개관도 포함된다.
+> (e) 傳은 글자 그대로는 ‘전승’ 또는 ‘전해지는 이야기’라는 뜻이지만, 여기서는 실제로 정치가·군사 지도자·학자·俳優 등 여러 계층의 중요 인물을 다룬 列傳 70권. 이 편들에는 匈奴, 西域의 여러 민족, 朝鮮, 東南·西南 지역 등 한 초기 중국과 밀접하게 접촉한 외국 민족에 대한 역사적 개관도 포함된다.
 
 이러한 역사 자료의 구분 방식은 이후 모든 기전체 정사의 기본 규범으로 남았다.
 
@@ -49,7 +49,7 @@ tags:
 
 전통적으로 《史記》는 太史令 司馬談(기원전 110년 사망)이 집필을 시작하고, 그의 아들이자 후임 太史令인 司馬遷(字 子長, 약 기원전 145–86)이 이어 완성한 것으로 인정된다. 보통은 司馬遷만을 저자로 거론한다. 그가 언제 역사서를 완성했는지는 알 수 없지만, 그의 사망 연대 자체도 불확실한 가운데 사후 한 세기 동안 여러 저자가 내용을 덧붙였다는 사실은 알려져 있다. 그러므로 현행 본문에서 대략 기원전 100년 이후의 사건을 언급하는 구절은 후대의 첨가일 수 있으며, 기원전 90년 이후를 다룬 구절은 확실히 후대에 들어온 것이다. 기원전 1세기 후반에 활동한 褚少孫(약 기원전 104–30)의 보충만은 명확하게 표시되어 있다. 또한 이미 기원후 1세기에 열 편이 빠졌다는 사실이 지적되었고, 이 결락은 뒤에 보충되었다. 이에 대해서는 余嘉錫(1883–1955), 〈太史公書亡篇考〉, 《余嘉錫論學雜著》(北京: 中華書局, 1963), pp. 1–108을 참조하라.
 
-근대에는 또 다른 문제가 제기되었다. 이는 한 왕조 첫 세기, 곧 기원전 2세기의 사건과 인물을 다루는 《史記》 수십 편의 진위와 관계된다. 알 수 없는 이유로 이 편들이 사라진 뒤, 내용이 거의 축자적으로 일치하는 《漢書》의 관련 편을 이용해 기원후 3세기 또는 4세기에 복원되었다는 설이다. Yves Hervouet, “La valeur relative des textes du Che-ki et du Han-chou,” *Mélanges de sinologie offerts à Monsieur Paul Demiéville* 2(Paris, 1974), pp. 55–76을 참조하라. 지금까지는 소수의 편만 이 관점에서 검토되었다. Hervouet의 앞 논문, A. F. P. Hulsewé, The problem of the authenticity of Shih chi ch. 123, The Memoir on Ta Yüan, *T’oung Pao* 61 (1975), pp. 83–147, 丘瓊蓀, 《歷代樂志律志校釋 第一分冊》(北京: 中華書局, 1964)을 보라. 반대 견해는 E. G. Pulleyblank, Chinese and Indo-Europeans, *Journal of the Royal Asiatic Society* (1966), pp. 9–39, The Wu-sun and Sakas and the Yüeh-chih migration, *Bulletin of the School of Oriental and African Studies* 33 (1979), pp. 154–170을 참조하라. 다른 편들 역시 후대의 복원일 가능성을 의심하게 하는 징후가 있다.
+근대에는 또 다른 문제가 제기되었다. 이는 한 왕조 첫 세기, 곧 기원전 2세기의 사건과 인물을 다루는 《史記》 수십 편의 진위와 관계된다. 알 수 없는 이유로 이 편들이 사라진 뒤, 내용이 거의 축자적으로 일치하는 《漢書》의 관련 편을 이용해 기원후 3세기 또는 4세기에 복원되었다는 설이다. Yves Hervouet, “La valeur relative des textes du Che-ki et du Han-chou,” *Mélanges de sinologie offerts à Monsieur Paul Demiéville* 2(Paris, 1974), pp. 55–76을 참조하라. 지금까지는 소수의 편만 이 관점에서 검토되었다. Hervouet의 앞 논문, A. F. P. Hulsewé, “The problem of the authenticity of Shih chi ch. 123, The Memoir on Ta Yüan,” *T’oung Pao* 61 (1975), pp. 83–147, 丘瓊蓀, 《歷代樂志律志校釋 第一分冊》(北京: 中華書局, 1964)을 보라. 반대 견해는 E. G. Pulleyblank, “Chinese and Indo-Europeans,” *Journal of the Royal Asiatic Society* (1966), pp. 9–39, “The Wu-sun and Sakas and the Yüeh-chih migration,” *Bulletin of the School of Oriental and African Studies* 33 (1979), pp. 154–170을 참조하라. 다른 편들 역시 후대의 복원일 가능성을 의심하게 하는 징후가 있다.
 
 ## 3. 자료
 
@@ -87,41 +87,41 @@ tags:
 
 본문 없이 간행된 주석은 다음과 같다.
 
-> \(a\) 梁玉繩(1745–1819), 《史記志疑》 36권. 주로 본문비평을 다룬다. 1787년에 처음 간행되었고, 뒤에 《廣雅叢書》에 수록되었으며 北京 中華書局에서 1981년에 다시 간행했다. 가장 이른 판본 또는 가장 이른 판본 가운데 하나를 바탕으로 했다.
+> (a) 梁玉繩(1745–1819), 《史記志疑》 36권. 주로 본문비평을 다룬다. 1787년에 처음 간행되었고, 뒤에 《廣雅叢書》에 수록되었으며 北京 中華書局에서 1981년에 다시 간행했다. 가장 이른 판본 또는 가장 이른 판본 가운데 하나를 바탕으로 했다.
 >
-> \(b\) Mizusawa Toshitada 水澤利忠, 《史記會注考證校補》 9권(東京: 史記會注考證校補刊行會, 1957–1970). 중국과 일본의 사본·인쇄본에 보이는 《史記》 본문과 삼가주의 이문을 전서에 걸쳐 제시한다.
+> (b) Mizusawa Toshitada 水澤利忠, 《史記會注考證校補》 9권(東京: 史記會注考證校補刊行會, 1957–1970). 중국과 일본의 사본·인쇄본에 보이는 《史記》 본문과 삼가주의 이문을 전서에 걸쳐 제시한다.
 >
-> \(c\) 陳直, 《史記新證》(天津: 天津人民出版社, 1979). 서문은 1958년, 저자의 짧은 후기는 1963년이다.
+> (c) 陳直, 《史記新證》(天津: 天津人民出版社, 1979). 서문은 1958년, 저자의 짧은 후기는 1963년이다.
 >
-> \(d\) 王叔岷(1914년생), 《史記斠證》 10권(臺北 南港: 中央研究院歷史語言研究所, 專刊 78, 1983). 전서의 본문비평 연구로, 저자가 1965–1982년에 주로 《中央研究院歷史語言研究所集刊》에 발표한 개별 편 연구를 종합하고 대체한다.
+> (d) 王叔岷(1914년생), 《史記斠證》 10권(臺北 南港: 中央研究院歷史語言研究所, 專刊 78, 1983). 전서의 본문비평 연구로, 저자가 1965–1982년에 주로 《中央研究院歷史語言研究所集刊》에 발표한 개별 편 연구를 종합하고 대체한다.
 
 ## 6. 번역
 
 몇몇 예외를 빼면 《史記》의 모든 편이 번역되었다. 번역 목록은 Timoteus Pokora, *Oriens Extremus* 8 (1962), pp. 159–173과 아래 (a) 제6권 pp. 113–146에 가장 완전하게 정리되어 있다. 다음은 단행본으로 나온 번역만을 든 것이다.
 
-> \(a\) Édouard Chavannes, *Les mémoires historiques de Se-ma Ts’ien*, 5권(Paris: Ernest Leroux, 1895–1905). 권1–47의 주석 번역. 1969년 Paris의 Adrien Maisonneuve에서 사진 영인되었고, 제6권에는 권48–52의 주석 번역이 추가되었다.
+> (a) Édouard Chavannes, *Les mémoires historiques de Se-ma Ts’ien*, 5권(Paris: Ernest Leroux, 1895–1905). 권1–47의 주석 번역. 1969년 Paris의 Adrien Maisonneuve에서 사진 영인되었고, 제6권에는 권48–52의 주석 번역이 추가되었다.
 >
-> \(b\) Burton Watson, *Records of the Grand Historian of China Translated from the Shih chi of Ssu-ma Ch’ien*, 2권(New York and London: Columbia University Press, 1961). 권7–12, 16–20, 28–30, 48–59, 84, 89–104, 106–125, 127, 129. 매우 읽기 쉬우나 설명 주가 몇 개뿐이고 학술 장치가 없다.
+> (b) Burton Watson, *Records of the Grand Historian of China Translated from the Shih chi of Ssu-ma Ch’ien*, 2권(New York and London: Columbia University Press, 1961). 권7–12, 16–20, 28–30, 48–59, 84, 89–104, 106–125, 127, 129. 매우 읽기 쉬우나 설명 주가 몇 개뿐이고 학술 장치가 없다.
 >
-> \(c\) Burton Watson, *Records of the Historian: The Shih Chi of Ssu-ma Ch’ien* (New York and London: Columbia University Press, 1969). 권7, 8, 16, 29, 53–55, 61, 66, 82, 85, 86, 92, 97, 99, 107, 109, 122, 123, 129.
+> (c) Burton Watson, *Records of the Historian: The Shih Chi of Ssu-ma Ch’ien* (New York and London: Columbia University Press, 1969). 권7, 8, 16, 29, 53–55, 61, 66, 82, 85, 86, 92, 97, 99, 107, 109, 122, 123, 129.
 >
-> \(d\) Yang Hsien-i·Gladys Yang, *Selections from Records of the Historian* (Peking: Foreign Languages Press, 1979). 권6, 7, 41, 47, 48, 55, 56, 65, 66, 68, 74–77, 79, 81, 82, 85, 86, 92, 100, 102, 106, 107, 109, 118, 120, 122, 124, 126, 129. 1974년 Hong Kong Commercial Press판도 ‘초판’이라 표시되어 있으나 두 판은 실제로 동일하다.
+> (d) Yang Hsien-i·Gladys Yang, *Selections from Records of the Historian* (Peking: Foreign Languages Press, 1979). 권6, 7, 41, 47, 48, 55, 56, 65, 66, 68, 74–77, 79, 81, 82, 85, 86, 92, 100, 102, 106, 107, 109, 118, 120, 122, 124, 126, 129. 1974년 Hong Kong Commercial Press판도 ‘초판’이라 표시되어 있으나 두 판은 실제로 동일하다.
 >
-> \(e\) R. V. Viatkin·V. S. Taskin, *Syma Cian, Istoričeskie zapiski—Siczi* (Moscow: Nauka, 1972–), 6권. 권1부터 이어지는 러시아어 번역.
+> (e) R. V. Viatkin·V. S. Taskin, *Syma Cian, Istoričeskie zapiski—Siczi* (Moscow: Nauka, 1972–), 6권. 권1부터 이어지는 러시아어 번역.
 >
-> \(f\) William Dolby·John Scott, *Sima Qian, Warlords: Translated with Twelve Stories from His Historical Records* (Edinburgh: Southside, 1974). 권65, 75–78, 86, 126. 주석 없는 번역.
+> (f) William Dolby·John Scott, *Sima Qian, Warlords: Translated with Twelve Stories from His Historical Records* (Edinburgh: Southside, 1974). 권65, 75–78, 86, 126. 주석 없는 번역.
 >
-> \(g\) Erich Haenisch, *Gestalten aus der Zeit der chinesischen Hegemoniekämpfe. Uebersetzungen aus Sze-ma Ts’ien’s Historischen Denkwürdigkeiten*, *Abhandlungen für die Kunde des Morgenlandes* XXXIV.2(Wiesbaden: Franz Steiner, 1962). 권75–78.
+> (g) Erich Haenisch, *Gestalten aus der Zeit der chinesischen Hegemoniekämpfe. Uebersetzungen aus Sze-ma Ts’ien’s Historischen Denkwürdigkeiten*, *Abhandlungen für die Kunde des Morgenlandes* XXXIV.2(Wiesbaden: Franz Steiner, 1962). 권75–78.
 >
-> \(h\) Frank Algerton Kierman Jr., *Ssu-ma Ch’ien’s Historiographical Attitude as Reflected in Four Late Warring States Biographies* (Wiesbaden: Harrassowitz, 1962). 권80–83.
+> (h) Frank Algerton Kierman Jr., *Ssu-ma Ch’ien’s Historiographical Attitude as Reflected in Four Late Warring States Biographies* (Wiesbaden: Harrassowitz, 1962). 권80–83.
 >
-> \(i\) V. S. Taskin, *Materialy po istorii Syunnu (po kitaiskim istočnikam)*, 제1권(Moscow: Nauka, 1968). 권110과 권81·93·99·109·112 일부.
+> (i) V. S. Taskin, *Materialy po istorii Syunnu (po kitaiskim istočnikam)*, 제1권(Moscow: Nauka, 1968). 권110과 권81·93·99·109·112 일부.
 >
-> \(j\) Yves Hervouet, *Le chapitre 117 du Che-ki; biographie de Sseu-ma Siang-jou* (Paris: Presses universitaires de France, 1972). 권117. 완전한 학술 장치와 중국어 본문을 갖추었고 瀧川본의 주석을 영인했다.
+> (j) Yves Hervouet, *Le chapitre 117 du Che-ki; biographie de Sseu-ma Siang-jou* (Paris: Presses universitaires de France, 1972). 권117. 완전한 학술 장치와 중국어 본문을 갖추었고 瀧川본의 주석을 영인했다.
 >
-> \(k\) J. J. M. de Groot, *Chinesische Urkunden zur Geschichte Asiens*, 제2부 *Die Westlande Chinas in der vorchristlichen Zeit* (Berlin und Leipzig: Walter de Gruyter, 1926), pp. 9–45. 권123.
+> (k) J. J. M. de Groot, *Chinesische Urkunden zur Geschichte Asiens*, 제2부 *Die Westlande Chinas in der vorchristlichen Zeit* (Berlin und Leipzig: Walter de Gruyter, 1926), pp. 9–45. 권123.
 >
-> \(l\) Nancy Lee Swann, *Food and Money in Ancient China* (Princeton, N.J.: Princeton University Press, 1950), pp. 419–464. 권129.
+> (l) Nancy Lee Swann, *Food and Money in Ancient China* (Princeton, N.J.: Princeton University Press, 1950), pp. 419–464. 권129.
 
 ## 7. 일본 판본
 
@@ -143,58 +143,58 @@ tags:
 
 위 총서 수록본 외에 독립적으로 간행된 판본은 다음과 같다.
 
-> \(a\) Kotake Fumio 小竹文夫·Kotake Takeo 小竹武夫, 《現代語譯史記》(東京: 弘文堂, 1956–1958).
+> (a) Kotake Fumio 小竹文夫·Kotake Takeo 小竹武夫, 《現代語譯史記》(東京: 弘文堂, 1956–1958).
 >
-> \(b\) Kaizuka Shigeki 貝塚茂樹·Kawakatsu Yoshio 川勝義雄, 《司馬遷史記列傳》, 《世界の名著》 총서(東京: 中央公論社, 1968).
+> (b) Kaizuka Shigeki 貝塚茂樹·Kawakatsu Yoshio 川勝義雄, 《司馬遷史記列傳》, 《世界の名著》 총서(東京: 中央公論社, 1968).
 >
-> \(c\) Katō Shigeru 加藤繁, 《史記平準書·漢書食貨志譯注》(東京: 岩波書店, 1942), 《岩波文庫》 3039–3040.
+> (c) Katō Shigeru 加藤繁, 《史記平準書·漢書食貨志譯注》(東京: 岩波書店, 1942), 《岩波文庫》 3039–3040.
 
 ## 8. 최근 연구와 연구 도구
 
 다음은 《史記》 연구의 여러 측면에 관해 간행된 방대한 자료 가운데 일부를 선별한 것이다.
 
-> \(a\) 판본사
+> (a) 판본사
 >
-> \(i\) 王重民, 〈史記版本與參考書〉, 《圖書館學季刊》 1.4 (1926), pp. 555–577.
+> (i) 王重民, 〈史記版本與參考書〉, 《圖書館學季刊》 1.4 (1926), pp. 555–577.
 >
-> \(ii\) 趙證, 〈史記版本考〉, 《史學年報》 1.3 (1931), pp. 107–146.
+> (ii) 趙證, 〈史記版本考〉, 《史學年報》 1.3 (1931), pp. 107–146.
 >
-> \(iii\) 賀次君, 《史記書錄》(北京: 商務印書館, 1958).
+> (iii) 賀次君, 《史記書錄》(北京: 商務印書館, 1958).
 >
-> \(b\) 《史記》 연구 색인
+> (b) 《史記》 연구 색인
 >
-> \(i\) 《史記研究的資料和論文索引》(北京: 科學出版社, 1957). 1937년까지 발표된 논문 제목을 수록한다.
+> (i) 《史記研究的資料和論文索引》(北京: 科學出版社, 1957). 1937년까지 발표된 논문 제목을 수록한다.
 >
-> \(ii\) Sanae Yoshio 早苗良雄, 《漢代研究文獻目錄 邦文篇》(京都: 朋友書店, 1979).
+> (ii) Sanae Yoshio 早苗良雄, 《漢代研究文獻目錄 邦文篇》(京都: 朋友書店, 1979).
 >
-> \(c\) 기타 연구
+> (c) 기타 연구
 >
-> \(i\) 鄭鶴聲, 《史漢研究》(上海: 商務印書館, 1930). 《史記》의 저자와 삽입 문제를 논하고 《漢書》와 비교한다.
+> (i) 鄭鶴聲, 《史漢研究》(上海: 商務印書館, 1930). 《史記》의 저자와 삽입 문제를 논하고 《漢書》와 비교한다.
 >
-> \(ii\) 金德建, 《司馬遷所見書考》(上海: 人民出版社, 1963). 司馬遷이 이용한 고대 문헌을 논한다.
+> (ii) 金德建, 《司馬遷所見書考》(上海: 人民出版社, 1963). 司馬遷이 이용한 고대 문헌을 논한다.
 >
-> \(iii\) 文史哲雜誌編輯委員會 편, 《司馬遷與史記》(北京: 中華書局, 1957). 저자와 저작에 관한 유익한 논문들을 수록한다.
+> (iii) 文史哲雜誌編輯委員會 편, 《司馬遷與史記》(北京: 中華書局, 1957). 저자와 저작에 관한 유익한 논문들을 수록한다.
 >
-> \(iv\) Burton Watson, *Ssu-ma Ch’ien: Grand Historian of China* (New York and London: Columbia University Press, 1957).
+> (iv) Burton Watson, *Ssu-ma Ch’ien: Grand Historian of China* (New York and London: Columbia University Press, 1957).
 >
-> \(v\) Y. L. Kroll, *Syma Cyan—istorik* (Moscow: Nauka, 1970).
+> (v) Y. L. Kroll, *Syma Cyan—istorik* (Moscow: Nauka, 1970).
 >
-> \(vi\) Dzo Ching-chuan, *Sseu-ma Ts’ien et l’historiographie chinoise* (Paris: Presses universitaires de France, 1978).
+> (vi) Dzo Ching-chuan, *Sseu-ma Ts’ien et l’historiographie chinoise* (Paris: Presses universitaires de France, 1978).
 >
-> \(vii\) 《二十五史補編》 제1권 pp. 1–134에 수록된 《史記》 개별 편 연구.
+> (vii) 《二十五史補編》 제1권 pp. 1–134에 수록된 《史記》 개별 편 연구.
 
 ## 9. 색인
 
-> \(a\) 《史記》 본문과 裴駰·司馬貞·張守節·瀧川龜太郎의 주석을 합친 색인. *Harvard-Yenching Index* 제40호(초판 北平, 1947, 제2판 Cambridge, Mass.: Harvard University Press, 1955). 同文書局본을 저본으로 한다.
+> (a) 《史記》 본문과 裴駰·司馬貞·張守節·瀧川龜太郎의 주석을 합친 색인. *Harvard-Yenching Index* 제40호(초판 北平, 1947, 제2판 Cambridge, Mass.: Harvard University Press, 1955). 同文書局본을 저본으로 한다.
 >
-> \(b\) 黃福鑾 편, 《史記索引》(香港: 香港中文大學, 1963). 《四部叢刊》본과 《四部備要》본을 대상으로 하며, 색인 항목을 인명·지명·자연현상·복식·관직 등 24개 부류로 나누고 획수순으로 배열한다.
+> (b) 黃福鑾 편, 《史記索引》(香港: 香港中文大學, 1963). 《四部叢刊》본과 《四部備要》본을 대상으로 하며, 색인 항목을 인명·지명·자연현상·복식·관직 등 24개 부류로 나누고 획수순으로 배열한다.
 >
-> \(c\) 鍾華 편, 《史記人名索引》(北京: 中華書局, 1977). 四角號碼 순으로 배열하며, 北京 中華書局 1959년 표점본의 쪽수를 따른다.
+> (c) 鍾華 편, 《史記人名索引》(北京: 中華書局, 1977). 四角號碼 순으로 배열하며, 北京 中華書局 1959년 표점본의 쪽수를 따른다.
 >
-> \(d\) 李曉光·李波 편, 《史記索引》(北京: 中華廣播電視出版社, 1989). 작은 활자로 인쇄된 대형 색인으로, 1959년 北京 中華書局 표점본의 1985년 개정쇄를 따른다.
+> (d) 李曉光·李波 편, 《史記索引》(北京: 中華廣播電視出版社, 1989). 작은 활자로 인쇄된 대형 색인으로, 1959년 北京 中華書局 표점본의 1985년 개정쇄를 따른다.
 >
-> \(e\) 倉修良, 《史記辭典》(山東敎育出版社, 1991). 백과사전 형식으로 구성되며, 《史記》에 나오는 인명·지명·전문용어에 대해 간략한 전기적·지리적·기술적 설명과 인물의 연대를 제시한다. 표목은 번체자로 적고, 中華書局본의 쪽수를 따른다.
+> (e) 倉修良, 《史記辭典》(山東敎育出版社, 1991). 백과사전 형식으로 구성되며, 《史記》에 나오는 인명·지명·전문용어에 대해 간략한 전기적·지리적·기술적 설명과 인물의 연대를 제시한다. 표목은 번체자로 적고, 中華書局본의 쪽수를 따른다.
 >
-> \(f\) 《廿五史全文資料庫》(臺北: 中央研究院歷史語言研究所, 1988).
+> (f) 《廿五史全文資料庫》(臺北: 中央研究院歷史語言研究所, 1988).
 
 —*A. F. P. Hulsewé*

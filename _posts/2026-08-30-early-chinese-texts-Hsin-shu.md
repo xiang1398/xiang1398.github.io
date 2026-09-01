@@ -126,4 +126,4 @@ D. 《國譯漢文大成》 18, 1924, Yamaguchi Satsujō 山口察常 편.
 
 D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Xin shu* 《新書逐字索引》, ICS series, Hong Kong: Commercial Press, 1994 간행 예정.
 
-—Michael Nylan
+*—Michael Nylan*

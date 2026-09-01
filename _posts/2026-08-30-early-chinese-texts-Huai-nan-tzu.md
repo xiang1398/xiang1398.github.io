@@ -145,4 +145,4 @@ L. 《中國古典新書》, 1972, Kusuyama Haruki 楠山春樹 편.
 
 - (c) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Huainanzi* 《淮南子逐字索引》, ICS series, Hong Kong: Commercial Press, 1992.
 
-—Charles Le Blanc
+*—Charles Le Blanc*

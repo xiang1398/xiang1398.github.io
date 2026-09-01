@@ -193,4 +193,4 @@ L. 《中國古典新書》, 1979, Hayashi Hideichi 林秀一 편.
 
 (일본의 《孝經》에 관한 정보의 상당 부분은 Laura E. Hess에게 힘입었으나, 여기의 서술은 필자가 책임진다.)
 
-—William G. Boltz
+*—William G. Boltz*

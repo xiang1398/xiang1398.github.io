@@ -158,7 +158,7 @@ tags:
 
 (f) E. Joseph Eitel, “Prolegomena to the Shan Hai King,” *China Review* XVII (1888), pp. 330–348.
 
-(g) Riccardo Fracasso, Teratoscopy or Divination by Monsters, Being a Study on the Wu-tsang Shan-ching, 《漢學硏究》 1.2 (1983년 12월), pp. 657–700.
+(g) Riccardo Fracasso, “Teratoscopy or Divination by Monsters, Being a Study on the Wu-tsang Shan-ching,” 《漢學硏究》 1.2 (1983년 12월), pp. 657–700.
 
 (h) Riccardo Fracasso, “The Illustrations of the Shan hai jing (1). From *Yu’s Tripods to Qing Blockprints*,” *Cina* 21 (1988), pp. 93–104.
 
@@ -190,7 +190,7 @@ tags:
 
 (v) John Wm. Schiffeler, “Chinese Folk Medicine: a study of the Shan-hai ching,” *Asian Folklore Studies* 39.2 (1980), pp. 41–83.
 
-(w) Gustave Schlegel, Problèmes Géographiques: les Peuples étrangers chez les historiens Chinois [지리적 문제들: 중국 史家들의 기록에 나타난 이민족들], 첫 논문은 *T’oung Pao* 3 (1892), p. 101 이하.
+(w) Gustave Schlegel, “Problèmes Géographiques: les Peuples étrangers chez les historiens Chinois” [지리적 문제들: 중국 史家들의 기록에 나타난 이민족들], 첫 논문은 *T’oung Pao* 3 (1892), p. 101 이하.
 
 (x) 沈雁冰(玄珠), 《中國神話硏究初探》, 上海, 1928, 臺北: Oriental Culture, 1971 재간, 제2장.
 
