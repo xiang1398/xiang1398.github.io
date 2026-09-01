@@ -11,16 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Restore omitted Hsin hsü bibliography and normalize confirmed citations
+      - name: Apply exact audit fixes
         run: |
           python - <<'PY'
           from pathlib import Path
-
-          p = Path('_posts/2026-08-30-early-chinese-texts-Hsin-hsü.md')
-          s = p.read_text(encoding='utf-8')
-          start = s.index('## 2. 성립 연대와 저자')
-          end = s.index('\n*—Michael Loewe*', start)
-          replacement = '''## 2. 성립 연대와 저자
+          p=Path('_posts/2026-08-30-early-chinese-texts-Hsin-hsü.md'); s=p.read_text(encoding='utf-8')
+          start=s.index('## 2. 성립 연대와 저자'); end=s.index('\n*—Michael Loewe*',start)
+          r='''## 2. 성립 연대와 저자
 
 초기 자료는 劉向을 《新序》의 ‘저자’로 기록하지만, 실제로는 ‘편자’라고 하는 편이 더 정확하다. 이 책에는 劉向이 독창적으로 지은 내용이 거의 없으며, 내용의 실질은 다른 자료에서 가져왔기 때문이다. 편찬자가 아니라 저자라는 지위가 劉向에게 부여된 것은 《七略》에 실린 《新序》 항목을 잘못 해석한 데서 비롯하였다. 그 항목은 이 책과 다른 세 저작을 劉向이 ‘차례를 정한’(序) 67편 가운데 포함한다(《漢書》 卷30 p. 1727 참조. 역자 주: 〈藝文志〉). 《漢書》의 다른 구절(卷36 p. 1958. 역자 주: 〈楚元王傳〉)에 따르면 劉向은 “전기 기록에서 행적과 사건을 골라” 《新序》와 《說苑》을 모두 50편으로 저술(著)하여 황제에게 올렸다. 嚴靈峯은 아래 7항에서 언급한 연구에서 이 구절의 新序는 서명이 아니라 ‘새로 배열하다’라는 뜻으로 쓰였다고 주장하였다. 그렇다면 班固(32–92)가 劉向에게 귀속한 50편의 저작은 하나의 책, 곧 ‘새로 배열한 《說苑》’일 수도 있다.
 
@@ -77,29 +74,14 @@ L. 《中國古典新書》, 1973, Hirotsune Jinsei 廣常人世 편.
 - (a) 《新序通檢》 (北京: 中法漢學研究所, 1946; 臺北: 成文出版社, 1968 재간). 《四部叢刊》본을 바탕으로 한다.
 - (b) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Xinxu* 《新序逐字索引》, ICS series (Hong Kong: Commercial Press, 1992).
 '''
-          p.write_text(s[:start] + replacement + s[end:], encoding='utf-8')
-
-          p = Path('_posts/2026-08-30-early-chinese-texts-Huang-ti-nei-ching.md')
-          s = p.read_text(encoding='utf-8')
-          fixes = {
-            'Yamada Keiji 山田慶兒, 1979a. 〈黃帝內經の成立〉. *Shisō* 662:94–108.': 'Yamada Keiji 山田慶兒, 1979a. 〈黃帝內經の成立〉, *Shisō* 662:94–108.',
-            'Yamada Keiji 山田慶兒, 1979b. The Formation of the Huang-ti nei-ching. Acta Asiatica 36:67–89. 1979a의 번역.': 'Yamada Keiji 山田慶兒, 1979b. “The Formation of the Huang-ti nei-ching,” *Acta Asiatica* 36:67–89. 1979a의 번역.',
-            'Yamada Keiji 山田慶兒, 1980. 〈九宮八風說と少師派の立場〉. Tōhō Gakuhō (Kyoto) 52:199–242.': 'Yamada Keiji 山田慶兒, 1980. 〈九宮八風說と少師派の立場〉, *Tōhō Gakuhō* (Kyoto) 52:199–242.'
-          }
-          for old,new in fixes.items():
-            if old not in s: raise SystemExit(f'028 target not found: {old}')
-            s=s.replace(old,new,1)
+          p.write_text(s[:start]+r+s[end:],encoding='utf-8')
+          p=Path('_posts/2026-08-30-early-chinese-texts-Huang-ti-nei-ching.md'); s=p.read_text(encoding='utf-8')
+          for a,b in [('Yamada Keiji 山田慶兒, 1979a. 〈黃帝內經の成立〉. *Shisō* 662:94–108.','Yamada Keiji 山田慶兒, 1979a. 〈黃帝內經の成立〉, *Shisō* 662:94–108.'),('Yamada Keiji 山田慶兒, 1979b. The Formation of the Huang-ti nei-ching. Acta Asiatica 36:67–89. 1979a의 번역.','Yamada Keiji 山田慶兒, 1979b. “The Formation of the Huang-ti nei-ching,” *Acta Asiatica* 36:67–89. 1979a의 번역.'),('Yamada Keiji 山田慶兒, 1980. 〈九宮八風說と少師派の立場〉. Tōhō Gakuhō (Kyoto) 52:199–242.','Yamada Keiji 山田慶兒, 1980. 〈九宮八風說と少師派の立場〉, *Tōhō Gakuhō* (Kyoto) 52:199–242.')]:
+            if a not in s: raise SystemExit('028 target missing'); s=s.replace(a,b,1)
           p.write_text(s,encoding='utf-8')
-
-          p = Path('_posts/2026-08-30-early-chinese-texts-I-ching-Chou-i.md')
-          s = p.read_text(encoding='utf-8')
-          fixes = {
-            '(vi) Ch’en Ch’i-yün, A Confucian Magnate’s Idea of Political Violence: Hsün Shuang’s (A.D. 128–190) Interpretation of the Book of Changes, TP 54(1968), pp. 73–115.': '(vi) Ch’en Ch’i-yün, “A Confucian Magnate’s Idea of Political Violence: Hsün Shuang’s (A.D. 128–190) Interpretation of the Book of Changes,” *TP* 54 (1968), pp. 73–115.',
-            '(vii) Peterson, Willard J., Making Connections: “Commentary on the Attached Verbalizations” of the Book of Changes, HJAS 42:1(1982년 6월), pp. 67–116.': '(vii) Peterson, Willard J., “Making Connections: ‘Commentary on the Attached Verbalizations’ of the Book of Changes,” *HJAS* 42:1 (1982년 6월), pp. 67–116.'
-          }
-          for old,new in fixes.items():
-            if old not in s: raise SystemExit(f'029 target not found: {old}')
-            s=s.replace(old,new,1)
+          p=Path('_posts/2026-08-30-early-chinese-texts-I-ching-Chou-i.md'); s=p.read_text(encoding='utf-8')
+          for a,b in [('(vi) Ch’en Ch’i-yün, A Confucian Magnate’s Idea of Political Violence: Hsün Shuang’s (A.D. 128–190) Interpretation of the Book of Changes, TP 54(1968), pp. 73–115.','(vi) Ch’en Ch’i-yün, “A Confucian Magnate’s Idea of Political Violence: Hsün Shuang’s (A.D. 128–190) Interpretation of the Book of Changes,” *TP* 54 (1968), pp. 73–115.'),('(vii) Peterson, Willard J., Making Connections: “Commentary on the Attached Verbalizations” of the Book of Changes, HJAS 42:1(1982년 6월), pp. 67–116.','(vii) Peterson, Willard J., “Making Connections: ‘Commentary on the Attached Verbalizations’ of the Book of Changes,” *HJAS* 42:1 (1982년 6월), pp. 67–116.')]:
+            if a not in s: raise SystemExit('029 target missing'); s=s.replace(a,b,1)
           p.write_text(s,encoding='utf-8')
           PY
       - name: Commit fixes
@@ -110,3 +92,4 @@ L. 《中國古典新書》, 1973, Hirotsune Jinsei 廣常人世 편.
           git add _posts/2026-08-30-early-chinese-texts-Hsin-hsü.md _posts/2026-08-30-early-chinese-texts-Huang-ti-nei-ching.md _posts/2026-08-30-early-chinese-texts-I-ching-Chou-i.md
           git commit -m 'Restore and normalize ECT 016-030 bibliography'
           git push
+# rerun
