@@ -155,7 +155,7 @@ M. 《新訂中國古典選》 1, Honda Wataru 本田濟 편.
 
 (b) 주목할 서양어 연구는 다음과 같다.
 
-(i) Waley, Arthur, The Book of Changes, BMFEA 5(1933), pp. 121–142.
+(i) Waley, Arthur, “The Book of Changes,” *BMFEA* 5 (1933), pp. 121–142.
 
 (ii) Wilhelm, Hellmut, *Change: Eight Lectures on the I Ching*, Cary F. Baynes 번역, London: Routledge and Kegan Paul, 1961.
 
@@ -189,7 +189,7 @@ M. 《新訂中國古典選》 1, Honda Wataru 本田濟 편.
 
 (iii) 嚴靈峯 편, 《易經集成》, 臺北: 成文, 1975. 제1책에 195책 전질의 목차, 저자 약전, 선록 판본의 서지 정보를 싣는다.
 
-(iv) Hellmut Wilhelm, The Book of Changes in the Western Tradition. 위 10절 참조. 서양 번역과 연구의 선별 서지.
+(iv) Hellmut Wilhelm, “The Book of Changes in the Western Tradition.” 위 10절 참조. 서양 번역과 연구의 선별 서지.
 
 ## 13. 색인
 
