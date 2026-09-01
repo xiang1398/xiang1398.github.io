@@ -142,4 +142,5 @@ L. 《中國古典新書》, 1967, Amano Shizuo 天野鎭雄 편.
 ## 7. 색인
 
 D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Yinwenzi, Kongcongzi, Gongsun Longzi and Dengxizi* 《尹文子·孔叢子·公孫龍子·鄧析子逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1995년 출간 예정.
+
 *—A. C. Graham*
