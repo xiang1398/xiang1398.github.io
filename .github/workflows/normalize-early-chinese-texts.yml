@@ -40,21 +40,18 @@ jobs:
               p = Path(filename)
               text = p.read_text(encoding='utf-8')
 
-              # 동일한 역자 주가 연속 중복된 경우 하나만 남긴다.
               text = re.sub(
                   r'(\(역자 주: ([^)]+)\))(?:\1)+',
                   r'\1',
                   text,
               )
 
-              # 바깥 괄호가 이미 인용 전체를 감싸는 경우 014처럼 마침표 뒤에 역자 주를 둔다.
               text = re.sub(
                   r'\((《(?:史記|漢書|後漢書|三國志|隋書|舊唐書|新唐書|宋史)》[^()\n]*?)\(역자 주: ([^)]+)\)\)',
                   r'(\1. 역자 주: \2)',
                   text,
               )
 
-              # 《日本國見在書目錄》은 책 제목이므로 《》를 유지한다.
               text = re.sub(
                   r'\(역자 주: [《〈]日本國見在書目錄[》〉]\)(?:\(역자 주: [《〈]日本國見在書目錄[》〉]\))+',
                   '(역자 주: 《日本國見在書目錄》)',
@@ -153,7 +150,9 @@ jobs:
               r'\((《(?:史記|漢書|後漢書|三國志|晉書|隋書|舊唐書|新唐書|宋史)》[^()\n]*?)'
               r'\(역자 주:\s*([^)]+)\)\)'
           )
-          notice_plain = '이 번역문은 GPT-5.6 모델로 기계번역한 뒤 편집·교정한 것입니다'
+          notice_pattern = re.compile(
+              r'(?m)^\*{0,2}이 번역문은 GPT-5\.6 모델로 기계번역한 뒤 편집·교정한 것입니다\.?\*{0,2}$'
+          )
           notice_styled = '*이 번역문은 GPT-5.6 모델로 기계번역한 뒤 편집·교정한 것입니다.*'
 
           for path in Path('_posts').glob('*early-chinese-texts-*.md'):
@@ -167,25 +166,27 @@ jobs:
 
               text = original
 
-              # 번역 고지문은 전 항목에서 이탤릭체와 종결점까지 동일하게 한다.
-              text = text.replace(notice_plain, notice_styled)
+              # 번역 고지문은 굵게/평문/마침표 유무와 관계없이 동일한 이탤릭 서식으로 통일한다.
+              text = notice_pattern.sub(notice_styled, text)
 
-              # Markdown 목록의 불필요한 괄호 이스케이프를 제거한다: \(a\) → (a).
               text = list_label.sub(r'\1(\2)\3', text)
-
-              # 일본 서목명은 편명이 아니라 책 이름이므로 《》로 통일한다.
               text = text.replace('(역자 주: 〈日本國見在書目錄〉)', '(역자 주: 《日本國見在書目錄》)')
-
-              # 정사 권차와 페이지 사이에는 쉼표를 두지 않는다: 卷63, p. 2146 → 卷63 p. 2146.
               text = volume_page_comma.sub(r'\1 \2', text)
-
-              # 인용 전체가 괄호 안에 있을 때 역자 주는 별도 중첩괄호 대신 마침표 뒤에 둔다.
               text = outer_note.sub(r'(\1. 역자 주: \2)', text)
+
+              # 중국 문헌의 명시적 권차 표기는 《서명》 卷N으로 통일한다.
+              text = re.sub(r'(《[^》]+》)\s*권(?=\d)', r'\1 卷', text)
 
               # 002의 1차 분류 표지 앞 불필요한 선행 공백을 제거한다.
               if number == 2:
-                  text = re.sub(r'(?m)^ +([abc]\)\s+)', r'\1', text)
-                  text = re.sub(r'(?m)^ +(\([abc]\)\s+)', r'\1', text)
+                  text = re.sub(r'(?m)^[ \t\u00a0]+(\([abc]\)\s+)', r'\1', text)
+
+              # 004에 남아 있던 역자 주의 중복 종결점을 정리한다.
+              if number == 4:
+                  text = text.replace(
+                      '(역자 주: 〈馬援傳〉. 馬續의 전기가 딸려 있다.).',
+                      '(역자 주: 〈馬援傳〉. 馬續의 전기가 딸려 있다).'
+                  )
 
               if text != original:
                   path.write_text(text, encoding='utf-8')
