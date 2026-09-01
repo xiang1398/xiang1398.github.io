@@ -59,9 +59,9 @@ tags:
 
 ## 5. 근래 연구와 번역
 
-\(a\) 《大戴禮記》의 성립 시기와 《禮記》와의 관계에 관한 비판적 문제는 Tsuda Sōkichi 津田左右吉, 〈禮記及大戴禮記の編纂時代について〉, 《史學雜誌》 42 (1931), pp. 131–170을 참조하라.
+(a) 《大戴禮記》의 성립 시기와 《禮記》와의 관계에 관한 비판적 문제는 Tsuda Sōkichi 津田左右吉, 〈禮記及大戴禮記の編纂時代について〉, 《史學雜誌》 42 (1931), pp. 131–170을 참조하라.
 
-\(b\) 篇 77–79를 포함하지 않은 최소한의 주석을 갖춘 번역으로 Benedykt Grynpas, *Les écrits de Tai l’Ancien et le petit calendrier des Hia* (Paris, 1972)가 있다. 비교적 짧은 서론에서 각 부분의 내용을 요약하며, 부록에서는 47篇 〈夏小正〉을 다룬다. 이는 의례 달력으로서 《禮記》의 〈月令〉 및 관련 역서들과 비교하면 유익하다.
+(b) 篇 77–79를 포함하지 않은 최소한의 주석을 갖춘 번역으로 Benedykt Grynpas, *Les écrits de Tai l’Ancien et le petit calendrier des Hia* (Paris, 1972)가 있다. 비교적 짧은 서론에서 각 부분의 내용을 요약하며, 부록에서는 47篇 〈夏小正〉을 다룬다. 이는 의례 달력으로서 《禮記》의 〈月令〉 및 관련 역서들과 비교하면 유익하다.
 
 (c) 현대 중국어 번역은 高明, 《大戴禮記今註今譯》(臺北: 臺灣商務印書館, 1975)을 참조하라.
 
@@ -73,8 +73,8 @@ L. 《中國古典新書》, 1972, Nitta Daisaku 新田大作 편.
 
 ## 7. 색인
 
-\(a\) Suzuki Ryūichi 鈴木隆一, 《大戴禮索引》(東京: 大安, 1945, 1967 재판). 孔廣森본을 저본으로 삼았다.
+(a) Suzuki Ryūichi 鈴木隆一, 《大戴禮索引》(東京: 大安, 1945, 1967 재판). 孔廣森본을 저본으로 삼았다.
 
-\(b\) D. C. Lau (劉殿爵)·Chen Fong Ching (陳方正) 편, *A Concordance to the Dadai Liji* 大戴禮記逐字索引, ICS series (Hong Kong: Commercial Press, 1992).
+(b) D. C. Lau (劉殿爵)·Chen Fong Ching (陳方正) 편, *A Concordance to the Dadai Liji* 大戴禮記逐字索引, ICS series (Hong Kong: Commercial Press, 1992).
 
 —Jeffrey K. Riegel

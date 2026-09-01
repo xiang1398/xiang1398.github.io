@@ -79,7 +79,7 @@ A.C. Graham은 The composition of the Gongsuen Long Tzyy, *Asia Major, New Serie
 
 魯勝(291년경 활동)이 현재 전하지 않는 墨家 經說 주석본에 붙인 서문은 《晉書》 卷94 pp. 2433–2434(역자 주: 〈隱逸傳〉)의 전기에 보존되어 있다. 그는 名家의 저술이 모두 사라졌고 잡다한 선집에서 모은 자료를 자신이 ‘刑名二篇’으로 엮었다고 명시하였다. 따라서 현존 《公孫龍子》는 기원후 300–600년 사이에 만들어진 위작이지만, 漢 이전 名家의 진짜 논문 적어도 두 편, 곧 〈白馬〉와 〈指物〉을 보존한다고 결론지을 수 있다. 제4편 첫머리의 ‘左右’ 대화도 진짜일 가능성이 있으며, 제1편에 모인 公孫龍의 생애와 사상에 관한 세 발췌문도 잃어버린 자료에서 온 것이다.
 
-그러나 이 논증은 중국과 일본 학계에서 큰 주목을 받지 못했고, 대체로 책 전체의 통일성을 당연하게 전제한다. 서양에서는 J.E. Kandel이 제4–6편이 기원후 300년 이후에 작성되었다는 논증을 받아들이면서도 그 안에 漢 이전 名家의 진정한 사상이 보존되었다고 본다. 아래 Kandel p. 205을 참조할 수 있다.
+그러나 이 논증은 중국과 일본 학계에서 큰 주목을 받지 못했고, 대체로 책 전체의 통일성을 당연하게 전제한다. 서양에서는 J.E. Kandel이 제4–6편이 기원후 300년 이후에 작성되었다는 논증을 받아들이면서도 그 안에 漢 이전 名家의 진정한 사상이 보존되었다고 본다. 아래 Kandel p. 205를 참조할 수 있다.
 
 책의 역사와 公孫龍의 생애 자료는 胡道靜, 《公孫龍子考》(上海: 商務印書館, 1934)에 편리하게 모여 있다. The composition of the Gongsuen Long tzyy의 개정판과 진작으로 판정된 논문·대화의 번역 및 주석은 A.C. Graham, *Studies in Chinese Philosophy and Philosophical Literature* (Institute of East Asian Philosophies, National University of Singapore, 1986, New York: State University of New York Press, 1990 재판), pp. 125–215에 실려 있다.
 

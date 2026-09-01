@@ -52,7 +52,7 @@ tags:
 
 ## 4. 판본
 
-《漢書》에 본문이 수록된 조서의 목간 필사 잔편에 대해서는 M. A. N. Loewe, *Records of Han Administration* (Cambridge: Cambridge University Press, 1967), 제2책 p. 230을 보라. 《漢書》 卷96上, p. 3981(역자 주: 〈西域傳〉)의 구절을 축약한 종이 필사 잔편은 《文物》 1985년 제8기 pp. 54–55와 도판 1을 보라.
+《漢書》에 본문이 수록된 조서의 목간 필사 잔편에 대해서는 M. A. N. Loewe, *Records of Han Administration* (Cambridge: Cambridge University Press, 1967), 제2책 p. 230을 보라. 《漢書》 卷96上 p. 3981(역자 주: 〈西域傳〉)의 구절을 축약한 종이 필사 잔편은 《文物》 1985년 제8기 pp. 54–55와 도판 1을 보라.
 
 남아 있는 개별 권의 필사본과 가장 이른 宋·元·明 간본에 대해서는 아래 5항의 Kurata Junnosuke 倉田淳之助가 설명한다. 주요 판본은 다음과 같다.
 

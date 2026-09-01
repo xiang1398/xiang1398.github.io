@@ -63,7 +63,7 @@ tags:
 
 늦어도 기원후 3세기부터 중국 학자들은 劉向本 《管子》에 기원전 7세기보다 훨씬 뒤 시대의 역사·사상 자료가 많고, 문체도 기원전 5세기 이전에는 나타나지 않으므로 적어도 책 전체를 管仲이 쓸 수 없다고 인식하였다. 서로 다른 부분의 상충하는 주장과 다양한 문체를 포함한 잡다한 내용 때문에 한 사람 또는 한 시기의 저작일 수 없다는 점도 오래전부터 인정되었다.
 
-그럼에도 여러 중국 학자는 통행 《管子》가 管仲 또는 그의 직계 제자들의 저술이라고 계속 주장하였다. 예를 들어 婁良樂, 《管子評議》, 臺灣 사간본, 1972년경을 볼 수 있다. 다른 학자들은 후대 저자들의 산물이지만 대부분 管仲의 사상을 나타낸다고 보았다. 蕭公權, *A History of Chinese Political Thought*, vol. 1, F.W. Mote 번역, Princeton: Princeton University Press, 1979, pp. 320–322과 余敦康, 〈論管仲學派〉, 《中國哲學》 제2집, 北京: 三聯書店, 1980, pp. 39–67(*Chinese Studies in Philosophy*, Winter 1982–1983, pp. 3–60 번역)을 참조할 수 있다. 1987년부터 山東 淄博에서 간행된 계간 《管子學刊》에서도 이 문제를 둘러싼 격렬한 논쟁이 이어졌다.
+그럼에도 여러 중국 학자는 통행 《管子》가 管仲 또는 그의 직계 제자들의 저술이라고 계속 주장하였다. 예를 들어 婁良樂, 《管子評議》, 臺灣 사간본, 1972년경을 볼 수 있다. 다른 학자들은 후대 저자들의 산물이지만 대부분 管仲의 사상을 나타낸다고 보았다. 蕭公權, *A History of Chinese Political Thought*, vol. 1, F.W. Mote 번역, Princeton: Princeton University Press, 1979, pp. 320–322와 余敦康, 〈論管仲學派〉, 《中國哲學》 제2집, 北京: 三聯書店, 1980, pp. 39–67(*Chinese Studies in Philosophy*, Winter 1982–1983, pp. 3–60 번역)을 참조할 수 있다. 1987년부터 山東 淄博에서 간행된 계간 《管子學刊》에서도 이 문제를 둘러싼 격렬한 논쟁이 이어졌다.
 
 《管子》의 성격이 매우 다양하므로 연대와 저자 문제는 편별로 다루어야 한다. 전체 본문에 대해 이를 시도한 연구는 羅根澤의 《管子探源》(中華書局, 1931)뿐이다. 개별 편에 대한 판단은 논쟁적일 수 있으나, 어느 편도 戰國時代보다 이르지 않고 대부분 戰國 말기에서 漢代, 곧 기원전 4–1세기에 성립했다는 기본 결론은 오늘날 대체로 받아들여진다. 이후 여러 학자가 개별 편의 연대를 추정했으나 성과는 일정하지 않다. Rickett 1985·1994 각 편의 서론을 참조할 수 있다.
 
@@ -75,7 +75,7 @@ tags:
 
 자료의 추가는 劉向 시대까지 계속되었을 수 있다. 解에 해당하는 제63–67편과 이른바 輕重篇 제68–86편 대부분은 분명 후대 자료이며, 후자는 기원전 2세기 중엽보다 이를 수 없다. 《管子》의 여러 편이 楚 출신 저자들의 산물이고 淮南王 劉安이 기원전 122년에 죽은 뒤 그의 장서를 통해 漢 황실 도서관에 들어왔을 가능성도 매우 크다. (역자 주: 淮南王 劉安은 기원전 122년 모반 사건으로 자결하였다. 《漢書》 卷44 〈淮南衡山濟北王傳〉.) 劉安의 궁정 학자들은 楚 지역의 고대 문화에 특별한 관심이 있었고, 管仲의 고향 潁上이 楚에 속한 지역이었으므로 《管子》는 그들의 관심을 끌 만했다. 《淮南子》와 《文子》 같은 楚 관련 문헌에는 《管子》와 병행하는 구절이 많고 압운 방식도 비슷하다. Rickett 1994를 참조할 수 있다.
 
-통행 《管子》와 馬王堆 帛書 《老子》乙本 앞에 붙은 네 고문헌 사이에도 관계가 확인된다. 《管子》 제13·36·38·49·52편은 이 네 문헌과 비슷한 압운 방식을 사용하므로 적어도 원래는 같은 지역, 곧 옛 楚 지역 출신 저자가 쓴 듯하다. 또한 제8·12·15·17·36·37·38·42·49·55편에는 이 문헌들과 같거나 비슷한 구절이 있어 우연으로 보기 어려울 정도의 친연성을 보인다. 唐蘭, 〈馬王堆出土老子乙本卷前古佚書的研究〉, 《考古學報》 1975:1, pp. 7–38과 龍晦, 〈馬王堆出土老子乙本前古佚書探原〉, 《考古學報》 1975:2, pp. 23–32을 참조할 수 있다.
+통행 《管子》와 馬王堆 帛書 《老子》乙本 앞에 붙은 네 고문헌 사이에도 관계가 확인된다. 《管子》 제13·36·38·49·52편은 이 네 문헌과 비슷한 압운 방식을 사용하므로 적어도 원래는 같은 지역, 곧 옛 楚 지역 출신 저자가 쓴 듯하다. 또한 제8·12·15·17·36·37·38·42·49·55편에는 이 문헌들과 같거나 비슷한 구절이 있어 우연으로 보기 어려울 정도의 친연성을 보인다. 唐蘭, 〈馬王堆出土老子乙本卷前古佚書的研究〉, 《考古學報》 1975:1, pp. 7–38과 龍晦, 〈馬王堆出土老子乙本前古佚書探原〉, 《考古學報》 1975:2, pp. 23–32를 참조할 수 있다.
 
 ## 5. 판본
 
@@ -99,7 +99,7 @@ tags:
 
 서양어 번역의 첫 시도는 M.C. de Harlez의 프랑스어 번역으로 보인다. *Journal Asiatique*, Series IX, vol. VII(1896), pp. 26–99. 그러나 본문의 난해함을 극복하지 못해 가치가 크지 않다.
 
-이후 중국철학 관련 서양 저술에 짧은 구절 번역이 나타났고, 1930년대에야 상당한 분량의 번역이 이루어졌다. Gustav Haloun, Das Ti-tsï-tsï Fragmente II [〈弟子職〉 단편 II], *Asia Major* 9(1933), pp. 467–502과 Legalist Fragments: Part I Kuan-tsï and Related Texts, *Asia Major* NS II(1951년 4월), pp. 85–120을 참조할 수 있다. Haloun은 Joseph Needham과 다른 부분도 공동 번역했으나 출판되지 않았다. Needham, *Science and Civilisation in China* (Cambridge: Cambridge University Press, 1956), vol. II, p. 630에 언급된다. 제39편은 같은 책 vol. II, pp. 42–45, 제54편은 Burton Watson, *Early Chinese Literature* (New York and London: Columbia University Press, 1962), pp. 181–183을 참조할 수 있다.
+이후 중국철학 관련 서양 저술에 짧은 구절 번역이 나타났고, 1930년대에야 상당한 분량의 번역이 이루어졌다. Gustav Haloun, Das Ti-tsï-tsï Fragmente II [〈弟子職〉 단편 II], *Asia Major* 9(1933), pp. 467–502와 Legalist Fragments: Part I Kuan-tsï and Related Texts, *Asia Major* NS II(1951년 4월), pp. 85–120을 참조할 수 있다. Haloun은 Joseph Needham과 다른 부분도 공동 번역했으나 출판되지 않았다. Needham, *Science and Civilisation in China* (Cambridge: Cambridge University Press, 1956), vol. II, p. 630에 언급된다. 제39편은 같은 책 vol. II, pp. 42–45, 제54편은 Burton Watson, *Early Chinese Literature* (New York and London: Columbia University Press, 1962), pp. 181–183을 참조할 수 있다.
 
 1954년 Lewis Maverick은 중국인 대학원생 譚伯夫·文公文과 함께 정치·경제 이론을 다룬 약 30편을 번역하여 *Economic Dialogues in Ancient China: Selections from the Kuan-tzu* (Carbondale, Illinois, 1954)를 출판하였다. 실제 번역보다 의역에 가까운 곳이 많지만 초기 중국 경제이론을 이해하는 데 매우 유용하다. Maverick이 다룬 많은 편의 러시아어 부분 번역은 Viktor M. Shteyn, *Guan-tze: Issledovanie i perevod* [《管子》: 연구와 번역], (Moscow: Izdatelstvo Vostochnoi Literatury, 1959)에 있다. Rickett의 *Kuan-tzu: a Repository of Early Chinese Thought*는 그의 2권 *Guanzi*로 대체되었으며 제2권은 1994년 출판 예정이었다.
 
