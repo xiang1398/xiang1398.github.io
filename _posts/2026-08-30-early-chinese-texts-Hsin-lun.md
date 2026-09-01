@@ -62,4 +62,4 @@ tags:
 
 桓譚에 관한 많지 않은 연구의 목록은 Pokora, 앞의 책, pp. 273–275를 참조할 것. Timoteus Pokora, The Life of Huan T’an, *Archiv Orientální* 31(1963), 1–79, pp. 521–576도 참조할 것.
 
-—Timoteus Pokora
+*—Timoteus Pokora*

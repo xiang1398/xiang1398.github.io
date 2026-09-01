@@ -82,4 +82,4 @@ L. 《中國古典新書》, 1973, Hirotsune Jinsei 廣常人世 편.
 
 현대 판본 가운데 일부에는 인명·서명 및 주요 어휘 색인이 수록되어 있다.
 
-— Michael Loewe
+*—Michael Loewe*
