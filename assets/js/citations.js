@@ -2,6 +2,13 @@ document.addEventListener("DOMContentLoaded", () => {
   const post = document.querySelector(".post-content");
   if (!post) return;
 
+  // 《甲骨文合集》 이후 갑골 저록 글의 Markdown 구분선은 단순 문단 구분용이므로
+  // 데스크톱과 모바일 모두에서 실제 <hr> 요소를 제거한다.
+  const postTitle = document.querySelector(".post-title")?.textContent.trim() || "";
+  if (postTitle === "《甲骨文合集》 이후의 주요 갑골 저록과 綴合 성과") {
+    post.querySelectorAll("hr").forEach((rule) => rule.remove());
+  }
+
   // 글 첫머리의 권장 인용 표기를 한국어 서명·편명 부호로 통일한다.
   // 「글 제목」, 『사이트명』 → 〈글 제목〉, 《사이트명》
   document.querySelectorAll(".citation-notice").forEach((notice) => {
