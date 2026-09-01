@@ -69,7 +69,7 @@ tags:
 
 (a) Werner Eichhorn, *Heldensagen aus dem unteren Yangtze-Tal* [양쯔강 하류 유역의 영웅 전설], Wiesbaden: Franz Steiner, 1969. 주석이 거의 없고 비교적 부정확한 번역이다.
 
-(b) John Lagerwey, *The Annals of Wu and Yüeh, Part I* (Harvard University 박사학위논문). 《吳越春秋》과 그 자료들 사이의 관계를 완전하게 연구하고 제1–5권을 상세한 주석과 함께 전부 번역하였다.
+(b) John Lagerwey, "The Annals of Wu and Yüeh, Part I" (Harvard University 박사학위논문). 《吳越春秋》과 그 자료들 사이의 관계를 완전하게 연구하고 제1–5권을 상세한 주석과 함께 전부 번역하였다.
 
 ## 5. 색인
 
