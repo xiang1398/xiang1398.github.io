@@ -56,7 +56,7 @@ tags:
 
 2. 20세기 이전에 저술 활동을 한 중국과 일본 학자에 대해서는 각 항목에서 처음 등장할 때 연대를 제시하였다. 때로는 ‘明代’처럼 대략적인 시기만 제시했다. 이 연대는 색인에도 반복하여 제시했으며, 더 근대의 학자에 대해서도 확인할 수 있는 세부 사항을 색인에 포함했다. 이러한 연대는 근래 일본 출판물에 실린 것을 이용한 경우도 있지만, 그 밖에는 다음 자료에서 취했다.
 
-   (a) Arthur W. Hummel, *Eminent Chinese of the Ch’ing Period*, 2 vols.; Washington, D.C.: Library of Congress, 1943.
+   (a) Arthur W. Hummel, *Eminent Chinese of the Ch’ing Period*, 2 vols.; Washington, D. C.: Library of Congress, 1943.
 
    (b) Yves Hervouet (ed.), *A Sung Bibliography* (*Bibliographie des Sung* [송대 서지]), initiated by Etienne Balazs; Hong Kong: The Chinese University Press, 1978.
 

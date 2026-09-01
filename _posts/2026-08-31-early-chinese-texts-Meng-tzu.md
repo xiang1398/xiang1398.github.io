@@ -60,11 +60,11 @@ tags:
 
 (a) Couvreur, Séraphin, *Oeuvres de Meng Tzeu* [《孟子의 저작》], *Les Quatres Livres* [《四書》] 수록, Ho Kien Fou: Mission catholique, 1895, 제2판 1910.
 
-(b) Dobson, W.A.C.H., *Mencius, a New Translation Arranged and Annotated for the General Reader*, London: Oxford University Press, 1963.
+(b) Dobson, W. A. C. H., *Mencius, a New Translation Arranged and Annotated for the General Reader*, London: Oxford University Press, 1963.
 
 (c) Giles, Lionel, *The Book of Mencius* (축약본), London: John Murray, 1942.
 
-(d) Lau, D.C., *Mencius*, Harmondsworth: Penguin Books, 1970, 중영 대조 개정판, Chinese University of Hong Kong Press, 1984.
+(d) Lau, D. C., *Mencius*, Harmondsworth: Penguin Books, 1970, 중영 대조 개정판, Chinese University of Hong Kong Press, 1984.
 
 (e) Legge, *The Chinese Classics*, vol. II.
 

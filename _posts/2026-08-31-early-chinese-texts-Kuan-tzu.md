@@ -97,7 +97,7 @@ tags:
 
 ## 7. 번역
 
-서양어 번역의 첫 시도는 M.C. de Harlez의 프랑스어 번역으로 보인다. *Journal Asiatique*, Series IX, vol. VII(1896), pp. 26–99. 그러나 본문의 난해함을 극복하지 못해 가치가 크지 않다.
+서양어 번역의 첫 시도는 M. C. de Harlez의 프랑스어 번역으로 보인다. *Journal Asiatique*, Series IX, vol. VII(1896), pp. 26–99. 그러나 본문의 난해함을 극복하지 못해 가치가 크지 않다.
 
 이후 중국철학 관련 서양 저술에 짧은 구절 번역이 나타났고, 1930년대에야 상당한 분량의 번역이 이루어졌다. Gustav Haloun, “Das Ti-tsï-tsï Fragmente II [〈弟子職〉 단편 II],” *Asia Major* 9(1933), pp. 467–502와 “Legalist Fragments: Part I Kuan-tsï and Related Texts,” *Asia Major* NS II(1951년 4월), pp. 85–120을 참조할 수 있다. Haloun은 Joseph Needham과 다른 부분도 공동 번역했으나 출판되지 않았다. Needham, *Science and Civilisation in China* (Cambridge: Cambridge University Press, 1956), vol. II, p. 630에 언급된다. 제39편은 같은 책 vol. II, pp. 42–45, 제54편은 Burton Watson, *Early Chinese Literature* (New York and London: Columbia University Press, 1962), pp. 181–183을 참조할 수 있다.
 

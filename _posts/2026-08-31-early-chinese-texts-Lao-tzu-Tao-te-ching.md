@@ -328,7 +328,7 @@ Herforth, Derek D., *Two Philological Studies on the Mawangdui Lao Tzu Manuscrip
 
 湖南省博物館, 〈長沙馬王堆二三號漢墓發掘簡報〉, 《文物》 1974.7, 39–48·p. 63.
 
-Hung, William, “A Bibliographical Controversy at the T’ang Court A.D. 719,” *Harvard Journal of Asiatic Studies* 20.1–2(1957), pp. 74–134.
+Hung, William, “A Bibliographical Controversy at the T’ang Court A. D. 719,” *Harvard Journal of Asiatic Studies* 20.1–2(1957), pp. 74–134.
 
 Imaeda Jirō 今枝二郎, 〈馬王堆出土「老子」古寫本について〉, 《大正大學研究紀要》 61(1975), pp. 249–262.
 

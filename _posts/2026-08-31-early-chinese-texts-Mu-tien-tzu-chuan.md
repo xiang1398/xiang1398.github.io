@@ -82,7 +82,7 @@ tags:
 
 (i) Tökei, F., “A propos du genre du Mou t’ien-tseu tchouan” [《穆天子傳》의 장르에 관하여], *Acta Orientalia* 9 (1958), pp. 45–49.
 
-(ii) Hulsewé, A.F.P., “Texts in tombs,” *Asiatische Studien* 18/19 (1965), pp. 78–89, 특히 p. 86 이하.
+(ii) Hulsewé, A. F. P., “Texts in tombs,” *Asiatische Studien* 18/19 (1965), pp. 78–89, 특히 p. 86 이하.
 
 (iii) Chavannes, *Mémoires Historiques* [역사적 기록] 제2책 p. 6 이하와 제5책 p. 480 이하의 관련 언급도 참조.
 

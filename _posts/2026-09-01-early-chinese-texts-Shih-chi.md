@@ -121,7 +121,7 @@ tags:
 >
 > (k) J. J. M. de Groot, *Chinesische Urkunden zur Geschichte Asiens*, 제2부 *Die Westlande Chinas in der vorchristlichen Zeit* (Berlin und Leipzig: Walter de Gruyter, 1926), pp. 9–45. 권123.
 >
-> (l) Nancy Lee Swann, *Food and Money in Ancient China* (Princeton, N.J.: Princeton University Press, 1950), pp. 419–464. 권129.
+> (l) Nancy Lee Swann, *Food and Money in Ancient China* (Princeton, N. J.: Princeton University Press, 1950), pp. 419–464. 권129.
 
 ## 7. 일본 판본
 

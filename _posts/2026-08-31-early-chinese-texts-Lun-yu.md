@@ -204,7 +204,7 @@ tags:
 
 (c) Waley, Arthur, *The Analects of Confucius*, London: George Allen and Unwin, 1938.
 
-(d) Lau, D.C., *Confucius: The Analects (Lun yü)*, Harmondsworth: Penguin Books, 1979, 중국어 본문과 함께 Hong Kong: Chinese University Press, 1979 재판.
+(d) Lau, D. C., *Confucius: The Analects (Lun yü)*, Harmondsworth: Penguin Books, 1979, 중국어 본문과 함께 Hong Kong: Chinese University Press, 1979 재판.
 
 (e) Couvreur, Séraphin, *Entretiens de Confucius* [孔子의 대화들], *Les Quatre Livres* [四書] 수록, 중국어 본문 및 라틴어·프랑스어 번역, 제3판, 獻縣: Mission Catholique, 1930.
 

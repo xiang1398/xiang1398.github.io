@@ -93,7 +93,7 @@ tags:
 ## 7. 그 밖의 연구
 
 - (a) Lo Tchen-ying, *Une famille d’historiens et son oeuvre; les formes et les méthodes historiques en Chine*〔한 역사가 집안과 그 저술: 중국 역사학의 형식과 방법〕 (Paris: Paul Guethner, 1938), Université de Lyon, Bibliotheca Franco-sinica lugdunensis. Études et documents publiés par l’Institut franco-chinois de Lyon IX.
-- (b) Nancy Lee Swann, *Pan Chao, Foremost Woman Scholar of China, 1st Century A.D.* (New York: Century, 1932).
+- (b) Nancy Lee Swann, *Pan Chao, Foremost Woman Scholar of China, 1st Century A. D.* (New York: Century, 1932).
 - (c) A. F. P. Hulsewé, Notes on the historiography of the Han period, W. G. Beasley·E. G. Pulleyblank 편, *Historians of China and Japan* (London: Oxford University Press, 1961), pp. 31–43.
 - (d) O. B. van der Sprenkel, *Pan Piao, Pan Ku and the Han History*, Occasional Paper 3, The Australian University Centre of Oriental Studies (Canberra, 1964).
 - (e) Yves Hervouet, 〈La valeur relative des textes du Che-ki et du Han chou〔《史記》와 《漢書》 본문의 상대적 가치〕〉, *Mélanges de Sinologie offerts à Monsieur Paul Demiéville*, Études chinoises XX (Paris: Bibliothèque de l’Institut des Hautes Études Chinoises, 1974), 제2책 pp. 55–76.
@@ -112,12 +112,12 @@ tags:
 - 권11–12: Dubs·P’an, vol. III (1955), pp. 15–87.
 - 권22 일부: A. F. P. Hulsewé, *Remnants of Han Law* (Leiden: E. J. Brill, 1955), pp. 429–455.
 - 권23: 위 책, pp. 309–422.
-- 권24: Nancy Lee Swann, *Food and Money in Ancient China: The Earliest Economic History of China to A.D. 25. Han shu 24, with Related Texts Han shu 91 and Shih Chi 129* (Princeton, N.J.: Princeton University Press, 1950), pp. 109–359.
+- 권24: Nancy Lee Swann, *Food and Money in Ancient China: The Earliest Economic History of China to A. D. 25. Han shu 24, with Related Texts Han shu 91 and Shih Chi 129* (Princeton, N. J.: Princeton University Press, 1950), pp. 109–359.
 - 권26 일부: Wolfram Eberhard, *Beiträge zur kosmologischen Spekulation der Chinesen der Han-Zeit*〔漢代 중국인의 우주론적 사변 연구〕, Inauguraldissertation, Berlin, 1933; *Bässler Archiv* XVI.1–2.
 - 권54·63·65·67·68·71·74·78·92·97상·하: Burton Watson, *Courtier and Commoner in Ancient China: Selections from the History of the Former Han by Pan Ku* (New York and London: Columbia University Press, 1974).
 - 권52·54·70·94상·하·96상: V. S. Taskin, *Materialy po istorii Syunnu po kitaiskim istočnikam*〔중국 사료에 따른 匈奴 역사 자료〕 (Moscow: Nauka, 1968–1973), 제1·2책.
 - (권57): Yves Hervouet, *Le Chapitre 117 du Che-ki; biographie de Sseu-ma Siang-jou*〔《史記》 卷117: 司馬相如 전기〕 (Paris: Presses universitaires de France, 1972). 《漢書》 卷57과 평행하는 《史記》 본문의 번역이다.
-- 권61: A. F. P. Hulsewé·M. A. N. Loewe, *China in Central Asia; the Early Stage: 125 B.C.–A.D. 23. An Annotated Translation of Chapters 61 and 96 of the History of the Former Han Dynasty* (Leiden: E. J. Brill, 1979).
+- 권61: A. F. P. Hulsewé·M. A. N. Loewe, *China in Central Asia; the Early Stage: 125 B. C.–A. D. 23. An Annotated Translation of Chapters 61 and 96 of the History of the Former Han Dynasty* (Leiden: E. J. Brill, 1979).
 - 권68: Arvid Jongchell, *Huo Kuang och hans tid*〔霍光과 그의 시대〕 (Göteborg: Elander, 1930).
 - 권88 일부: Tjan Tjoe Som, *Po Hu T’ung, The Comprehensive Discussions in the White Tiger Hall*, vol. I (Leiden: E. J. Brill, 1949), p. 85 이하.
 - 권91: Swann, *Food and Money in Ancient China*, pp. 414–462.

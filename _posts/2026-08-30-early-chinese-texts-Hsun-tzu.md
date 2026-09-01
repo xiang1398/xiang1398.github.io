@@ -113,11 +113,11 @@ Fujiwara Sukeyo 藤原佐世(898년 사망)의 목록(역자 주: 《日本國�
 
 - (o) Ogyū Sorai 荻生徂徠(1666–1728), 《讀荀子》. 원고 연대 미상. 저자 자필 원고의 영인본이 약 1940년에 간행되었다.
 
-- (p) Duyvendak, J.J.L., Hsün-tzu on the Rectification of Names, TP 23(1924), pp. 221–254.
+- (p) Duyvendak, J. J. L., Hsün-tzu on the Rectification of Names, TP 23(1924), pp. 221–254.
 
-- (q) Duyvendak, J.J.L., The Chronology of Hsün-tzu, TP 26(1929), pp. 73–95.
+- (q) Duyvendak, J. J. L., The Chronology of Hsün-tzu, TP 26(1929), pp. 73–95.
 
-- (r) Malmqvist, N.G.D., A Note on the Cherng shianq Ballad in the Shyun Tzyy, BSOAS 36:2(1973), pp. 352–358.
+- (r) Malmqvist, N. G. D., A Note on the Cherng shianq Ballad in the Shyun Tzyy, BSOAS 36:2(1973), pp. 352–358.
 
 - (s) 饒彬, 《荀子疑義輯釋》, 臺北: 蘭臺, 1977. 난해한 용어와 구절을 선별하여 주석하였다.
 

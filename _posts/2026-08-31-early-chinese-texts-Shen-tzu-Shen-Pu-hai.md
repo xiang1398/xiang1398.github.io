@@ -44,7 +44,7 @@ tags:
 
 前漢 초기에는 정부 기구에 대한 관심이 커서 申不害의 철학도 크게 주목받았다. 기원전 141년 특정 학설의 추종자들이 관직에서 배제될 때 ‘申不害의 말’을 배우는 자들이 명단의 첫머리에 올랐다. 그 뒤에도 일부 학자·고관, 때로 황제가 그의 학설을 공부했지만 다시 널리 유행하지는 않았다.
 
-《申子》는 아마 ‘申不害의 말’을 담았을 것이다. 여러 초기 문헌의 평론에서 그의 행정철학의 윤곽을 추론할 수 있다. 핵심적으로 그는 군주가 능력에 따라 뽑은 관리에게 모든 행정을 맡겨야 한다고 보았다. 군주는 일상 행정에 직접 관여하지 않되, 부하를 가장 엄중하게 감시하고 필요할 때 단호히 개입할 준비를 해야 한다. 申不害는 실천적 심리학에도 큰 관심을 보였다. 생애와 철학은 Herrlee G. Creel, *Shen Pu-hai, A Chinese Political Philosopher of the Fourth Century B.C.* (Chicago and London: University of Chicago Press, 1974)를 참조하라.
+《申子》는 아마 ‘申不害의 말’을 담았을 것이다. 여러 초기 문헌의 평론에서 그의 행정철학의 윤곽을 추론할 수 있다. 핵심적으로 그는 군주가 능력에 따라 뽑은 관리에게 모든 행정을 맡겨야 한다고 보았다. 군주는 일상 행정에 직접 관여하지 않되, 부하를 가장 엄중하게 감시하고 필요할 때 단호히 개입할 준비를 해야 한다. 申不害는 실천적 심리학에도 큰 관심을 보였다. 생애와 철학은 Herrlee G. Creel, *Shen Pu-hai, A Chinese Political Philosopher of the Fourth Century B. C.* (Chicago and London: University of Chicago Press, 1974)를 참조하라.
 
 ## 3. 성립 연대와 진위
 

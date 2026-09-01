@@ -56,7 +56,7 @@ tags:
 
 - (e) 1977년 上海人民出版社에서 간행한 판본은 이 항목을 집필할 때 확인하지 못하였다.
 
-이 잔편들의 판본 또는 부분 집성에 대해서는 Timoteus Pokora, *Hsin-lun (New Treatises) and Other Writings by Huan T’an (43 B.C.–28 A.D.)* (Ann Arbor: Center for Chinese Studies, the University of Michigan, 1975), pp. 271–272를 참조할 것. 이 책은 孫馮翼과 嚴可均의 저술에 수록된 모든 잔편, 《新論》에 귀속할 수 있는 다른 잔편 30개, 桓譚의 다른 저술에서 나온 잔편 11개를 번역하여 모두 214개의 잔편을 다룬다. 번역에는 이문을 지적하는 주석이 붙어 있고, 참고문헌에는 중국어·일본어·서양어 연구가 수록되어 있으며, 인명·용어·주제 색인이 전체를 보완한다.
+이 잔편들의 판본 또는 부분 집성에 대해서는 Timoteus Pokora, *Hsin-lun (New Treatises) and Other Writings by Huan T’an (43 B. C.–28 A. D.)* (Ann Arbor: Center for Chinese Studies, the University of Michigan, 1975), pp. 271–272를 참조할 것. 이 책은 孫馮翼과 嚴可均의 저술에 수록된 모든 잔편, 《新論》에 귀속할 수 있는 다른 잔편 30개, 桓譚의 다른 저술에서 나온 잔편 11개를 번역하여 모두 214개의 잔편을 다룬다. 번역에는 이문을 지적하는 주석이 붙어 있고, 참고문헌에는 중국어·일본어·서양어 연구가 수록되어 있으며, 인명·용어·주제 색인이 전체를 보완한다.
 
 ## 4. 기타 연구
 
