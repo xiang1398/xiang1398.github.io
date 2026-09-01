@@ -119,7 +119,7 @@ tags:
 >
 > (j) Yves Hervouet, *Le chapitre 117 du Che-ki; biographie de Sseu-ma Siang-jou* [《史記》 권117; 司馬相如 전기] (Paris: Presses universitaires de France, 1972). 권117. 완전한 학술 장치와 중국어 본문을 갖추었고 瀧川본의 주석을 영인했다.
 >
-> (k) J. J. M. de Groot, *Chinesische Urkunden zur Geschichte Asiens* [아시아 역사에 관한 중국 문헌], 제2부 *Die Westlande Chinas in der vorchristlichen Zeit* [기원전 시대 중국의 西域](Berlin und Leipzig: Walter de Gruyter, 1926), pp. 9–45. 권123.
+> (k) J. J. M. de Groot, *Chinesische Urkunden zur Geschichte Asiens* [아시아 역사에 관한 중국 문헌], 제2부 *Die Westlande Chinas in der vorchristlichen Zeit* [기원전 시대 중국의 西域] (Berlin und Leipzig: Walter de Gruyter, 1926), pp. 9–45. 권123.
 >
 > (l) Nancy Lee Swann, *Food and Money in Ancient China* (Princeton, N.J.: Princeton University Press, 1950), pp. 419–464. 권129.
 
