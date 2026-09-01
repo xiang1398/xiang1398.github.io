@@ -117,7 +117,7 @@ Alfred Forke의 독일어 완역 *Me Ti des Sozialethikers und seiner Schüler p
 
 (c) Sjöholm, Gunnar, *Readings in Mo ti: chapters XXVI–XXVIII on the will of heaven*, Helsingborg: Plus ultra, 1982.
 
-서양 학자들은 최근에야 辯論篇과 軍事篇의 더 어려운 부분에 본격적으로 접근했다. A. C. Graham, *Later Mohist logic, ethics and science* (Hong Kong and London: Chinese University Press, 1978)는 본문과 문법 문제를 상세히 분석한 뒤 제40–45편의 중국어 본문을 새로 교정하고 완역했다. 軍事篇의 문제는 Robin Yates, *Towards a reconstruction of the tactical chapters of Mo-tzu*에서 다루며, 제52–67편의 본문 복원을 포함한다(University of California, Berkeley, 석사학위논문, 1975). 李漁叔의 현대 중국어 역주 《墨子今註今譯》(臺北: 商務, 1974)은 제1–39편과 제44–50편만 다룬다.
+서양 학자들은 최근에야 辯論篇과 軍事篇의 더 어려운 부분에 본격적으로 접근했다. A. C. Graham, *Later Mohist logic, ethics and science* (Hong Kong and London: Chinese University Press, 1978)는 본문과 문법 문제를 상세히 분석한 뒤 제40–45편의 중국어 본문을 새로 교정하고 완역했다. 軍事篇의 문제는 Robin Yates, "Towards a reconstruction of the tactical chapters of Mo-tzu"에서 다루며, 제52–67편의 본문 복원을 포함한다(University of California, Berkeley, 석사학위논문, 1975). 李漁叔의 현대 중국어 역주 《墨子今註今譯》(臺北: 商務, 1974)은 제1–39편과 제44–50편만 다룬다.
 
 ## 7. 일본어 판본
 
