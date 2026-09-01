@@ -41,9 +41,9 @@ tags:
 
 《後漢書》는 《申鑒》과 《漢紀》의 편찬 시기를 밝히지 않아 荀悅이 《漢紀》보다 《申鑒》을 먼저 완성한 듯한 잘못된 인상을 줄 수 있다. 《漢紀》 서문에 따르면 荀悅은 198년에 편찬 명령을 받고 200년에 완성했다. 袁宏(328–376)의 《後漢紀》(《四部叢刊》본 29.14b)에 따르면 《申鑒》은 205년에 완성되어 황제에게 올려졌다.
 
-荀悅과 그의 저술에 대한 자세한 연구로 Chi-yun Chen, *Hsün Yüeh (A. D. 148–209): the life and reflections of an early medieval Confucian* (Cambridge: Cambridge University Press, 1975), Ch’i-yün Ch’en, *Hsün Yüeh and the mind of late Han China: a translation of the Shen-chien with introduction and annotations* (Princeton: Princeton University Press, 1980)이 있다.
+荀悅과 그의 저술에 대한 자세한 연구로 Chi-yun Chen, *Hsün Yüeh (A.D. 148–209): the life and reflections of an early medieval Confucian* (Cambridge: Cambridge University Press, 1975), Ch’i-yün Ch’en, *Hsün Yüeh and the mind of late Han China: a translation of the Shen-chien with introduction and annotations* (Princeton: Princeton University Press, 1980)이 있다.
 
-3세기부터 8세기까지 荀悅과 그의 저술은 매우 높이 평가되었으나, 11세기 이후 명성이 다소 퇴색했다. 黃震(1213–1280)은 《申鑒》을 “말이 많고 요령이 없으며 일관되지 않고, 부끄러울 정도로 나약한 문체”라고 평가하고 荀悅의 진작인지도 의심했다(《慈溪黃氏日抄分類》 57.6b–7a). 黃省曾(1490–1540)의 《申鑒》 주석본에 붙인 1519년 서문에서 王鏊(1450–1524)는 편집자에게 더는 이 책에 관여하지 말라고 충고했다. 淸代 楊琪光은 荀悅이 漢에 충성하지 않았다고 비판했다(《百子辨正》 1.23).
+3세기부터 8세기까지 荀悅과 그의 저술은 매우 높이 평가되었으나, 11세기 이후 명성이 다소 퇴색했다. 黃震(1213–1280)은 《申鑒》을 “말이 많고 요령이 없으며 일관되지 않고, 부끄러울 정도로 나약한 문체”라고 평가하고 荀悅의 진작인지도 의심했다(《慈溪黃氏日抄分類》 57:6b–7a). 黃省曾(1490–1540)의 《申鑒》 주석본에 붙인 1519년 서문에서 王鏊(1450–1524)는 편집자에게 더는 이 책에 관여하지 말라고 충고했다. 淸代 楊琪光은 荀悅이 漢에 충성하지 않았다고 비판했다(《百子辨正》 1:23).
 
 宋代 평가에 荀悅에 대한 편견이 있었음은 분명하지만, 현전 《申鑒》의 내용도 앞선 시대의 지나친 찬양을 정당화할 정도는 아닌 듯하다. 이에 따라 현전본이 진본인지, 이전에 전하던 판본과 얼마나 다른지라는 중대한 문제가 생긴다. 《申鑒》과 《漢紀》의 여러 구절은 《後漢書》에 수록되었고, 《後漢書》 卷62 p. 2063(역자 주: 〈荀悅傳〉)에는 荀悅이 다른 저술도 여러 종 썼다고 하나 오늘날 전하지 않는다.
 

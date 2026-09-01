@@ -234,7 +234,7 @@ Stein과 Pelliot가 자료를 국외로 가져간 뒤 淸 學部 관리가 회�
 
 ## 7. 번역
 
-《老子》는 서양어로 셀 수 없이 많이 번역되었다. 여기서 포괄적인 목록을 만드는 것은 가능하지도 필요하지도 않다. 학문적 번역뿐 아니라 취미적 번역도 계속 출판된다. 최근 번역의 다양성과 평가에 대해서는 Stephen Durrant, “Packaging the Tao,” *Rocky Mountain Review of Language and Literature* 45.1–2(1991), pp. 75–84를 참조할 수 있다. 아래에는 고전적 번역, 유용한 근래 번역, 또는 위에서 언급한 저술만 제시한다.
+《老子》는 서양어로 셀 수 없이 많이 번역되었다. 여기서 포괄적인 목록을 만드는 것은 가능하지도 필요하지도 않다. 학문적 번역뿐 아니라 취미적 번역도 계속 출판된다. 최근 번역의 다양성과 평가에 대해서는 Stephen Durrant, “Packaging the Tao,” *Rocky Mountain Review of Language and Literature* 45:1–2(1991), pp. 75–84를 참조할 수 있다. 아래에는 고전적 번역, 유용한 근래 번역, 또는 위에서 언급한 저술만 제시한다.
 
 (a) Chan, Wing-tsit, *The Way of Lao tzu*, Indianapolis·New York: Bobbs-Merrill, 1963. 주석이 충실하다.
 
@@ -316,7 +316,7 @@ Hatano Tarō 波多野太郎, 〈老子王注校正補遺〉, 《支那學研究
 
 Hatano Tarō 波多野太郎, 〈馬王堆出土老子考〉, 《東方宗教》 47(1976), pp. 1–11.
 
-Henricks, Robert G., “Examining the Ma-wang-tui Silk Texts of the Lao tzu,” *T’oung Pao* 65.4–5(1980), pp. 166–199.
+Henricks, Robert G., “Examining the Ma-wang-tui Silk Texts of the Lao tzu,” *T’oung Pao* 65:4–5(1980), pp. 166–199.
 
 Henricks, Robert G., “On the Chapter Divisions in the Lao tzu,” *Bulletin of the School of Oriental and African Studies* 45:3(1982), pp. 501–524.
 
@@ -324,11 +324,11 @@ Herforth, Derek D., *Two Philological Studies on the Mawangdui Lao Tzu Manuscrip
 
 何士驥, 《古本道德經校刊》, 國立北平研究院史學研究會 考古專報 제1권 제2호, 1936.
 
-曉菡, 〈長沙馬王堆漢墓帛書概述〉, 《文物》 1974.9, pp. 40–44.
+曉菡, 〈長沙馬王堆漢墓帛書概述〉, 《文物》 1974:9, pp. 40–44.
 
-湖南省博物館, 〈長沙馬王堆二三號漢墓發掘簡報〉, 《文物》 1974.7, 39–48·p. 63.
+湖南省博物館, 〈長沙馬王堆二三號漢墓發掘簡報〉, 《文物》 1974:7, 39–48·p. 63.
 
-Hung, William, “A Bibliographical Controversy at the T’ang Court A. D. 719,” *Harvard Journal of Asiatic Studies* 20.1–2(1957), pp. 74–134.
+Hung, William, “A Bibliographical Controversy at the T’ang Court A.D. 719,” *Harvard Journal of Asiatic Studies* 20:1–2(1957), pp. 74–134.
 
 Imaeda Jirō 今枝二郎, 〈馬王堆出土「老子」古寫本について〉, 《大正大學研究紀要》 61(1975), pp. 249–262.
 
@@ -338,7 +338,7 @@ Imaeda Jirō 今枝二郎, 〈馬王堆出土「老子」古寫本について�
 
 饒宗頤, 〈老子想爾注續論〉, 《東洋文化論集—福井博士頌壽紀念》, Tokyo: 早稻田大學出版部, 1969, pp. 1155–1171.
 
-高亨·池曦朝, 〈試談馬王堆漢墓中的帛書老子〉, 《文物》 1974.11, pp. 1–7.
+高亨·池曦朝, 〈試談馬王堆漢墓中的帛書老子〉, 《文物》 1974:11, pp. 1–7.
 
 高明, 〈帛書「老子」甲乙本與今本「老子」勘校札記〉, 《文物資料叢刊》 2(1978), pp. 209–221.
 
@@ -354,7 +354,7 @@ Kusuyama Haruki 楠山春樹, 〈鄭成海著『老子河上公注斠理』〉, 
 
 羅振玉, 《道德經考異》·《老子考異補遺》, 《永豐鄉人雜著續編》, 《羅雪堂先生全集初編》 제3권, 臺北: 文華, 1968 재수록, pp. 1025–1075.
 
-路工, 〈虞世南校寫本《老子》及其石刻拓本〉, 《世界宗教研究》 1981.4, pp. 45–53.
+路工, 〈虞世南校寫本《老子》及其石刻拓本〉, 《世界宗教研究》 1981:4, pp. 45–53.
 
 馬敘倫, 《老子校詁》, 1924, Hong Kong: 太平, 1965·1973 재판.
 
@@ -370,7 +370,7 @@ Shima Kunio 島邦男, 《老子校正》, Tokyo: 汲古書院, 1973.
 
 Shima Kunio 島邦男, 〈馬王堆老子からみた河上公本〉, 《集刊東洋學》 36(1976), pp. 1–26.
 
-唐蘭 외, 〈座談長沙馬王堆漢墓帛書〉, 《文物》 1974.9, pp. 45–57.
+唐蘭 외, 〈座談長沙馬王堆漢墓帛書〉, 《文物》 1974:9, pp. 45–57.
 
 唐文播, 〈巴黎所藏敦煌老子寫本綜考〉, 《中國文化研究彙刊》 4(1944), pp. 95–124.
 

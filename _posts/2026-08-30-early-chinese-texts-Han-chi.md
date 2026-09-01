@@ -59,8 +59,8 @@ tags:
 ## 5. 근래의 연구와 연구 도구
 
 - (a) 鈕永建(淸代), 《前漢紀校釋》. 《南菁札記》에 수록. 鈕永建은 《漢紀》의 구절을 《漢書》 및 《史記》의 대응 구절과 비교하고 《漢紀》 독법의 타당성을 평가하였다.
-- (b) Ch’en Ch’i-yün, “Textual problems of Hsün Yüeh’s (A. D. 148–209) writings: the Han-chi and the Shen-chien 申鑑,” *Monumenta Serica* 24 (1968), pp. 208–232.
-- (c) Chi-yun Chen, *Hsün Yüeh A. D. 148–209: The Life and Reflections of an Early Medieval Confucian* (Cambridge: Cambridge University Press, 1975), pp. 84–126.
+- (b) Ch’en Ch’i-yün, “Textual problems of Hsün Yüeh’s (A.D. 148–209) writings: the Han-chi and the Shen-chien 申鑑,” *Monumenta Serica* 24 (1968), pp. 208–232.
+- (c) Chi-yun Chen, *Hsün Yüeh A.D. 148–209: The Life and Reflections of an Early Medieval Confucian* (Cambridge: Cambridge University Press, 1975), pp. 84–126.
 
 ## 6. 색인
 

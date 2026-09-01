@@ -124,7 +124,7 @@ L. 《中國古典新書》, 1976, Uchino Kumaichirō 內野熊一郞·Nakamura 
 
 ## 9. 연구 도구
 
-(a) Carson, Michael F., “The battle of words in ancient China,” *Asian Culture Quarterly* 11.2 (1983).
+(a) Carson, Michael F., “The battle of words in ancient China,” *Asian Culture Quarterly* 11:2 (1983).
 
 (b) 徐復觀, 〈呂氏春秋及其對漢代學術與政治的影響〉, 《新亞書院學術年刊》 14 (1972), pp. 1–53.
 

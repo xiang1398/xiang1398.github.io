@@ -119,7 +119,7 @@ tags:
 
 > (a) James Legge, *The Chinese Classics*, 제4권 제1·2부, *Sacred Books of the East*, 제3권.
 >
-> (b) Séraphin Couvreur S. J., *Cheu King. Texte chinois avec une double traduction, en français et en latin* (Sien Hien: Mission Catholique, 1896, 제3판 1934). 중국어 본문에 프랑스어와 라틴어 이중 번역을 붙였다.
+> (b) Séraphin Couvreur S.J., *Cheu King. Texte chinois avec une double traduction, en français et en latin* (Sien Hien: Mission Catholique, 1896, 제3판 1934). 중국어 본문에 프랑스어와 라틴어 이중 번역을 붙였다.
 >
 > (c) Marcel Granet, *Fêtes et chansons anciennes de la Chine* (Paris: Bibliothèque de l’École des hautes études, 1919). 문학적·인류학적 관점에서 國風을 해석하고 번역한 연구이다. E. D. Edwards가 *Festivals and Songs of Ancient China* (London: Broadway Oriental Library, 1932)라는 제목으로 영어 번역하였다.
 >

@@ -83,9 +83,9 @@ tags:
 
 (m) 徐復觀, 〈揚雄論究〉, 《大陸雜誌》 50:3 (1975), pp. 1–43. 揚雄의 생애와 《漢書》(역자 주: 〈揚雄傳〉) 전기에 관한 여러 문제를 논한다. pp. 13–22의 《太玄》 관련 부분에서는 이 책과 〈解難賦〉·《法言》의 저술 동기를 비교하고, 《太玄》의 구조와 당시 사용되던 역법의 관계를 설명한다. 또 한대 수비학이 피타고라스학파에서 차용되었다는 馮友蘭의 견해를 부정한다. 馮友蘭, *A History of Chinese Philosophy*, 제2권(Princeton: Princeton University Press, 1953), pp. 93–96, pp. 101–102를 참조한다.
 
-(n) 鄭文, 〈太玄學說初探〉, 《甘肅師大學報》 1979.4, pp. 59–70. 揚雄 저술에 대한 후속 연구를 촉진하고 저술 동기를 설명하려 하며, 《太玄》을 둘러싼 전통적 논쟁을 이해할 실마리를 제시한다.
+(n) 鄭文, 〈太玄學說初探〉, 《甘肅師大學報》 1979:4, pp. 59–70. 揚雄 저술에 대한 후속 연구를 촉진하고 저술 동기를 설명하려 하며, 《太玄》을 둘러싼 전통적 논쟁을 이해할 실마리를 제시한다.
 
-(o) 束景南, 〈太玄創作代考〉, 《歷史研究》 1981.5, pp. 142–147. 이 책이 王莽을 풍자한 저술이라는 견해를 거부하는 논거를 제시하고, 원래 분량의 문제를 논한다.
+(o) 束景南, 〈太玄創作代考〉, 《歷史研究》 1981:5, pp. 142–147. 이 책이 王莽을 풍자한 저술이라는 견해를 거부하는 논거를 제시하고, 원래 분량의 문제를 논한다.
 
 (p) 韓敬, 〈論“太玄”的哲學體系〉, 《中國哲學史研究》 제6호(1982년 1월), pp. 49–59. 마르크스주의 용어 사용에 지나치게 얽매여 논의가 제약되지만, 핵심어 玄을 氣와 동일시한 馮友蘭의 견해를 반박한다.
 
@@ -103,7 +103,7 @@ tags:
 
 (b) David R. Knechtges, *The Han Rhapsody* (Cambridge: Cambridge University Press, 1976). p. 7 이하에서 《太玄》의 구조를 설명하고, p. 90 이하에서 제47首를 번역한다.
 
-(c) Michael Nylan·Nathan Sivin, “The First Neo-Confucianism: An Introduction to Yang Hsiung’s ‘Canon of Supreme Mystery’ (T’ai hsüan ching, c. 4 B. C.),” Charles Le Blanc·Susan Blader 편, *Chinese Ideas About Nature and Society: Studies in Honour of Derk Bodde* (Hong Kong: Hong Kong University Press, 1987), pp. 41–99. 《太玄》의 철학적 배경, 배열, 해석상의 문제, 수학적 기초를 논하고, 首와 贊 본문의 번역 예도 수록한다.
+(c) Michael Nylan·Nathan Sivin, “The First Neo-Confucianism: An Introduction to Yang Hsiung’s ‘Canon of Supreme Mystery’ (T’ai hsüan ching, c. 4 B.C.),” Charles Le Blanc·Susan Blader 편, *Chinese Ideas About Nature and Society: Studies in Honour of Derk Bodde* (Hong Kong: Hong Kong University Press, 1987), pp. 41–99. 《太玄》의 철학적 배경, 배열, 해석상의 문제, 수학적 기초를 논하고, 首와 贊 본문의 번역 예도 수록한다.
 
 ## 5. 번역
 
