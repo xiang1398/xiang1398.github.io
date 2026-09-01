@@ -1,3 +1,5 @@
+---
+---
 (() => {
   const input = document.getElementById('site-search-input');
   const results = document.getElementById('site-search-results');
