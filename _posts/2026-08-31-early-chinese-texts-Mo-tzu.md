@@ -109,7 +109,7 @@ tags:
 
 ## 6. 연구 도구와 번역
 
-Alfred Forke의 독일어 완역 *Me Ti des Sozialethikers und seiner Schüler philosophische Werke* [사회 윤리학자 墨子와 그 제자들의 철학적 저술](Berlin: Kommissionsverlag der Vereinigung wissenschaftlicher Verleger, 1922)가 있다. 그러나 적어도 辯論篇과 軍事篇을 번역하기에는 당시 연구가 아직 이르렀다. 제1–39편의 보다 최근 독일어 번역으로 Helwig Schmidt-Glintzer, *Mo ti: Solidarität und allgemeine Menschenliebe* [墨子: 연대와 보편적 인류애]와 *Mo ti: Gegen den Krieg* [墨子: 전쟁에 반대하며](Düsseldorf-Köln: Eugen Diederichs Verlag, 1975)이 있다. 영어 선역은 세 종이다.
+Alfred Forke의 독일어 완역 *Me Ti des Sozialethikers und seiner Schüler philosophische Werke* [사회 윤리학자 墨子와 그 제자들의 철학적 저술](Berlin: Kommissionsverlag der Vereinigung wissenschaftlicher Verleger, 1922)가 있다. 그러나 적어도 辯論篇과 軍事篇을 번역하기에는 당시 연구가 아직 이르렀다. 제1–39편의 보다 최근 독일어 번역으로 Helwig Schmidt-Glintzer, *Mo ti: Solidarität und allgemeine Menschenliebe* [墨子: 연대와 보편적 인류애]와 *Mo ti: Gegen den Krieg* [墨子: 전쟁에 반대하며](Düsseldorf·Köln: Eugen Diederichs Verlag, 1975)이 있다. 영어 선역은 세 종이다.
 
 (a) Mei, Y. P., *The ethical and political works of Motse*, London: A. Probsthain, 1929. 제1–39편과 제46–50편만 번역.
 
