@@ -1,0 +1,79 @@
+name: Final ECT style audit and correction
+on:
+  push:
+    paths: ['.github/workflows/ect-style-final-audit.yml']
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Correct and audit house style
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          files=sorted(Path('_posts').glob('*early-chinese-texts-*.md'))
+          journal_abbr=r'(?:HJAS|BIHP|TP|RBS|BSOAS|JAOS|JAS|MS|MSOS|THG|TSK|WW|KKHP|LSYC)'
+          for p in files:
+              s=p.read_text(encoding='utf-8')
+
+              # Revert collateral spacing of standard abbreviations; these are not personal-name initials.
+              s=s.replace('A. D.', 'A.D.').replace('B. C.', 'B.C.').replace('N. J.', 'N.J.')
+              s=s.replace('Washington, D. C.', 'Washington, D.C.')
+              s=s.replace('Couvreur S. J.', 'Couvreur S.J.').replace('Couvreur, S. J.', 'Couvreur, S.J.')
+              s=s.replace('Larre, S. J.', 'Larre, S.J.').replace('Larre S. J.', 'Larre S.J.')
+
+              # ICS house style and place-name normalization.
+              s=re.sub(r'(?<![A-Za-z*])\*?ICS\*?\s*(?:총서|series)', '*ICS* series', s, flags=re.I)
+              out=[]
+              for line in s.splitlines(True):
+                  if '*ICS* series' in line or 'Concordance' in line:
+                      line=re.sub(r'(?:홍콩|香港)(?=\s*:|\s+商務印書館)', 'Hong Kong', line)
+
+                  # Journal volume/issue: Journal 39.1 -> Journal 39:1; 《文物》 1974.7 -> 1974:7.
+                  line=re.sub(r'(\*[^*\n]+\*|《[^》\n]+》)(\s+)(\d{1,4})\.(\d{1,2}(?:[–-]\d{1,2})?)',
+                              lambda m:f'{m.group(1)}{m.group(2)}{m.group(3)}:{m.group(4)}', line)
+                  line=re.sub(rf'\b({journal_abbr})\s+(\d{{1,3}})\.(\d{{1,2}}(?:[–-]\d{{1,2}})?)',
+                              lambda m:f'{m.group(1)} {m.group(2)}:{m.group(3)}', line)
+
+                  # Chinese reign-title + regnal year: 光武4年 / 光武 4 年 -> 光武 4年.
+                  line=re.sub(r'([一-龥]{2,8})\s*(\d{1,2})\s*年', r'\1 \2年', line)
+                  out.append(line)
+              p.write_text(''.join(out),encoding='utf-8')
+
+          # Residual audit. Search only patterns that are unambiguously contrary to the requested house style.
+          residual=[]
+          allowed_compact={'A.D.','B.C.','D.C.','N.J.','S.J.','U.S.','U.K.'}
+          compact_pat=re.compile(r'(?<![A-Za-z])(?:[A-Z]\.){2,}')
+          dot_after_journal=re.compile(r'(?:\*[^*\n]+\*|《[^》\n]+》)\s+\d{1,4}\.\d{1,2}(?:[–-]\d{1,2})?')
+          abbr_dot=re.compile(rf'\b{journal_abbr}\s+\d{{1,3}}\.\d{{1,2}}(?:[–-]\d{{1,2}})?')
+          bad_era1=re.compile(r'[一-龥]{2,8}\d{1,2}年')
+          bad_era2=re.compile(r'[一-龥]{2,8}\s+\d{1,2}\s+年')
+          for p in files:
+              for n,line in enumerate(p.read_text(encoding='utf-8').splitlines(),1):
+                  for m in compact_pat.finditer(line):
+                      if m.group(0) not in allowed_compact:
+                          residual.append(f'{p}:{n}: compact initials: {m.group(0)} | {line}')
+                  if re.search(r'(?<!\*)\bICS\s+(?:총서|series)',line,re.I) or 'ICS 총서' in line:
+                      residual.append(f'{p}:{n}: ICS style | {line}')
+                  if ('*ICS* series' in line or 'Concordance' in line) and re.search(r'(홍콩|香港)(?=\s*:|\s+商務印書館)',line):
+                      residual.append(f'{p}:{n}: Hong Kong style | {line}')
+                  if dot_after_journal.search(line) or abbr_dot.search(line):
+                      residual.append(f'{p}:{n}: volume.issue dot | {line}')
+                  if bad_era1.search(line) or bad_era2.search(line):
+                      residual.append(f'{p}:{n}: regnal-year spacing | {line}')
+
+          report=Path('_data/ect_style_audit.txt')
+          report.write_text(('RESIDUAL_COUNT='+str(len(residual))+'\n')+'\n'.join(residual)+'\n',encoding='utf-8')
+          PY
+      - name: Commit corrections and audit report
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add _posts/*early-chinese-texts-*.md _data/ect_style_audit.txt
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Correct and audit ECT 001-065 house style'
+          git push
