@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 050: *Shen tzu* 《申子》 (*Shen Pu-hai* 《申不害》)"
+title: "Early Chinese Texts 050: Shen tzu 《申子》 (Shen Pu-hai 《申不害》)"
 date: 2026-08-31 13:19:00 +0900
 categories:
   - Translations

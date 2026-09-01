@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 020: *Ho kuan tzu* 《鶡冠子》"
+title: "Early Chinese Texts 020: Ho kuan tzu 《鶡冠子》"
 date: 2026-08-30 09:35:00 +0900
 categories:
   - Translations

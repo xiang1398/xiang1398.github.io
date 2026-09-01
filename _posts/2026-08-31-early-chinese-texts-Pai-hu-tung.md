@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 045: *Pai hu tung* 《白虎通》"
+title: "Early Chinese Texts 045: Pai hu tung 《白虎通》"
 date: 2026-08-31 13:14:00 +0900
 categories:
   - Translations

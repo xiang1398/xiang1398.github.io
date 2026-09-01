@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 014: *Fa yen* 《法言》"
+title: "Early Chinese Texts 014: Fa yen 《法言》"
 date: 2026-08-30 09:11:00 +0900
 categories:
   - Translations

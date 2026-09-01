@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 040: *Lun yü* 《論語》"
+title: "Early Chinese Texts 040: Lun yü 《論語》"
 date: 2026-08-31 13:09:00 +0900
 categories:
   - Translations

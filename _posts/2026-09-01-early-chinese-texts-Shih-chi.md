@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 052: *Shih chi* 《史記》"
+title: "Early Chinese Texts 052: Shih chi 《史記》"
 date: 2026-09-01 11:41:00 +0900
 categories:
   - Translations

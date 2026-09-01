@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 064: *Yen tzu ch'un ch'iu* 《晏子春秋》"
+title: "Early Chinese Texts 064: Yen tzu ch'un ch'iu 《晏子春秋》"
 date: 2026-09-01 11:53:00 +0900
 categories:
   - Translations

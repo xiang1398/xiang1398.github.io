@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 044: *Mu tien tzu chuan* 《穆天子傳》"
+title: "Early Chinese Texts 044: Mu tien tzu chuan 《穆天子傳》"
 date: 2026-08-31 13:13:00 +0900
 categories:
   - Translations

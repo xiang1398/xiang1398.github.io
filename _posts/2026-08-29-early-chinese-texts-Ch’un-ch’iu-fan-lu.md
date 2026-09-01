@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 011: *Ch’un ch’iu fan lu* 《春秋繁露》"
+title: "Early Chinese Texts 011: Ch’un ch’iu fan lu 《春秋繁露》"
 date: 2026-08-29 14:15:00 +0900
 categories:
   - Translations

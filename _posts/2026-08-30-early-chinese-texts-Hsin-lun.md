@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 023: *Hsin lun* 《新論》"
+title: "Early Chinese Texts 023: Hsin lun 《新論》"
 date: 2026-08-30 12:20:00 +0900
 categories:
   - Translations

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 030: *I Chou shu* 《逸周書》"
+title: "Early Chinese Texts 030: I Chou shu 《逸周書》"
 date: 2026-08-30 12:55:00 +0900
 categories:
   - Translations

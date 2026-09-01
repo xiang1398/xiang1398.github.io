@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 059: *T'ai hsüan ching* 《太玄經》"
+title: "Early Chinese Texts 059: T'ai hsüan ching 《太玄經》"
 date: 2026-09-01 11:48:00 +0900
 categories:
   - Translations

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 002: *Chan kuo ts’e* 《戰國策》"
+title: "Early Chinese Texts 002: Chan kuo ts’e 《戰國策》"
 date: 2026-08-18 15:40:00 +0900
 categories:
   - Translations

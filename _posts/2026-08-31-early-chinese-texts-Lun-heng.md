@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 039: *Lun heng* 《論衡》"
+title: "Early Chinese Texts 039: Lun heng 《論衡》"
 date: 2026-08-31 13:08:00 +0900
 categories:
   - Translations

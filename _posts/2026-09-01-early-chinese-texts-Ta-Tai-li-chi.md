@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 058: *Ta Tai li chi* 《大戴禮記》"
+title: "Early Chinese Texts 058: Ta Tai li chi 《大戴禮記》"
 date: 2026-09-01 11:47:00 +0900
 categories:
   - Translations

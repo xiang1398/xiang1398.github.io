@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 004: *Chiu chang suan shu* 《九章算術》"
+title: "Early Chinese Texts 004: Chiu chang suan shu 《九章算術》"
 date: 2026-08-19 12:10:00 +0900
 categories:
   - Translations

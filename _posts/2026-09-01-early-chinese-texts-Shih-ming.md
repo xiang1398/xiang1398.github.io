@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 054: *Shih ming* 《釋名》"
+title: "Early Chinese Texts 054: Shih ming 《釋名》"
 date: 2026-09-01 11:43:00 +0900
 categories:
   - Translations

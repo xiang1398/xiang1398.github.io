@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 063: *Yen t'ieh lun* 《鹽鐵論》"
+title: "Early Chinese Texts 063: Yen t'ieh lun 《鹽鐵論》"
 date: 2026-09-01 11:52:00 +0900
 categories:
   - Translations

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 019: *Han shu* 《漢書》"
+title: "Early Chinese Texts 019: Han shu 《漢書》"
 date: 2026-08-30 09:30:00 +0900
 categories:
   - Translations

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 033: *Kung sun Lung tzu* 《公孫龍子》"
+title: "Early Chinese Texts 033: Kung sun Lung tzu 《公孫龍子》"
 date: 2026-08-31 13:02:00 +0900
 categories:
   - Translations

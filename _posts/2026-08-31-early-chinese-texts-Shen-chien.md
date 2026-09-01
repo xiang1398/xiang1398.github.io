@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 049: *Shen chien* 《申鑒》"
+title: "Early Chinese Texts 049: Shen chien 《申鑒》"
 date: 2026-08-31 13:18:00 +0900
 categories:
   - Translations

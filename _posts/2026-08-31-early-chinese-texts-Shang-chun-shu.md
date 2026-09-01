@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 047: *Shang chün shu* 《商君書》"
+title: "Early Chinese Texts 047: Shang chün shu 《商君書》"
 date: 2026-08-31 13:16:00 +0900
 categories:
   - Translations

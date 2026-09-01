@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 036: *Lao tzu Tao te ching* 《老子道德經》"
+title: "Early Chinese Texts 036: Lao tzu Tao te ching 《老子道德經》"
 date: 2026-08-31 13:05:00 +0900
 categories:
   - Translations

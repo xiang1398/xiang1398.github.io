@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 032: *Kuan tzu* 《管子》"
+title: "Early Chinese Texts 032: Kuan tzu 《管子》"
 date: 2026-08-31 13:01:00 +0900
 categories:
   - Translations

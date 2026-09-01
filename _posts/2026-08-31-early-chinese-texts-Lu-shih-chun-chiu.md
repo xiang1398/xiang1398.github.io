@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 041: *Lü shih ch'un ch'iu* 《呂氏春秋》"
+title: "Early Chinese Texts 041: Lü shih ch'un ch'iu 《呂氏春秋》"
 date: 2026-08-31 13:10:00 +0900
 categories:
   - Translations

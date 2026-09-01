@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 022: *Hsin hsü* 《新序》"
+title: "Early Chinese Texts 022: Hsin hsü 《新序》"
 date: 2026-08-30 12:15:00 +0900
 categories:
   - Translations

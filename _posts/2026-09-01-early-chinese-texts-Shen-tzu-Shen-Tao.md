@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 051: *Shen tzu* 《慎子》 (*Shen Tao* 《慎到》)"
+title: "Early Chinese Texts 051: Shen tzu 《慎子》 (Shen Tao 《慎到》)"
 date: 2026-09-01 11:40:00 +0900
 categories:
   - Translations

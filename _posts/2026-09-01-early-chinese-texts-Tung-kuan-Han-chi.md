@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 061: *Tung kuan Han chi* 《東觀漢記》"
+title: "Early Chinese Texts 061: Tung kuan Han chi 《東觀漢記》"
 date: 2026-09-01 11:50:00 +0900
 categories:
   - Translations

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 024: *Hsin shu* 《新書》"
+title: "Early Chinese Texts 024: Hsin shu 《新書》"
 date: 2026-08-30 12:25:00 +0900
 categories:
   - Translations

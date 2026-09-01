@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 015: *Feng su t’ung i* 《風俗通義》"
+title: "Early Chinese Texts 015: Feng su t’ung i 《風俗通義》"
 date: 2026-08-30 09:12:00 +0900
 categories:
   - Translations

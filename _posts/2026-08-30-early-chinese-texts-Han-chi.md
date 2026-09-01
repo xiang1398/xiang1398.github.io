@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 016: *Han chi* 《漢紀》"
+title: "Early Chinese Texts 016: Han chi 《漢紀》"
 date: 2026-08-30 09:13:00 +0900
 categories:
   - Translations

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 027: *Huai nan tzu* 《淮南子》"
+title: "Early Chinese Texts 027: Huai nan tzu 《淮南子》"
 date: 2026-08-30 12:40:00 +0900
 categories:
   - Translations

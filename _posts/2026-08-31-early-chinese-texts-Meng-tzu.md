@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Early Chinese Texts* 042: *Meng tzu* 《孟子》"
+title: "Early Chinese Texts 042: Meng tzu 《孟子》"
 date: 2026-08-31 13:11:00 +0900
 categories:
   - Translations
