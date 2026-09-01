@@ -59,7 +59,7 @@ Bodman의 연구(아래 4절 참조) 덕분에, 한대 어두 자음군의 가�
 
 이러한 기록은 다음 두 가지 진술과 구별해야 한다. (i) 《後漢書》 卷80上 p. 2617(역자 주: 〈劉珍傳〉)에는 126년 직후 사망한 劉珍의 《釋名》 30편이 언급된다. (ii) 《四庫全書總目提要》는 20편이라고 적는다. 후자의 해제는 《後漢書》에 보이는 劉珍의 책이 오래전에 망실되었다고 말하고, 萬曆 연간 鄭明選이 제시한 27편이라는 수는 전본과 맞지 않는데도 잘못 고쳐진 것이라고 주장한다.
 
-錢大昕(1728–1804)은 한 말에 살다가 난을 피해 남쪽으로 옮겨 간 劉熙가 실제 저자라고 확신하였다. 畢沅(1730–1797)은 전본의 성립을 劉珍 시대만큼 이르게 올려 잡기 어려운 이유를 제시하였다. 그는 또한 253년 韋曜가 옥중에서 올린 글에서 劉熙의 책을 보았으나 몇 가지 점에서 부족하다고 여겼다고 한 기록을 지적하였다(《三國志》 卷65 pp. 1462–1463. 역자 주: 〈韋曜傳〉). 畢沅은 이 책이 劉珍에게서 시작되어 한 말 또는 삼국시대에 劉熙가 완성하고, 韋曜가 다시 보충했을 가능성을 제안하였다.
+錢大昕(1728–1804)은 漢末에 살다가 난을 피해 남쪽으로 옮겨 간 劉熙가 실제 저자라고 확신하였다. 畢沅(1730–1797)은 전본의 성립을 劉珍 시대만큼 이르게 올려 잡기 어려운 이유를 제시하였다. 그는 또한 253년 韋曜가 옥중에서 올린 글에서 劉熙의 책을 보았으나 몇 가지 점에서 부족하다고 여겼다고 한 기록을 지적하였다(《三國志》 卷65 pp. 1462–1463. 역자 주: 〈韋曜傳〉). 畢沅은 이 책이 劉珍에게서 시작되어 한 말 또는 삼국시대에 劉熙가 완성하고, 韋曜가 다시 보충했을 가능성을 제안하였다.
 
 본문 앞에는 두 편의 서문이 있다. 하나는 劉熙의 것으로 전하며, 다른 하나는 1524년의 연대를 적은 儲良材의 서문이다.
 
@@ -83,14 +83,14 @@ Bodman의 연구(아래 4절 참조) 덕분에, 한대 어두 자음군의 가�
 
 ## 4. 최근 연구
 
-(a) Nicholas Cleaveland Bodman, *A Linguistic Study of the Shih Ming: Initials and Consonant Clusters* \[《釋名》의 언어학적 연구: 성모와 자음군\], *Harvard-Yenching Institute Studies* XI, Cambridge, Mass.: Harvard University Press, 1954.
+(a) Nicholas Cleaveland Bodman, *A Linguistic Study of the Shih Ming: Initials and Consonant Clusters*, *Harvard-Yenching Institute Studies* XI, Cambridge, Mass.: Harvard University Press, 1954.
 
 (b) Roy Andrew Miller, 위 (a)에 대한 서평, *T’oung Pao* 44 (1956), pp. 266–287.
 
-(c) Roy Andrew Miller, “The Far East” [극동], Thomas E. Sebeok 편, *Current Trends in Linguistics*, 제13권 *Historiography of Linguistics*, The Hague·Paris: Mouton, 1975, pp. 1213–1264, 특히 pp. 1224–1225.
+(c) Roy Andrew Miller, “The Far East”, Thomas E. Sebeok 편, *Current Trends in Linguistics*, 제13권 *Historiography of Linguistics*, The Hague·Paris: Mouton, 1975, pp. 1213–1264, 특히 pp. 1224–1225.
 
 ## 5. 색인
 
-D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Shi Ming and Jijiu Pian* 《釋名》《急就篇》逐字索引, *ICS* series, Hong Kong: Commercial Press, 1996년 간행 예정.
+D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Shi Ming and Jijiu Pian* 《釋名急就篇》逐字索引, *ICS* series, Hong Kong: Commercial Press, 1996년 간행 예정.
 
 *—Roy Andrew Miller*
