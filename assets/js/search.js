@@ -13,14 +13,42 @@
   const escapeHtml = (value) => value.replace(/[&<>'"]/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[ch]));
   const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
-  function excerpt(text, terms) {
+  let toTraditional = null;
+  let toSimplified = null;
+  if (window.OpenCC && typeof window.OpenCC.Converter === 'function') {
+    toTraditional = window.OpenCC.Converter({ from: 'cn', to: 'tw' });
+    toSimplified = window.OpenCC.Converter({ from: 't', to: 'cn' });
+  }
+
+  function variants(term) {
+    const base = normalize(term);
+    const values = new Set([base]);
+    try {
+      if (toTraditional) values.add(normalize(toTraditional(base)));
+      if (toSimplified) values.add(normalize(toSimplified(base)));
+    } catch (_) {
+      // OpenCC failure should not break ordinary search.
+    }
+    return [...values].filter(Boolean);
+  }
+
+  function buildTermGroups(query) {
+    return normalize(query)
+      .split(/\s+/)
+      .filter(Boolean)
+      .map(term => variants(term));
+  }
+
+  function excerpt(text, termGroups) {
     const clean = (text || '').replace(/\s+/g, ' ').trim();
     if (!clean) return '';
     const lower = normalize(clean);
     let pos = -1;
-    for (const term of terms) {
-      const found = lower.indexOf(term);
-      if (found !== -1 && (pos === -1 || found < pos)) pos = found;
+    for (const group of termGroups) {
+      for (const term of group) {
+        const found = lower.indexOf(term);
+        if (found !== -1 && (pos === -1 || found < pos)) pos = found;
+      }
     }
     if (pos === -1) pos = 0;
     const start = Math.max(0, pos - 70);
@@ -28,9 +56,9 @@
     return `${start > 0 ? '…' : ''}${clean.slice(start, end)}${end < clean.length ? '…' : ''}`;
   }
 
-  function highlight(text, terms) {
+  function highlight(text, termGroups) {
     let html = escapeHtml(text || '');
-    const uniqueTerms = [...new Set(terms)].sort((a, b) => b.length - a.length);
+    const uniqueTerms = [...new Set(termGroups.flat())].sort((a, b) => b.length - a.length);
     for (const term of uniqueTerms) {
       if (!term) continue;
       const re = new RegExp(`(${escapeRegExp(term)})`, 'giu');
@@ -39,29 +67,38 @@
     return html;
   }
 
-  function score(post, terms) {
+  function bestFieldScore(field, group, weight, startsWithBonus = 0) {
+    let score = 0;
+    for (const term of group) {
+      if (field.includes(term)) score = Math.max(score, weight);
+      if (startsWithBonus && field.startsWith(term)) score = Math.max(score, weight + startsWithBonus);
+    }
+    return score;
+  }
+
+  function score(post, termGroups) {
     const title = normalize(post.title);
     const category = normalize([post.category, ...(post.categories || [])].join(' '));
     const tags = normalize((post.tags || []).join(' '));
     const series = normalize(post.series);
     const content = normalize(post.content);
+    const fields = [title, category, tags, series, content];
     let total = 0;
-    for (const term of terms) {
-      if (!term) continue;
-      if (title.includes(term)) total += 20;
-      if (title.startsWith(term)) total += 10;
-      if (category.includes(term)) total += 8;
-      if (tags.includes(term)) total += 8;
-      if (series.includes(term)) total += 5;
-      if (content.includes(term)) total += 2;
-      if (![title, category, tags, series, content].some(field => field.includes(term))) return 0;
+
+    for (const group of termGroups) {
+      if (!group.some(term => fields.some(field => field.includes(term)))) return 0;
+      total += bestFieldScore(title, group, 20, 10);
+      total += bestFieldScore(category, group, 8);
+      total += bestFieldScore(tags, group, 8);
+      total += bestFieldScore(series, group, 5);
+      total += bestFieldScore(content, group, 2);
     }
     return total;
   }
 
   function render(query) {
-    const terms = normalize(query).split(/\s+/).filter(Boolean);
-    if (!terms.length) {
+    const termGroups = buildTermGroups(query);
+    if (!termGroups.length) {
       results.innerHTML = '';
       if (count) count.textContent = '';
       return;
@@ -72,7 +109,7 @@
     }
 
     const matches = index
-      .map(post => ({ post, score: score(post, terms) }))
+      .map(post => ({ post, score: score(post, termGroups) }))
       .filter(item => item.score > 0)
       .sort((a, b) => b.score - a.score || b.post.date.localeCompare(a.post.date))
       .slice(0, 100);
@@ -85,11 +122,11 @@
 
     results.innerHTML = matches.map(({ post }) => {
       const meta = [post.date, post.category || (post.categories || []).join(' · '), post.series].filter(Boolean).join(' · ');
-      const snippet = excerpt(post.content, terms);
+      const snippet = excerpt(post.content, termGroups);
       return `<article class="search-result-item">
-        <h3><a href="${escapeHtml(post.url)}">${highlight(post.title, terms)}</a></h3>
+        <h3><a href="${escapeHtml(post.url)}">${highlight(post.title, termGroups)}</a></h3>
         <div class="search-result-meta">${escapeHtml(meta)}</div>
-        <p>${highlight(snippet, terms)}</p>
+        <p>${highlight(snippet, termGroups)}</p>
       </article>`;
     }).join('');
   }
