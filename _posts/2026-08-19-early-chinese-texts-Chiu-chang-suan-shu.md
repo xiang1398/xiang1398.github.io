@@ -106,4 +106,4 @@ tags:
 
 D. C. Lau·Chen Fong Ching 편, *A Concordance to the Zhou bi suanjing and Jiu zhang suanshu* 周髀算經, 九章算術逐字索引 (*ICS* series; Hong Kong: Commercial Press, 1996년 출간 예정).
 
-*—Christopher Cullen*
+*Christopher Cullen*
