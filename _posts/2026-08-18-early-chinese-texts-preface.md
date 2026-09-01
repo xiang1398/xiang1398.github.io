@@ -24,7 +24,7 @@ tags:
   <a href="{{ page.url | absolute_url }}">{{ page.url | absolute_url }}</a>
 </p>
 
-이 번역문은 GPT-5.6 모델로 기계번역한 뒤 편집·교정한 것입니다
+*이 번역문은 GPT-5.6 모델로 기계번역한 뒤 편집·교정한 것입니다.*
 
 ## 《Early Chinese Texts》 서문
 

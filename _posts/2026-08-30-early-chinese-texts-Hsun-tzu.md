@@ -7,7 +7,7 @@ series: [Early Chinese Texts]
 tags: [Early Chinese Texts, 儒家, 荀子, 중국고전, 문헌학, 번역]
 ---
 
-*이 번역문은 GPT-5.6 모델로 기계번역한 뒤 편집·교정한 것입니다.*
+**이 번역문은 GPT-5.6 모델로 기계번역한 뒤 편집·교정한 것입니다.*.*
 
 ## 1. 책의 기원
 
