@@ -116,7 +116,7 @@ tags:
 - 권26 일부: Wolfram Eberhard, *Beiträge zur kosmologischen Spekulation der Chinesen der Han-Zeit*〔漢代 중국인의 우주론적 사변 연구〕, Inauguraldissertation, Berlin, 1933; *Bässler Archiv* XVI.1–2.
 - 권54·63·65·67·68·71·74·78·92·97상·하: Burton Watson, *Courtier and Commoner in Ancient China: Selections from the History of the Former Han by Pan Ku* (New York and London: Columbia University Press, 1974).
 - 권52·54·70·94상·하·96상: V. S. Taskin, *Materialy po istorii Syunnu po kitaiskim istočnikam*〔중국 사료에 따른 匈奴 역사 자료〕 (Moscow: Nauka, 1968–1973), 제1·2책.
-- (권57): Yves Hervouet, *Le Chapitre 117 du Che-ki; biographie de Sseu-ma Siang-jou*〔《史記》 권117: 司馬相如 전기〕 (Paris: Presses universitaires de France, 1972). 《漢書》 권57과 평행하는 《史記》 본문의 번역이다.
+- (권57): Yves Hervouet, *Le Chapitre 117 du Che-ki; biographie de Sseu-ma Siang-jou*〔《史記》 卷117: 司馬相如 전기〕 (Paris: Presses universitaires de France, 1972). 《漢書》 卷57과 평행하는 《史記》 본문의 번역이다.
 - 권61: A. F. P. Hulsewé·M. A. N. Loewe, *China in Central Asia; the Early Stage: 125 B.C.–A.D. 23. An Annotated Translation of Chapters 61 and 96 of the History of the Former Han Dynasty* (Leiden: E. J. Brill, 1979).
 - 권68: Arvid Jongchell, *Huo Kuang och hans tid*〔霍光과 그의 시대〕 (Göteborg: Elander, 1930).
 - 권88 일부: Tjan Tjoe Som, *Po Hu T’ung, The Comprehensive Discussions in the White Tiger Hall*, vol. I (Leiden: E. J. Brill, 1949), p. 85 이하.

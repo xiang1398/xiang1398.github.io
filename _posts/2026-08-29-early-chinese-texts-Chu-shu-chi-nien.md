@@ -29,7 +29,7 @@ tags:
 
 ## Chu shu chi nien 《竹書紀年》
 
-**이 번역문은 GPT-5.6 모델로 기계번역한 뒤 편집·교정한 것입니다.**
+*이 번역문은 GPT-5.6 모델로 기계번역한 뒤 편집·교정한 것입니다.*
 
 《竹書紀年》은 ‘죽간에 기록한 연대기’, 곧 ‘죽서 연대기’를 뜻한다. 때로는 河南 汲縣의 무덤에서 나온 연대기라는 뜻으로 《汲冢紀年》이라고도 한다. 이 연대기는 아마 281년에 발견되었다. 黃帝에서 시작하여 기원전 299년까지 이어지며, 본문이 기원전 2145년으로 잡은 堯 원년부터는 정확한 연대를 제시한다. 현재 일부가 소실되었을 수 있는 하나 또는 여러 원본, 상당 부분 원본일 가능성이 있는 2권의 今本, 그리고 그 밖에는 완전히 사라진 것으로 여겨진 원본의 잔편이라는 가정 아래 古本이라 부르는 인용 단편 모음을 구별해야 한다. 지난 두 세기 동안 지배적인 견해는 2권의 今本이 위작이라는 것이었다. 예를 들어 錢大昕(1728–1804)과 新城新藏(1873–1938)은 이를 明代의 위작이라고 보았다. 이 견해를 뒷받침한 연구로는 王國維(1877–1927)의 업적이 특히 유명하다. David N. Keightley, “The Bamboo Annals and Shang-Chou chronology,” *Harvard Journal of Asiatic Studies* 38 (1978), pp. 423–438은 이 견해를 명료하게 제시한다. 더 최근의 연구는 2권 今本에 더 오래된 원본과 어긋나는 부분이 있기는 하지만 조작된 책은 아니라고 주장한다. Edward L. Shaughnessy, “On the authenticity of the Bamboo Annals,” *Harvard Journal of Asiatic Studies* 46 (1986), pp. 149–180; “The ‘Current’ Bamboo Annals and the date of the Zhou conquest of Shang,” *Early China* 11–12 (1985–1987), pp. 33–36; David S. Nivison, “The dates of Western Chou,” *Harvard Journal of Asiatic Studies* 43 (1983), pp. 481–580; “Response,” *Early China* 15 (1990), “The Early China Forum,” pp. 151–172를 보라.
 
