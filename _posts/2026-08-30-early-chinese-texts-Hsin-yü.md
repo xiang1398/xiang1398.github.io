@@ -110,7 +110,7 @@ tags:
 
 ## 5. 번역
 
-- (a) von Gabain, Annemarie, “Ein Fürstenspiegel: Das Sin-yü des Lu Kia” (〈군주를 위한 거울: 陸賈의 《新語》〉), MSOS 33:1(1930), pp. 1–82. Paul Pelliot가 TP 27(1930), pp. 429–434에서 서평하였다.
+- (a) von Gabain, Annemarie, “Ein Fürstenspiegel: Das Sin-yü des Lu Kia” (〈군주를 위한 거울: 陸賈의 《新語》〉), *MSOS* 33:1(1930), pp. 1–82. Paul Pelliot가 TP 27(1930), pp. 429–434에서 서평하였다.
 
 - (b) Ku Mei-kao는 1974년 4월 Australian National University의 Master of Arts(Asian Studies) 학위논문으로 *A New Discourse On the Art of Government being a translation of Hsin yü of Lu Chia (?–178 b.c.) of the Western Han Dynasty*라는 제목의 서론과 주석을 갖춘 번역을 제출하였다.
 
