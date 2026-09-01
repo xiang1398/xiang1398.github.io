@@ -58,7 +58,7 @@ tags:
 
 이러한 차이에도 불구하고, 특정 표현 양식의 일관성과 여러 문법적 특징이 책 전체에서 지속적으로 나타난다는 점은 기본적 통일성을 뒷받침한다. Wilhelm과 Naitō 内藤(역자 주: 内藤湖南)는 覽과 論이 紀보다 조금 뒤에 쓰였고, 그 일반 개념을 이어받았을 가능성을 제기했다.
 
-Michael F. Carson의 The language of the Lü shih ch’un ch’iu: some characteristic features of grammar and style in a third century b.c. text(워싱턴대학교 박사학위논문, 1980)는 책 전반, 본문 전승, 문법과 문체의 특징, 차용어를 논한다. 문법과 문체를 조사한 결과, 첫 12권의 각 첫 편처럼 책의 다른 부분과 구별되는 대목이 확인되었다. 紀 전체도 다시 覽·論과 구별되는 특징을 보인다. 세 부분에서 특정 단어를 사용하거나 사용하지 않는 양상은 이 책이 여러 저자에 의해 쓰였다는 司馬遷의 진술에 개연성을 더한다. 언어학적 조사도 앞서 언급한 Wilhelm과 内藤의 결론을 지지한다.
+Michael F. Carson의 *The language of the Lü shih ch’un ch’iu: some characteristic features of grammar and style in a third century b.c. text* (워싱턴대학교 박사학위논문, 1980)는 책 전반, 본문 전승, 문법과 문체의 특징, 차용어를 논한다. 문법과 문체를 조사한 결과, 첫 12권의 각 첫 편처럼 책의 다른 부분과 구별되는 대목이 확인되었다. 紀 전체도 다시 覽·論과 구별되는 특징을 보인다. 세 부분에서 특정 단어를 사용하거나 사용하지 않는 양상은 이 책이 여러 저자에 의해 쓰였다는 司馬遷의 진술에 개연성을 더한다. 언어학적 조사도 앞서 언급한 Wilhelm과 内藤의 결론을 지지한다.
 
 ## 4. 본문 전승
 
@@ -124,7 +124,7 @@ L. 《中國古典新書》, 1976, Uchino Kumaichirō 內野熊一郞·Nakamura 
 
 ## 9. 연구 도구
 
-(a) Carson, Michael F., The battle of words in ancient China, *Asian Culture Quarterly* 11.2 (1983).
+(a) Carson, Michael F., “The battle of words in ancient China,” *Asian Culture Quarterly* 11.2 (1983).
 
 (b) 徐復觀, 〈呂氏春秋及其對漢代學術與政治的影響〉, 《新亞書院學術年刊》 14 (1972), pp. 1–53.
 
@@ -140,6 +140,6 @@ L. 《中國古典新書》, 1976, Uchino Kumaichirō 內野熊一郞·Nakamura 
 
 (c) D.C. Lau·Chen Fong Ching 편, *A Concordance to the Lü shi chunqiu* 《呂氏春秋逐字索引》, ICS series, Hong Kong: Commercial Press, 1994년 출간 예정.
 
-— *Michael Carson*
+*—Michael Carson*
 
-—* Michael Loewe*
+*—Michael Loewe*

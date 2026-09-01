@@ -234,7 +234,7 @@ Stein과 Pelliot가 자료를 국외로 가져간 뒤 淸 學部 관리가 회�
 
 ## 7. 번역
 
-《老子》는 서양어로 셀 수 없이 많이 번역되었다. 여기서 포괄적인 목록을 만드는 것은 가능하지도 필요하지도 않다. 학문적 번역뿐 아니라 취미적 번역도 계속 출판된다. 최근 번역의 다양성과 평가에 대해서는 Stephen Durrant, Packaging the Tao, *Rocky Mountain Review of Language and Literature* 45.1–2(1991), pp. 75–84를 참조할 수 있다. 아래에는 고전적 번역, 유용한 근래 번역, 또는 위에서 언급한 저술만 제시한다.
+《老子》는 서양어로 셀 수 없이 많이 번역되었다. 여기서 포괄적인 목록을 만드는 것은 가능하지도 필요하지도 않다. 학문적 번역뿐 아니라 취미적 번역도 계속 출판된다. 최근 번역의 다양성과 평가에 대해서는 Stephen Durrant, “Packaging the Tao,” *Rocky Mountain Review of Language and Literature* 45.1–2(1991), pp. 75–84를 참조할 수 있다. 아래에는 고전적 번역, 유용한 근래 번역, 또는 위에서 언급한 저술만 제시한다.
 
 (a) Chan, Wing-tsit, *The Way of Lao tzu*, Indianapolis·New York: Bobbs-Merrill, 1963. 주석이 충실하다.
 
@@ -274,15 +274,15 @@ M. 《新訂中國古典選》 6, Fukunaga Mitsuji 福永光司 편, 1968.
 
 ## 9. 인용 문헌 및 주요 추가 연구
 
-Boltz, Judith M., Lao-tzu, *The Encyclopedia of Religion* 8, Mircea Eliade 외 편, New York: Macmillan, 1987, pp. 454–459.
+Boltz, Judith M., “Lao-tzu,” *The Encyclopedia of Religion* 8, Mircea Eliade 외 편, New York: Macmillan, 1987, pp. 454–459.
 
 Boltz, Judith M., *A Survey of Taoist Literature, Tenth to Seventeenth Centuries*, China Research Monograph 32, Berkeley: University of California, Institute of East Asian Studies, 1987.
 
-Boltz, William G., The Religious and Philosophical Significance of the “Hsiang erh” Lao tzu in the Light of the Ma-wang-tui Silk Manuscripts, *Bulletin of the School of Oriental and African Studies* 45.1(1982), pp. 95–117.
+Boltz, William G., “The Religious and Philosophical Significance of the ‘Hsiang erh’ Lao tzu in the Light of the Ma-wang-tui Silk Manuscripts,” *Bulletin of the School of Oriental and African Studies* 45.1(1982), pp. 95–117.
 
-Boltz, William G., Textual Criticism and the Ma wang tui Lao tzu, *Harvard Journal of Asiatic Studies* 44.1(1984), pp. 185–224.
+Boltz, William G., “Textual Criticism and the Ma wang tui Lao tzu,” *Harvard Journal of Asiatic Studies* 44.1(1984), pp. 185–224.
 
-Boltz, William G., The Lao tzu Text That Wang Pi and Ho-shang Kung Never Saw, *Bulletin of the School of Oriental and African Studies* 48.3(1985), pp. 493–501.
+Boltz, William G., “The Lao tzu Text That Wang Pi and Ho-shang Kung Never Saw,” *Bulletin of the School of Oriental and African Studies* 48.3(1985), pp. 493–501.
 
 *Catalogue des manuscrits chinois de Touen-houang (Fonds Pelliot chinois)* [敦煌 중국 사본 목록(Pelliot 중국 컬렉션)], 제1권 2001–2500번, J. Gernet·吳其昱 편, Paris: Bibliothèque Nationale, 1970.
 
@@ -292,7 +292,7 @@ Boltz, William G., The Lao tzu Text That Wang Pi and Ho-shang Kung Never Saw, *B
 
 Chan, Alan K. L., *Two Visions of the Way: A Study of the Wang Pi and the Ho-shang Kung Commentaries on the Lao tzu*, Albany: State University of New York Press, 1991.
 
-陳世驤, 〈“想爾”老子道經燉煌殘卷論證〉, *清華學報* 신판 1.2(1957), pp. 41–62.
+陳世驤, 〈“想爾”老子道經燉煌殘卷論證〉, 《清華學報》 신판 1.2(1957), pp. 41–62.
 
 鄭成海, 《老子河上公注斠理》, 臺北: 中華, 1971.
 
@@ -308,75 +308,75 @@ Fukui Kōjun 福井康順, 〈老子想爾注考〉, 《早稻田大學大學院
 
 Giles, Lionel, *Descriptive Catalogue of the Chinese Manuscripts from Tunhuang in the British Museum*, London: British Museum, 1957.
 
-Grill, Julius, Zur mandschurischen Übersetzung des Tao-te-king [《道德經》의 만주어 번역에 관하여], *Zeitschrift der Deutschen Morgenländischen Gesellschaft* 65(1911), pp. 759–770.
+Grill, Julius, “Zur mandschurischen Übersetzung des Tao-te-king” [《道德經》의 만주어 번역에 관하여], *Zeitschrift der Deutschen Morgenländischen Gesellschaft* 65(1911), pp. 759–770.
 
-Hatano Tarō 波多野太郎, 〈老子王注校正〉, *橫濱市立大學紀要* A–2·A–3·A–8, 1953–54.
+Hatano Tarō 波多野太郎, 〈老子王注校正〉, 《橫濱市立大學紀要》 A–2·A–3·A–8, 1953–54.
 
-Hatano Tarō 波多野太郎, 〈老子王注校正補遺〉, *支那學研究* 24/25(1959), pp. 13–25.
+Hatano Tarō 波多野太郎, 〈老子王注校正補遺〉, 《支那學研究》 24/25(1959), pp. 13–25.
 
-Hatano Tarō 波多野太郎, 〈馬王堆出土老子考〉, *東方宗教* 47(1976), pp. 1–11.
+Hatano Tarō 波多野太郎, 〈馬王堆出土老子考〉, 《東方宗教》 47(1976), pp. 1–11.
 
-Henricks, Robert G., Examining the Ma-wang-tui Silk Texts of the Lao tzu, *T’oung Pao* 65.4–5(1980), pp. 166–199.
+Henricks, Robert G., “Examining the Ma-wang-tui Silk Texts of the Lao tzu,” *T’oung Pao* 65.4–5(1980), pp. 166–199.
 
-Henricks, Robert G., On the Chapter Divisions in the Lao tzu, *Bulletin of the School of Oriental and African Studies* 45.3(1982), pp. 501–524.
+Henricks, Robert G., “On the Chapter Divisions in the Lao tzu,” *Bulletin of the School of Oriental and African Studies* 45.3(1982), pp. 501–524.
 
 Herforth, Derek D., *Two Philological Studies on the Mawangdui Lao Tzu Manuscripts*, University of British Columbia 석사학위논문, 1980, 개정 1989.
 
 何士驥, 《古本道德經校刊》, 國立北平研究院史學研究會 考古專報 제1권 제2호, 1936.
 
-曉菡, 〈長沙馬王堆漢墓帛書概述〉, *文物* 1974.9, pp. 40–44.
+曉菡, 〈長沙馬王堆漢墓帛書概述〉, 《文物》 1974.9, pp. 40–44.
 
-湖南省博物館, 〈長沙馬王堆二三號漢墓發掘簡報〉, *文物* 1974.7, 39–48·p. 63.
+湖南省博物館, 〈長沙馬王堆二三號漢墓發掘簡報〉, 《文物》 1974.7, 39–48·p. 63.
 
-Hung, William, A Bibliographical Controversy at the T’ang Court A.D. 719, *Harvard Journal of Asiatic Studies* 20.1–2(1957), pp. 74–134.
+Hung, William, “A Bibliographical Controversy at the T’ang Court A.D. 719,” *Harvard Journal of Asiatic Studies* 20.1–2(1957), pp. 74–134.
 
-Imaeda Jirō 今枝二郎, 〈馬王堆出土「老子」古寫本について〉, *大正大學研究紀要* 61(1975), pp. 249–262.
+Imaeda Jirō 今枝二郎, 〈馬王堆出土「老子」古寫本について〉, 《大正大學研究紀要》 61(1975), pp. 249–262.
 
-饒宗頤, 〈吳建衡二年索紞寫本道德經殘卷考證〉, *東方文化* 2(1955), pp. 1–71.
+饒宗頤, 〈吳建衡二年索紞寫本道德經殘卷考證〉, 《東方文化》 2(1955), pp. 1–71.
 
 饒宗頤, *A Study on Chang Tao-ling’s Hsiang-er Commentary of Tao Te Ching*, Hong Kong: Tong Nam, 1956.
 
 饒宗頤, 〈老子想爾注續論〉, 《東洋文化論集—福井博士頌壽紀念》, Tokyo: 早稻田大學出版部, 1969, pp. 1155–1171.
 
-高亨·池曦朝, 〈試談馬王堆漢墓中的帛書老子〉, *文物* 1974.11, pp. 1–7.
+高亨·池曦朝, 〈試談馬王堆漢墓中的帛書老子〉, 《文物》 1974.11, pp. 1–7.
 
-高明, 〈帛書「老子」甲乙本與今本「老子」勘校札記〉, *文物資料叢刊* 2(1978), pp. 209–221.
+高明, 〈帛書「老子」甲乙本與今本「老子」勘校札記〉, 《文物資料叢刊》 2(1978), pp. 209–221.
 
-Karlgren, Bernhard, Notes on Lao-tse, *Bulletin of the Museum of Far Eastern Antiquities* 47(1975), pp. 1–18.
+Karlgren, Bernhard, “Notes on Lao-tse,” *Bulletin of the Museum of Far Eastern Antiquities* 47(1975), pp. 1–18.
 
-顧頡剛, 〈從呂氏春秋推測老子之成書年代〉, *史學年報* 1.4(1932), pp. 13–46.
+顧頡剛, 〈從呂氏春秋推測老子之成書年代〉, 《史學年報》 1.4(1932), pp. 13–46.
 
 國家文物局古文獻研究室, 《馬王堆漢墓帛書》 제1권, 北京: 文物, 1980.
 
-Kusuyama Haruki 楠山春樹, 〈鄭成海著『老子河上公注斠理』〉, *東方宗教* 40(1972), pp. 47–51.
+Kusuyama Haruki 楠山春樹, 〈鄭成海著『老子河上公注斠理』〉, 《東方宗教》 40(1972), pp. 47–51.
 
 勞健, 《老子古本考》, 1941.
 
 羅振玉, 《道德經考異》·《老子考異補遺》, 《永豐鄉人雜著續編》, 《羅雪堂先生全集初編》 제3권, 臺北: 文華, 1968 재수록, pp. 1025–1075.
 
-路工, 〈虞世南校寫本《老子》及其石刻拓本〉, *世界宗教研究* 1981.4, pp. 45–53.
+路工, 〈虞世南校寫本《老子》及其石刻拓本〉, 《世界宗教研究》 1981.4, pp. 45–53.
 
 馬敘倫, 《老子校詁》, 1924, Hong Kong: 太平, 1965·1973 재판.
 
-Mote, Frederick, The Oldest Book at Princeton, *Gest Library Journal* 1.1(1986), pp. 34–44.
+Mote, Frederick, “The Oldest Book at Princeton,” *Gest Library Journal* 1.1(1986), pp. 34–44.
 
 Ōfuchi Ninji 大淵忍爾, 《敦煌道經》 2권, Tokyo: 福武書店, 1978.
 
-Pelliot, Paul, Autour d’une traduction sanscrite du Tao tö king [《道德經》의 산스크리트어 번역에 관하여], *T’oung Pao* 13(1912), pp. 351–430.
+Pelliot, Paul, “Autour d’une traduction sanscrite du Tao tö king” [《道德經》의 산스크리트어 번역에 관하여], *T’oung Pao* 13(1912), pp. 351–430.
 
 Robinet, Isabelle, *Les Commentaires de Tao tö king jusqu’au VIIe siècle* [7세기까지의 《道德經》 주석], Mémoires de l’Institut des Hautes Études chinoises 5, Paris: Collège de France, 1977.
 
 Shima Kunio 島邦男, 《老子校正》, Tokyo: 汲古書院, 1973.
 
-Shima Kunio 島邦男, 〈馬王堆老子からみた河上公本〉, 集刊東洋學 36(1976), pp. 1–26.
+Shima Kunio 島邦男, 〈馬王堆老子からみた河上公本〉, 《集刊東洋學》 36(1976), pp. 1–26.
 
-唐蘭 외, 〈座談長沙馬王堆漢墓帛書〉, *文物* 1974.9, pp. 45–57.
+唐蘭 외, 〈座談長沙馬王堆漢墓帛書〉, 《文物》 1974.9, pp. 45–57.
 
-唐文播, 〈巴黎所藏敦煌老子寫本綜考〉, *中國文化研究彙刊* 4(1944), pp. 95–124.
+唐文播, 〈巴黎所藏敦煌老子寫本綜考〉, 《中國文化研究彙刊》 4(1944), pp. 95–124.
 
-Wagner, Rudolf G., Wang Bi: The Structure of the Laozi’s Pointers, *T’oung Pao* 72(1986), pp. 92–129.
+Wagner, Rudolf G., “Wang Bi: The Structure of the Laozi’s Pointers,” *T’oung Pao* 72(1986), pp. 92–129.
 
-Wagner, Rudolf G., The Wang Bi Recension of the Lao tzu, *Early China* 14(1989), pp. 27–54.
+Wagner, Rudolf G., “The Wang Bi Recension of the Lao tzu,” *Early China* 14(1989), pp. 27–54.
 
 王重民, 《敦煌古籍敘錄》, 1958, 北京: 中華, 1979 재판.
 
@@ -388,4 +388,4 @@ Wulff, K., *Acht Kapitel des Tao-te-king* [《道德經》의 여덟 개 章], V
 
 (b) D. C. Lau·Chen Fong Ching 편, *A Concordance to the Daozang Wang Bi ben Laozi and Heshang Gong ben Laozi ji Heshang Gong zhu* 《道藏王弼本老子、河上公本老子及河上公注逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1995년 출간 예정.
 
-— *William G. Boltz*
+*—William G. Boltz*

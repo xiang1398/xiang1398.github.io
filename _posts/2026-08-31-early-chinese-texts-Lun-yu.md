@@ -186,7 +186,7 @@ tags:
 
 (b) 일본
 
-1. Ishizuka Harumichi 石塚晴通, The texts of Lun yü, with commentaries by Cheng Hsüan, discovered in Tun-huang and Turfan, *Journal Asiatique* 269(1981), pp. 101–108.
+1. Ishizuka Harumichi 石塚晴通, “The texts of Lun yü, with commentaries by Cheng Hsüan, discovered in Tun-huang and Turfan,” *Journal Asiatique* 269(1981), pp. 101–108.
 
 2. Morohashi Tetsuji 諸橋轍次, 《論語の講義》, 東京, 1939.
 
@@ -248,4 +248,4 @@ M. 《新訂中國古典選》 제2·3권, 1965–1966, Yoshikawa Kōjirō 吉�
 
 (e) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Lunyu* 《論語逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
 
-—* Anne Cheng*
+*—Anne Cheng*

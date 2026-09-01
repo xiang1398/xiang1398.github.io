@@ -72,7 +72,7 @@ tags:
 
 알려진 바로는 현대 중국어 번역이나 일본어 번역은 출판된 적이 없다. 가장 오래된 영어 번역은 E.J. Eitel의 번역(*China Review* XVII, 1888, pp. 223–240, 247–258)이지만, 19세기 번역의 여러 사례처럼 원문을 매우 충실하게 따르지는 않는다. 주석이 적고 오류도 일부 포함한다.
 
-두 번째 영어 번역은 Cheng Te-k’un의 것(*Journal of the North China Branch of the Royal Asiatic Society* LXIV, 1934, pp. 124–142, LXV, pp. 128–149)으로 품질은 더 낫지만 주석은 Eitel보다도 짧다. Léopold de Saussure는 La Relation des voyages du roi Mou (au Xe siècle avant J-C.) [기원전 10세기 穆王 여행기], *Journal asiatique*, 2nd series XVII (1921), p. 247 이하에서 일부를 번역했으나, 사실상 Eitel의 작업을 되풀이한 데 지나지 않는다(Paul Pelliot의 서평, *T’oung Pao* 21, 1922, pp. 98–102 참조).
+두 번째 영어 번역은 Cheng Te-k’un의 것(*Journal of the North China Branch of the Royal Asiatic Society* LXIV, 1934, pp. 124–142, LXV, pp. 128–149)으로 품질은 더 낫지만 주석은 Eitel보다도 짧다. Léopold de Saussure는 “La Relation des voyages du roi Mou (au Xe siècle avant J-C.)” [기원전 10세기 穆王 여행기], *Journal asiatique*, 2nd series XVII (1921), p. 247 이하에서 일부를 번역했으나, 사실상 Eitel의 작업을 되풀이한 데 지나지 않는다(Paul Pelliot의 서평, *T’oung Pao* 21, 1922, pp. 98–102 참조).
 
 완전한 주석, 서론, 《四部備要》본 영인을 갖춘 번역으로 Rémi Mathieu, *Le Mu Tianzi zhuan: traduction annotée: étude critique* [《穆天子傳》: 주석 번역과 비판적 연구], Paris: Collège de France, Institut des hautes études chinoises, 1978이 있다. 이 책에는 《四部備要》본에 근거한 색인도 포함된다.
 
@@ -80,9 +80,9 @@ tags:
 
 (a) 유럽어 연구
 
-(i) Tökei, F., A propos du genre du Mou t’ien-tseu tchouan [《穆天子傳》의 장르에 관하여], *Acta Orientalia* 9 (1958), pp. 45–49.
+(i) Tökei, F., “A propos du genre du Mou t’ien-tseu tchouan” [《穆天子傳》의 장르에 관하여], *Acta Orientalia* 9 (1958), pp. 45–49.
 
-(ii) Hulsewé, A.F.P., Texts in tombs, *Asiatische Studien* 18/19 (1965), pp. 78–89, 특히 p. 86 이하.
+(ii) Hulsewé, A.F.P., “Texts in tombs,” *Asiatische Studien* 18/19 (1965), pp. 78–89, 특히 p. 86 이하.
 
 (iii) Chavannes, *Mémoires Historiques* [역사적 기록] 제2책 p. 6 이하와 제5책 p. 480 이하의 관련 언급도 참조.
 
@@ -114,4 +114,4 @@ tags:
 
 D.C. Lau·Chen Fong Ching 편, *A Concordance to the Yan danzi, Shanhaijing and Mu tianzi zhuan* 《燕丹子·山海經·穆天子傳逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1994년 출간 예정.
 
-— *Rémi Mathieu*
+*—Rémi Mathieu*

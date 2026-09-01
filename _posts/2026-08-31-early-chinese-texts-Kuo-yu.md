@@ -35,7 +35,7 @@ tags:
 
 左丘明의 《左傳》 저작 문제는 《春秋》·《公羊傳》·《穀梁傳》·《左傳》 항목을 참조할 수 있다. 《國語》와 《左傳》의 내용이 여러 곳에서 비슷하므로 《左傳》이 《國語》에서 발췌되었다는 설은 오늘날 대체로 부정된다. 두 문헌이 같은 사람의 손에서 나왔다는 견해도 있으나, 통행 《國語》가 한 사람이 아니라 여러 저자의 자료에서 성립했다면 받아들이기 어렵다.
 
-左丘明이 한 책을 저술하고 다른 책을 편집했을 가능성은 겉으로는 있을 법하다. 그러나 Karlgren이 On the Authenticity and Nature of the Tso chuan, *Göteborg Högskolas Årsskrift* XXXII:3(1926)에서 지적한 두 문헌 언어의 문법 차이는 이 가능성에도 의문을 제기한다. 두 문헌의 관계는 張以仁, 〈論國語與左傳的關係〉, *BIHP* 33(1962), pp. 233–286을 참조할 수 있다.
+左丘明이 한 책을 저술하고 다른 책을 편집했을 가능성은 겉으로는 있을 법하다. 그러나 Karlgren이 “On the Authenticity and Nature of the Tso chuan,” *Göteborg Högskolas Årsskrift* XXXII:3(1926)에서 지적한 두 문헌 언어의 문법 차이는 이 가능성에도 의문을 제기한다. 두 문헌의 관계는 張以仁, 〈論國語與左傳的關係〉, *BIHP* 33(1962), pp. 233–286을 참조할 수 있다.
 
 ## 2. 내용과 편찬 연대
 
@@ -141,4 +141,4 @@ L. 《中國古典新書》, 1969, Ōno Takashi 大野峻 편.
 
 (d) D.C. Lau와 Chen Fong Ching 편, *A Concordance to the Guoyu* 《國語逐字索引》, ICS series, Hong Kong: Commercial Press, 1996년 출간 예정.
 
-— 張以仁·*William G. Boltz·Michael Loewe*
+*—張以仁·William G. Boltz·Michael Loewe*
