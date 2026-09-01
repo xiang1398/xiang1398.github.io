@@ -191,17 +191,17 @@ A……從X，從Y，Y亦聲
 
 (b) 앞에서 인용한 연구.
 
-(i) P. A. Boodberg, The Chinese script: an essay in nomenclature (the first hecaton), *Bulletin of the Institute of History and Philology* 29 (1957), pp. 113–120.
+(i) P. A. Boodberg, “The Chinese script: an essay in nomenclature (the first hecaton),” *Bulletin of the Institute of History and Philology* 29 (1957), pp. 113–120.
 
 (ii) 周祖謨, 《問學集》 2책, 北京: 中華書局, 1966. 수록 논문은 다음과 같다. (a) 〈許慎及其說文解字〉, pp. 710–722. (b) 〈唐本說文與說文舊音〉, pp. 723–759. (c) 〈李陽冰篆書考〉, pp. 801–842. (d) 〈徐鍇的說文學〉, pp. 843–851. (e) 〈論段氏說文解字注〉, pp. 852–884.
 
-(iii) W. South Coblin, The initials of Xu Shen’s language as reflected in the Shuowen duruo glosses, *Journal of Chinese Linguistics* 6 (1978), pp. 27–75.
+(iii) W. South Coblin, “The initials of Xu Shen’s language as reflected in the Shuowen duruo glosses,” *Journal of Chinese Linguistics* 6 (1978), pp. 27–75.
 
 (iv) Roy Andrew Miller, *Problems in the Study of Shuo wen chieh tzu*, 미간행 박사학위논문, Columbia University, 1953.
 
-(v) Roy Andrew Miller, The Wu-ching i-i of Hsü Shen, *Monumenta Serica* 33(1977–78), pp. 1–21.
+(v) Roy Andrew Miller, “The Wu-ching i-i of Hsü Shen,” *Monumenta Serica* 33(1977–78), pp. 1–21.
 
-(vi) Paul L. M. Serruys, A study of the chuan chu in Shuo wen, *Bulletin of the Institute of History and Philology* 29 (1957), pp. 131–195.
+(vi) Paul L. M. Serruys, “A study of the chuan chu in Shuo wen,” *Bulletin of the Institute of History and Philology* 29 (1957), pp. 131–195.
 
 (vii) K. L. Thern, *Postface of the Shuo wen chieh tzu*, Madison, Wisconsin: University of Wisconsin, 1966.
 

@@ -95,11 +95,11 @@ tags:
 
 > \(a\) Alfred Forke, Yen Ying, Staatsman und Philosoph, und das Yen-tse Tch’un-tsch’iu, *Asia Major*, Hirth Anniversary Volume (1923), pp. 101–144.
 >
-> \(b\) Bernhard Karlgren, On the Authenticity of Ancient Chinese Texts, *Bulletin of the Museum of Far Eastern Antiquities* 1 (1929), pp. 165–183.
+> \(b\) Bernhard Karlgren, “On the Authenticity of Ancient Chinese Texts,” *Bulletin of the Museum of Far Eastern Antiquities* 1 (1929), pp. 165–183.
 >
 > \(c\) Henri Maspero, *China in Antiquity*, Frank A. Kierman Jr. 옮김, Folkestone: Wm Dawson, 1978.
 >
-> \(d\) Richard Walker, Some Notes on the Yen tzu ch’un ch’iu, *Journal of the American Oriental Society* 73 (1953), pp. 156–163.
+> \(d\) Richard Walker, “Some Notes on the Yen tzu ch’un ch’iu,” *Journal of the American Oriental Society* 73 (1953), pp. 156–163.
 >
 > \(e\) 王更生, 《晏子春秋研究》, 臺北: 文史哲出版社, 1976.
 

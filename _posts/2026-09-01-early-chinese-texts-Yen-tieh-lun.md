@@ -31,7 +31,7 @@ tags:
 
 ## 1. 내용
 
-《鹽鐵論》은 기원전 81년 황제의 조서에 따라 열린 조정 논쟁을 대화체로 확장하여 기록한 책이다. 표면적인 의제는 국가가 소금과 철의 생산·유통을 전매하는 것이 타당한가 하는 문제였으나, 실제 기록은 여러 정치·경제·사회 쟁점으로 넓어진다. 정부 측 대변자는 大夫라 불리며, 때로는 기원전 87년부터 80년까지 御史大夫를 지낸 桑弘羊과 동일 인물로 간주된다. 이에 맞선 비판자들은 文學 또는 그 밖의 관직명으로 지칭된다. 논쟁 참가자 가운데 일부는 책의 마지막 편에 이름이 나오며, 이 마지막 편은 宣帝 재위기(기원전 74–49)에 桓寬이 지은 것으로 전한다. 이 책에 제시된 논변은 실제 회의를 그대로 옮긴 엄밀한 속기록이라기보다 일정하게 이상화된 재구성일 가능성이 있다. 논변의 개요는 Michael Loewe, *Crisis and Conflict in Han China*(London: George Allen and Unwin Limited, 1974), 제3장을 참조할 수 있다. 경제 문제에 관해서는 Y. L. Kroll, Toward a Study of the Economic Views of Sang Hung-yang, *Early China* 4 (1978–1979), pp. 11–18과 吳慧, 《桑弘羊研究》(濟南: 齊魯書社, 1981), 특히 제6장을 참조하라.
+《鹽鐵論》은 기원전 81년 황제의 조서에 따라 열린 조정 논쟁을 대화체로 확장하여 기록한 책이다. 표면적인 의제는 국가가 소금과 철의 생산·유통을 전매하는 것이 타당한가 하는 문제였으나, 실제 기록은 여러 정치·경제·사회 쟁점으로 넓어진다. 정부 측 대변자는 大夫라 불리며, 때로는 기원전 87년부터 80년까지 御史大夫를 지낸 桑弘羊과 동일 인물로 간주된다. 이에 맞선 비판자들은 文學 또는 그 밖의 관직명으로 지칭된다. 논쟁 참가자 가운데 일부는 책의 마지막 편에 이름이 나오며, 이 마지막 편은 宣帝 재위기(기원전 74–49)에 桓寬이 지은 것으로 전한다. 이 책에 제시된 논변은 실제 회의를 그대로 옮긴 엄밀한 속기록이라기보다 일정하게 이상화된 재구성일 가능성이 있다. 논변의 개요는 Michael Loewe, *Crisis and Conflict in Han China*(London: George Allen and Unwin Limited, 1974), 제3장을 참조할 수 있다. 경제 문제에 관해서는 Y. L. Kroll, “Toward a Study of the Economic Views of Sang Hung-yang,” *Early China* 4 (1978–1979), pp. 11–18과 吳慧, 《桑弘羊研究》(濟南: 齊魯書社, 1981), 특히 제6장을 참조하라.
 
 ## 2. 성립 시기와 진위
 
@@ -101,7 +101,7 @@ tags:
 
 (a) Esson M. Gale, *Discourses on Salt and Iron*, *Sinica Leidensia II*, Leiden: E. J. Brill, 1931. 제1–19편의 영어 번역이며 색인과 용어집을 포함한다.
 
-(b) Esson M. Gale, Peter A. Boodberg, T. C. Lin, Discourses on Salt and Iron (Yen T’ieh Lun: Chaps. XX–XXVIII), *Journal of the North China Branch of the Royal Asiatic Society* 65(1934), pp. 73–110.
+(b) Esson M. Gale, Peter A. Boodberg, T. C. Lin, “Discourses on Salt and Iron (Yen T’ieh Lun: Chaps. XX–XXVIII),” *Journal of the North China Branch of the Royal Asiatic Society* 65(1934), pp. 73–110.
 
 (a)와 (b)는 1967년 臺北 成文出版社에서 *Discourses on Salt and Iron* 한 권으로 재간되었다.
 
