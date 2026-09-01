@@ -42,3 +42,4 @@ jobs:
           git add _posts/2026-08-30-early-chinese-texts-I-ching-Chou-i.md _posts/2026-08-31-early-chinese-texts-Kung-tzu-chia-yu.md
           git commit -m 'Fix ECT 029 and 034 bibliography formatting'
           git push
+# rerun
