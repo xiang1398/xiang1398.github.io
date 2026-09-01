@@ -196,7 +196,7 @@ tags:
 
 A. 《漢文大系》 제9책(1911), Hattori Unokichi 服部宇之吉 편.
 
-B. 《漢籍國字解全書》: (a) 제9책(1910), Mōri Teisai 毛利貞齋 편. (b) 제28·29책(1914), Makino Kenjirō 牧野謙次郞〔Sōshō 莊少〕 편.
+B. 《漢籍國字解全書》: (a) 제9책(1910), Mōri Teisai 毛利貞齋 편. (b) 제28·29책(1914), Makino Kenjirō 牧野謙次郞(Sōshō 莊少) 편.
 
 D. 《國譯漢文大成》 제7책(1920), Kimida Rentarō 公田連太郞 편.
 
