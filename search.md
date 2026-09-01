@@ -44,8 +44,9 @@ permalink: /search/
 </style>
 
 <input id="site-search-input" class="site-search-box" type="search" placeholder="제목·본문·태그·카테고리 검색" autocomplete="off" autofocus>
-<div class="search-help">여러 검색어를 띄어쓰면 모든 검색어가 들어 있는 글을 찾습니다.</div>
+<div class="search-help">여러 검색어를 띄어쓰면 모든 검색어가 들어 있는 글을 찾습니다. 한자는 번체·간체를 자동으로 함께 검색합니다.</div>
 <div id="site-search-count" aria-live="polite"></div>
 <div id="site-search-results"></div>
 
+<script src="https://cdn.jsdelivr.net/npm/opencc-js@1.4.1/dist/umd/full.js"></script>
 <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
