@@ -51,7 +51,7 @@ tags:
 
 6세기 전반 梁 황실 도서관에는 滕輔 주석을 갖춘 《慎子》가 비단 또는 종이 사본으로 소장되어 있었던 듯하다(Thompson, 앞의 책 pp. 54–55). 이 사본은 隋·唐 조정의 관장 목록에 나타나는 사본의 직접적인 조상이었을 가능성이 크다. 《隋書》 卷34 p. 1003(역자 주: 〈經籍志〉), 《舊唐書》 卷47 p. 2031(역자 주: 〈經籍志〉), 《新唐書》 卷59 p. 1531(역자 주: 〈藝文志〉)은 모두 이 책을 法家에 수록한다. 唐代에는 일반적인 관서 장서 운영 관행상 長安과 洛陽의 여러 관립 도서관에서 사본이 만들어져 배포되었을 것이며, 그 덕분에 적어도 8세기 중엽까지 본문이 존속했다. 그러나 10세기 말 宋의 도서관을 정비할 때에는 한 부도 찾을 수 없었다.
 
-Thompson은 唐 왕조가 멸망할 때까지 공사 장서에 책이 남아 있었을 가능성을 주장했으나, T. H. Barrett은 On the Transmission of the Shen tzu and of the Yang sheng Yao chi, *Journal of the Royal Asiatic Society* (1980), pp. 168–171에서 근거 있는 반론을 제시했다. 따라서 직접 전승의 단절 시점은 신중하게 “755년 이후, 960년 이전”으로 잡아야 한다.
+Thompson은 唐 왕조가 멸망할 때까지 공사 장서에 책이 남아 있었을 가능성을 주장했으나, T. H. Barrett은 "On the Transmission of the Shen tzu and of the Yang sheng Yao chi," *Journal of the Royal Asiatic Society* (1980), pp. 168–171에서 근거 있는 반론을 제시했다. 따라서 직접 전승의 단절 시점은 신중하게 “755년 이후, 960년 이전”으로 잡아야 한다.
 
 ### 간접 전승
 
@@ -127,5 +127,6 @@ Barrett은 《慎子》가 9세기까지 존속했다는 증거가 입증되지 
 
 ## 4. 색인
 
-D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Shenzi, Shenzi and Shizi 慎子, 申子, 尸子逐字索引*, *ICS* series, Hong Kong: Commercial Press, 1996년 간행 예정.
+D. C. Lau와 Chen Fong Ching 편, *A Concordance to the Shenzi, Shenzi and Shizi* 《慎子申子尸子逐字索引》, *ICS* series, Hong Kong: Commercial Press, 1996년 간행 예정.
+
 *—P. M. Thompson*
