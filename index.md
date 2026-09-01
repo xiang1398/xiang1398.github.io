@@ -52,11 +52,22 @@ permalink: /
 글은 [카테고리별]({{ "/categories/" | relative_url }})·[태그별]({{ "/tags/" | relative_url }})로 찾아보거나 [전문 검색]({{ "/search/" | relative_url }})할 수 있습니다.
 
 {% assign visible_posts = site.posts | where_exp: "post", "post.hidden != true" %}
+{% assign oracle_posts = visible_posts | where: "series", "Oracle Bone Script" %}
+
+{% if oracle_posts.size > 0 %}
+### 문자학
+
+{% for post in oracle_posts limit: 5 %}
+- {{ post.date | date: "%Y-%m-%d" }} — [{{ post.title }}]({{ post.url | relative_url }}) <small>· 갑골문</small>
+{% endfor %}
+{% endif %}
 
 {% assign categories = visible_posts | map: "category" | compact | uniq | sort %}
 
 {% for category_name in categories %}
-{% assign category_posts = visible_posts | where: "category", category_name %}
+{% assign category_posts_all = visible_posts | where: "category", category_name %}
+{% assign category_posts = category_posts_all | where_exp: "post", "post.series != 'Oracle Bone Script'" %}
+{% if category_posts.size > 0 %}
 
 ### {{ category_name }}
 
@@ -67,7 +78,7 @@ permalink: /
 {% if category_posts.size > 5 %}
 [전체 {{ category_posts.size }}편 보기]({{ "/categories/" | relative_url }}#{{ category_name | replace: " ", "-" | replace: "·", "-" }})
 {% endif %}
-
+{% endif %}
 {% endfor %}
 
 ## 최근 글
