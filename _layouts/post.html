@@ -1,27 +1,76 @@
 ---
 layout: default
 ---
+{%- assign is_ect = false -%}
+{%- if page.title contains 'Early Chinese Texts' -%}
+  {%- assign is_ect = true -%}
+{%- endif -%}
+
+{%- assign words = content | strip_html | number_of_words -%}
+{%- assign reading_minutes = words | plus: 299 | divided_by: 300 -%}
+{%- if reading_minutes < 1 -%}{%- assign reading_minutes = 1 -%}{%- endif -%}
+
+{%- assign effective_modified = page.last_modified_at -%}
+{%- if effective_modified == nil and is_ect -%}
+  {%- assign effective_modified = '2026-09-01' -%}
+{%- endif -%}
+{%- if effective_modified == nil -%}
+  {%- assign effective_modified = page.date -%}
+{%- endif -%}
+
+{%- if is_ect -%}
+  {%- assign ect_posts = site.posts | sort: 'title' -%}
+  {%- assign ect_total = 0 -%}
+  {%- assign ect_position = 0 -%}
+  {%- for post in ect_posts -%}
+    {%- if post.title contains 'Early Chinese Texts' -%}
+      {%- assign ect_total = ect_total | plus: 1 -%}
+      {%- if post.url == page.url -%}
+        {%- assign ect_position = ect_total -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- assign ect_prev_position = ect_position | minus: 1 -%}
+  {%- assign ect_next_position = ect_position | plus: 1 -%}
+  {%- assign ect_counter = 0 -%}
+  {%- assign ect_prev = nil -%}
+  {%- assign ect_next = nil -%}
+  {%- for post in ect_posts -%}
+    {%- if post.title contains 'Early Chinese Texts' -%}
+      {%- assign ect_counter = ect_counter | plus: 1 -%}
+      {%- if ect_counter == ect_prev_position -%}{%- assign ect_prev = post -%}{%- endif -%}
+      {%- if ect_counter == ect_next_position -%}{%- assign ect_next = post -%}{%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
-      </time>
+    <p class="post-meta post-meta-enhanced">
+      <span>작성일 <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%Y-%m-%d" }}</time></span>
+      <span>최종수정일 <time datetime="{{ effective_modified | date_to_xmlschema }}" itemprop="dateModified">{{ effective_modified | date: "%Y-%m-%d" }}</time></span>
+      <span>약 {{ reading_minutes }}분</span>
       {%- if page.author -%}
-        • {% for author in page.author %}
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-            {%- if forloop.last == false %}, {% endif -%}
-        {% endfor %}
+        <span>{% for author in page.author %}<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author }}</span></span>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
       {%- endif -%}
-      <span class="post-views" aria-label="조회수">
-        · <img alt="조회수" src="https://hits.sh/xiang1398.github.io{{ page.url }}.svg?label=%EC%A1%B0%ED%9A%8C&color=999999&labelColor=ffffff" loading="lazy">
-      </span>
+      <span class="post-views" aria-label="조회수"><img alt="조회수" src="https://hits.sh/xiang1398.github.io{{ page.url }}.svg?label=%EC%A1%B0%ED%9A%8C&color=999999&labelColor=ffffff" loading="lazy"></span>
     </p>
+
+    {%- if is_ect and ect_position > 0 -%}
+      <div class="series-banner" aria-label="시리즈 정보">
+        이 글은 <a href="{{ '/projects/early-chinese-texts/' | relative_url }}"><em>Early Chinese Texts</em> 시리즈</a>의 {{ ect_position }}/{{ ect_total }}편입니다.
+      </div>
+    {%- endif -%}
   </header>
+
+  <nav class="post-toc" id="post-toc" aria-label="본문 목차" hidden>
+    <details open>
+      <summary>목차</summary>
+      <ol class="post-toc-list"></ol>
+    </details>
+  </nav>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
@@ -54,6 +103,18 @@ layout: default
       </section>
     {%- endif -%}
   </div>
+
+  {%- if is_ect and ect_position > 0 -%}
+    <nav class="series-nav" aria-label="Early Chinese Texts 시리즈 이동">
+      <div class="series-nav-prev">
+        {%- if ect_prev -%}<a href="{{ ect_prev.url | relative_url }}" title="{{ ect_prev.title | escape }}">← 이전</a>{%- endif -%}
+      </div>
+      <div class="series-nav-index"><a href="{{ '/projects/early-chinese-texts/' | relative_url }}">시리즈 목차</a></div>
+      <div class="series-nav-next">
+        {%- if ect_next -%}<a href="{{ ect_next.url | relative_url }}" title="{{ ect_next.title | escape }}">다음 →</a>{%- endif -%}
+      </div>
+    </nav>
+  {%- endif -%}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
