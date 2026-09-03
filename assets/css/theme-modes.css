@@ -69,13 +69,30 @@ html[data-theme="dark"] .gloss-table {
   color: inherit;
 }
 
+/* Syntax trees: use the same hierarchy and contrast as glossing blocks. */
+html[data-theme="dark"] .tree-example {
+  background: #202124;
+  border-color: #41464d;
+  color: #dedede;
+}
+html[data-theme="dark"] .tree-item {
+  background: #202124;
+  color: #e6e6e6;
+}
 html[data-theme="dark"] .tree-sentence,
 html[data-theme="dark"] .tree-label,
 html[data-theme="dark"] .tree-terminal {
-  color: #dedede;
+  color: #e6e6e6;
 }
+html[data-theme="dark"] .tree-deleted {
+  color: #aeb4bc;
+  text-decoration-color: #d96b6b;
+}
+html[data-theme="dark"] .tree-svg { color: #8d949d; }
+html[data-theme="dark"] .tree-branch,
+html[data-theme="dark"] .tree-move { stroke: #8d949d; }
+html[data-theme="dark"] .tree-move-label { fill: #aeb4bc; }
 
-html[data-theme="dark"] .tree-deleted { color: #aaa; }
 html[data-theme="dark"] .footnotes,
 html[data-theme="dark"] .translator-notes,
 html[data-theme="dark"] .revision-history { color: #dedede; }
@@ -115,10 +132,22 @@ html[data-theme="green"] .gloss-translation,
 html[data-theme="green"] .series-nav,
 html[data-theme="green"] table th,
 html[data-theme="green"] table td { border-color: #285f36; }
-html[data-theme="green"] .tree-item { background: #0b1d11; color: #d4ffdd; }
+html[data-theme="green"] .tree-example {
+  background: #0b1d11;
+  border-color: #285f36;
+}
+html[data-theme="green"] .tree-item {
+  background: #0b1d11;
+  color: #d4ffdd;
+}
+html[data-theme="green"] .tree-deleted {
+  color: #91c99e;
+  text-decoration-color: #ff8b8b;
+}
+html[data-theme="green"] .tree-svg { color: #75d88a; }
 html[data-theme="green"] .tree-branch,
 html[data-theme="green"] .tree-move { stroke: #75d88a; }
-html[data-theme="green"] .tree-move-label { fill: #75d88a; }
+html[data-theme="green"] .tree-move-label { fill: #91e5a3; }
 html[data-theme="green"] .blog-utility-controls button,
 html[data-theme="green"] .blog-utility-controls a { background: rgba(11,29,17,.97); border-color: #39784a; color: #bff7ca; }
 html[data-theme="green"] .hanzi-script-toggle button { color: #8fc79c; }
@@ -155,10 +184,22 @@ html[data-theme="red"] .gloss-translation,
 html[data-theme="red"] .series-nav,
 html[data-theme="red"] table th,
 html[data-theme="red"] table td { border-color: #713232; }
-html[data-theme="red"] .tree-item { background: #241010; color: #ffe1e1; }
+html[data-theme="red"] .tree-example {
+  background: #241010;
+  border-color: #713232;
+}
+html[data-theme="red"] .tree-item {
+  background: #241010;
+  color: #ffe1e1;
+}
+html[data-theme="red"] .tree-deleted {
+  color: #d7a4a4;
+  text-decoration-color: #ff8a8a;
+}
+html[data-theme="red"] .tree-svg { color: #ef7b7b; }
 html[data-theme="red"] .tree-branch,
 html[data-theme="red"] .tree-move { stroke: #ef7b7b; }
-html[data-theme="red"] .tree-move-label { fill: #ef7b7b; }
+html[data-theme="red"] .tree-move-label { fill: #f3a0a0; }
 html[data-theme="red"] .blog-utility-controls button,
 html[data-theme="red"] .blog-utility-controls a { background: rgba(36,16,16,.97); border-color: #8a4141; color: #ffd0d0; }
 html[data-theme="red"] .hanzi-script-toggle button { color: #d49a9a; }
