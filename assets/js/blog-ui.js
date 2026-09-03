@@ -1,5 +1,12 @@
 (() => {
   const STORAGE_KEY = 'blog-theme';
+  const VALID_THEMES = new Set(['light', 'dark', 'green', 'red']);
+
+  const themeStylesheet = document.createElement('link');
+  themeStylesheet.rel = 'stylesheet';
+  themeStylesheet.href = '/assets/css/theme-modes.css';
+  themeStylesheet.dataset.blogThemeStyles = 'true';
+  document.head.appendChild(themeStylesheet);
 
   const slugify = (text) => text.trim().toLowerCase()
     .replace(/[^\p{L}\p{N}\s-]/gu, '')
@@ -8,10 +15,12 @@
 
   const initTheme = () => {
     const saved = localStorage.getItem(STORAGE_KEY);
-    if (saved === 'dark' || saved === 'light') {
+    if (VALID_THEMES.has(saved)) {
       document.documentElement.dataset.theme = saved;
     } else if (window.matchMedia?.('(prefers-color-scheme: dark)').matches) {
       document.documentElement.dataset.theme = 'dark';
+    } else {
+      document.documentElement.dataset.theme = 'light';
     }
   };
 
@@ -30,18 +39,77 @@
     body.appendChild(controls);
 
     const themeButton = controls.querySelector('.theme-toggle');
-    const syncThemeLabel = () => {
-      const dark = document.documentElement.dataset.theme === 'dark';
-      themeButton.textContent = dark ? '☀' : '◐';
-      themeButton.setAttribute('aria-label', dark ? '라이트 모드로 전환' : '다크 모드로 전환');
-      themeButton.title = dark ? '라이트 모드로 전환' : '다크 모드로 전환';
-    };
-    syncThemeLabel();
-    themeButton.addEventListener('click', () => {
-      const next = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
-      document.documentElement.dataset.theme = next;
-      localStorage.setItem(STORAGE_KEY, next);
+    let longPressTimer = null;
+    let longPressTriggered = false;
+
+    const currentTheme = () => document.documentElement.dataset.theme || 'light';
+    const applyTheme = (theme) => {
+      document.documentElement.dataset.theme = theme;
+      localStorage.setItem(STORAGE_KEY, theme);
       syncThemeLabel();
+    };
+
+    const syncThemeLabel = () => {
+      const theme = currentTheme();
+      if (theme === 'dark') {
+        themeButton.textContent = '☀';
+        themeButton.setAttribute('aria-label', '라이트 모드로 전환');
+        themeButton.title = '라이트 모드로 전환';
+      } else if (theme === 'green') {
+        themeButton.textContent = 'G';
+        themeButton.setAttribute('aria-label', '그린 모드');
+        themeButton.title = '그린 모드';
+      } else if (theme === 'red') {
+        themeButton.textContent = 'R';
+        themeButton.setAttribute('aria-label', '레드 모드');
+        themeButton.title = '레드 모드';
+      } else {
+        themeButton.textContent = '◐';
+        themeButton.setAttribute('aria-label', '다크 모드로 전환');
+        themeButton.title = '다크 모드로 전환';
+      }
+    };
+
+    const cycleEasterTheme = () => {
+      const theme = currentTheme();
+      if (theme === 'green') applyTheme('red');
+      else if (theme === 'red') applyTheme('light');
+      else applyTheme('green');
+    };
+
+    syncThemeLabel();
+
+    themeButton.addEventListener('click', (event) => {
+      if (longPressTriggered) {
+        longPressTriggered = false;
+        event.preventDefault();
+        return;
+      }
+      const theme = currentTheme();
+      const next = theme === 'dark' ? 'light' : 'dark';
+      applyTheme(next);
+    });
+
+    themeButton.addEventListener('pointerdown', (event) => {
+      if (event.button !== 0) return;
+      longPressTriggered = false;
+      clearTimeout(longPressTimer);
+      longPressTimer = setTimeout(() => {
+        longPressTriggered = true;
+        cycleEasterTheme();
+        if (navigator.vibrate) navigator.vibrate(35);
+      }, 750);
+    });
+
+    const cancelLongPress = () => {
+      clearTimeout(longPressTimer);
+      longPressTimer = null;
+    };
+    themeButton.addEventListener('pointerup', cancelLongPress);
+    themeButton.addEventListener('pointercancel', cancelLongPress);
+    themeButton.addEventListener('pointerleave', cancelLongPress);
+    themeButton.addEventListener('contextmenu', (event) => {
+      if (longPressTriggered) event.preventDefault();
     });
 
     const topButton = controls.querySelector('.back-to-top');
