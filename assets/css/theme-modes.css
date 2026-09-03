@@ -40,8 +40,35 @@ html[data-theme="dark"] :where(
   color: inherit;
 }
 
-html[data-theme="dark"] .gloss-src,
-html[data-theme="dark"] .gloss-translation,
+/* Glossing blocks: match the rest of the dark theme. */
+html[data-theme="dark"] .gloss-block {
+  background: #202124;
+  border-left-color: #5f6b7a;
+  color: #dedede;
+}
+
+html[data-theme="dark"] .gloss-label,
+html[data-theme="dark"] .gloss-num,
+html[data-theme="dark"] .gloss-source,
+html[data-theme="dark"] .gloss-meaning,
+html[data-theme="dark"] .gloss-translation {
+  color: #e6e6e6;
+}
+
+html[data-theme="dark"] .gloss-title,
+html[data-theme="dark"] .gloss-transcription {
+  color: #aeb4bc;
+}
+
+html[data-theme="dark"] .gloss-translation {
+  border-top-color: #41464d;
+}
+
+html[data-theme="dark"] .gloss-token,
+html[data-theme="dark"] .gloss-table {
+  color: inherit;
+}
+
 html[data-theme="dark"] .tree-sentence,
 html[data-theme="dark"] .tree-label,
 html[data-theme="dark"] .tree-terminal {
@@ -49,7 +76,6 @@ html[data-theme="dark"] .tree-terminal {
 }
 
 html[data-theme="dark"] .tree-deleted { color: #aaa; }
-html[data-theme="dark"] .gloss-translation { border-top-color: #41464d; }
 html[data-theme="dark"] .footnotes,
 html[data-theme="dark"] .translator-notes,
 html[data-theme="dark"] .revision-history { color: #dedede; }
@@ -82,8 +108,8 @@ html[data-theme="green"] :where(.series-banner, .post-toc, .text-pair, .classica
   border-color: #285f36;
   color: #bff7ca;
 }
-html[data-theme="green"] :where(.classical-original, .classical-translation, .gloss-num, .gloss-def, .gloss-src, .gloss-translation, .tree-sentence, .tree-label, .tree-terminal) { color: #d4ffdd; }
-html[data-theme="green"] :where(.gloss-title, .gloss-trans, blockquote) { color: #91c99e; }
+html[data-theme="green"] :where(.classical-original, .classical-translation, .gloss-num, .gloss-def, .gloss-source, .gloss-meaning, .gloss-translation, .tree-sentence, .tree-label, .tree-terminal) { color: #d4ffdd; }
+html[data-theme="green"] :where(.gloss-title, .gloss-transcription, blockquote) { color: #91c99e; }
 html[data-theme="green"] .classical-translation,
 html[data-theme="green"] .gloss-translation,
 html[data-theme="green"] .series-nav,
@@ -122,8 +148,8 @@ html[data-theme="red"] :where(.series-banner, .post-toc, .text-pair, .classical-
   border-color: #713232;
   color: #ffd0d0;
 }
-html[data-theme="red"] :where(.classical-original, .classical-translation, .gloss-num, .gloss-def, .gloss-src, .gloss-translation, .tree-sentence, .tree-label, .tree-terminal) { color: #ffe1e1; }
-html[data-theme="red"] :where(.gloss-title, .gloss-trans, blockquote) { color: #d7a4a4; }
+html[data-theme="red"] :where(.classical-original, .classical-translation, .gloss-num, .gloss-def, .gloss-source, .gloss-meaning, .gloss-translation, .tree-sentence, .tree-label, .tree-terminal) { color: #ffe1e1; }
+html[data-theme="red"] :where(.gloss-title, .gloss-transcription, blockquote) { color: #d7a4a4; }
 html[data-theme="red"] .classical-translation,
 html[data-theme="red"] .gloss-translation,
 html[data-theme="red"] .series-nav,
