@@ -46,7 +46,16 @@ layout: default
 
 {%- assign rendered_content = content -%}
 {%- if is_ect -%}
-  {%- assign rendered_content = rendered_content | replace: 'Commercial Press', '商務印書館' | replace: 'Hong Kong', '香港' -%}
+  {%- assign rendered_content = rendered_content
+    | replace: 'Commercial Press', '商務印書館'
+    | replace: 'Hong Kong', '香港'
+    | replace: 'Peking', '北京'
+    | replace: 'Beijing', '北京'
+    | replace: 'Tianjin', '天津'
+    | replace: 'Taipei', '臺北'
+    | replace: 'Tokyo', '東京'
+    | replace: 'Kyoto', '京都'
+    | replace: 'Kowloon', '九龍' -%}
 {%- endif -%}
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
