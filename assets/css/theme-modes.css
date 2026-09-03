@@ -1,5 +1,13 @@
 /* Theme refinements loaded after the main stylesheet. */
 
+/* Keep the hidden long-press gesture reliable on mobile browsers. */
+.theme-toggle {
+  touch-action: none;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
 /* Dark mode: ensure text inside styled blocks never keeps light-theme foregrounds. */
 html[data-theme="dark"] :where(
   .series-banner,
