@@ -47,26 +47,34 @@ html[data-theme="dark"] .gloss-block {
   color: #dedede;
 }
 
-html[data-theme="dark"] .gloss-label,
-html[data-theme="dark"] .gloss-num,
-html[data-theme="dark"] .gloss-source,
-html[data-theme="dark"] .gloss-meaning,
-html[data-theme="dark"] .gloss-translation {
-  color: #e6e6e6;
+/* These classes are emitted by _plugins/gloss.rb. Use !important here because
+   legacy gloss styles define explicit light-theme foregrounds in multiple files. */
+html[data-theme="dark"] .gloss-block .gloss-label,
+html[data-theme="dark"] .gloss-block .gloss-num,
+html[data-theme="dark"] .gloss-block .gloss-source,
+html[data-theme="dark"] .gloss-block .gloss-meaning,
+html[data-theme="dark"] .gloss-block .gloss-translation {
+  color: #e6e6e6 !important;
+}
+html[data-theme="dark"] .gloss-block .gloss-title,
+html[data-theme="dark"] .gloss-block .gloss-transcription {
+  color: #aeb4bc !important;
+}
+html[data-theme="dark"] .gloss-block .gloss-translation {
+  border-top-color: #41464d !important;
+}
+html[data-theme="dark"] .gloss-block .gloss-token,
+html[data-theme="dark"] .gloss-block .gloss-table {
+  color: #dedede !important;
 }
 
-html[data-theme="dark"] .gloss-title,
-html[data-theme="dark"] .gloss-transcription {
-  color: #aeb4bc;
+/* Also cover the older class names still used by earlier posts/styles. */
+html[data-theme="dark"] .gloss-block .gloss-src,
+html[data-theme="dark"] .gloss-block .gloss-def {
+  color: #e6e6e6 !important;
 }
-
-html[data-theme="dark"] .gloss-translation {
-  border-top-color: #41464d;
-}
-
-html[data-theme="dark"] .gloss-token,
-html[data-theme="dark"] .gloss-table {
-  color: inherit;
+html[data-theme="dark"] .gloss-block .gloss-trans {
+  color: #aeb4bc !important;
 }
 
 /* Syntax trees: use the same hierarchy and contrast as glossing blocks. */
@@ -125,10 +133,32 @@ html[data-theme="green"] :where(.series-banner, .post-toc, .text-pair, .classica
   border-color: #285f36;
   color: #bff7ca;
 }
-html[data-theme="green"] :where(.classical-original, .classical-translation, .gloss-num, .gloss-def, .gloss-source, .gloss-meaning, .gloss-translation, .tree-sentence, .tree-label, .tree-terminal) { color: #d4ffdd; }
-html[data-theme="green"] :where(.gloss-title, .gloss-transcription, blockquote) { color: #91c99e; }
+
+html[data-theme="green"] .gloss-block .gloss-label,
+html[data-theme="green"] .gloss-block .gloss-num,
+html[data-theme="green"] .gloss-block .gloss-source,
+html[data-theme="green"] .gloss-block .gloss-meaning,
+html[data-theme="green"] .gloss-block .gloss-translation,
+html[data-theme="green"] .gloss-block .gloss-src,
+html[data-theme="green"] .gloss-block .gloss-def {
+  color: #d4ffdd !important;
+}
+html[data-theme="green"] .gloss-block .gloss-title,
+html[data-theme="green"] .gloss-block .gloss-transcription,
+html[data-theme="green"] .gloss-block .gloss-trans {
+  color: #91c99e !important;
+}
+html[data-theme="green"] .gloss-block .gloss-token,
+html[data-theme="green"] .gloss-block .gloss-table {
+  color: #bff7ca !important;
+}
+html[data-theme="green"] .gloss-block .gloss-translation {
+  border-top-color: #285f36 !important;
+}
+
+html[data-theme="green"] :where(.classical-original, .classical-translation, .tree-sentence, .tree-label, .tree-terminal) { color: #d4ffdd; }
+html[data-theme="green"] blockquote { color: #91c99e; }
 html[data-theme="green"] .classical-translation,
-html[data-theme="green"] .gloss-translation,
 html[data-theme="green"] .series-nav,
 html[data-theme="green"] table th,
 html[data-theme="green"] table td { border-color: #285f36; }
@@ -177,10 +207,32 @@ html[data-theme="red"] :where(.series-banner, .post-toc, .text-pair, .classical-
   border-color: #713232;
   color: #ffd0d0;
 }
-html[data-theme="red"] :where(.classical-original, .classical-translation, .gloss-num, .gloss-def, .gloss-source, .gloss-meaning, .gloss-translation, .tree-sentence, .tree-label, .tree-terminal) { color: #ffe1e1; }
-html[data-theme="red"] :where(.gloss-title, .gloss-transcription, blockquote) { color: #d7a4a4; }
+
+html[data-theme="red"] .gloss-block .gloss-label,
+html[data-theme="red"] .gloss-block .gloss-num,
+html[data-theme="red"] .gloss-block .gloss-source,
+html[data-theme="red"] .gloss-block .gloss-meaning,
+html[data-theme="red"] .gloss-block .gloss-translation,
+html[data-theme="red"] .gloss-block .gloss-src,
+html[data-theme="red"] .gloss-block .gloss-def {
+  color: #ffe1e1 !important;
+}
+html[data-theme="red"] .gloss-block .gloss-title,
+html[data-theme="red"] .gloss-block .gloss-transcription,
+html[data-theme="red"] .gloss-block .gloss-trans {
+  color: #d7a4a4 !important;
+}
+html[data-theme="red"] .gloss-block .gloss-token,
+html[data-theme="red"] .gloss-block .gloss-table {
+  color: #ffd0d0 !important;
+}
+html[data-theme="red"] .gloss-block .gloss-translation {
+  border-top-color: #713232 !important;
+}
+
+html[data-theme="red"] :where(.classical-original, .classical-translation, .tree-sentence, .tree-label, .tree-terminal) { color: #ffe1e1; }
+html[data-theme="red"] blockquote { color: #d7a4a4; }
 html[data-theme="red"] .classical-translation,
-html[data-theme="red"] .gloss-translation,
 html[data-theme="red"] .series-nav,
 html[data-theme="red"] table th,
 html[data-theme="red"] table td { border-color: #713232; }
