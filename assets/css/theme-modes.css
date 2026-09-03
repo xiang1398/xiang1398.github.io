@@ -1,0 +1,138 @@
+/* Theme refinements loaded after the main stylesheet. */
+
+/* Dark mode: ensure text inside styled blocks never keeps light-theme foregrounds. */
+html[data-theme="dark"] :where(
+  .series-banner,
+  .post-toc,
+  .text-pair,
+  .classical-block,
+  .gloss-block,
+  .tree-example,
+  .footnote-popover,
+  blockquote,
+  pre,
+  code,
+  table
+) {
+  color: #dedede;
+}
+
+html[data-theme="dark"] :where(
+  .series-banner,
+  .post-toc,
+  .text-pair,
+  .classical-block,
+  .tree-example,
+  .footnote-popover,
+  blockquote,
+  pre,
+  code,
+  table
+) :where(p, li, span, div, em, strong, small, dt, dd, th, td) {
+  color: inherit;
+}
+
+html[data-theme="dark"] .gloss-src,
+html[data-theme="dark"] .gloss-translation,
+html[data-theme="dark"] .tree-sentence,
+html[data-theme="dark"] .tree-label,
+html[data-theme="dark"] .tree-terminal {
+  color: #dedede;
+}
+
+html[data-theme="dark"] .tree-deleted { color: #aaa; }
+html[data-theme="dark"] .gloss-translation { border-top-color: #41464d; }
+html[data-theme="dark"] .footnotes,
+html[data-theme="dark"] .translator-notes,
+html[data-theme="dark"] .revision-history { color: #dedede; }
+
+/* Easter-egg themes: phosphor green and red terminal variants. */
+html[data-theme="green"],
+html[data-theme="red"] {
+  color-scheme: dark;
+}
+
+html[data-theme="green"] body {
+  background: #07120b;
+  color: #bff7ca;
+}
+html[data-theme="green"] .site-header {
+  background: #07120b;
+  border-top-color: #2c7a3e;
+  border-bottom-color: #173d22;
+}
+html[data-theme="green"] .site-footer { border-top-color: #173d22; }
+html[data-theme="green"] .site-title,
+html[data-theme="green"] .site-title:visited,
+html[data-theme="green"] .site-nav .page-link { color: #d6ffe0; }
+html[data-theme="green"] a { color: #72ff91; }
+html[data-theme="green"] a:visited { color: #a8eeb7; }
+html[data-theme="green"] .post-meta,
+html[data-theme="green"] .post-meta-enhanced { color: #8fc79c; }
+html[data-theme="green"] :where(.series-banner, .post-toc, .text-pair, .classical-block, .gloss-block, .tree-example, .footnote-popover, pre, code) {
+  background: #0b1d11;
+  border-color: #285f36;
+  color: #bff7ca;
+}
+html[data-theme="green"] :where(.classical-original, .classical-translation, .gloss-num, .gloss-def, .gloss-src, .gloss-translation, .tree-sentence, .tree-label, .tree-terminal) { color: #d4ffdd; }
+html[data-theme="green"] :where(.gloss-title, .gloss-trans, blockquote) { color: #91c99e; }
+html[data-theme="green"] .classical-translation,
+html[data-theme="green"] .gloss-translation,
+html[data-theme="green"] .series-nav,
+html[data-theme="green"] table th,
+html[data-theme="green"] table td { border-color: #285f36; }
+html[data-theme="green"] .tree-item { background: #0b1d11; color: #d4ffdd; }
+html[data-theme="green"] .tree-branch,
+html[data-theme="green"] .tree-move { stroke: #75d88a; }
+html[data-theme="green"] .tree-move-label { fill: #75d88a; }
+html[data-theme="green"] .blog-utility-controls button,
+html[data-theme="green"] .blog-utility-controls a { background: rgba(11,29,17,.97); border-color: #39784a; color: #bff7ca; }
+html[data-theme="green"] .hanzi-script-toggle button { color: #8fc79c; }
+html[data-theme="green"] .hanzi-script-toggle button:hover,
+html[data-theme="green"] .hanzi-script-toggle button:focus-visible,
+html[data-theme="green"] .hanzi-script-toggle button.is-active { color: #d6ffe0; }
+
+html[data-theme="red"] body {
+  background: #160808;
+  color: #ffd0d0;
+}
+html[data-theme="red"] .site-header {
+  background: #160808;
+  border-top-color: #8d3232;
+  border-bottom-color: #4c1c1c;
+}
+html[data-theme="red"] .site-footer { border-top-color: #4c1c1c; }
+html[data-theme="red"] .site-title,
+html[data-theme="red"] .site-title:visited,
+html[data-theme="red"] .site-nav .page-link { color: #ffe4e4; }
+html[data-theme="red"] a { color: #ff8585; }
+html[data-theme="red"] a:visited { color: #e8aaaa; }
+html[data-theme="red"] .post-meta,
+html[data-theme="red"] .post-meta-enhanced { color: #d49a9a; }
+html[data-theme="red"] :where(.series-banner, .post-toc, .text-pair, .classical-block, .gloss-block, .tree-example, .footnote-popover, pre, code) {
+  background: #241010;
+  border-color: #713232;
+  color: #ffd0d0;
+}
+html[data-theme="red"] :where(.classical-original, .classical-translation, .gloss-num, .gloss-def, .gloss-src, .gloss-translation, .tree-sentence, .tree-label, .tree-terminal) { color: #ffe1e1; }
+html[data-theme="red"] :where(.gloss-title, .gloss-trans, blockquote) { color: #d7a4a4; }
+html[data-theme="red"] .classical-translation,
+html[data-theme="red"] .gloss-translation,
+html[data-theme="red"] .series-nav,
+html[data-theme="red"] table th,
+html[data-theme="red"] table td { border-color: #713232; }
+html[data-theme="red"] .tree-item { background: #241010; color: #ffe1e1; }
+html[data-theme="red"] .tree-branch,
+html[data-theme="red"] .tree-move { stroke: #ef7b7b; }
+html[data-theme="red"] .tree-move-label { fill: #ef7b7b; }
+html[data-theme="red"] .blog-utility-controls button,
+html[data-theme="red"] .blog-utility-controls a { background: rgba(36,16,16,.97); border-color: #8a4141; color: #ffd0d0; }
+html[data-theme="red"] .hanzi-script-toggle button { color: #d49a9a; }
+html[data-theme="red"] .hanzi-script-toggle button:hover,
+html[data-theme="red"] .hanzi-script-toggle button:focus-visible,
+html[data-theme="red"] .hanzi-script-toggle button.is-active { color: #ffe4e4; }
+
+html[data-theme="green"] :where(.series-banner, .post-toc, .text-pair, .classical-block, .tree-example, .footnote-popover, blockquote, pre, code, table) :where(p, li, span, div, em, strong, small, dt, dd, th, td),
+html[data-theme="red"] :where(.series-banner, .post-toc, .text-pair, .classical-block, .tree-example, .footnote-popover, blockquote, pre, code, table) :where(p, li, span, div, em, strong, small, dt, dd, th, td) {
+  color: inherit;
+}
