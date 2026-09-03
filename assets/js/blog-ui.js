@@ -41,6 +41,7 @@
     const themeButton = controls.querySelector('.theme-toggle');
     let longPressTimer = null;
     let longPressTriggered = false;
+    let activePointerId = null;
 
     const currentTheme = () => document.documentElement.dataset.theme || 'light';
     const applyTheme = (theme) => {
@@ -90,27 +91,38 @@
       applyTheme(next);
     });
 
+    const cancelLongPress = (event) => {
+      clearTimeout(longPressTimer);
+      longPressTimer = null;
+
+      if (activePointerId !== null && themeButton.hasPointerCapture?.(activePointerId)) {
+        try { themeButton.releasePointerCapture(activePointerId); } catch (_) {}
+      }
+      if (!event || event.pointerId === activePointerId) activePointerId = null;
+    };
+
     themeButton.addEventListener('pointerdown', (event) => {
       if (event.button !== 0) return;
+
+      cancelLongPress();
       longPressTriggered = false;
-      clearTimeout(longPressTimer);
-      longPressTimer = setTimeout(() => {
+      activePointerId = event.pointerId;
+
+      if (themeButton.setPointerCapture) {
+        try { themeButton.setPointerCapture(event.pointerId); } catch (_) {}
+      }
+
+      longPressTimer = window.setTimeout(() => {
+        longPressTimer = null;
         longPressTriggered = true;
         cycleEasterTheme();
         if (navigator.vibrate) navigator.vibrate(35);
-      }, 750);
+      }, 650);
     });
 
-    const cancelLongPress = () => {
-      clearTimeout(longPressTimer);
-      longPressTimer = null;
-    };
     themeButton.addEventListener('pointerup', cancelLongPress);
     themeButton.addEventListener('pointercancel', cancelLongPress);
-    themeButton.addEventListener('pointerleave', cancelLongPress);
-    themeButton.addEventListener('contextmenu', (event) => {
-      if (longPressTriggered) event.preventDefault();
-    });
+    themeButton.addEventListener('contextmenu', (event) => event.preventDefault());
 
     const topButton = controls.querySelector('.back-to-top');
     const syncTopButton = () => topButton.classList.toggle('is-visible', window.scrollY > 500);
