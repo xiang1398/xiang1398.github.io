@@ -44,6 +44,11 @@ layout: default
   {%- endfor -%}
 {%- endif -%}
 
+{%- assign rendered_content = content -%}
+{%- if is_ect -%}
+  {%- assign rendered_content = rendered_content | replace: 'Commercial Press', '商務印書館' | replace: 'Hong Kong', '香港' -%}
+{%- endif -%}
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -73,7 +78,7 @@ layout: default
   </nav>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
+    {{ rendered_content }}
 
     {%- assign translator_notes = nil -%}
     {%- if page.title contains 'Early Chinese Texts' -%}
