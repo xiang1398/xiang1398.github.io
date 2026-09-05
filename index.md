@@ -34,6 +34,7 @@ permalink: /
 ## 주요 연재 · 글 모음
 
 - [*Early Chinese Texts* 번역 — 본편 001–065 및 부록]({{ "/projects/early-chinese-texts/" | relative_url }})
+- [*Early Medieval Chinese Texts* 번역 — 본편 001–010]({{ "/projects/early-medieval-chinese-texts/" | relative_url }})
 - [중국어 운율통사론]({{ "/tags/" | relative_url }}#운율통사론)
 - [갑골문 · 갑골저록]({{ "/tags/" | relative_url }}#갑골문)
 - [전국초간 · 출토문헌]({{ "/tags/" | relative_url }}#전국초간)
