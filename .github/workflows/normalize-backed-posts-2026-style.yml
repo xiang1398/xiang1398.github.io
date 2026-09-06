@@ -1,4 +1,4 @@
-name: Normalize backed posts to 2026 house style
+name: Repair affected backed posts safely
 
 on:
   push:
@@ -9,25 +9,35 @@ permissions:
   contents: write
 
 jobs:
-  normalize:
+  repair:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Normalize migrated posts
+      - name: Restore eight affected posts and safely normalize
         run: |
+          set -e
+          BASE=13a77c3cdfaed311a76de4c7f47bb66a30b73950
+          for f in \
+            _posts/2022-10-22-yeongjo-preface-to-shijing.md \
+            _posts/2022-10-23-shizhuan-daquan-fanli.md \
+            _posts/2022-10-30-siku-quanshu-zongmu-shijing-daquan.md \
+            _posts/2022-10-30-wenyuange-shizhuan-daquan-tiyao.md \
+            _posts/2021-08-15-xinian-01.md \
+            _posts/2021-09-12-xinian-02.md \
+            _posts/2021-11-06-xinian-03.md \
+            _posts/2022-01-23-xinian-04.md
+          do
+            git show "$BASE:$f" > "$f"
+          done
+
           python - <<'PY'
           from pathlib import Path
           import re
 
-          migrated = [
-              Path('_posts/2024-11-03-protolanguage-reconstruction-and-limits.md'),
-              Path('_posts/2022-01-26-wang-li-critique-of-xieyin.md'),
-              Path('_posts/2022-04-15-wang-li-development-of-old-rhyme-studies.md'),
-              Path('_posts/2023-08-05-wang-li-shijing-29-rhyme-groups-and-middle-chinese-correspondence.md'),
-              Path('_posts/2023-02-26-kongcongzi-01-jiayan.md'),
-              Path('_posts/2023-06-16-kongcongzi-02-lunshu.md'),
-              Path('_drafts/kongcongzi-03-jiyi.md'),
+          paths = [
               Path('_posts/2022-10-22-yeongjo-preface-to-shijing.md'),
               Path('_posts/2022-10-23-shizhuan-daquan-fanli.md'),
               Path('_posts/2022-10-30-siku-quanshu-zongmu-shijing-daquan.md'),
@@ -56,34 +66,6 @@ jobs:
                   body = body.replace('『', '《').replace('』', '》').replace('「', '〈').replace('」', '〉')
               return ('---' + fm + '---' + body) if fm is not None else body
 
-          for path in migrated:
-              if path.exists():
-                  path.write_text(convert_marks_preserve_citation(path.read_text(encoding='utf-8')), encoding='utf-8')
-
-          hanja_parenthetical = re.compile(r'([가-힣][가-힣· ]{0,24})\(([一-龥豈-龎]{1,16})\)')
-          direct_hanja_paths = [
-              Path('_posts/2022-10-22-yeongjo-preface-to-shijing.md'),
-              Path('_posts/2022-10-23-shizhuan-daquan-fanli.md'),
-              Path('_posts/2022-10-30-siku-quanshu-zongmu-shijing-daquan.md'),
-              Path('_posts/2022-10-30-wenyuange-shizhuan-daquan-tiyao.md'),
-              Path('_posts/2021-08-15-xinian-01.md'),
-              Path('_posts/2021-09-12-xinian-02.md'),
-              Path('_posts/2021-11-06-xinian-03.md'),
-              Path('_posts/2022-01-23-xinian-04.md'),
-          ]
-          for path in direct_hanja_paths:
-              if not path.exists():
-                  continue
-              text = path.read_text(encoding='utf-8')
-              citation = re.search(r'<p class="citation-notice">.*?</p>', text, flags=re.S)
-              if citation:
-                  head = text[:citation.end()]
-                  tail = hanja_parenthetical.sub(lambda m: m.group(2), text[citation.end():])
-                  text = head + tail
-              else:
-                  text = hanja_parenthetical.sub(lambda m: m.group(2), text)
-              path.write_text(text, encoding='utf-8')
-
           replacements = {
               '《시경(詩經)》': '《詩經》',
               '《시전대전(詩傳大全)》': '《詩傳大全》',
@@ -104,80 +86,67 @@ jobs:
               '《계년(繫年)》': '《繫年》',
               '《청화대학장전국죽간(이)(淸華大學藏戰國竹簡(貳))》': '《淸華大學藏戰國竹簡(貳)》',
           }
-          for path in migrated:
-              if path.exists():
-                  text = path.read_text(encoding='utf-8')
-                  for a, b in replacements.items():
-                      text = text.replace(a, b)
-                  path.write_text(text, encoding='utf-8')
 
-          path = Path('_posts/2023-08-05-wang-li-shijing-29-rhyme-groups-and-middle-chinese-correspondence.md')
-          if path.exists():
-              text = path.read_text(encoding='utf-8').replace('title: "王力 - 《시경》 29운부표와 상고·중고 운부의 대응"', 'title: "王力 - 《詩經》 29운부표와 상고·중고 운부의 대응"')
-              path.write_text(text, encoding='utf-8')
-          path = Path('_posts/2022-10-30-siku-quanshu-zongmu-shijing-daquan.md')
-          if path.exists():
-              text = path.read_text(encoding='utf-8').replace('title: "사고전서총목제요 《시경대전(詩經大全)》 20권 통행본"', 'title: "사고전서총목제요 《詩經大全》 20권 통행본"')
-              path.write_text(text, encoding='utf-8')
-          path = Path('_posts/2022-10-30-wenyuange-shizhuan-daquan-tiyao.md')
-          if path.exists():
-              text = path.read_text(encoding='utf-8').replace('title: "문연각사고전서 《시전대전(詩傳大全)》 제요"', 'title: "문연각사고전서 《詩傳大全》 제요"')
-              path.write_text(text, encoding='utf-8')
-          path = Path('_posts/2022-01-26-wang-li-critique-of-xieyin.md')
-          if path.exists():
-              text = path.read_text(encoding='utf-8').replace('對叶音說的批判', '對葉音說的批判')
+          for path in paths:
+              text = convert_marks_preserve_citation(path.read_text(encoding='utf-8'))
+              for a, b in replacements.items():
+                  text = text.replace(a, b)
               path.write_text(text, encoding='utf-8')
 
-          js = Path('assets/js/revision-history.js')
-          text = js.read_text(encoding='utf-8')
-          marker = '// Migrated legacy posts: 2026-09-06 backup normalization.'
-          if marker not in text:
-              lines = [
-                  '',
-                  '',
-                  marker,
-                  "document.addEventListener('DOMContentLoaded', () => {",
-                  '  const migratedPostNeedles = [',
-                  "    'protolanguage-reconstruction-and-limits',",
-                  "    'wang-li-critique-of-xieyin',",
-                  "    'wang-li-development-of-old-rhyme-studies',",
-                  "    'wang-li-shijing-29-rhyme-groups-and-middle-chinese-correspondence',",
-                  "    'kongcongzi-01-jiayan',",
-                  "    'kongcongzi-02-lunshu',",
-                  "    'kongcongzi-03-jiyi',",
-                  "    'yeongjo-preface-to-shijing',",
-                  "    'shizhuan-daquan-fanli',",
-                  "    'siku-quanshu-zongmu-shijing-daquan',",
-                  "    'wenyuange-shizhuan-daquan-tiyao',",
-                  "    'xinian-01', 'xinian-02', 'xinian-03', 'xinian-04'",
-                  '  ];',
-                  '  const decodedPath = decodeURIComponent(window.location.pathname);',
-                  '  if (!migratedPostNeedles.some((needle) => decodedPath.includes(needle))) return;',
-                  "  const postContent = document.querySelector('.post-content');",
-                  "  if (!postContent || postContent.querySelector('.revision-history')) return;",
-                  "  const section = document.createElement('section');",
-                  "  section.className = 'revision-history';",
-                  "  section.setAttribute('aria-label', '수정 이력');",
-                  "  const heading = document.createElement('h2');",
-                  "  heading.textContent = '수정 이력';",
-                  '  section.appendChild(heading);',
-                  "  const list = document.createElement('ul');",
-                  "  const item = document.createElement('li');",
-                  "  item.textContent = '2026-09-06: 기존 블로그에서 GitHub 블로그로 이전하면서 2026년 작성 글의 표기 원칙에 맞추어 서명호·편명호·한자 표기·주석·문단 등 세부 양식을 정비.';",
-                  '  list.appendChild(item);',
-                  '  section.appendChild(list);',
-                  '  postContent.appendChild(section);',
-                  '});',
-                  ''
-              ]
-              js.write_text(text + '\n'.join(lines), encoding='utf-8')
+          # Safe, exact Hanja-style adjustments for Xinian only: never use a greedy regex.
+          xinian_exact = {
+              '청화대학(清華大學)': '清華大學',
+              '전국시대(戰國時代)': '戰國時代',
+              '춘추전국시대(春秋戰國時代)': '春秋戰國時代',
+              '주(周)': '周',
+              '상(商)': '商',
+              '초(楚)': '楚',
+              '진(晉)': '晉',
+              '진(秦)': '秦',
+              '정(鄭)': '鄭',
+              '위(衛)': '衛',
+              '무왕(武王)': '武王',
+              '성왕(成王)': '成王',
+              '평왕(平王)': '平王',
+              '여왕(厲王)': '厲王',
+              '선왕(宣王)': '宣王',
+              '유왕(幽王)': '幽王',
+              '숙왕(肅王)': '肅王',
+              '공백 화(共伯和)': '共伯和',
+              '견융(犬戎)': '犬戎',
+              '삼감(三監)': '三監',
+              '상읍(商邑)': '商邑',
+              '비렴(飛廉)': '飛廉',
+              '진중(秦仲)': '秦仲',
+              '서주(西周)': '西周',
+              '상제(上帝)': '上帝',
+              '천신(天神)': '天神',
+              '제적(帝籍)': '帝籍',
+              '천무(千畝)': '千畝',
+              '경사(卿士)': '卿士',
+              '종국(宗國)': '宗國',
+          }
+          for path in [p for p in paths if 'xinian-' in p.name]:
+              text = path.read_text(encoding='utf-8')
+              for a, b in xinian_exact.items():
+                  text = text.replace(a, b)
+              path.write_text(text, encoding='utf-8')
+
+          # User-facing titles: keep requested Korean wording where it was explicitly requested,
+          # but use 2026-style Chinese book-title marks when a book title is embedded.
+          p = Path('_posts/2022-10-30-siku-quanshu-zongmu-shijing-daquan.md')
+          t = p.read_text(encoding='utf-8').replace('title: "사고전서총목제요 《시경대전(詩經大全)》 20권 통행본"', 'title: "사고전서총목제요 《詩經大全》 20권 통행본"')
+          p.write_text(t, encoding='utf-8')
+          p = Path('_posts/2022-10-30-wenyuange-shizhuan-daquan-tiyao.md')
+          t = p.read_text(encoding='utf-8').replace('title: "문연각사고전서 《시전대전(詩傳大全)》 제요"', 'title: "문연각사고전서 《詩傳大全》 제요"')
+          p.write_text(t, encoding='utf-8')
           PY
 
-      - name: Commit changes
+      - name: Commit repaired posts
         run: |
           if git diff --quiet; then exit 0; fi
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add _posts _drafts assets/js/revision-history.js
-          git commit -m 'Align backed posts with 2026 house style and add revision history'
+          git add _posts
+          git commit -m 'Repair backed posts and apply safe 2026-style normalization'
           git push
