@@ -71,3 +71,37 @@ document.addEventListener('DOMContentLoaded', () => {
   section.appendChild(list);
   postContent.appendChild(section);
 });
+
+// Migrated legacy posts: 2026-09-06 backup normalization.
+document.addEventListener('DOMContentLoaded', () => {
+  const migratedPostNeedles = [
+    'protolanguage-reconstruction-and-limits',
+    'wang-li-critique-of-xieyin',
+    'wang-li-development-of-old-rhyme-studies',
+    'wang-li-shijing-29-rhyme-groups-and-middle-chinese-correspondence',
+    'kongcongzi-01-jiayan',
+    'kongcongzi-02-lunshu',
+    'kongcongzi-03-jiyi',
+    'yeongjo-preface-to-shijing',
+    'shizhuan-daquan-fanli',
+    'siku-quanshu-zongmu-shijing-daquan',
+    'wenyuange-shizhuan-daquan-tiyao',
+    'xinian-01', 'xinian-02', 'xinian-03', 'xinian-04'
+  ];
+  const decodedPath = decodeURIComponent(window.location.pathname);
+  if (!migratedPostNeedles.some((needle) => decodedPath.includes(needle))) return;
+  const postContent = document.querySelector('.post-content');
+  if (!postContent || postContent.querySelector('.revision-history')) return;
+  const section = document.createElement('section');
+  section.className = 'revision-history';
+  section.setAttribute('aria-label', '수정 이력');
+  const heading = document.createElement('h2');
+  heading.textContent = '수정 이력';
+  section.appendChild(heading);
+  const list = document.createElement('ul');
+  const item = document.createElement('li');
+  item.textContent = '2026-09-06: 기존 블로그에서 GitHub 블로그로 이전하면서 2026년 작성 글의 표기 원칙에 맞추어 서명호·편명호·한자 표기·주석·문단 등 세부 양식을 정비.';
+  list.appendChild(item);
+  section.appendChild(list);
+  postContent.appendChild(section);
+});
