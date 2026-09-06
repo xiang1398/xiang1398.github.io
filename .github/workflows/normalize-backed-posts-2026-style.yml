@@ -1,4 +1,4 @@
-name: Finalize safe title-mark normalization
+name: Clean remaining mixed Shijing title labels
 
 on:
   push:
@@ -9,73 +9,51 @@ permissions:
   contents: write
 
 jobs:
-  finalize:
+  clean:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Normalize only book and chapter title contents
+      - name: Replace remaining mixed title prefixes
         run: |
           python - <<'PY'
           from pathlib import Path
-          import re
 
           paths = [
-              Path('_posts/2024-11-03-protolanguage-reconstruction-and-limits.md'),
               Path('_posts/2022-01-26-wang-li-critique-of-xieyin.md'),
               Path('_posts/2022-04-15-wang-li-development-of-old-rhyme-studies.md'),
               Path('_posts/2023-08-05-wang-li-shijing-29-rhyme-groups-and-middle-chinese-correspondence.md'),
-              Path('_posts/2023-02-26-kongcongzi-01-jiayan.md'),
-              Path('_posts/2023-06-16-kongcongzi-02-lunshu.md'),
-              Path('_drafts/kongcongzi-03-jiyi.md'),
-              Path('_posts/2022-10-22-yeongjo-preface-to-shijing.md'),
-              Path('_posts/2022-10-23-shizhuan-daquan-fanli.md'),
-              Path('_posts/2022-10-30-siku-quanshu-zongmu-shijing-daquan.md'),
-              Path('_posts/2022-10-30-wenyuange-shizhuan-daquan-tiyao.md'),
-              Path('_posts/2021-08-15-xinian-01.md'),
-              Path('_posts/2021-09-12-xinian-02.md'),
-              Path('_posts/2021-11-06-xinian-03.md'),
-              Path('_posts/2022-01-23-xinian-04.md'),
           ]
-
-          def normalize_inner(inner):
-              # Safe because this runs only inside explicit book/chapter title marks.
-              old = None
-              while old != inner:
-                  old = inner
-                  inner = re.sub(r'([가-힣][가-힣· ]{0,20})\(([一-龥豈-龎]{1,20})\)', r'\2', inner)
-              return inner
-
-          direct = {
-              '《시경》': '《詩經》',
-              '《시》': '《詩》',
-              '《계년》': '《繫年》',
-              '《집전》': '《集傳》',
-              '《모시》': '《毛詩》',
-              '《서경》': '《書經》',
-              '《논어》': '《論語》',
-              '《좌전》': '《左傳》',
-              '《국어》': '《國語》',
-              '《사기》': '《史記》',
-              '《홍무정운》': '《洪武正韻》',
+          replacements = {
+              '《시경‧': '《詩經‧',
+              '《시경·': '《詩經·',
+              '《주남‧': '《周南‧',
+              '《주남·': '《周南·',
+              '《소남‧': '《召南‧',
+              '《소남·': '《召南·',
+              '《소아‧': '《小雅‧',
+              '《소아·': '《小雅·',
+              '《대아‧': '《大雅‧',
+              '《대아·': '《大雅·',
+              '《빈풍‧': '《豳風‧',
+              '《빈풍·': '《豳風·',
+              '《패풍‧': '《邶風‧',
+              '《패풍·': '《邶風·',
+              '《정풍‧': '《鄭風‧',
+              '《정풍·': '《鄭風·',
           }
-
           for path in paths:
               if not path.exists():
                   continue
               text = path.read_text(encoding='utf-8')
-              text = re.sub(r'《([^》]+)》', lambda m: '《' + normalize_inner(m.group(1)) + '》', text)
-              text = re.sub(r'〈([^〉]+)〉', lambda m: '〈' + normalize_inner(m.group(1)) + '〉', text)
-              for a, b in direct.items():
+              for a, b in replacements.items():
                   text = text.replace(a, b)
               path.write_text(text, encoding='utf-8')
           PY
-
-      - name: Commit final normalization
+      - name: Commit cleanup
         run: |
           if git diff --quiet; then exit 0; fi
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add _posts _drafts
-          git commit -m 'Finalize backed-post title and Hanja conventions'
+          git add _posts
+          git commit -m 'Clean remaining mixed Shijing title labels in backed posts'
           git push
