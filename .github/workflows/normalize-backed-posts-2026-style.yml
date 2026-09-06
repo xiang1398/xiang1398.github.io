@@ -39,7 +39,6 @@ jobs:
           ]
 
           def convert_marks_preserve_citation(text):
-              # Front matter titles follow the 2026 convention for Chinese book/chapter marks.
               parts = text.split('---', 2)
               if len(parts) == 3:
                   fm = parts[1].replace('『', '《').replace('』', '》').replace('「', '〈').replace('」', '〉')
@@ -47,30 +46,20 @@ jobs:
               else:
                   fm = None
                   body = text
-
               m = re.search(r'<p class="citation-notice">.*?</p>', body, flags=re.S)
               if m:
-                  before = body[:m.start()]
+                  before = body[:m.start()].replace('『', '《').replace('』', '》').replace('「', '〈').replace('」', '〉')
                   citation = m.group(0)
-                  after = body[m.end():]
-                  before = before.replace('『', '《').replace('』', '》').replace('「', '〈').replace('」', '〉')
-                  after = after.replace('『', '《').replace('』', '》').replace('「', '〈').replace('」', '〉')
+                  after = body[m.end():].replace('『', '《').replace('』', '》').replace('「', '〈').replace('」', '〉')
                   body = before + citation + after
               else:
                   body = body.replace('『', '《').replace('』', '》').replace('「', '〈').replace('」', '〉')
-
               return ('---' + fm + '---' + body) if fm is not None else body
 
           for path in migrated:
               if path.exists():
-                  text = path.read_text(encoding='utf-8')
-                  text = convert_marks_preserve_citation(text)
-                  path.write_text(text, encoding='utf-8')
+                  path.write_text(convert_marks_preserve_citation(path.read_text(encoding='utf-8')), encoding='utf-8')
 
-          # In the 2026 posts, Chinese names, dynasties, offices and technical terms are commonly
-          # written directly in Han characters rather than duplicated as Korean reading + (漢字).
-          # Apply this only to the migrated classical-text groups where the previous normalization
-          # introduced systematic parenthetical duplication.
           hanja_parenthetical = re.compile(r'([가-힣][가-힣· ]{0,24})\(([一-龥豈-龎]{1,16})\)')
           direct_hanja_paths = [
               Path('_posts/2022-10-22-yeongjo-preface-to-shijing.md'),
@@ -86,18 +75,15 @@ jobs:
               if not path.exists():
                   continue
               text = path.read_text(encoding='utf-8')
-              # Do not touch front matter/citation notice with this rule.
               citation = re.search(r'<p class="citation-notice">.*?</p>', text, flags=re.S)
               if citation:
                   head = text[:citation.end()]
-                  tail = text[citation.end():]
-                  tail = hanja_parenthetical.sub(lambda m: m.group(2), tail)
+                  tail = hanja_parenthetical.sub(lambda m: m.group(2), text[citation.end():])
                   text = head + tail
               else:
                   text = hanja_parenthetical.sub(lambda m: m.group(2), text)
               path.write_text(text, encoding='utf-8')
 
-          # Normalize common translated bibliographic titles to the direct-Hanzi style used in 2026 posts.
           replacements = {
               '《시경(詩經)》': '《詩經》',
               '《시전대전(詩傳大全)》': '《詩傳大全》',
@@ -119,83 +105,72 @@ jobs:
               '《청화대학장전국죽간(이)(淸華大學藏戰國竹簡(貳))》': '《淸華大學藏戰國竹簡(貳)》',
           }
           for path in migrated:
-              if not path.exists():
-                  continue
-              text = path.read_text(encoding='utf-8')
-              for a, b in replacements.items():
-                  text = text.replace(a, b)
-              path.write_text(text, encoding='utf-8')
-
-          # Titles that visibly contain a Chinese book title should use the 2026 《 》 convention.
-          title_replacements = {
-              '_posts/2023-08-05-wang-li-shijing-29-rhyme-groups-and-middle-chinese-correspondence.md':
-                  ('title: "王力 - 《시경》 29운부표와 상고·중고 운부의 대응"', 'title: "王力 - 《詩經》 29운부표와 상고·중고 운부의 대응"'),
-              '_posts/2022-10-30-siku-quanshu-zongmu-shijing-daquan.md':
-                  ('title: "사고전서총목제요 《시경대전(詩經大全)》 20권 통행본"', 'title: "사고전서총목제요 《詩經大全》 20권 통행본"'),
-              '_posts/2022-10-30-wenyuange-shizhuan-daquan-tiyao.md':
-                  ('title: "문연각사고전서 《시전대전(詩傳大全)》 제요"', 'title: "문연각사고전서 《詩傳大全》 제요"'),
-          }
-          for filename, (old, new) in title_replacements.items():
-              path = Path(filename)
               if path.exists():
-                  text = path.read_text(encoding='utf-8').replace(old, new)
+                  text = path.read_text(encoding='utf-8')
+                  for a, b in replacements.items():
+                      text = text.replace(a, b)
                   path.write_text(text, encoding='utf-8')
 
-          # Fix the Wang Li traditional-form titles.
+          path = Path('_posts/2023-08-05-wang-li-shijing-29-rhyme-groups-and-middle-chinese-correspondence.md')
+          if path.exists():
+              text = path.read_text(encoding='utf-8').replace('title: "王力 - 《시경》 29운부표와 상고·중고 운부의 대응"', 'title: "王力 - 《詩經》 29운부표와 상고·중고 운부의 대응"')
+              path.write_text(text, encoding='utf-8')
+          path = Path('_posts/2022-10-30-siku-quanshu-zongmu-shijing-daquan.md')
+          if path.exists():
+              text = path.read_text(encoding='utf-8').replace('title: "사고전서총목제요 《시경대전(詩經大全)》 20권 통행본"', 'title: "사고전서총목제요 《詩經大全》 20권 통행본"')
+              path.write_text(text, encoding='utf-8')
+          path = Path('_posts/2022-10-30-wenyuange-shizhuan-daquan-tiyao.md')
+          if path.exists():
+              text = path.read_text(encoding='utf-8').replace('title: "문연각사고전서 《시전대전(詩傳大全)》 제요"', 'title: "문연각사고전서 《詩傳大全》 제요"')
+              path.write_text(text, encoding='utf-8')
           path = Path('_posts/2022-01-26-wang-li-critique-of-xieyin.md')
           if path.exists():
               text = path.read_text(encoding='utf-8').replace('對叶音說的批判', '對葉音說的批判')
               path.write_text(text, encoding='utf-8')
 
-          # Add the same bottom revision-history UI used by the 2026 posts.
           js = Path('assets/js/revision-history.js')
           text = js.read_text(encoding='utf-8')
           marker = '// Migrated legacy posts: 2026-09-06 backup normalization.'
           if marker not in text:
-              addition = r'''
-
-// Migrated legacy posts: 2026-09-06 backup normalization.
-document.addEventListener('DOMContentLoaded', () => {
-  const migratedPostNeedles = [
-    'protolanguage-reconstruction-and-limits',
-    'wang-li-critique-of-xieyin',
-    'wang-li-development-of-old-rhyme-studies',
-    'wang-li-shijing-29-rhyme-groups-and-middle-chinese-correspondence',
-    'kongcongzi-01-jiayan',
-    'kongcongzi-02-lunshu',
-    'kongcongzi-03-jiyi',
-    'yeongjo-preface-to-shijing',
-    'shizhuan-daquan-fanli',
-    'siku-quanshu-zongmu-shijing-daquan',
-    'wenyuange-shizhuan-daquan-tiyao',
-    'xinian-01',
-    'xinian-02',
-    'xinian-03',
-    'xinian-04'
-  ];
-  const decodedPath = decodeURIComponent(window.location.pathname);
-  if (!migratedPostNeedles.some((needle) => decodedPath.includes(needle))) return;
-
-  const postContent = document.querySelector('.post-content');
-  if (!postContent || postContent.querySelector('.revision-history')) return;
-
-  const section = document.createElement('section');
-  section.className = 'revision-history';
-  section.setAttribute('aria-label', '수정 이력');
-
-  const heading = document.createElement('h2');
-  heading.textContent = '수정 이력';
-  section.appendChild(heading);
-
-  const list = document.createElement('ul');
-  const item = document.createElement('li');
-  item.textContent = '2026-09-06: 기존 블로그에서 GitHub 블로그로 이전하면서 2026년 작성 글의 표기 원칙에 맞추어 서명호·편명호·한자 표기·주석·문단 등 세부 양식을 정비.';
-  list.appendChild(item);
-  section.appendChild(list);
-  postContent.appendChild(section);
-});
-'''
-              js.write_text(text + addition, encoding='utf-8')
+              lines = [
+                  '',
+                  '',
+                  marker,
+                  "document.addEventListener('DOMContentLoaded', () => {",
+                  '  const migratedPostNeedles = [',
+                  "    'protolanguage-reconstruction-and-limits',",
+                  "    'wang-li-critique-of-xieyin',",
+                  "    'wang-li-development-of-old-rhyme-studies',",
+                  "    'wang-li-shijing-29-rhyme-groups-and-middle-chinese-correspondence',",
+                  "    'kongcongzi-01-jiayan',",
+                  "    'kongcongzi-02-lunshu',",
+                  "    'kongcongzi-03-jiyi',",
+                  "    'yeongjo-preface-to-shijing',",
+                  "    'shizhuan-daquan-fanli',",
+                  "    'siku-quanshu-zongmu-shijing-daquan',",
+                  "    'wenyuange-shizhuan-daquan-tiyao',",
+                  "    'xinian-01', 'xinian-02', 'xinian-03', 'xinian-04'",
+                  '  ];',
+                  '  const decodedPath = decodeURIComponent(window.location.pathname);',
+                  '  if (!migratedPostNeedles.some((needle) => decodedPath.includes(needle))) return;',
+                  "  const postContent = document.querySelector('.post-content');",
+                  "  if (!postContent || postContent.querySelector('.revision-history')) return;",
+                  "  const section = document.createElement('section');",
+                  "  section.className = 'revision-history';",
+                  "  section.setAttribute('aria-label', '수정 이력');",
+                  "  const heading = document.createElement('h2');",
+                  "  heading.textContent = '수정 이력';",
+                  '  section.appendChild(heading);',
+                  "  const list = document.createElement('ul');",
+                  "  const item = document.createElement('li');",
+                  "  item.textContent = '2026-09-06: 기존 블로그에서 GitHub 블로그로 이전하면서 2026년 작성 글의 표기 원칙에 맞추어 서명호·편명호·한자 표기·주석·문단 등 세부 양식을 정비.';",
+                  '  list.appendChild(item);',
+                  '  section.appendChild(list);',
+                  '  postContent.appendChild(section);',
+                  '});',
+                  ''
+              ]
+              js.write_text(text + '\n'.join(lines), encoding='utf-8')
           PY
 
       - name: Commit changes
