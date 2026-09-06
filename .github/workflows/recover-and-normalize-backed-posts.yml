@@ -1,4 +1,4 @@
-name: Recover Xinian images and normalize backed posts
+name: Polish Xinian translations
 
 on:
   push:
@@ -9,167 +9,39 @@ permissions:
   contents: write
 
 jobs:
-  normalize:
+  polish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Recover Xinian liding images from old blog
-        run: |
-          mkdir -p assets/images/xinian
-          curl -L --fail --retry 3 -A 'Mozilla/5.0' -e 'https://xiuxiang.tistory.com/105' 'https://blog.kakaocdn.net/dna/kOz0Y/btrdUEqaC2t/AAAAAAAAAAAAAAAAAAAAAKhITe_azAX25kf2KNwKIiTdM7MrsbVroEgyH2f5lNqr/img.png?allow_ip=&allow_referer=&credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1790780399&signature=kTdZ9KydCuDRd%2B1%2BNSGET0z7jXM%3D' -o assets/images/xinian/xinian-01-liding.png
-          curl -L --fail --retry 3 -A 'Mozilla/5.0' -e 'https://xiuxiang.tistory.com/106' 'https://blog.kakaocdn.net/dna/cO95Zp/btreKI6VAJZ/AAAAAAAAAAAAAAAAAAAAAN2SoXnx06TNIes-9YXAJg64EO9Eq5Mthn9tPbPWyvRM/img.png?allow_ip=&allow_referer=&credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1790780399&signature=Y5rDdwolJg%2FuWAlAO1lwJp3kaio%3D' -o assets/images/xinian/xinian-02-liding-1.png
-          curl -L --fail --retry 3 -A 'Mozilla/5.0' -e 'https://xiuxiang.tistory.com/106' 'https://blog.kakaocdn.net/dna/BYqZL/btrePXoheDz/AAAAAAAAAAAAAAAAAAAAAAMJXPZ6p0S2mi3__Gln-6HBpq0NtlMs8u4lDP0KdFZN/img.png?allow_ip=&allow_referer=&credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1790780399&signature=ChS4XiYvnMwjd%2FxwbDnXKyooiA0%3D' -o assets/images/xinian/xinian-02-liding-2.png
-          curl -L --fail --retry 3 -A 'Mozilla/5.0' -e 'https://xiuxiang.tistory.com/108' 'https://blog.kakaocdn.net/dna/clpxm8/btrj2hiYU8i/AAAAAAAAAAAAAAAAAAAAAIbo6AcyS-5UubtwMXuMaMn5rPdmkTt2OT_Cmpo6IXCx/img.png?allow_ip=&allow_referer=&credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1790780399&signature=F%2Bgctv3l7Ahmz9BKXROb0IH6YCM%3D' -o assets/images/xinian/xinian-03-liding.png
-          curl -L --fail --retry 3 -A 'Mozilla/5.0' -e 'https://xiuxiang.tistory.com/110' 'https://blog.kakaocdn.net/dna/uz7lO/btrroNusUgw/AAAAAAAAAAAAAAAAAAAAAAsZvCYOqe0jSrxoC0jx4P52v7deqHfcm1n7GXWz4KqD/img.png?allow_ip=&allow_referer=&credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1790780399&signature=wvv66dfLd%2BoIKCB20cxe5B%2BfJOs%3D' -o assets/images/xinian/xinian-04-liding.png
-
-      - name: Normalize migrated posts to house style
+      - name: Use Korean readings with selective Hanja in Xinian translations
         run: |
           python - <<'PY'
           from pathlib import Path
           import re
 
-          paths = [
-              '_posts/2024-11-03-protolanguage-reconstruction-and-limits.md',
-              '_posts/2022-01-26-wang-li-critique-of-xieyin.md',
-              '_posts/2022-04-15-wang-li-development-of-old-rhyme-studies.md',
-              '_posts/2023-08-05-wang-li-shijing-29-rhyme-groups-and-middle-chinese-correspondence.md',
-              '_posts/2022-10-22-yeongjo-preface-to-shijing.md',
-              '_posts/2022-10-23-shizhuan-daquan-fanli.md',
-              '_posts/2022-10-30-siku-quanshu-zongmu-shijing-daquan.md',
-              '_posts/2022-10-30-wenyuange-shizhuan-daquan-tiyao.md',
-              '_posts/2021-08-15-xinian-01.md',
-              '_posts/2021-09-12-xinian-02.md',
-              '_posts/2021-11-06-xinian-03.md',
-              '_posts/2022-01-23-xinian-04.md',
-          ]
-
-          for name in paths:
-              p = Path(name)
-              if not p.exists():
-                  continue
-              text = p.read_text(encoding='utf-8')
-              # Korean scholarly punctuation: book titles 『 』, chapter/article titles 「 」.
-              text = text.replace('《', '『').replace('》', '』').replace('〈', '「').replace('〉', '」')
-              p.write_text(text, encoding='utf-8')
-
-          def edit(path, func):
-              p = Path(path)
-              t = p.read_text(encoding='utf-8')
-              n = func(t)
-              if n != t:
-                  p.write_text(n, encoding='utf-8')
-
-          # General migrated-post wording and title normalization.
-          edit('_posts/2024-11-03-protolanguage-reconstruction-and-limits.md', lambda t: t.replace('서통장 저, 이재돈 역', '서통장(徐通鏘) 저, 이재돈 역', 1))
-
-          def wang1(t):
-              t = t.replace('title: "王力 - 협음설에 대한 비판(对叶音说的批判)"', 'title: "王力 - 협음설에 대한 비판(對叶音說的批判)"')
-              t = t.replace("‘협음설에 대한 비판(对叶音说的批判)’", '「협음설에 대한 비판(對叶音說的批判)」')
-              return t
-          edit('_posts/2022-01-26-wang-li-critique-of-xieyin.md', wang1)
-
-          def wang2(t):
-              t = t.replace('title: "王力 - 고운학의 발전[古韵学的发展]"', 'title: "王力 - 고운학의 발전(古韻學的發展)"')
-              t = t.replace("‘고운학의 발전[古韵学的发展]’", '「고운학의 발전(古韻學的發展)」')
-              return t
-          edit('_posts/2022-04-15-wang-li-development-of-old-rhyme-studies.md', wang2)
-
-          def wang3(t):
-              t = t.replace('## 1. 『시경』 29운부표[『诗经』韵分二十九部表]', '## 1. 『시경(詩經)』 29운부표')
-              t = t.replace('## 2. 상고 운부와 중고 운부의 대응[上古韵部与中古韵部的对应]', '## 2. 상고 운부와 중고 운부의 대응')
-              t = t.replace("‘『시경』29운부표[『诗经』韵分二十九部表]’", '「『시경(詩經)』 29운부표」')
-              t = t.replace("‘상고 운부와 중고 운부의 대응[上古韵部与中古韵部的对应]’", '「상고 운부와 중고 운부의 대응」')
-              return t
-          edit('_posts/2023-08-05-wang-li-shijing-29-rhyme-groups-and-middle-chinese-correspondence.md', wang3)
-
-          def yeongjo(t):
-              t = t.replace('### 주석\n\n', '')
-              t = t.replace('『모시』를', '『모시(毛詩)』를', 1)
-              t = t.replace('공자께서', '공자(孔子)께서', 1)
-              t = t.replace('『서경』의', '『서경(書經)』의', 1)
-              t = t.replace('『논어』 「위정」', '『논어(論語)』 「위정(爲政)」')
-              t = t.replace('집희당 안의', '집희당(緝熙堂) 안의', 1)
-              t = t.replace('『영조실록』', '『영조실록(英祖實錄)』', 1)
-              return t
-          edit('_posts/2022-10-22-yeongjo-preface-to-shijing.md', yeongjo)
-
-          def fanli(t):
-              t = t.replace('> 廬陵羅氏는 羅復이고, 安成劉氏는 원나라의 학자 劉瑾으로 『詩傳通釋』을 남겼다.', '여릉 나씨(廬陵羅氏)는 나복(羅復)이고, 안성 유씨(安成劉氏)는 원(元)의 학자 유근(劉瑾)으로 『시전통석(詩傳通釋)』을 남겼다.')
-              return t
-          edit('_posts/2022-10-23-shizhuan-daquan-fanli.md', fanli)
-
-          def siku(t):
-              t = t.replace('title: "사고전서총목제요 『시경대전』 20권 통행본"', 'title: "사고전서총목제요 『시경대전(詩經大全)』 20권 통행본"')
-              t = t.replace('『시경대전』 20권 통행본', '『시경대전(詩經大全)』 20권 통행본', 1)
-              t = t.replace('명나라 호광 등이', '명(明) 호광(胡廣) 등이', 1)
-              t = t.replace('『오경대전』', '『오경대전(五經大全)』', 1)
-              t = t.replace('『시경』을', '『시경(詩經)』을', 1)
-              t = t.replace('구양수와 소철', '구양수(歐陽脩)와 소철(蘇轍)', 1)
-              t = t.replace('정초와 주부', '정초(鄭樵)와 주부(周孚)', 1)
-              t = t.replace('주희의 『집전』', '주희(朱熹)의 『시집전(詩集傳)』', 1)
-              t = t.replace('원나라 안성 유근', '원(元) 안성(安成)의 유근(劉瑾)', 1)
-              t = t.replace('『시전통석』', '『시전통석(詩傳通釋)』', 1)
-              t = t.replace('> **羽翼**: 날개처럼 도와 받드는 일.', '羽翼: 날개처럼 도와 받드는 일.')
-              t = t.replace('고염무의 『일지록』', '고염무(顧炎武)의 『일지록(日知錄)』', 1)
-              t = t.replace('주이존의 『경의고』', '주이존(朱彛尊)의 『경의고(經義考)』', 1)
-              t = t.replace('진계원의 『모시계고편』', '진계원(陳啓源)의 『모시계고편(毛詩稽古篇)』', 1)
-              return t
-          edit('_posts/2022-10-30-siku-quanshu-zongmu-shijing-daquan.md', siku)
-
-          def wenyuan(t):
-              t = t.replace('title: "문연각사고전서 『시전대전』 제요"', 'title: "문연각사고전서 『시전대전(詩傳大全)』 제요"')
-              t = t.replace('『흠정사고전서총목제요』에 실린 『詩傳大全』', '『흠정사고전서총목제요(欽定四庫全書總目提要)』에 실린 『시전대전(詩傳大全)』', 1)
-              t = t.replace('명나라 호광 등이', '명(明) 호광(胡廣) 등이', 1)
-              t = t.replace('『오경대전』', '『오경대전(五經大全)』', 1)
-              t = t.replace('『시경』을', '『시경(詩經)』을', 1)
-              t = t.replace('주자의 『집전』', '주희(朱熹)의 『시집전(詩集傳)』', 1)
-              t = t.replace('명나라 성조', '명 성조(明成祖)', 1)
-              t = t.replace('호광 이하 양영, 금유자 등', '호광 이하 양영(楊榮), 금유자(金幼孜) 등', 1)
-              t = t.replace('원나라 안성 유근', '원(元) 안성(安成)의 유근(劉瑾)', 1)
-              t = t.replace('『시전통석』', '『시전통석(詩傳通釋)』', 1)
-              t = t.replace('『사서대전』', '『사서대전(四書大全)』', 1)
-              t = t.replace('예사의의 집석', '예사의(倪士毅)의 집석', 1)
-              t = t.replace('『춘추대전』', '『춘추대전(春秋大全)』', 1)
-              t = t.replace('왕극관의 찬소', '왕극관(汪克寬)의 찬소', 1)
-              return t
-          edit('_posts/2022-10-30-wenyuange-shizhuan-daquan-tiyao.md', wenyuan)
-
-          xinian = {
-              '01': ('_posts/2021-08-15-xinian-01.md', ['xinian-01-liding.png']),
-              '02': ('_posts/2021-09-12-xinian-02.md', ['xinian-02-liding-1.png', 'xinian-02-liding-2.png']),
-              '03': ('_posts/2021-11-06-xinian-03.md', ['xinian-03-liding.png']),
-              '04': ('_posts/2022-01-23-xinian-04.md', ['xinian-04-liding.png']),
+          replacements = {
+            '_posts/2021-08-15-xinian-01.md': '''옛날 주(周) 무왕(武王)께서 상왕(商王)이 상제(上帝)를 공경하지 않고 인사(禋祀)를 공경스럽게 지내지 않는 것을 보고 곧 제적(帝籍), 곧 왕이 직접 경작하는 밭을 만들어 상제와 천신(天神)에게 증제(烝祭)를 지냈으니, 그곳을 천무(千畝)라 하였다. 이렇게 해서 상읍(商邑)을 전복시키고 천하에 정치를 펴다가 여왕(厲王) 대에 이르렀다. 여왕이 주나라를 크게 학대하니 경사(卿士)와 여러 장관과 만민이 이를 용인하지 못하였다. 이에 여왕을 체(彘) 땅으로 쫓아내고 공백 화(共伯和)가 섰다. 14년 뒤 선왕(宣王)이 즉위하자 공백 화는 종국(宗國)으로 돌아갔다. 선왕은 비로소 제적을 버리고 친경하지 않았다. 재위 39년에 융(戎)이 천무에서 주나라 군사를 크게 패배시켰다.''',
+            '_posts/2021-09-12-xinian-02.md': '''주(周) 유왕(幽王)은 서신(西申)에서 아내를 취하여 평왕(平王)을 낳았다. 왕은 또 포(褒)나라 사람의 딸을 취하였으니, 이 사람이 포사(褒姒)로 백반(伯盤)을 낳았다. 포사가 왕에게 총애를 받자 왕과 백반은 평왕을 축출하였고, 평왕은 서신으로 달아났다. 유왕이 군사를 일으켜 서신에서 평왕을 포위하였으나 신(申) 사람들이 내어주지 않았다. 증(繒) 사람들이 이에 서융(西戎)을 끌어들여 유왕을 공격하니 유왕과 백반이 죽고 주나라는 멸망하였다. 방군(邦君)과 여러 장관은 유왕의 아우 여신(余臣)을 괵(虢)에서 세웠으니, 이 사람이 휴혜왕(攜惠王)이다. 재위 21년에 진(晉) 문후(文侯) 구(仇)가 혜왕을 괵에서 죽였다. 주나라에 왕이 없어진 지 9년, 방군과 제후가 이때부터 주나라에 조회하지 않기 시작하자 진 문후가 소악(少鄂)에서 평왕을 맞이하여 경사(京師)에서 세웠다. 3년 뒤 동쪽으로 옮겨 성주(成周)에 이르렀고, 진나라는 이때부터 경사 방면을 개척하기 시작하였다. 정(鄭) 무공(武公)도 동방의 제후들을 다스렸다. 무공이 죽자 장공(莊公)이 즉위했고, 장공이 죽자 소공(昭公)이 즉위했다. 대부 고거미(高渠彌)가 소공을 죽이고 그 아우 자미 수(子眉壽)를 세웠다. 제(齊) 양공(襄公)이 수지(首止)에서 제후들과 회합하여 자미 수를 죽이고 고거미를 거열형에 처한 뒤 여공(厲公)을 다시 세우니 정나라가 비로소 안정되었다. 초(楚) 문왕(文王)은 한양(漢陽) 방면을 개척하였다.''',
+            '_posts/2021-11-06-xinian-03.md': '''주(周) 무왕(武王)이 이미 은(殷)나라를 정복한 다음에 은에 삼감(三監)을 설치했다. 무왕이 돌아가시자 상읍(商邑)이 반란을 일으켜 삼감을 죽이고 녹자 경(祿子耿)을 세웠다. 성왕(成王)이 계속해서 상읍을 정벌하여 녹자 경을 죽이니, 비렴(飛廉)이 동쪽 상개씨(商蓋氏)의 땅으로 도망갔다. 성왕은 상개 땅을 정벌하여 비렴을 죽이고, 상개의 백성들을 서쪽 주어(邾吾) 땅으로 옮겨 노차지융(奴[⿱虘又]之戎)을 막도록 하니, 이들이 진(秦)나라의 선조이며 대대로 주나라의 호위가 되었다. 주나라 왕실이 이미 쇠미해진 후에 평왕(平王)이 동쪽으로 천도하여 성주(成周)에 이르자, 진중(秦仲)은 이때 동쪽으로 가 주나라 땅에 거하면서 주나라의 분묘를 지켰으니, 진나라가 이에 강대해졌다.''',
+            '_posts/2022-01-23-xinian-04.md': '''주(周) 성왕(成王)과 주공(周公)이 이미 은(殷)나라 백성을 낙읍(洛邑)으로 옮긴 뒤에, 하(夏)나라와 상(商)나라가 망한 이유를 추념하여 널리 출종자(出宗子)를 세워 주나라의 두터운 병풍으로 삼았다. 이에 먼저 위숙 봉(衛叔 封)을 강구(康丘)에 세워 은나라의 남은 백성을 다스리는 제후로 삼았다. 위(衛)나라 사람들은 강구에서 기위(淇衛)로 옮겼다. 주 혜왕(周惠王) 재위 17년에 적적왕(赤翟王) 유우(留吁)가 군사를 일으켜 위나라를 공격하여 경(睘)에서 위나라 군사를 크게 패배시키니 유후(幽侯)가 멸망하였다. 적(翟)이 마침내 위나라에 거하자 위나라 사람들은 동쪽으로 황하를 건너 조(曹)로 옮겨 대공 신(戴公 申)을 세웠고, 공자 계방(公子 啟方)은 제(齊)나라로 달아났다. 대공이 죽자 제 환공(齊桓公)이 제후들과 회합하여 초구(楚丘)에 성을 쌓고 공자 계방을 세웠으니, 이가 문공(文公)이다. 문공이 죽자 성공(成公)이 즉위하였다. 적 사람들이 다시 황하를 건너 초구에서 위나라를 공격하자 위나라 사람들은 초구에서 제구(帝丘)로 옮겼다.'''
           }
-          for num, (name, imgs) in xinian.items():
-              p = Path(name)
-              t = p.read_text(encoding='utf-8')
-              t = t.replace(f'title: "『繫年』 {int(num)}장"', f'title: "『계년(繫年)』 {int(num)}장"')
-              t = t.replace(f'『繫年』 {int(num)}장은', f'『계년(繫年)』 {int(num)}장은', 1)
-              if num == '01':
-                  t = t.replace('『繫年』은 清華大學에서 소장하고 있는 전국시대 죽간에 포함되어 있는 문헌이다.', '『계년(繫年)』은 청화대학(清華大學)이 소장한 전국시대(戰國時代) 죽간에 포함된 문헌이다.', 1)
-                  t = t.replace('周와 春秋戰國 시대', '주(周)와 춘추전국시대(春秋戰國時代)', 1)
-                  t = t.replace('清華大學 정리팀', '청화대학 정리팀', 1)
-                  t = t.replace('楚 肅王', '초(楚) 숙왕(肅王)', 1)
-                  t = t.replace('『史記』·『國語』·『左傳』', '『사기(史記)』·『국어(國語)』·『좌전(左傳)』', 1)
-              # Remove migration-only micro-headings so short chapters do not generate needless TOCs.
-              t = t.replace('## 석문과 번역\n\n', '')
-              t = t.replace('## 주석\n\n', '---\n\n')
-              t = t.replace('## 참고문헌\n\n', '---\n\n참고문헌\n\n')
-              # Replace migration note with the recovered author-created liding image(s).
-              figure = '죽간 확대 도판은 저본 『청화대학장전국죽간(이)(淸華大學藏戰國竹簡(貳))』의 도판을 참고한다. 아래 이미지는 기존 블로그에서 참고문헌을 토대로 고문자를 예정(隸定)하고, 통가자의 경우 본자를 밝혀 정리한 것이다.\n\n'
-              for img in imgs:
-                  figure += f'<img src="{{{{ \'/assets/images/xinian/{img}\' | relative_url }}}}" alt="『계년』 {int(num)}장 예정 및 통가 정리" style="max-width:100%; height:auto;">\n\n'
-              t = re.sub(r'> \*\*도판 처리:\*\*.*?\n\n', figure, t, count=1, flags=re.S)
-              t = t.replace('위 이미지를 토대로', '위 예정을 토대로', 1)
-              p.write_text(t, encoding='utf-8')
+
+          pattern = re.compile(r'(<p class="classical-translation">\s*\n)(.*?)(\n\s*</p>)', re.S)
+          for filename, translation in replacements.items():
+              p = Path(filename)
+              text = p.read_text(encoding='utf-8')
+              text, n = pattern.subn(lambda m: m.group(1) + '    ' + translation + m.group(3), text, count=1)
+              if n != 1:
+                  raise RuntimeError(f'Could not replace translation in {filename}')
+              p.write_text(text, encoding='utf-8')
           PY
 
-      - name: Commit recovered images and style normalization
+      - name: Commit changes
         run: |
-          if git diff --quiet && [ -z "$(git status --porcelain --untracked-files=all)" ]; then exit 0; fi
+          if git diff --quiet -- _posts; then exit 0; fi
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add _posts assets/images/xinian
-          git commit -m 'Normalize backed posts and restore Xinian liding images'
+          git add _posts/2021-08-15-xinian-01.md _posts/2021-09-12-xinian-02.md _posts/2021-11-06-xinian-03.md _posts/2022-01-23-xinian-04.md
+          git commit -m 'Polish Xinian translations to house style'
           git push
