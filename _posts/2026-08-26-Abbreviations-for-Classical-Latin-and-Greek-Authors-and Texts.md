@@ -7,7 +7,7 @@ categories:
 series: Western
 ---
 
-이 글을 인용하거나 재사용할 때에는 출처를 밝혀 주시기 바랍니다. 인용 정보: 「{{ page.title }}」, 『{{ site.title }}』, {{ page.date | date: "%Y-%m-%d" }}, {{ page.url | absolute_url }}
+이 글을 인용하거나 재사용할 때에는 출처를 밝혀 주시기 바랍니다. 인용 정보: 〈{{ page.title }}〉, 《{{ site.title }}》, {{ page.date | date: "%Y-%m-%d" }}, {{ page.url | absolute_url }}
 
 ## 주요 라틴·그리스 고전 문헌 약호
 

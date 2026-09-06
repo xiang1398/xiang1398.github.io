@@ -13,7 +13,7 @@ tags:
   - 한문문법
 ---
 
-이 글을 인용하거나 재사용할 때에는 출처를 밝혀 주시기 바랍니다. 인용 정보: 「{{ page.title }}」, 『{{ site.title }}』, {{ page.date | date: "%Y-%m-%d" }}, {{ page.url | absolute_url }}
+이 글을 인용하거나 재사용할 때에는 출처를 밝혀 주시기 바랍니다. 인용 정보: 〈{{ page.title }}〉, 《{{ site.title }}》, {{ page.date | date: "%Y-%m-%d" }}, {{ page.url | absolute_url }}
 
 ## 문제의식: 문장은 통사 구조만으로 설명될 수 있을까
 
