@@ -1,0 +1,55 @@
+name: Xinian final cleanup
+
+on:
+  push:
+    paths:
+      - '.github/workflows/xinian-final-cleanup.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Final editorial cleanup
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          changes = {
+            '_posts/2021-08-15-xinian-01.md': [
+              ('『계년(繫年)』은 총 138매의 죽간', '『계년』은 총 138매의 죽간'),
+              ('『계년(繫年)』 1장은', '『계년』 1장은'),
+              ('商의 멸망과 周의 건국, 厲王의 축출과 共伯和의 통치, 宣王의 즉위, 犬戎의 침입', '상(商)의 멸망과 주(周)의 건국, 여왕(厲王)의 축출과 공백 화(共伯和)의 통치, 선왕(宣王)의 즉위, 견융(犬戎)의 침입'),
+              ('西周의 사적을 서술하면서 周 왕실의 쇠락과 晉·鄭·楚·秦·衛 등의 성장 과정', '서주(西周)의 사적을 서술하면서 주 왕실의 쇠락과 진(晉)·정(鄭)·초(楚)·진(秦)·위(衛) 등의 성장 과정'),
+            ],
+            '_posts/2021-09-12-xinian-02.md': [
+              ('『계년(繫年)』 2장은', '『계년(繫年)』 2장은'),
+              ('褒姒 이야기, 周의 멸망과 동천, 晉·鄭·楚의 확장, 鄭 莊公 사후의 왕위 분쟁', '포사(褒姒) 이야기, 주(周)의 멸망과 동천, 진(晉)·정(鄭)·초(楚)의 확장, 정 장공(鄭莊公) 사후의 왕위 분쟁'),
+            ],
+            '_posts/2021-11-06-xinian-03.md': [
+              ('三監의 난과 秦의 기원', '삼감(三監)의 난과 진(秦)의 기원'),
+              (' 容庚은 이 글자의 뜻을 繼로 보았다. 원 블로그에서 별도 이미지로 제시한 자형은 이 글에서는 생략하였다.', ' 용경(容庚)은 이 글자의 뜻을 繼로 보았다.'),
+            ],
+            '_posts/2022-01-23-xinian-04.md': [
+              ('衛의 분봉과 천도 과정', '위(衛)의 분봉과 천도 과정'),
+            ],
+          }
+
+          for filename, pairs in changes.items():
+              p = Path(filename)
+              text = p.read_text(encoding='utf-8')
+              for old, new in pairs:
+                  text = text.replace(old, new)
+              p.write_text(text, encoding='utf-8')
+          PY
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- _posts; then exit 0; fi
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add _posts/2021-08-15-xinian-01.md _posts/2021-09-12-xinian-02.md _posts/2021-11-06-xinian-03.md _posts/2022-01-23-xinian-04.md
+          git commit -m 'Final editorial cleanup for Xinian series'
+          git push
