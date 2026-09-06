@@ -9,6 +9,7 @@ header_pages:
   - categories.md
   - search.md
   - tags.md
+  - stats.md
 
 kramdown:
   input: GFM
