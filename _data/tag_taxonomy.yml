@@ -26,11 +26,22 @@ tags:
   - 역학
   - 유가
   - 도가
+  - 도교
+  - 불교
+  - 불교전기
   - 법가
   - 묵가
   - 명가
   - 제자서
   - 사서
+  - 정사
+  - 역사학
+  - 類書
+  - 문집
+  - 육조문학
+  - 전기
+  - 은일
+  - 여행기
   - 시가
   - 자서·훈고
   - 사상사
@@ -129,3 +140,25 @@ post_tags:
   "_posts/2026-09-01-early-chinese-texts-Yen-tieh-lun.md": [경제사, 사상사]
   "_posts/2026-09-01-early-chinese-texts-Yen-tzu-chun-chiu.md": [제자서, 사상사]
   "_posts/2026-09-01-early-chinese-texts-Yueh-chueh-shu.md": [사서]
+
+  # Early Medieval Chinese Texts 001–020
+  "_posts/2026-09-05-early-medieval-chinese-texts-preface.md": [번역론, 문헌학, 서지학]
+  "_posts/2026-09-05-early-medieval-chinese-texts-Bao-Zhao-ji.md": [육조문학, 문집, 시가]
+  "_posts/2026-09-05-early-medieval-chinese-texts-Baopuzi.md": [도교, 사상사]
+  "_posts/2026-09-05-early-medieval-chinese-texts-Bei-Qi-shu.md": [사서, 정사]
+  "_posts/2026-09-05-early-medieval-chinese-texts-Bei-shi.md": [사서, 정사]
+  "_posts/2026-09-05-early-medieval-chinese-texts-Beitang-shuchao.md": [類書, 문헌학]
+  "_posts/2026-09-05-early-medieval-chinese-texts-Biqiuni-zhuan.md": [불교, 불교전기, 전기]
+  "_posts/2026-09-05-early-medieval-chinese-texts-Bowu-zhi.md": [신화·박물]
+  "_posts/2026-09-05-early-medieval-chinese-texts-Cao-Zhi-ji.md": [육조문학, 문집, 시가]
+  "_posts/2026-09-05-early-medieval-chinese-texts-Chen-shu.md": [사서, 정사]
+  "_posts/2026-09-06-early-medieval-chinese-texts-Chenggong-Sui-ji.md": [육조문학, 문집, 시가]
+  "_posts/2026-09-06-early-medieval-chinese-texts-Chuxue-ji.md": [類書, 문헌학]
+  "_posts/2026-09-06-early-medieval-chinese-texts-Diaoyu-ji.md": [類書, 둔황문헌, 문헌학]
+  "_posts/2026-09-06-early-medieval-chinese-texts-Diwang-shiji.md": [사서, 역사학]
+  "_posts/2026-09-06-early-medieval-chinese-texts-Foguo-ji.md": [불교, 여행기]
+  "_posts/2026-09-06-early-medieval-chinese-texts-Fu-Xuan-ji.md": [육조문학, 문집, 시가]
+  "_posts/2026-09-06-early-medieval-chinese-texts-Gaoseng-zhuan.md": [불교, 불교전기, 전기]
+  "_posts/2026-09-06-early-medieval-chinese-texts-Gaoshi-zhuan.md": [전기, 은일]
+  "_posts/2026-09-06-early-medieval-chinese-texts-Ge-xianweng-Zhouhou-beijifang.md": [의학사, 도교]
+  "_posts/2026-09-06-early-medieval-chinese-texts-Guang-Hongming-ji.md": [불교]
