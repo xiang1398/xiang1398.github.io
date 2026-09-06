@@ -10,24 +10,6 @@ permalink: /
 
 [〈이 블로그에 대하여〉]({{ "/about/" | relative_url }})
 
-{% include blog-stats-styles.html %}
-{% assign stats = site.data.blog_stats %}
-
-## 블로그 통계
-
-<div class="blog-stats-summary" aria-label="블로그 전체 통계">
-  <div class="blog-stats-card">
-    <span class="blog-stats-card-label">총 글 수</span>
-    <span class="blog-stats-card-value">{{ stats.post_count_formatted }}편</span>
-  </div>
-  <div class="blog-stats-card">
-    <span class="blog-stats-card-label">총 글자 수</span>
-    <span class="blog-stats-card-value">{{ stats.total_characters_formatted }}자</span>
-  </div>
-</div>
-
-[글별 글자 수 비중 보기 →]({{ "/stats/" | relative_url }})
-
 ### Contact
 
 블로그 내용에 관한 의견·질문·오류 제보는 [zasanblog@gmail.com](mailto:zasanblog@gmail.com)으로 보내실 수 있습니다.
@@ -97,3 +79,21 @@ permalink: /
 {% endfor %}
 
 [모든 글 보기 →]({{ "/categories/" | relative_url }})
+
+{% include blog-stats-styles.html %}
+{% assign stats = site.data.blog_stats %}
+
+## 블로그 통계
+
+<div class="blog-stats-summary" aria-label="블로그 전체 통계">
+  <div class="blog-stats-card">
+    <span class="blog-stats-card-label">총 글 수</span>
+    <span class="blog-stats-card-value">{{ stats.post_count_formatted }}편</span>
+  </div>
+  <div class="blog-stats-card">
+    <span class="blog-stats-card-label">총 글자 수</span>
+    <span class="blog-stats-card-value">{{ stats.total_characters_formatted }}자</span>
+  </div>
+</div>
+
+[글별 글자 수 비중 보기 →]({{ "/stats/" | relative_url }})
