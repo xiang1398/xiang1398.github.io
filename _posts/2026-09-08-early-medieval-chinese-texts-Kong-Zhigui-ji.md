@@ -103,7 +103,7 @@ Hightower, James R., “Proclamation on North Mountain.” In “Some Characteri
 
 ### 유럽 언어
 
-Margouliès, Georges, “Proclamation de la montagne du nord” [北山 포고문], In *Anthologie raisonnée de la littérature chinoise* [중국 문학 선집], pp. 242–244, Paris: Payot, 1948. 이보다 이른 판본은 “Ordre militaire de la Montagne du nord” [北山 軍令]라는 제목으로 *Le Kou-Wen Chinois, Recueil de textes avec introduction et notes* [중국 고문: 서론과 주석을 곁들인 문선�, pp. 135–139, Paris: Paul Geuthner, 1926에 실렸다.
+Margouliès, Georges, “Proclamation de la montagne du nord” [北山 포고문], In *Anthologie raisonnée de la littérature chinoise* [중국 문학 선집], pp. 242–244, Paris: Payot, 1948. 이보다 이른 판본은 “Ordre militaire de la Montagne du nord” [北山 軍令]라는 제목으로 *Le Kou-Wen Chinois, Recueil de textes avec introduction et notes* [중국 고문: 서론과 주석을 곁들인 문선], pp. 135–139, Paris: Paul Geuthner, 1926에 실렸다.
 
 Zach, Erwin von, “Die auf dem Nordberg erlassene Kundmachung” [북산에서 반포한 포고문], In *Die chinesische Anthologie: Übersetzungen aus dem Wen hsüan* [중국 문학 선집: 《文選》 번역], Ilse Martin Fang ed., 2: pp. 805–808, 2 vols, Harvard-Yenching Institute Studies 18, Cambridge, MA: Harvard University Press, 1958.
 
