@@ -10,6 +10,17 @@ permalink: /
 
 [〈이 블로그에 대하여〉]({{ "/about/" | relative_url }})
 
+### 學不已(孜山自作)
+
+人群自古務成文  
+學海無涯不可窮  
+仰仰高天猶罔極  
+鑽鑽奧理竟難通  
+為山九仞何辭簣  
+掘井千尋敢棄功  
+縱使東西非盡覽  
+還求今古問遺風
+
 ### Contact
 
 블로그 내용에 관한 의견·질문·오류 제보는 [zasanblog@gmail.com](mailto:zasanblog@gmail.com)으로 보내실 수 있습니다.
