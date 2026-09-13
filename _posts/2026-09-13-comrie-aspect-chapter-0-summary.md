@@ -39,6 +39,7 @@ tags:
 상에 대한 출발점은 완료상과 미완료상의 대립이다. 러시아어의 *on pročital*과 *on čital*은 모두 영어로 *he read*라고 옮길 수 있지만, 미완료상은 문맥에 따라 *he was reading*, *he used to read*처럼 번역될 수 있다. 로망스어에서도 불어 *il lut : il lisait*, 스페인어 *leyó : leía*, 이탈리아어 *lesse : leggeva*와 같은 대립이 나타난다. 전통문법에서는 이들을 흔히 서로 다른 과거시제로 다루었지만, 콤리는 그 핵심을 상적 대립으로 본다.
 
 {% gloss 1 "Russian: Perfective vs. Imperfective" %}
+on | pročital | ↔ | on | čital
 on | pro-čital | ↔ | on | čital
 3SG.M.NOM | PFV-read.PST.M.SG | ↔ | 3SG.M.NOM | read.IPFV.PST.M.SG
 ‘그는 (다) 읽었다’ ↔ ‘그는 읽고 있었다 / 읽곤 했다’
@@ -56,14 +57,16 @@ on | pro-čital | ↔ | on | čital
 시제(tense)는 장면을 다른 시점, 보통 발화시와 관계시켜 시간축 위에 위치시키는 범주이다. *John is singing*은 발화시와 동시적이고, *John sang / John was singing*은 발화시보다 앞서며, *John will sing / John will be singing*은 발화시보다 뒤에 놓인다. 이런 의미에서 시제는 지시적(deictic)이다. 또한 콤리는 발화시와 직접 관계하는 절대시제와, 다른 사건의 시간에 기대어 해석되는 상대적 시간관계를 구별한다.
 
 {% gloss 2 "English: Relative time reference" %}
-When | walking | down | the road | I | often | meet Harry
-when | walk.PTCP.PRS | down | DEF road | 1SG.NOM | often | meet.PRS Harry
+When | walking | down | the | road | I | often | meet | Harry
+when | walk-ing | down | the | road | I | often | meet | Harry
+when | walk-PTCP.PRS | down | DEF | road | 1SG.NOM | often | meet.PRS | Harry
 ‘길을 걷고 있을 때 나는 자주 해리를 만난다.’
 {% endgloss %}
 
 {% gloss 3 "English: Relative time reference in the past" %}
-When | walking | down | the road | I | often | met Harry
-when | walk.PTCP.PRS | down | DEF road | 1SG.NOM | often | meet.PST Harry
+When | walking | down | the | road | I | often | met | Harry
+when | walk-ing | down | the | road | I | often | met | Harry
+when | walk-PTCP.PRS | down | DEF | road | 1SG.NOM | often | meet.PST | Harry
 ‘길을 걷고 있을 때 나는 자주 해리를 만났다.’
 {% endgloss %}
 
@@ -80,32 +83,37 @@ when | walk.PTCP.PRS | down | DEF road | 1SG.NOM | often | meet.PST Harry
 이 차이는 다음과 같은 병렬 예문에서 가장 선명하다.
 
 {% gloss 4 "English: Background and event" %}
-John | was reading | when | I | entered
-John | read.PROG.PST | when | 1SG.NOM | enter.PST
+John | was | reading | when | I | entered
+John | was | read-ing | when | I | enter-ed
+John | AUX.PST.3SG | read-PTCP.PRS | when | 1SG.NOM | enter-PST
 ‘내가 들어갔을 때 John은 읽고 있었다.’
 {% endgloss %}
 
 {% gloss 5 "Russian: Background and event" %}
 Ivan | čital | kogda | ja | vošel
-Ivan.NOM | read.IPFV.PST.M.SG | when | 1SG.NOM | enter.PFV.PST.M.SG
+Ivan | čital | kogda | ja | vo-šel
+Ivan.NOM | read.IPFV.PST.M.SG | when | 1SG.NOM | PFV-enter.PST.M.SG
 ‘내가 들어왔을 때 Ivan은 읽고 있었다.’
 {% endgloss %}
 
 {% gloss 6 "French: Background and event" %}
 Jean | lisait | quand | j’entrai
-Jean | read.IPFV.PST.3SG | when | 1SG.NOM=enter.PST.PFV.1SG
+Jean | lis-ait | quand | j’=entr-ai
+Jean | read-IPFV.PST.3SG | when | 1SG.NOM=enter-PST.PFV.1SG
 ‘내가 들어왔을 때 Jean은 읽고 있었다.’
 {% endgloss %}
 
 {% gloss 7 "Spanish: Background and event" %}
 Juan | leía | cuando | entré
-Juan | read.IPFV.PST.3SG | when | enter.PRET.1SG
+Juan | le-ía | cuando | entr-é
+Juan | read-IPFV.PST.3SG | when | enter-PRET.1SG
 ‘내가 들어왔을 때 Juan은 읽고 있었다.’
 {% endgloss %}
 
 {% gloss 8 "Italian: Background and event" %}
 Gianni | leggeva | quando | entrai
-Gianni | read.IPFV.PST.3SG | when | enter.PST.PFV.1SG
+Gianni | legg-eva | quando | entr-ai
+Gianni | read-IPFV.PST.3SG | when | enter-PST.PFV.1SG
 ‘내가 들어왔을 때 Gianni는 읽고 있었다.’
 {% endgloss %}
 
@@ -116,8 +124,9 @@ Gianni | read.IPFV.PST.3SG | when | enter.PST.PFV.1SG
 중요한 점은 완료성/미완료성이 사건 사이의 객관적 차이가 아니라는 것이다. 동일한 사건을 동일한 화자가 먼저 완료상적으로, 다시 미완료상적으로 제시해도 모순이 없다.
 
 {% gloss 9 "English: The same event under two viewpoints" %}
-John read that book yesterday | while | he was reading it | the postman came
-John read.PST that book yesterday | while | 3SG.M.NOM read.PROG.PST 3SG.ACC | DEF postman come.PST
+John | read | that | book | yesterday | while | he | was | reading | it | the | postman | came
+John | read | that | book | yesterday | while | he | was | read-ing | it | the | postman | came
+John | read.PST | DEM | book | yesterday | while | 3SG.M.NOM | AUX.PST.3SG | read-PTCP.PRS | 3SG.ACC | DEF | postman | come.PST
 ‘John은 어제 그 책을 읽었다. 그가 그 책을 읽고 있는 동안 우편배달부가 왔다.’
 {% endgloss %}
 
@@ -126,8 +135,9 @@ John read.PST that book yesterday | while | 3SG.M.NOM read.PROG.PST 3SG.ACC | DE
 완료상이 흔히 사건의 계기적 진행을 낳는 것도 그 자체의 정의와 구별해야 한다. *The wind tore off the roof, snapped the clothes-line, and brought down the apple-tree* 같은 문장은 세 사건이 제시된 순서대로 일어난 것으로 자연스럽게 해석되지만, 동시에 일어났을 가능성도 있다. 그러므로 “사건의 순차성”은 완료상의 직접적인 의미라기보다 전체적 사건 제시에서 파생되는 담화적 효과로 보아야 한다.
 
 {% gloss 10 "English: Sequential reading as a discourse effect" %}
-The wind | tore off the roof | snapped the clothes-line | and | brought down the apple-tree
-DEF wind | tear.PST off DEF roof | snap.PST DEF clothes-line | and | bring.PST down DEF apple-tree
+The | wind | tore | off | the | roof | snapped | the | clothes-line | and | brought | down | the | apple-tree
+The | wind | tore | off | the | roof | snapped | the | clothes-line | and | brought | down | the | apple-tree
+DEF | wind | tear.PST | off | DEF | roof | snap.PST | DEF | clothes-line | and | bring.PST | down | DEF | apple-tree
 ‘바람은 지붕을 날려버렸고, 빨랫줄을 끊었으며, 사과나무를 넘어뜨렸다.’
 {% endgloss %}
 
@@ -138,22 +148,25 @@ DEF wind | tear.PST off DEF roof | snap.PST DEF clothes-line | and | bring.PST d
 독일어의 예는 이를 잘 보여 준다. 일부 독일어 형식에서는 단순과거 *ich ging*가 완료형 *ich bin gegangen*에 의해 완전히 대체될 수 있으므로, 두 형태가 존재한다고 해서 *perfective : perfect*라는 상적 대립이 문법화되어 있다고 볼 수 없다. Präteritumschwund, 즉 구어에서 Präteritum이 점차 Perfekt에 의해 대체되어 Perfekt가 원래의 완료 의미뿐 아니라 일반적인 과거 서술까지 담당하게 되는 현상이 있다. 이 경우 형태상으로는 Präteritum과 Perfekt라는 두 형식이 알려져 있더라도 의미상 *perfective : perfect*의 대립이 보존된다고 할 수 없다. 현대 독일어에서 Präteritum의 사용은 특히 서면 글쓰기 쪽에 제한되는 경향이 있다.
 
 {% gloss 11 "German: Präteritum vs. Perfekt" %}
-ich ging | ↔ | ich bin gegangen
-1SG.NOM go.PRET.1SG | ↔ | 1SG.NOM AUX.PRS.1SG go.PTCP.PST
+ich | ging | ↔ | ich | bin | gegangen
+ich | ging | ↔ | ich | bin | ge-gang-en
+1SG.NOM | go.PRET.1SG | ↔ | 1SG.NOM | AUX.PRS.1SG | go-PTCP.PST
 ‘I went’ ↔ ‘I have gone / I went’
 {% endgloss %}
 
 그럼에도 독일어는 문맥이나 다른 표현수단을 통해 영어 *he read the book*과 *he was reading the book*에 가까운 의미차를 나타낼 수 있다. 즉 “상적 의미의 표현 가능성”과 “상 범주의 문법화”는 동일하지 않다.
 
 {% gloss 12 "German: Aspectual meaning without a general aspect inflection" %}
-er | las | das Buch
-3SG.M.NOM | read.PRET.3SG | DEF.ACC.N.SG book.ACC.SG
+er | las | das | Buch
+er | las | das | Buch
+3SG.M.NOM | read.PRET.3SG | DEF.ACC.N.SG | book.ACC.SG
 ‘그는 그 책을 읽었다 / 읽고 있었다.’
 {% endgloss %}
 
 {% gloss 13 "German: A more progressive-like reading" %}
-er | las | in=dem Buch
-3SG.M.NOM | read.PRET.3SG | in=DEF.DAT.N.SG book.DAT.SG
+er | las | im | Buch
+er | las | in=dem | Buch
+3SG.M.NOM | read.PRET.3SG | in=DEF.DAT.N.SG | book.DAT.SG
 ‘그는 책 안에서(책의 일부를) 읽고 있었다.’
 {% endgloss %}
 
@@ -161,24 +174,28 @@ er | las | in=dem Buch
 
 {% gloss 14 "Finnish: Total object" %}
 hän | luki | kirjan
-3SG.NOM | read.PST.3SG | book-GEN.SG[=TOTAL.OBJ]
+hän | luki | kirja-n
+3SG.NOM | read.PST.3SG | book-GEN.SG=TOTAL.OBJ
 ‘그는 그 책을 (다) 읽었다.’
 {% endgloss %}
 
 {% gloss 15 "Finnish: Partitive object" %}
 hän | luki | kirjaa
+hän | luki | kirja-a
 3SG.NOM | read.PST.3SG | book-PART.SG
 ‘그는 그 책을 읽고 있었다 / 읽었다(완독 여부 불명).’
 {% endgloss %}
 
 {% gloss 16 "Finnish: Partitive vs. total object" %}
-hän otti ruokaa | ↔ | hän otti ruoan
-3SG take.PST.3SG food-PART.SG | ↔ | 3SG take.PST.3SG food-GEN.SG[=TOTAL.OBJ]
+hän | otti | ruokaa | ↔ | hän | otti | ruoan
+hän | otti | ruoka-a | ↔ | hän | otti | ruoa-n
+3SG.NOM | take.PST.3SG | food-PART.SG | ↔ | 3SG.NOM | take.PST.3SG | food-GEN.SG=TOTAL.OBJ
 ‘그는 음식을 조금 취했다.’ ↔ ‘그는 그 음식을 전부 취했다.’
 {% endgloss %}
 
 {% gloss 17 "Finnish: Partitive in a completed event" %}
 mies | ampui | lintua | pyrstöön
+mies | ampui | lintu-a | pyrstö-ön
 man.NOM.SG | shoot.PST.3SG | bird-PART.SG | tail-ILL.SG
 ‘그 남자는 새의 꼬리를 쐈다.’
 {% endgloss %}
@@ -206,20 +223,23 @@ man.NOM.SG | shoot.PST.3SG | bird-PART.SG | tail-ILL.SG
 0장에서 가장 강하게 경고되는 용어 혼동은 perfective와 perfect의 동일시이다. perfective는 imperfective와 대립하며 장면을 내부 시간구성의 구별 없이 하나의 전체로 보는 방식이다. perfect는 이와 다른 범주로, 선행하는 과거 장면을 현재와 관련짓는 의미를 가진다.
 
 {% gloss 18 "English: Perfect vs. simple past" %}
-John has read the book | ↔ | John read the book
-John AUX.PRS.3SG read.PTCP.PST DEF book | ↔ | John read.PST DEF book
+John | has | read | the | book | ↔ | John | read | the | book
+John | has | read | the | book | ↔ | John | read | the | book
+John | AUX.PRS.3SG | read.PTCP.PST | DEF | book | ↔ | John | read.PST | DEF | book
 ‘John은 그 책을 읽은 적이 있다 / 읽어 놓았다.’ ↔ ‘John은 그 책을 읽었다.’
 {% endgloss %}
 
 {% gloss 19 "Spanish: Perfect vs. preterite" %}
-Juan ha leído el libro | ↔ | Juan leyó el libro
-Juan AUX.PRS.3SG read.PTCP.PST DEF.M.SG book | ↔ | Juan read.PRET.3SG DEF.M.SG book
+Juan | ha | leído | el | libro | ↔ | Juan | leyó | el | libro
+Juan | ha | le-ído | el | libro | ↔ | Juan | ley-ó | el | libro
+Juan | AUX.PRS.3SG | read-PTCP.PST | DEF.M.SG | book | ↔ | Juan | read-PRET.3SG | DEF.M.SG | book
 ‘Juan은 그 책을 읽었다(현재와 관련된 완료).’ ↔ ‘Juan은 그 책을 읽었다(완결된 과거 사건).’
 {% endgloss %}
 
 {% gloss 20 "English: Present result of a prior event" %}
-His arm | has been broken
-3SG.M.POSS arm | AUX.PRS.3SG be.PTCP.PST break.PTCP.PST
+His | arm | has | been | broken
+His | arm | has | been | broken
+3SG.M.POSS | arm | AUX.PRS.3SG | be.PTCP.PST | break.PTCP.PST
 ‘그의 팔이 부러져 있다 / 부러진 상태다.’
 {% endgloss %}
 
@@ -255,7 +275,7 @@ kill-PRF.1SG
 
 ### 글로싱 약호
 
-1/3 = 1·3인칭, SG = 단수, M/N = 남성/중성, NOM/ACC/DAT/GEN = 주격/대격/여격/속격, PART = 부분격, ILL = 향내격, PST = 과거, PRET = 단순과거(pretérito), PRS = 현재, PRF = 완료형, PFV/IPFV = 완료상/미완료상, PROG = 진행, PTCP = 분사, AUX = 조동사, DEF/DEM/POSS = 정관사/지시사/소유.
+1/3 = 1·3인칭, SG = 단수, M/N = 남성/중성, NOM/ACC/DAT/GEN = 주격/대격/여격/속격, PART = 부분격, ILL = 향내격, PST = 과거, PRET = 단순과거(pretérito), PRS = 현재, PRF = 완료형, PFV/IPFV = 완료상/미완료상, PROG = 진행, PTCP = 분사, AUX = 조동사, DEF/DEM/POSS = 정관사/지시사/소유, TOTAL.OBJ = 전체 목적어.
 
 ### 참고문헌
 
