@@ -259,6 +259,6 @@ kill-PRF.1SG
 
 ### 참고문헌
 
-Comrie, Bernard. *Aspect: An Introduction to the Study of Verbal Aspect and Related Problems*. Cambridge: Cambridge University Press, 1995.
+Comrie, Bernard(1995), *Aspect: An Introduction to the Study of Verbal Aspect and Related Problems*. Cambridge: Cambridge University Press.
 
-Comrie, Bernard. 이철수·박덕유 역. 《동사 상의 이해》. 1998.
+Comrie, Bernard, 이철수·박덕유 역(1998), 《동사 상의 이해》, 서울: 한신문화사.
