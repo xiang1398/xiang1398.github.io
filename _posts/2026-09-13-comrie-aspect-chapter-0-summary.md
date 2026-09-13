@@ -19,6 +19,10 @@ tags:
   - 문법화
 ---
 
+<style>
+#post-toc { display: none !important; }
+</style>
+
 <p class="citation-notice">
   이 글을 인용하거나 재사용할 때에는 출처를 밝혀 주시기 바랍니다.
   인용 정보:
