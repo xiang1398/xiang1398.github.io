@@ -247,11 +247,11 @@ His | arm | has | been | broken
 
 불어의 *Jean a lu le livre*와 *Jean lut le livre*처럼 전통적으로 perfect와 정과거가 대립하는 경우가 있지만, 구어에서는 복합과거가 단순과거의 영역까지 확대되어 원래의 대립이 약화될 수 있다. 따라서 형태의 전통적 명칭만으로 의미를 단정해서는 안 된다.
 
-*Aorist*라는 용어도 주의해야 한다. 일부 전통에서 aorist는 과거시제의 perfectivity를 가리키므로 보편적인 perfective와 완전히 같지 않다. 고대그리스어에서는 직설법 Aorist가 일차적으로 과거시제적이지만, 다른 서법과 비정형 형식에서는 시제보다 상적 대립이 두드러진다. 마찬가지로 라틴어 Perfect는 *necāvī*가 “I killed”와 “I have killed”를 모두 나타낼 수 있어 의미론적 perfect와 일치하지 않는다.
+*Aorist*라는 용어도 주의해야 한다. 일부 전통에서 aorist는 과거시제의 perfectivity를 가리키므로 보편적인 perfective와 완전히 같지 않다. 고대그리스어에서는 직설법 Aorist가 일차적으로 과거시제적이지만, 다른 서법과 비정형 형식에서는 시제보다 상적 대립이 두드러진다. 마찬가지로 라틴어 Perfect는 *necāvī*가 “I killed”와 “I have killed”를 모두 나타낼 수 있어 의미론적 perfect와 일치하지 않는다.
 
 {% gloss 21 "Latin: Traditional Perfect" %}
-necāvī
-necāv-ī
+necāvī
+necāv-ī
 kill-PRF.1SG
 ‘I killed’ / ‘I have killed’
 {% endgloss %}
