@@ -41,7 +41,7 @@ tags:
 {% gloss 1 "Russian: Perfective vs. Imperfective" %}
 on | pro-čital | ↔ | on | čital
 3SG.M.NOM | PFV-read.PST.M.SG | ↔ | 3SG.M.NOM | read.IPFV.PST.M.SG
-‘그는’ | ‘(다) 읽었다’ | ↔ | ‘그는’ | ‘읽고 있었다 / 읽곤 했다’
+‘그는 (다) 읽었다’ ↔ ‘그는 읽고 있었다 / 읽곤 했다’
 {% endgloss %}
 
 | 언어 | 완료상적 과거 | 미완료상적 과거 |
@@ -118,7 +118,7 @@ Gianni | read.IPFV.PST.3SG | when | enter.PST.PFV.1SG
 {% gloss 9 "English: The same event under two viewpoints" %}
 John read that book yesterday | while | he was reading it | the postman came
 John read.PST that book yesterday | while | 3SG.M.NOM read.PROG.PST 3SG.ACC | DEF postman come.PST
-‘John은 어제 그 책을 읽었다.’ | ‘그가 그 책을 읽고 있는 동안’ | ‘우편배달부가 왔다.’
+‘John은 어제 그 책을 읽었다. 그가 그 책을 읽고 있는 동안 우편배달부가 왔다.’
 {% endgloss %}
 
 첫 부분은 독서사건을 하나의 전체로, 뒤의 *was reading*은 동일한 사건의 내부 국면으로 제시한다.
@@ -128,7 +128,7 @@ John read.PST that book yesterday | while | 3SG.M.NOM read.PROG.PST 3SG.ACC | DE
 {% gloss 10 "English: Sequential reading as a discourse effect" %}
 The wind | tore off the roof | snapped the clothes-line | and | brought down the apple-tree
 DEF wind | tear.PST off DEF roof | snap.PST DEF clothes-line | and | bring.PST down DEF apple-tree
-‘바람은’ | ‘지붕을 날려버렸고’ | ‘빨랫줄을 끊었으며’ | ‘그리고’ | ‘사과나무를 넘어뜨렸다.’
+‘바람은 지붕을 날려버렸고, 빨랫줄을 끊었으며, 사과나무를 넘어뜨렸다.’
 {% endgloss %}
 
 ## 2. 의미와 형식: 상적 의미와 문법화
@@ -140,7 +140,7 @@ DEF wind | tear.PST off DEF roof | snap.PST DEF clothes-line | and | bring.PST d
 {% gloss 11 "German: Präteritum vs. Perfekt" %}
 ich ging | ↔ | ich bin gegangen
 1SG.NOM go.PRET.1SG | ↔ | 1SG.NOM AUX.PRS.1SG go.PTCP.PST
-‘I went’ | ↔ | ‘I have gone / I went’
+‘I went’ ↔ ‘I have gone / I went’
 {% endgloss %}
 
 그럼에도 독일어는 문맥이나 다른 표현수단을 통해 영어 *he read the book*과 *he was reading the book*에 가까운 의미차를 나타낼 수 있다. 즉 “상적 의미의 표현 가능성”과 “상 범주의 문법화”는 동일하지 않다.
@@ -174,7 +174,7 @@ hän | luki | kirjaa
 {% gloss 16 "Finnish: Partitive vs. total object" %}
 hän otti ruokaa | ↔ | hän otti ruoan
 3SG take.PST.3SG food-PART.SG | ↔ | 3SG take.PST.3SG food-GEN.SG[=TOTAL.OBJ]
-‘그는 음식을 조금 취했다.’ | ↔ | ‘그는 그 음식을 전부 취했다.’
+‘그는 음식을 조금 취했다.’ ↔ ‘그는 그 음식을 전부 취했다.’
 {% endgloss %}
 
 {% gloss 17 "Finnish: Partitive in a completed event" %}
@@ -208,13 +208,13 @@ man.NOM.SG | shoot.PST.3SG | bird-PART.SG | tail-ILL.SG
 {% gloss 18 "English: Perfect vs. simple past" %}
 John has read the book | ↔ | John read the book
 John AUX.PRS.3SG read.PTCP.PST DEF book | ↔ | John read.PST DEF book
-‘John은 그 책을 읽은 적이 있다 / 읽어 놓았다.’ | ↔ | ‘John은 그 책을 읽었다.’
+‘John은 그 책을 읽은 적이 있다 / 읽어 놓았다.’ ↔ ‘John은 그 책을 읽었다.’
 {% endgloss %}
 
 {% gloss 19 "Spanish: Perfect vs. preterite" %}
 Juan ha leído el libro | ↔ | Juan leyó el libro
 Juan AUX.PRS.3SG read.PTCP.PST DEF.M.SG book | ↔ | Juan read.PRET.3SG DEF.M.SG book
-‘Juan은 그 책을 읽었다(현재와 관련된 완료).’ | ↔ | ‘Juan은 그 책을 읽었다(완결된 과거 사건).’
+‘Juan은 그 책을 읽었다(현재와 관련된 완료).’ ↔ ‘Juan은 그 책을 읽었다(완결된 과거 사건).’
 {% endgloss %}
 
 {% gloss 20 "English: Present result of a prior event" %}
