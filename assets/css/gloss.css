@@ -12,10 +12,10 @@
 .gloss-label {
   margin-bottom: 1.2em;
   font-family:
+    "Noto Serif",
     "Noto Serif KR",
     "Noto Serif TC",
     "Noto Serif SC",
-    "Noto Serif",
     serif;
   font-size: 1.35em;
   line-height: 1.35;
@@ -51,13 +51,13 @@
   line-height: 1.35;
 }
 
-/* 원문 */
+/* 원문: Latin/Greek 등은 Noto Serif를 우선하고, CJK 문자는 언어별 Noto Serif로 폴백 */
 .gloss-source {
   font-family:
+    "Noto Serif",
     "Noto Serif TC",
     "Noto Serif SC",
     "Noto Serif KR",
-    "Noto Serif",
     serif;
   font-size: 1.45em;
   line-height: 1.35;
@@ -95,10 +95,10 @@
   padding-top: 0.9em;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   font-family:
+    "Noto Serif",
     "Noto Serif KR",
     "Noto Serif TC",
     "Noto Serif SC",
-    "Noto Serif",
     serif;
   font-size: 1.05em;
   line-height: 1.6;
