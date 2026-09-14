@@ -61,6 +61,7 @@ in | beginning-DAT.SG | be.PST.3SG | ART.NOM.SG.M | word-NOM.SG
 {% endgloss %}
 
 {% gloss 8 "Biblical Hebrew" %}
+בְּרֵאשִׁית | בָּרָא | אֱלֹהִים
 bə-rēšīt | bārā | ʾĕlōhīm
 in-beginning | create.PFV.3SG.M | God
 '태초에 하나님이 창조하셨다.'
