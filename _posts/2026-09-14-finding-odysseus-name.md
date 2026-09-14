@@ -2,6 +2,7 @@
 layout: post
 title: "오뒷세우스의 이름 찾기"
 date: 2026-09-14 23:00:00 +0900
+toc: false
 categories:
   - Essay
 tags:
@@ -19,6 +20,8 @@ tags:
   {{ page.date | date: "%Y-%m-%d" }},
   <a href="{{ page.url | absolute_url }}">{{ page.url | absolute_url }}</a>
 </p>
+
+## 오뒷세우스의 이름 찾기
 
 ### ― 3000년 전의 《오뒷세이아》가 현대에도 살아남는 이유
 
