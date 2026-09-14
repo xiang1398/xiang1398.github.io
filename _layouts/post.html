@@ -82,12 +82,14 @@ layout: default
     {%- endif -%}
   </header>
 
+  {%- unless page.toc == false -%}
   <nav class="post-toc" id="post-toc" aria-label="본문 목차" hidden>
     <details open>
       <summary>목차</summary>
       <ol class="post-toc-list"></ol>
     </details>
   </nav>
+  {%- endunless -%}
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ rendered_content }}
