@@ -95,7 +95,10 @@ module Jekyll
     def h(value)
       return "" unless value
 
+      # Markdown/IME에서 들어온 결합형 분음부호(a + U+0304 등)를
+      # NFC로 정규화하여 ā, ī 같은 조합 문자가 안정적으로 렌더링되게 한다.
       value.to_s
+        .unicode_normalize(:nfc)
         .gsub("&", "&amp;")
         .gsub("<", "&lt;")
         .gsub(">", "&gt;")
