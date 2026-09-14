@@ -28,9 +28,9 @@
 .gloss-lines { display: flex; flex-wrap: wrap; column-gap: 1.4em; row-gap: 1.1em; align-items: flex-start; }
 .gloss-token { display: inline-flex; flex-direction: column; align-items: flex-start; min-width: max-content; line-height: 1.35; }
 .gloss-src { font-family: "Noto Serif", "Noto Serif TC", "Noto Serif SC", "Noto Serif KR", serif; font-size: 1.45em; line-height: 1.35; }
-.gloss-trans { margin-top: 0.15em; font-family: "Noto Serif", "Noto Serif KR", serif; font-size: 1em; font-style: italic; color: #555; line-height: 1.35; }
+.gloss-trans { margin-top: 0.15em; font-family: "Noto Serif", "Noto Serif KR", serif; font-size: 1em; font-style: normal !important; color: #555; line-height: 1.35; }
 .gloss-def { margin-top: 0.1em; font-family: "Noto Serif", "Noto Serif KR", serif; font-size: 1em; color: #111; line-height: 1.35; }
-.gloss-translation { margin-top: 1.2em; padding-top: 0.8em; border-top: 1px solid rgba(0,0,0,.08); font-family: "Noto Serif", "Noto Serif KR", "Noto Serif", serif; font-size: 1.05em; line-height: 1.6; }
+.gloss-translation { margin-top: 1.2em; padding-top: 0.8em; border-top: 1px solid rgba(0,0,0,.08); font-family: "Noto Serif", "Noto Serif KR", "Noto Serif", serif; font-size: 1.05em; font-style: normal !important; line-height: 1.6; }
 
 .tree-example { display: block; width: fit-content; max-width: 100%; box-sizing: border-box; margin: 2.2em 0; padding: 1.4em 1.6em; border: 1px solid #d8d8d8; border-radius: .8em; background: #fffdf9; overflow-x: auto; }
 .tree-sentence { display: flex; width: max-content; max-width: 100%; gap: .7em; align-items: baseline; margin-bottom: 1.5em; font-size: 1.12em; line-height: 1.7; }
@@ -61,6 +61,10 @@ body { font-family: "Noto Serif", "Noto Serif CJK TC", "Noto Serif CJK SC", "Not
 .post-content { font-size: 16px; line-height: 1.85; }
 .post-content p, .post-content li, .post-content td, .post-content th { min-width: 0; overflow-wrap: anywhere; word-break: break-word; }
 .post-content a:not(.citation-link) { max-width: 100%; white-space: normal !important; overflow-wrap: anywhere !important; word-break: break-all; }
+.post-content blockquote,
+.post-content blockquote p,
+.post-content blockquote li,
+.post-content blockquote span { font-style: normal !important; }
 .post-title { font-size: 2.2rem; font-weight: 700; }
 .post-content h2 { font-size: 1.6rem; }
 .post-content h3 { font-size: 1.3rem; }
@@ -68,7 +72,7 @@ body { font-family: "Noto Serif", "Noto Serif CJK TC", "Noto Serif CJK SC", "Not
 .text-pair { margin: 1.8em 0; padding: 1.2em 1.4em; border-left: 4px solid #999; background: #fafafa; }
 .classical-block { margin: 2em 0; padding: 1.2em 1.5em; border-left: 4px solid #8a8a8a; background: #f8f8f8; }
 .classical-original { margin: 0 0 .9em 0; font-family: "Noto Serif", "Noto Serif CJK TC", "Noto Serif CJK SC", "Noto Serif CJK KR", "Noto Serif CJK JP", "Noto Serif TC", "Noto Serif SC", "Noto Serif KR", "Noto Serif JP", "Source Han Serif TC", "Source Han Serif SC", "Source Han Serif KR", "Source Han Serif JP", "Nanum Myeongjo", serif; font-size: 1.15em; font-weight: 500; line-height: 1.95; letter-spacing: .02em; color: #1f1f1f; }
-.classical-translation { margin: 0; padding-top: .9em; border-top: 1px solid #d6d6d6; font-family: "Noto Serif", "Noto Serif KR", "Noto Serif CJK KR", "Nanum Myeongjo", serif; font-size: 1em; font-weight: 500; line-height: 1.85; color: #444; }
+.classical-translation { margin: 0; padding-top: .9em; border-top: 1px solid #d6d6d6; font-family: "Noto Serif", "Noto Serif KR", "Noto Serif CJK KR", "Nanum Myeongjo", serif; font-size: 1em; font-weight: 500; font-style: normal !important; line-height: 1.85; color: #444; }
 pre, code { font-family: "D2Coding", "Consolas", monospace; font-size: .95em; }
 
 /* ECT: (a), (b)… 자체가 번호인 목록은 불릿/숫자 마커를 중복하지 않는다. */
