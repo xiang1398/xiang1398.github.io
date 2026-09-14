@@ -1,0 +1,8 @@
+/* Korean prose and translations should remain upright.
+   Minima applies italics to blockquotes by default; override that site-wide. */
+.post-content blockquote,
+.post-content blockquote p,
+.post-content .classical-translation,
+.post-content .gloss-translation {
+  font-style: normal;
+}
