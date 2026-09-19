@@ -3,7 +3,7 @@ layout: post
 title: "杜甫 〈王錄事許修草堂貲不到聊小詰〉 小評"
 date: 2026-09-19 13:35:00 +0900
 categories:
-  - Philology
+  - Essay
 tags:
   - 杜甫
   - 두보
