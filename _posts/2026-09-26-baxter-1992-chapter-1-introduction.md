@@ -205,7 +205,7 @@ Assumption 3: Hypotheses which tie a number of phenomena together are to be pref
 
 Baxter는 藍 lán < 중고한어 lam ‘indigo’, 監 jiān < 중고한어 kæm ‘inspect’, 鑾 luán < 중고한어 lwan ‘harness bells’, 蠻 mán < 중고한어 mæn ‘Southern barbarian’을 예로 든다. 藍은 監을 성부로 하는 諧聲字이고, 鑾과 蠻도 같은 성부를 공유한다. 그런데 각 계열에서 중고한어/현대의 l- 초성과 k- 또는 m- 초성이 함께 나타난다. 같은 諧聲 계열은 보통 초성이 비슷하므로 설명이 필요하다.
 
-Karlgren은 藍 \*glâm, 監 \*klam, 鑾 \*blwân, 蠻 \*mlwan처럼 상고한어 l-초성군을 재구성했다. 동시에 두 종류의 모음 \*â와 \*a도 두었다. 두 모음은 상고한어 시에서는 서로 압운하지만 중고한어 반사형 -a-와 -æ-는 서로 압운하지 않는다. Karlgren은 이를 ‘상고한어 시대에는 압운 기준이 더 느슨했다’는 별도의 가정으로 처리했다. 결국 (1) l-초성군, (2) \*â/\*a 대립, (3) 압운 엄격성의 역사적 변화라는 세 가설이 필요했다.
+Karlgren은 藍 \*glâm, 監 \*klam, 鑾 \*blwân, 蠻 \*mlwan처럼 상고한어 l-자음군을 재구성했다. 동시에 두 종류의 모음 \*â와 \*a도 두었다. 두 모음은 상고한어 시에서는 서로 압운하지만 중고한어 반사형 -a-와 -æ-는 서로 압운하지 않는다. Karlgren은 이를 ‘상고한어 시대에는 압운 기준이 더 느슨했다’는 별도의 가정으로 처리했다. 결국 (1) l-자음군, (2) \*â/\*a 대립, (3) 압운 엄격성의 역사적 변화라는 세 가설이 필요했다.
 
 Jaxontov(1960a)는 다른 해법을 제시했다. 앞선 \*l이 소실될 때 상고한어 \*-a-가 중고한어 -æ-로 변했다고 보면 Karlgren의 상고한어 \*â/\*a 대립 자체가 필요하지 않다. Baxter는 이 아이디어를 받아들이되 Jaxontov의 \*l 대신 \*r를 쓴다: 藍 \*g-ram, 監 \*krom, 鑾 \*b-rwan (< \*b-ron), 蠻 \*mrwan (< \*mron).
 
@@ -254,7 +254,9 @@ Baxter의 가상 예는 실제 Bodman(1980:75–79)의 제안에 기초한다. �
 - 여러 가설이 가능하면 덜 특이한 가설부터 시험하고(가정 2), 하나의 가설이 여러 현상을 함께 설명하는 쪽을 선호한다(가정 3).
 - 상고한어는 《詩經》 언어와 완전히 동일한 공시태가 아니라, 《詩經》·중고한어·방언 자료가 도출될 수 있는 재구성 단계로 정의된다.
 - 티베트버마어 비교는 상고한어 내부에 근거 없는 대립을 투입하는 수단이 아니라, 중국어 내부 증거로 검증할 역사적 가설을 발견하고 더 먼 한장어족 단계를 탐색하는 수단이다.
+
 ## 이후 장에서 특히 기억할 네 전제
+
 
 Assumption 1: A reconstructed language should be a natural synchronic system from which known later stages can be derived by natural diachronic processes.
 가정 1: 재구된 언어는 자연스러운 공시적 체계여야 하며, 알려진 후대 단계들이 자연스러운 통시적 과정을 통해 그 체계로부터 도출될 수 있어야 한다.
@@ -268,7 +270,7 @@ Assumption 3: Hypotheses which tie a number of phenomena together are to be pref
 Assumption 4: A reconstruction of Old Chinese should account for the rhymes of the Shījīng, the xiéshēng characters of Zhōu-dynasty script, the phonological system of Middle Chinese, and the modern Chinese dialects.
 가정 4: 상고한어의 재구성은 《詩經》의 압운, 周代 문자의 諧聲字, 중고한어의 음운체계, 그리고 현대 중국어 방언을 설명할 수 있어야 한다.
 
-→ 따라서 뒤의 \*r, 6모음, 초성군, 개음, 운미/후운미 재구성은 각각의 글자에 ‘그럴듯한 음가’를 붙이는 작업이 아니다. 각 가설이 얼마나 자연스러운 체계를 이루며, 중고한어의 분포·諧聲·《詩經》 압운을 하나의 역사적 변화로 얼마나 통합해서 설명하는지가 평가 기준이다.
+→ 따라서 뒤의 \*r, 6모음, 자음군, 개음, 운미/후운미 재구성은 각각의 글자에 ‘그럴듯한 음가’를 붙이는 작업이 아니다. 각 가설이 얼마나 자연스러운 체계를 이루며, 중고한어의 분포·諧聲·《詩經》 압운을 하나의 역사적 변화로 얼마나 통합해서 설명하는지가 평가 기준이다.
 
 [^1]: 商周 교체의 정확한 연대 자체는 논쟁적이며 Baxter는 이를 본서의 범위 밖으로 둔다.
 
