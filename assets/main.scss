@@ -117,7 +117,7 @@ pre, code { font-family: "D2Coding", "Consolas", monospace; font-size: .95em; }
 /* Table of contents */
 .post-toc { margin: 0 0 2rem; padding: .8rem 1rem; border: 1px solid #e1e1e1; border-radius: .45rem; background: #fafafa; font-size: .9rem; }
 .post-toc summary { cursor: pointer; font-weight: 700; }
-.post-toc-list { margin: .7rem 0 0 1.3rem; }
+.post-toc-list { margin: .7rem 0 0; padding-left: 0; list-style: none; }
 .post-toc-list li { margin: .16rem 0; }
 .post-toc-list .toc-level-3 { margin-left: 1.15rem; font-size: .95em; }
 .post-toc a { text-decoration: none; }
