@@ -138,6 +138,7 @@ Baxter가 제시하는 전형적인 인용 형식은 다음과 같다.
 - ⑥ 마지막 gloss는 단어 식별을 위한 짧은 뜻풀이이다. Baxter는 이를 완전한 OC 의미기술로 보지 않는다. 많은 gloss는 별도 표시 없이 Karlgren의 Grammata serica recensa(1957)와 Schuessler(1987)를 참고한다. 상고어의 의미를 제대로 기술하려면 실제 용례와 가능한 어원관계를 모두 검토해야 하지만 이는 본서의 범위를 벗어난다.
 - ⑦ 《詩經》은 ‘Ode 198.2’처럼 毛詩引得(Harvard-Yenching Institute)의 편번호와 장번호로 인용한다. 같은 章 안에 둘 이상의 압운열이 있으면 198.2A, 198.2B처럼 문자를 붙인다. 압운열이 하나뿐이어도 첫 압운열은 A로 표시한다. 각 시의 제목과 《詩經》 내 소속은 Appendix B에서 찾을 수 있다.
 - ⑧ 재구된 음운변화에도 이름을 붙인다. 예컨대 medial \*r가 소실되는 변화를 \*r-loss라 부르고 책 전체에서 같은 이름으로 참조한다. 주요 변화의 목록은 Appendix A에 모아 둔다.
+
 ## 1.4. Methodological remarks
 
 ### 1.4.1. Theoretical assumptions
