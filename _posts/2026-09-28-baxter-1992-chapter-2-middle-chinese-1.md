@@ -41,13 +41,13 @@ William H. Baxter, *A Handbook of Old Chinese Phonology* (1992)의 제2장 〈Th
 
 (11) 箕 jī ‘키’: Karlgren kji, Baxter ki — 之 Tsyi 韻.
 
-(12) 卦 guà ‘시초로 점치다’: Karlgren kwai-, Baxter kwɛɨH.
+(12) 卦 guà ‘시초로 점치다’: Karlgren kwai-, Baxter kwɛɨH. — 佳 Kɛɨ 韻
 
 (13) 夬 guài ‘나누다; 터뜨리다’: Karlgren kwai-, Baxter kwæjH — 夬 KwæjH 韻.
 
-(14) 密 mì ‘빽빽하다’: Karlgren mi̯ět, Baxter mit.
+(14) 密 mì ‘빽빽하다’: Karlgren mi̯ět, Baxter mit. — 重紐 3등.
 
-(15) 蜜 mì ‘꿀’: Karlgren mi̯ět, Baxter mjit.
+(15) 蜜 mì ‘꿀’: Karlgren mi̯ět, Baxter mjit. — 重紐 4등.
 
 둘째, Karlgren은 실제로 대립하지 않는 음가 차이를 표기에 반영하기도 했다. 그의 -e-와 -ä-는 상보적 분포를 보이는데, -e-는 -i- 뒤에서만, -ä-는 -i̯- 뒤에서만 나타난다. Karlgren은 -i-를 ‘강한 모음적(strong vocalic)’ 介音, -i̯-를 ‘약한 자음적(weak consonantal)’ 介音이라고 설명했다.
 
