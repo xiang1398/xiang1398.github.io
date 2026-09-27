@@ -35,13 +35,13 @@ William H. Baxter, *A Handbook of Old Chinese Phonology* (1992)의 제2장 〈Th
 
 ### Karlgren의 ‘Ancient Chinese’ 표기가 가진 문제
 
-첫째, 초기 중고한어 자료에서 분명히 구별되고 상고한어 재구에도 중요한 대립을 Karlgren이 누락한다. 대표적으로 脂 Tsyij / 之 Tsyi, 佳 Kɛi / 夬 KwæjH, 그리고 重紐 이중형이 있다.
+첫째, 초기 중고한어 자료에서 분명히 구별되고 상고한어 재구에도 중요한 대립을 Karlgren이 누락한다. 대표적으로 脂 Tsyij / 之 Tsyi, 佳 Kɛɨ / 夬 KwæjH, 그리고 重紐 이중형이 있다.
 
 (10) 飢 jī ‘기근’: Karlgren kji, Baxter kij — 脂 Tsyij 韻.
 
 (11) 箕 jī ‘키’: Karlgren kji, Baxter ki — 之 Tsyi 韻.
 
-(12) 卦 guà ‘시초로 점치다’: Karlgren kwai-, Baxter kwɛiH.
+(12) 卦 guà ‘시초로 점치다’: Karlgren kwai-, Baxter kwɛɨH.
 
 (13) 夬 guài ‘나누다; 터뜨리다’: Karlgren kwai-, Baxter kwæjH — 夬 KwæjH 韻.
 
@@ -61,7 +61,7 @@ William H. Baxter, *A Handbook of Old Chinese Phonology* (1992)의 제2장 〈Th
 
 (18) 根 gēn ‘뿌리’: Karlgren kən, Baxter kon.
 
-(19) 斤 jīn ‘도끼; 근(斤)’: Karlgren ki̯ən, Baxter kjin.
+(19) 斤 jīn ‘도끼; 근(斤)’: Karlgren ki̯ən, Baxter kjɨn.
 
 초기 중고한어에서는 -on (痕)/-won (魂) 계열과 -jon (元)/-jwon (元) 계열의 압운 양상이 Karlgren의 표기보다 분명하게 갈린다. Baxter는 -o-를 대체로 중저 후설 비원순 [ʌ]로 해석한다.
 
