@@ -41,7 +41,7 @@ William H. Baxter, *A Handbook of Old Chinese Phonology* (1992)의 제2장 〈Th
 
 (11) 箕 jī ‘키’: Karlgren kji, Baxter ki — 之 Tsyi 韻.
 
-(12) 卦 guà ‘시초로 점치다’: Karlgren kwai-, Baxter kwɛɨH. — 佳 Kɛɨ 韻
+(12) 卦 guà ‘시초로 점치다’: Karlgren kwai-, Baxter kwɛɨH. — 佳 Kɛɨ 韻의 去聲 卦 Kwɛɨ 韻.
 
 (13) 夬 guài ‘나누다; 터뜨리다’: Karlgren kwai-, Baxter kwæjH — 夬 KwæjH 韻.
 
