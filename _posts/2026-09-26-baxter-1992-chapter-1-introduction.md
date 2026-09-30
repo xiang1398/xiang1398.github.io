@@ -4,7 +4,7 @@ title: "Baxter (1992) 제1장 서론 요약"
 date: 2026-09-26 17:10:00 +0900
 categories:
   - Linguistics
-계열: Baxter 1992
+series: Baxter 1992
 tags:
   - Baxter
   - 상고한어
