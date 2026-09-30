@@ -25,7 +25,7 @@ tags:
 
 ## Quan shanggu sandai Qin Han Sanguo Liuchao wen 全上古三代秦漢三國六朝文
 
-*ChatGPT 활용 기계번역을 편집·교정한 글입니다.*
+*이 번역문은 GPT-5.6 모델로 기계번역한 뒤 편집·교정한 것입니다.*
 
 ## 내용
 
