@@ -4,7 +4,7 @@ title: "Baxter (1992) 제2장 중고한어 음운 체계 요약 (1): 2.1–2.2"
 date: 2026-09-28 07:55:00 +0900
 categories:
   - Linguistics
-계열: Baxter 1992
+series: Baxter 1992
 tags:
   - Baxter
   - 중고한어
