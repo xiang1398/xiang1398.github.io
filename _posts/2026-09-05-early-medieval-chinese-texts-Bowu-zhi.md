@@ -10,7 +10,7 @@ tags:
   - 博物志
   - 張華
   - 志怪
-  - 서진
+  - 西晉
   - 번역
 ---
 
@@ -155,11 +155,11 @@ Straughair, Anna, *Chang Hua: A Statesman-Poet of the Western Chin Dynasty*, Occ
 
 Greatrex, Roger, *The Bowu zhi: An Annotated Translation*, Orientaliska Studier 20, Stockholm: Akademitryck AB, Täby, 1987.
 
-### 일본어
+### 日本語
 
 The Bowu zhi Project, “The Bowu zhi: Critical Edition and Commentaries (I),” 《東方學報》 59 (1987): pp, 463–590.
 
-### 중국어
+### 中國語
 
 張恩富, 《博物志》, 重慶: 重慶出版社, 2007.
 

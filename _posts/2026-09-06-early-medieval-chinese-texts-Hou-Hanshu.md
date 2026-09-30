@@ -29,7 +29,7 @@ tags:
 
 ## 서론
 
-范曄(398–446)의 《後漢書》(‘後漢의 역사’)는 後漢史를 연구하는 가장 중요한 자료이다. 이 시대의 역사서는 20종이 넘었지만 완전한 형태로 남은 것은 이 책과 袁宏(328–376)의 《後漢紀》 두 종뿐이다. 《後漢書》가 결국 後漢의 표준 正史가 되었기 때문에 성립 이후 거의 줄곧 폭넓게 읽혀 왔다. 중국뿐 아니라 동아시아 인접 국가의 지식인들도 반드시 읽어야 할 지식의 정전 가운데 하나였다. 흔히 말하는 “五經三史”에서 三史는 司馬遷의 《史記》, 班固의 《漢書》, 范曄의 《後漢書》를 가리켰다. 따라서 이 책은 六朝에 쓰인 가장 중요한 문헌 가운데 하나이다.
+范曄(398–446)의 《後漢書》(‘後漢의 역사’)는 後漢史를 연구하는 가장 중요한 자료이다. 이 시대의 역사서는 20종이 넘었지만 완전한 형태로 남은 것은 이 책과 袁宏(328–376)의 《後漢紀》 두 종뿐이다. 《後漢書》가 결국 後漢의 표준 正史가 되었기 때문에 성립 이후 거의 줄곧 폭넓게 읽혀 왔다. 中國뿐 아니라 동아시아 인접 국가의 지식인들도 반드시 읽어야 할 지식의 정전 가운데 하나였다. 흔히 말하는 “五經三史”에서 三史는 司馬遷의 《史記》, 班固의 《漢書》, 范曄의 《後漢書》를 가리켰다. 따라서 이 책은 六朝에 쓰인 가장 중요한 문헌 가운데 하나이다.
 
 ## 내용
 
@@ -85,7 +85,7 @@ Mansvelt-Beck, Burchard J., *The Treatises of Later Han: Their Author, Sources, 
 
 Nylan, Michael, *Hou Han shu*, in *RoutledgeCurzon Encyclopedia of Confucianism*, ed. Xinzhong Yao, 1, pp. 260–261, London: RoutledgeCurzon, 2003.
 
-중국어 주요 연구로는 다음이 있다.
+中國語 주요 연구로는 다음이 있다.
 
 《二十五史補編》, 北京: 中華書局, 1956. 제2권에 後漢에 관한 많은 表와 논고가 수록된다.
 
@@ -111,7 +111,7 @@ Crespigny, Rafe de, *A Biographical Dictionary of Later Han to the Three Kingdom
 
 卷30下의 상당 부분은 Rafe de Crespigny, *Portents of Protest in the Later Han Dynasty: The Memorials of Hsiang K’ai to Emperor Huan*, Canberra: Australian National University Press, 1976에 영어로 번역되어 있다.
 
-중앙아시아와 외국 관계를 다룬 卷은 특히 많이 번역되었다. Édouard Chavannes는 西域을 재정복한 장군들을 다룬 卷47을 “Trois Généraux chinois de la dynastie des Han Orientaux, Chapitre LXXVII du Heou Han chou” [後漢의 중국 장군 세 사람: 《後漢書》 제77장], *T’oung Pao* 7 (1906): pp. 210–269에서 프랑스어로 번역했다. Gregory Young은 卷65를 *Three Generals of Later Han*, Faculty of Asian Studies Monographs, new series no. 6, Canberra: Australian National University, 1984에서 번역했다. Chavannes는 또한 〈西域傳〉 卷88을 “Les Pays d’Occident d’après le Heou Han chou” [《後漢書》에 따른 西域], *T’oung Pao* 8 (1907): pp. 149–244에서 번역했다. 같은 卷은 John Hill이 주석이 풍부한 “The Western Regions according to the Hou Hanshu”로 번역하여 2003년에 처음 공개하였으며 http://depts.washington.edu/silkroad/texts/hhshu/hou_han_shu.html에서 이용 가능하다.
+중앙아시아와 외국 관계를 다룬 卷은 특히 많이 번역되었다. Édouard Chavannes는 西域을 재정복한 장군들을 다룬 卷47을 “Trois Généraux chinois de la dynastie des Han Orientaux, Chapitre LXXVII du Heou Han chou” [後漢의 中國 장군 세 사람: 《後漢書》 제77장], *T’oung Pao* 7 (1906): pp. 210–269에서 프랑스어로 번역했다. Gregory Young은 卷65를 *Three Generals of Later Han*, Faculty of Asian Studies Monographs, new series no. 6, Canberra: Australian National University, 1984에서 번역했다. Chavannes는 또한 〈西域傳〉 卷88을 “Les Pays d’Occident d’après le Heou Han chou” [《後漢書》에 따른 西域], *T’oung Pao* 8 (1907): pp. 149–244에서 번역했다. 같은 卷은 John Hill이 주석이 풍부한 “The Western Regions according to the Hou Hanshu”로 번역하여 2003년에 처음 공개하였으며 http://depts.washington.edu/silkroad/texts/hhshu/hou_han_shu.html에서 이용 가능하다.
 
 Rafe de Crespigny의 *Northern Frontier: The Policies and Strategy of the Later Han Empire*, Faculty of Asian Studies Monographs, new series no. 4, Canberra: Australian National University, 1984는 卷 전체의 번역은 아니지만 여러 자료에서 뽑은 《後漢書》 발췌를 이용해 정치·군사사를 구성한다.
 
@@ -119,25 +119,25 @@ Johann Michael Streffer, *Das Kapitel 86 (76) des Hou Han Shu* [《後漢書》 
 
 Kenneth Gardiner, “The Hou-Han-shu as a Source for the Early Expansion of Koguryŏ”, *Monumenta Serica* 28 (1969): pp. 148–187에는 卷85 여러 대목의 영어 번역이 들어 있다.
 
-Étienne Balazs는 “La crise sociale à la fin des Han” [漢末의 사회 위기], *T’oung Pao* 39 (1948–1950): pp. 83–131에서 후한 말의 사상가 세 사람을 논하면서 卷79의 상당 부분을 번역했다. 영어 번역은 그의 *Chinese Civilization and Bureaucracy: Variations on a Theme*, H. M. Wright 번역, Arthur F. Wright 편, New Haven: Yale University Press, 1964, pp. 187–225에 실려 있다.
+Étienne Balazs는 “La crise sociale à la fin des Han” [漢末의 사회 위기], *T’oung Pao* 39 (1948–1950): pp. 83–131에서 後漢末의 사상가 세 사람을 논하면서 卷79의 상당 부분을 번역했다. 영어 번역은 그의 *Chinese Civilization and Bureaucracy: Variations on a Theme*, H. M. Wright 번역, Arthur F. Wright 편, New Haven: Yale University Press, 1964, pp. 187–225에 실려 있다.
 
 馬融의 전기 卷60上은 M. Künstler, *Ma Jong, Vie et oeuvre* [馬融: 생애와 저술], Warsaw: Państwowe Wydawn. Naukowe, 1969에 완역되어 있다. Nancy Lee Swann의 “Biography of the Empress Teng”, *Journal of the American Oriental Society* 51 (1931): pp. 138–159는 卷10上 일부를 다룬다. 그의 단행본 *Pan Chao: Foremost Woman Scholar of China*는 班昭의 卷84 전기를 바탕으로 한다. New York: The Century Co., 1932. 재판 Ann Arbor: University of Michigan, Center for Chinese Studies, 2001.
 
 《後漢書》 卷78의 宦者列傳 상당 부분은 Ulrike Jugel, *Politische Funktion und soziale Stellung der Eunuchen zur späteren Hanzeit (25–220 n. Chr.)* [後漢時代(25–220)의 환관의 정치적 기능과 사회적 지위], Wiesbaden: Franz Steiner Verlag, 1976에 독일어로 번역되어 있다.
 
-方術家를 다룬 卷82는 Ngo Van Xuyet, *Divination, magie et politique dans la Chine ancienne: Essai* [고대 중국의 점복·주술·정치: 시론], Paris: Presses universitaires de France, 1976에서 완역되었고, Kenneth J. De Woskin, *Doctors, Diviners, and Magicians of Ancient China: Biographies of Fang-shih*, New York: Columbia University Press, 1983에서도 다시 번역되었다.
+方術家를 다룬 卷82는 Ngo Van Xuyet, *Divination, magie et politique dans la Chine ancienne: Essai* [고대 中國의 점복·주술·정치: 시론], Paris: Presses universitaires de France, 1976에서 완역되었고, Kenneth J. De Woskin, *Doctors, Diviners, and Magicians of Ancient China: Biographies of Fang-shih*, New York: Columbia University Press, 1983에서도 다시 번역되었다.
 
 Burton Watson, “Biographies of Recluses”, *Renditions* 33–34 (1990): pp. 35–51은 卷83의 부분 번역이다. 이 전기들은 Aat Vervoorn, *Men of Cliffs and Caves: The Development of the Chinese Eremitic Tradition to the End of the Han Dynasty*, 香港: 香港中文大學出版社, 1990에서도 연구되었다.
 
-### 중국어
+### 中國語
 
-현대 중국어 번역은 적어도 두 종이 있다.
+현대 中國語 번역은 적어도 두 종이 있다.
 
 許嘉璐 편, 《二十四史全譯: 後漢書》, 3 vols., 上海: 漢語大詞典出版社, 2004.
 
 戴逸 편, 《後漢書全譯》, 5 vols., 《中國歷史名著譯注叢書》, 貴州: 貴州人民出版社, 1995.
 
-### 일본어
+### 日本語
 
 Watanabe Yoshihiro 渡邊義浩·Ikeda Masanori 池田雅典·Okamoto Hideo 岡本秀夫 편, 《全譯後漢書》, 東京: 汲古書院, 2001–, vols. 1–4, 8, 11–12, 14–16.
 

@@ -83,13 +83,13 @@ tags:
 
 Bauer, Wolfgang, “Encyclopedia in China,” *Cahiers d’histoire mondiale* 9.3 (1966): pp. 665–691, 특히 p. 678.
 
-Drège, Jean-Pierre, “Des ouvrages classés par catégories: Les encyclopédies chinoises” [범주별로 분류된 문헌들: 중국의 백과사전], *Extrême-Orient, Extrême-Occident* 29 (2007): pp. 19–38, 특히 pp. 25, 27.
+Drège, Jean-Pierre, “Des ouvrages classés par catégories: Les encyclopédies chinoises” [범주별로 분류된 문헌들: 中國의 백과사전], *Extrême-Orient, Extrême-Occident* 29 (2007): pp. 19–38, 특히 pp. 25, 27.
 
 方師鐸, 《傳統文學與類書之關係》, 臺中: 東海大學, 1979, pp. 199–212.
 
 胡道靜, 《中國古代的類書》, 北京: 中華書局, 1982, pp. 64–75.
 
-Kaderas, Christoph, *Die Leishu der imperialen Bibliothek des Kaisers Qianlong (reg. 1736–1796)—Untersuchungen zur chinesischen Enzyklopädie* [乾隆帝(재위 1736–1796) 황실 도서관의 類書: 중국의 백과사전에 대한 연구], Wiesbaden: Harrassowitz, 1998, pp. 60–63.
+Kaderas, Christoph, *Die Leishu der imperialen Bibliothek des Kaisers Qianlong (reg. 1736–1796)—Untersuchungen zur chinesischen Enzyklopädie* [乾隆帝(재위 1736–1796) 황실 도서관의 類書: 中國의 백과사전에 대한 연구], Wiesbaden: Harrassowitz, 1998, pp. 60–63.
 
 Kōzen Hiroshi 興膳宏·Kawai Kōzō 川合康三, 《隋書經籍志詳考》, 東京: 汲古書院, 1995.
 

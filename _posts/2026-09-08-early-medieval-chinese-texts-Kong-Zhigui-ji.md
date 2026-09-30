@@ -10,7 +10,7 @@ tags:
   - 孔稚珪集
   - 孔稚珪
   - 南齊
-  - 육조문학
+  - 六朝문학
   - 번역
 ---
 
@@ -35,7 +35,7 @@ tags:
 
 ## 내용
 
-張溥(1602–1641)의 《漢魏六朝百三家集》 卷79에 실린 《孔詹事集》은 현존하는 시와 산문을 모두 수록한다. 다만 逯欽立의 《先秦漢魏晉南北朝詩》 〈齊詩〉 제2책, pp. 1408–1409에 든 짧은 단편 두 편은 제외되어 있다. 산문과 시는 모두 19편이며 다음 순서로 배열되었다.
+張溥(1602–1641)의 《漢魏六朝百三家集》 卷79에 실린 《孔詹事集》은 현존하는 시와 散文을 모두 수록한다. 다만 逯欽立의 《先秦漢魏晉南北朝詩》 〈齊詩〉 제2책, pp. 1408–1409에 든 짧은 단편 두 편은 제외되어 있다. 散文과 시는 모두 19편이며 다음 순서로 배열되었다.
 
 奏章(청원서) 5편
 
@@ -61,11 +61,11 @@ tags:
 
 ## 진위와 본문 전승
 
-현존하는 孔稚珪 저술의 단편은 일반적으로 진위가 문제 되지 않지만, 여러 판본 사이에는 작은 차이가 있으며 특히 일부 산문 제목에서 차이가 난다. 산문 대부분은 南齊 시기의 사건과 관련되어 연대를 확정할 수 있다. 문집에서 진위가 심각하게 논란이 된 유일한 작품은 〈白馬篇〉이라는 제목의 樂府 두 수 가운데 둘째 수이다. 두 시는 모두 《樂府詩集》 卷63에 孔稚珪의 작품으로 수록되었지만, 둘째 수는 다른 곳에서 隋 煬帝의 작품으로 귀속되기도 한다. 逯欽立은 이를 ‘北朝 시인’의 작품으로 보았고(〈齊詩〉 제2책, p. 1408), 曹道衡과 沈玉成도 孔稚珪의 작품인지 의심하였다(《中古文學史料叢考》, pp. 427–428).
+현존하는 孔稚珪 저술의 단편은 일반적으로 진위가 문제 되지 않지만, 여러 판본 사이에는 작은 차이가 있으며 특히 일부 散文 제목에서 차이가 난다. 散文 대부분은 南齊 시기의 사건과 관련되어 연대를 확정할 수 있다. 문집에서 진위가 심각하게 논란이 된 유일한 작품은 〈白馬篇〉이라는 제목의 樂府 두 수 가운데 둘째 수이다. 두 시는 모두 《樂府詩集》 卷63에 孔稚珪의 작품으로 수록되었지만, 둘째 수는 다른 곳에서 隋 煬帝의 작품으로 귀속되기도 한다. 逯欽立은 이를 ‘北朝 시인’의 작품으로 보았고(〈齊詩〉 제2책, p. 1408), 曹道衡과 沈玉成도 孔稚珪의 작품인지 의심하였다(《中古文學史料叢考》, pp. 427–428).
 
 ## 주요 판본
 
-張溥 선집의 여러 판본 외에도 《孔詹事集》은 葉紹泰가 崇禎 연간(1627–1644)에 간행한 《增訂漢魏六朝別解》에 수록되었다. 孔稚珪의 산문과 시는 별도로도 찾아볼 수 있으며, 《全上古三代秦漢三國六朝文》 卷19에도 수록되어 있다.
+張溥 선집의 여러 판본 외에도 《孔詹事集》은 葉紹泰가 崇禎 연간(1627–1644)에 간행한 《增訂漢魏六朝別解》에 수록되었다. 孔稚珪의 散文과 시는 별도로도 찾아볼 수 있으며, 《全上古三代秦漢三國六朝文》 卷19에도 수록되어 있다.
 
 ## 전통적 평가
 
@@ -103,11 +103,11 @@ Hightower, James R., “Proclamation on North Mountain.” In “Some Characteri
 
 ### 유럽 언어
 
-Margouliès, Georges, “Proclamation de la montagne du nord” [北山 포고문], In *Anthologie raisonnée de la littérature chinoise* [중국 문학 선집], pp. 242–244, Paris: Payot, 1948. 이보다 이른 판본은 “Ordre militaire de la Montagne du nord” [北山 軍令]라는 제목으로 *Le Kou-Wen Chinois, Recueil de textes avec introduction et notes* [중국 고문: 서론과 주석을 곁들인 문선], pp. 135–139, Paris: Paul Geuthner, 1926에 실렸다.
+Margouliès, Georges, “Proclamation de la montagne du nord” [北山 포고문], In *Anthologie raisonnée de la littérature chinoise* [中國 문학 선집], pp. 242–244, Paris: Payot, 1948. 이보다 이른 판본은 “Ordre militaire de la Montagne du nord” [北山 軍令]라는 제목으로 *Le Kou-Wen Chinois, Recueil de textes avec introduction et notes* [中國 고문: 서론과 주석을 곁들인 문선], pp. 135–139, Paris: Paul Geuthner, 1926에 실렸다.
 
-Zach, Erwin von, “Die auf dem Nordberg erlassene Kundmachung” [북산에서 반포한 포고문], In *Die chinesische Anthologie: Übersetzungen aus dem Wen hsüan* [중국 문학 선집: 《文選》 번역], Ilse Martin Fang ed., 2: pp. 805–808, 2 vols, Harvard-Yenching Institute Studies 18, Cambridge, MA: Harvard University Press, 1958.
+Zach, Erwin von, “Die auf dem Nordberg erlassene Kundmachung” [북산에서 반포한 포고문], In *Die chinesische Anthologie: Übersetzungen aus dem Wen hsüan* [中國 문학 선집: 《文選》 번역], Ilse Martin Fang ed., 2: pp. 805–808, 2 vols, Harvard-Yenching Institute Studies 18, Cambridge, MA: Harvard University Press, 1958.
 
-### 현대 중국어
+### 현대 中國語
 
 曹明綱·許楨, 《六朝文絜譯注》, 上海: 上海古籍出版社, 1999, pp. 196–203.
 

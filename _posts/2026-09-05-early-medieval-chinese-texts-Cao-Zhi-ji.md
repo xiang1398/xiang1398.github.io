@@ -45,7 +45,7 @@ tags:
 
 초기 작가들의 문집은 대체로 시간이 흐를수록 줄어드는 것과 달리, 曹植集은 이상하게도 분량이 계속 늘어났다. 《晉書》 卷50, p. 1390〔역자 주: 〈曹志傳〉〕에 따르면 武帝(재위 265–290) 때 이미 曹植의 작품으로 잘못 귀속된 글이 있었다. 후대 학자들이 무명 작품을 유명 시인에게 귀속시키는 경향이 한 가지 설명일 수 있다. 이 때문에 曹植의 ‘명작’ 가운데 일부를 포함하여 많은 작품의 저자 귀속은 의심스럽다.
 
-趙幼文의 《曹植集校注》(北京: 人民文學出版社, 1984)에는 서정시 130편, 賦 46편, 誄 12편, 表·令 30편, 書 4편, 그리고 論·說 등을 포함한 산문 18편이 실려 있다. 작품은 建安, 黃初(220–226), 太和(227–233)의 세 연호 시기로 나누어 연대순으로 배열되어 있다.
+趙幼文의 《曹植集校注》(北京: 人民文學出版社, 1984)에는 서정시 130편, 賦 46편, 誄 12편, 表·令 30편, 書 4편, 그리고 論·說 등을 포함한 散文 18편이 실려 있다. 작품은 建安, 黃初(220–226), 太和(227–233)의 세 연호 시기로 나누어 연대순으로 배열되어 있다.
 
 ## 저자 귀속과 작품 연대
 
@@ -59,7 +59,7 @@ tags:
 
 ## 주요 판본
 
-《四庫全書總目提要》 卷29, p. 3104에 따르면 현존 曹植集 가운데 가장 이른 판본이자 이후 대부분 판본의 바탕은 南宋에 편찬된 10卷本 《曹子建集》이다. 이 판본에는 賦 44편, 詩 74편, 雜文 92편이 실렸다. 明代 張燮(1574–1640)은 《七十二家集》에 넣기 위해 10卷本 《陳思王集》을 편찬했으며, 이것은 《續修四庫全書》 卷1584, pp. 65–173에 영인되어 있다. 張溥(1602–1641)의 《漢魏六朝百三名家集》에는 2卷本 《陳思王集》이 실렸다. 두 판본은 모두 여러 초기 자료를 교감하여 만든 것이며, 淸代 학자들의 작업에 자료를 제공하였다. 그 가운데 丁晏(1794–1875)의 《曹集詮評》(序 1875; 北京: 文學古籍刊行社, 1957 재판)은 현대에 널리 쓰이는 판본들의 저본이 되었다. 산문과 시 모두에 주석한 趙幼文本 외에, 시만 수록한 다음 현대 판본들도 널리 이용된다.
+《四庫全書總目提要》 卷29, p. 3104에 따르면 현존 曹植集 가운데 가장 이른 판본이자 이후 대부분 판본의 바탕은 南宋에 편찬된 10卷本 《曹子建集》이다. 이 판본에는 賦 44편, 詩 74편, 雜文 92편이 실렸다. 明代 張燮(1574–1640)은 《七十二家集》에 넣기 위해 10卷本 《陳思王集》을 편찬했으며, 이것은 《續修四庫全書》 卷1584, pp. 65–173에 영인되어 있다. 張溥(1602–1641)의 《漢魏六朝百三名家集》에는 2卷本 《陳思王集》이 실렸다. 두 판본은 모두 여러 초기 자료를 교감하여 만든 것이며, 淸代 학자들의 작업에 자료를 제공하였다. 그 가운데 丁晏(1794–1875)의 《曹集詮評》(序 1875; 北京: 文學古籍刊行社, 1957 재판)은 현대에 널리 쓰이는 판본들의 저본이 되었다. 散文과 시 모두에 주석한 趙幼文本 외에, 시만 수록한 다음 현대 판본들도 널리 이용된다.
 
 古直(1885–1959), 《曹子建詩箋》, 上海: 中華書局, 1928, 臺北: 廣文書局, 1966 재판.
 
@@ -71,7 +71,7 @@ Cutter, Robert Joe, “Cao Zhi’s (192–232) Symposium Poems,” *Chinese Lite
 
 Cutter, Robert Joe, “The Incident at the Gate: Cao Zhi, the Succession, and Literary Fame,” *T’oung Pao* 71.2 (1985): pp. 228–240.
 
-Diény, Jean-Pierre, “Les sept tristesses (Qi ai): À propos de deux versions d’un ‘poème à chanter’ de Cao Zhi” [七哀: 曹植의 악부시 두 異本에 대하여], *T’oung Pao* 65.1 (1979): pp. 51–65.
+Diény, Jean-Pierre, “Les sept tristesses (Qi ai): À propos de deux versions d’un ‘poème à chanter’ de Cao Zhi” [七哀: 曹植의 樂府詩 두 異本에 대하여], *T’oung Pao* 65.1 (1979): pp. 51–65.
 
 Frankel, Hans H., “The Problem of Authenticity in the Works of Cao Zhi,” Chan Pingleung 등 편, *Essays in Commemoration of the Golden Jubilee of the Fung Ping Shan Library (1932–1982)*, pp. 187–189, 香港: 香港大學馮平山圖書館, 1982.
 
@@ -99,7 +99,7 @@ Roy, David, “The Theme of the Neglected Wife in the Poetry of Ts’ao Chih,”
 
 ### 영어
 
-Démiéville, Paul, *Anthologie de la poésie chinoise classique* [중국 고전 시 선집], Paris: Gallimard, 1962, pp. 118–122.
+Démiéville, Paul, *Anthologie de la poésie chinoise classique* [中國 고전 시 선집], Paris: Gallimard, 1962, pp. 118–122.
 
 Dunn, Hugh, *Ts’ao Chih: The Life of a Princely Chinese Poet*, 臺北: China News, 1970.
 
@@ -111,7 +111,7 @@ Owen, Stephen, *An Anthology of Chinese Literature: Beginnings through 1911*, Ne
 
 Watson, Burton, *Chinese Rhyme-Prose: Poems in the Fu Form from the Han and Six Dynasties Periods*, New York: Columbia University Press, 1971, pp. 55–60.
 
-### 일본어
+### 日本語
 
 Itō Masafumi 伊藤正文, 《曹植》, 東京: 岩波書店, 1964.
 
