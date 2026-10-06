@@ -32,7 +32,7 @@ tags:
 
 ## 내용
 
-《續高僧傳》에는 正傳 485편과 附傳 219편이 들어 있다. 범위는 梁 왕조 첫해인 501년부터 665년까지이다. 전기는 다음 열 범주로 나뉜다.
+《續高僧傳》에는 正傳 485편과 附傳 219편이 들어 있다. 범위는 梁 왕조 첫해인 501년[^1]부터 665년까지이다. 전기는 다음 열 범주로 나뉜다.
 
 1. 譯經 — 번역가.
 2. 義解 — 경론 해석가.
@@ -82,3 +82,5 @@ Shinohara, Koichi. “Two Sources of Chinese Buddhist Biographies: Stupa Inscrip
 Wagner, Robin. Buddhism, Biography, and Power: A Study of Daoxuan’s Continued Lives of Eminent Monks. Ph.D. diss., Harvard University, 1995.
 
 John Kieschnick
+
+[^1]: 교감: 저본은 梁 왕조 첫해를 501년으로 적었으나, 《梁書》 卷2에 보이는 梁 武帝 天監元年은 502년이다. 또한 502년부터 唐 貞觀 19년(645)까지를 양 끝을 포함해 세면 144년이 되어, 뒤에 나오는 저본의 “144년”이라는 설명과도 일치한다. 따라서 501년은 저본의 연대 오기로 보인다.
