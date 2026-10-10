@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Early Medieval Chinese Texts 095: Appendix I 《이명 상호 참조》"
-date: 2026-10-10 00:00:00 +0900
+date: 2026-10-10 20:15:00 +0900
 categories:
   - Translations
 series: Early Medieval Chinese Texts
