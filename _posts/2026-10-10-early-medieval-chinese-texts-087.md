@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Early Medieval Chinese Texts 087: Yue fu shi ji 《樂府詩集》"
-date: 2026-10-10 00:00:00 +0900
+date: 2026-10-10 20:07:00 +0900
 categories:
   - Translations
 series: Early Medieval Chinese Texts
