@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Early Medieval Chinese Texts 099: Appendix V 《비서구권 정기간행물명》"
-date: 2026-10-10 00:00:00 +0900
+date: 2026-10-10 20:19:00 +0900
 categories:
   - Translations
 series: Early Medieval Chinese Texts
