@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Early Medieval Chinese Texts 082: 鄴中記"
+title: "Early Medieval Chinese Texts 082: Ye zhong ji 《鄴中記》"
 date: 2026-10-10 00:00:00 +0900
 categories:
   - Translations
@@ -20,7 +20,7 @@ tags:
   <a href="{{ page.url | absolute_url }}">{{ page.url | absolute_url }}</a>
 </p>
 
-## 鄴中記
+## Ye zhong ji 鄴中記
 
 *이 번역문은 ChatGPT를 활용하여 기계번역한 뒤 편집·교정한 것입니다.*
 
