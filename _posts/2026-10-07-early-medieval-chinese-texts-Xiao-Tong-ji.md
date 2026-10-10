@@ -8,8 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 蕭統集
-  - 蕭統
   - 六朝문학
+  - 梁
   - 번역
 ---
 

@@ -9,7 +9,7 @@ tags:
   - Early Medieval Chinese Texts
   - 부록 III: 자주 인용되는 자료와 총서
   - 서지학
-  - 총서
+  - 문헌학
   - 번역
 ---
 

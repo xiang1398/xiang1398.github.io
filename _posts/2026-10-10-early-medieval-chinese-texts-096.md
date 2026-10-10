@@ -8,7 +8,7 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 주요 문학 장르
-  - 문학장르
+  - 六朝문학
   - 문학사
   - 번역
 ---

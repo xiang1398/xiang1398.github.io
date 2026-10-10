@@ -8,8 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 脈經
-  - 王叔和
-  - 醫學
+  - 의학
+  - 醫經
   - 번역
 ---
 

@@ -8,8 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 樂府詩集
-  - 樂府詩
-  - 文學總集
+  - 總集
+  - 樂府
   - 번역
 ---
 

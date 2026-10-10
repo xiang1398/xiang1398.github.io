@@ -8,8 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 비서구권 정기간행물명
-  - 학술지
   - 서지학
+  - 문헌학
   - 번역
 ---
 

@@ -9,7 +9,7 @@ tags:
   - Early Medieval Chinese Texts
   - 語林
   - 志人小說
-  - 魏晉
+  - 위진
   - 번역
 ---
 

@@ -8,8 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 袁淑集
-  - 袁淑
-  - 南朝
+  - 六朝문학
+  - 劉宋
   - 번역
 ---
 

@@ -9,7 +9,7 @@ tags:
   - Early Medieval Chinese Texts
   - 이명 상호 참조
   - 서지학
-  - 이명
+  - 문헌학
   - 번역
 ---
 

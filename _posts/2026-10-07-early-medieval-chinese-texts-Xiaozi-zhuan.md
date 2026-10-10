@@ -8,8 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 孝子傳
-  - 孝行
-  - 人物傳記
+  - 전기
+  - 효행
   - 번역
 ---
 

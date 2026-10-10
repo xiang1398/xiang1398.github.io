@@ -8,8 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 通典
-  - 杜佑
-  - 典章制度
+  - 역사서
+  - 제도사
   - 번역
 ---
 

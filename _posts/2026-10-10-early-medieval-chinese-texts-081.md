@@ -8,8 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 顏氏家訓
-  - 顏之推
-  - 家訓
+  - 北齊
+  - 사회사
   - 번역
 ---
 

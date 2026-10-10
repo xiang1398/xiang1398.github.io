@@ -8,8 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 應璩集
-  - 應璩
-  - 魏晉문학
+  - 위진문학
+  - 문집
   - 번역
 ---
 

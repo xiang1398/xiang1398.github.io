@@ -8,8 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 張融集
-  - 張融
-  - 南朝
+  - 南齊
+  - 六朝문학
   - 번역
 ---
 

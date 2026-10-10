@@ -9,7 +9,7 @@ tags:
   - Early Medieval Chinese Texts
   - 藝文類聚
   - 類書
-  - 唐代
+  - 당
   - 번역
 ---
 

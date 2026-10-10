@@ -8,8 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 荀勗集
-  - 荀勖
   - 西晉
+  - 문집
   - 번역
 ---
 

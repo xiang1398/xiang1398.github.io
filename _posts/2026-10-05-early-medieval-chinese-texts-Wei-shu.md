@@ -8,7 +8,7 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 魏書
-  - 正史
+  - 정사
   - 北魏
   - 번역
 ---

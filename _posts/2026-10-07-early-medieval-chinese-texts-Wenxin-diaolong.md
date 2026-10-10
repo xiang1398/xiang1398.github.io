@@ -8,8 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 文心雕龍
-  - 劉勰
-  - 文學批評
+  - 六朝문학
+  - 문학비평
   - 번역
 ---
 

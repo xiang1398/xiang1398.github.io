@@ -8,8 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 庾信集
-  - 庾信
   - 六朝문학
+  - 北朝
   - 번역
 ---
 

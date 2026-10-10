@@ -9,7 +9,7 @@ tags:
   - Early Medieval Chinese Texts
   - 鄴中記
   - 十六國
-  - 史料
+  - 역사서
   - 번역
 ---
 

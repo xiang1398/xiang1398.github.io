@@ -8,8 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 魏文帝集
-  - 曹丕
-  - 魏晉문학
+  - 建安文學
+  - 위진문학
   - 번역
 ---
 
