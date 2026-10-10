@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Early Medieval Chinese Texts 091: 張華集"
+title: "Early Medieval Chinese Texts 091: Zhang Hua ji 《張華集》"
 date: 2026-10-10 00:00:00 +0900
 categories:
   - Translations
@@ -20,7 +20,7 @@ tags:
   <a href="{{ page.url | absolute_url }}">{{ page.url | absolute_url }}</a>
 </p>
 
-## 張華集
+## Zhang Hua ji 張華集
 
 *이 번역문은 ChatGPT를 활용하여 기계번역한 뒤 편집·교정한 것입니다.*
 
