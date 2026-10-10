@@ -8,6 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 太平御覽
+  - 類書
+  - 文獻學
   - 번역
 ---
 

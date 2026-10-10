@@ -8,6 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 文選
+  - 蕭統
+  - 文學總集
   - 번역
 ---
 

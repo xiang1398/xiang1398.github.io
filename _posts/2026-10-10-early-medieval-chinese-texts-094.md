@@ -8,6 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 左思集
+  - 左思
+  - 西晉
   - 번역
 ---
 

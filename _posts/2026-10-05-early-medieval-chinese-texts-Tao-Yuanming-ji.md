@@ -8,6 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 陶淵明集
+  - 陶淵明
+  - 六朝문학
   - 번역
 ---
 

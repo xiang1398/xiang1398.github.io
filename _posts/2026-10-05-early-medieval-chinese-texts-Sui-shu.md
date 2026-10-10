@@ -8,6 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 隋書
+  - 正史
+  - 隋唐史
   - 번역
 ---
 

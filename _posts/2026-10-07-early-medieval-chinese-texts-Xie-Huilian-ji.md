@@ -8,6 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 謝惠連集
+  - 謝惠連
+  - 六朝문학
   - 번역
 ---
 

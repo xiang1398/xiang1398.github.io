@@ -8,6 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 續高僧傳
+  - 道宣
+  - 佛教
   - 번역
 ---
 

@@ -8,6 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 孫綽集
+  - 孫綽
+  - 東晉文學
   - 번역
 ---
 

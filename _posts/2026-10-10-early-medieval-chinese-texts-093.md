@@ -8,6 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 周書
+  - 正史
+  - 北周
   - 번역
 ---
 

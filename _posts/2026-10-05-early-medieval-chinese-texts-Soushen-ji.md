@@ -8,6 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 搜神記
+  - 干寶
+  - 志怪小說
   - 번역
 ---
 

@@ -8,6 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 吳均集
+  - 吳均
+  - 六朝문학
   - 번역
 ---
 

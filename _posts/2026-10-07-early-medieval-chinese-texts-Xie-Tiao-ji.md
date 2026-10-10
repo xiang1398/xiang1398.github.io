@@ -8,6 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 謝朓集
+  - 謝朓
+  - 永明體
   - 번역
 ---
 

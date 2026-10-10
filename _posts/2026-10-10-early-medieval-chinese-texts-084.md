@@ -8,6 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 藝文類聚
+  - 類書
+  - 唐代
   - 번역
 ---
 

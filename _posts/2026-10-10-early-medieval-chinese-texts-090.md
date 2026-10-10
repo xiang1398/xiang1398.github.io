@@ -8,6 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 玉燭寶典
+  - 歲時
+  - 類書
   - 번역
 ---
 

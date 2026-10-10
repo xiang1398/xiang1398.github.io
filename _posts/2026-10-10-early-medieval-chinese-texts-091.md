@@ -8,6 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 張華集
+  - 張華
+  - 西晉
   - 번역
 ---
 

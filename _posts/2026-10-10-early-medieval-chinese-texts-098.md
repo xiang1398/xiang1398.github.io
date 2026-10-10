@@ -8,6 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 부록 IV: 正史의 텍스트 전승
+  - 正史
+  - 문헌전승
   - 번역
 ---
 

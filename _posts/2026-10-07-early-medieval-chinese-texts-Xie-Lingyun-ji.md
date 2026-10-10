@@ -8,6 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 謝靈運集
+  - 謝靈運
+  - 山水詩
   - 번역
 ---
 

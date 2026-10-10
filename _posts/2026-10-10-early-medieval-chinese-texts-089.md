@@ -8,6 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 玉臺新詠
+  - 六朝문학
+  - 文學總集
   - 번역
 ---
 

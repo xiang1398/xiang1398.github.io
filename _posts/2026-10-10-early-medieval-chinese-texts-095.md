@@ -8,6 +8,8 @@ series: Early Medieval Chinese Texts
 tags:
   - Early Medieval Chinese Texts
   - 이명 상호 참조
+  - 서지학
+  - 이명
   - 번역
 ---
 
