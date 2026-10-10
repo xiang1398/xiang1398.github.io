@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Early Medieval Chinese Texts 096: Appendix II 《주요 문학 장르》"
-date: 2026-10-10 00:00:00 +0900
+date: 2026-10-10 20:16:00 +0900
 categories:
   - Translations
 series: Early Medieval Chinese Texts
