@@ -20,7 +20,6 @@ tags:
   <a href="{{ page.url | absolute_url }}">{{ page.url | absolute_url }}</a>
 </p>
 
-
 ## Yuzhu baodian 玉燭寶典
 
 *이 번역문은 ChatGPT를 활용하여 기계번역한 뒤 편집·교정한 것입니다.*
