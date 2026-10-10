@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Early Medieval Chinese Texts 097: Appendix III 《자주 인용되는 자료와 총서》"
-date: 2026-10-10 00:00:00 +0900
+date: 2026-10-10 20:17:00 +0900
 categories:
   - Translations
 series: Early Medieval Chinese Texts
